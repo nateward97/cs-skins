@@ -19509,7 +19509,7 @@
         "min_float": 0,
         "max_float": 0.4,
         "rarity": "Contraband",
-        "stattrak": false,
+        "stattrak": true,
         "souvenir": false,
         "paint_index": "309",
         "wears": [
