@@ -1044,23 +1044,6 @@
         ],
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_cu_deagle_kitch_light_large.0df9b5246d27786b413642f5fc959f37d8892c3a.png"
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     {
         "id": "skin-131184",
         "name": "Dual Berettas | Anodized Navy",
@@ -2104,24 +2087,6 @@
         ],
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_cu_dual_elites_evil_flora_light_large.3afd7e8e7cf008e4b38a206b79adae3b9d0d7757.png"
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     {
         "id": "skin-196620",
         "name": "Five-SeveN | Candy Apple",
@@ -3229,18 +3194,6 @@
         ],
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_cu_fiveseven_alpha_omega_light_large.698d00d53621c1b2358655aaff4f729bc0ed6300.png"
     },
-
-
-
-
-
-
-
-
-
-
-
-
     {
         "id": "skin-262152",
         "name": "Glock-18 | Groundwater",
@@ -3328,7 +3281,7 @@
         "max_float": 0.3,
         "rarity": "Mil-Spec Grade",
         "stattrak": false,
-        "souvenir": false,
+        "souvenir": true,
         "paint_index": "3",
         "wears": [
             "Factory New",
@@ -4649,23 +4602,6 @@
         ],
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_cu_glock_ramzes_light_large.86da273a88db7c8d0231e03a45cd94929efeb1ff.png"
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     {
         "id": "skin-3997796",
         "name": "USP-S | Forest Leaves",
@@ -5754,22 +5690,6 @@
         ],
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_gs_usps_tactical_camo_light_large.ff54560941a8f50919ea6be8126490aff54ae810.png"
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     {
         "id": "skin-4128816",
         "name": "CZ75-Auto | Crimson Web",
@@ -6748,24 +6668,6 @@
         ],
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_hy_vertigoillusion_light_large.1e2ff66fbdd2d5aea56659a7ede1cc3fd570f00d.png"
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     {
         "id": "skin-4194352",
         "name": "R8 Revolver | Crimson Web",
@@ -7415,20 +7317,6 @@
         ],
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_revolver_gs_revolver_acanthus_bronze_light_large.3d652732f4082f2af2acce48c2343d2fd73bdcae.png"
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     {
         "id": "skin-1966088",
         "name": "Tec-9 | Groundwater",
@@ -8636,24 +8524,6 @@
         ],
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_tec9_cu_tec9_mummy_light_large.b70be5ec031a0538fe3e7b42d0a21d1cebe869e1.png"
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     {
         "id": "skin-2097236",
         "name": "P2000 | Granite Marbleized",
@@ -9588,17 +9458,6 @@
         ],
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_cu_p2000_decline_light_large.7f57145674a5e41b3b8e7fe70be4ffbb57ec6f84.png"
     },
-
-
-
-
-
-
-
-
-
-
-
     {
         "id": "skin-2359356",
         "name": "P250 | Gunsmoke",

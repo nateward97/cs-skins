@@ -389,7 +389,7 @@
         "min_float": 0,
         "max_float": 0.4,
         "rarity": "Contraband",
-        "stattrak": false,
+        "stattrak": true,
         "souvenir": false,
         "paint_index": "309",
         "wears": [
@@ -1195,22 +1195,6 @@
         ],
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_gs_m4a4_ra_light_large.7531ec73ee20dac93f068342616599e4808fb850.png"
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     {
         "id": "skin-3932400",
         "name": "M4A1-S | Dark Water",
@@ -2295,13 +2279,6 @@
         ],
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_gs_m4a1s_milspec_light_large.abf3dbeb994944b3182cc60c50d3a729f47c1979.png"
     },
-
-
-
-
-
-
-
     {
         "id": "skin-589944",
         "name": "AWP | Snake Camo",
@@ -3455,24 +3432,6 @@
         ],
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_gs_awp_strone_light_large.f6a8a693f8bcdd89436549db6079bb5f102c9616.png"
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     {
         "id": "skin-458808",
         "name": "AK-47 | Red Laminate",
@@ -4780,25 +4739,6 @@
         ],
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_gs_ak47_strone_light_large.8434d6be7fa076ce41c86eb5ea00efe9383800c6.png"
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     {
         "id": "skin-852272",
         "name": "Galil AR | Winter Forest",
@@ -5822,27 +5762,6 @@
         ],
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_cu_galil_destroyer_light_large.00308096b32ca8c6252ed241878ca1ec5e743c36.png"
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     {
         "id": "skin-524324",
         "name": "AUG | Bengal Tiger",
@@ -6970,21 +6889,6 @@
         ],
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_aug_hy_dune_trap_light_large.61e49e32c50c4a984fec89ec01defd789ae42376.png"
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     {
         "id": "skin-655448",
         "name": "FAMAS | Contrast Spray",
@@ -7937,20 +7841,6 @@
         ],
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_cu_famas_holo_ocean_light_large.e9efee74629f50aab0110ae3fc6a07aabac679e0.png"
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     {
         "id": "skin-720920",
         "name": "G3SG1 | Arctic Camo",
@@ -8831,24 +8721,6 @@
         ],
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_g3sg1_cu_g3sg1_glade_light_large.93e176857183136f472c81b75331929d7b51d3ad.png"
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     {
         "id": "skin-2490552",
         "name": "SCAR-20 | Contractor",
@@ -9641,16 +9513,6 @@
         ],
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_scar20_gs_scar_fragments_black_light_large.d6bde287b06ba2380ba07621a0b06c36b13c4025.png"
     },
-
-
-
-
-
-
-
-
-
-
     {
         "id": "skin-2556016",
         "name": "SG 553 | Anodized Navy",
@@ -10744,34 +10606,6 @@
         ],
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_cu_sg553_cyberforce_light_large.63aa4e611195d801eb706ac65d38df68f98e2b76.png"
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     {
         "id": "skin-2621544",
         "name": "SSG 08 | Lichen Dashed",
