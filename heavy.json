@@ -10,7 +10,7 @@
         "max_float": 1,
         "rarity": "Industrial Grade",
         "stattrak": false,
-        "souvenir": false,
+        "souvenir": true,
         "paint_index": "42",
         "wears": [
             "Factory New",
@@ -56,7 +56,7 @@
         "max_float": 0.8,
         "rarity": "Consumer Grade",
         "stattrak": false,
-        "souvenir": false,
+        "souvenir": true,
         "paint_index": "96",
         "wears": [
             "Factory New",
@@ -301,7 +301,7 @@
         "max_float": 0.6,
         "rarity": "Industrial Grade",
         "stattrak": false,
-        "souvenir": false,
+        "souvenir": true,
         "paint_index": "240",
         "wears": [
             "Factory New",
@@ -1073,23 +1073,6 @@
         ],
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_xm1014_cu_xm1014_pharaoh_light_large.dd51bfb65f740dd4145fb548ef9be0a353f82766.png"
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     {
         "id": "skin-1900564",
         "name": "Sawed-Off | Forest DDPAT",
@@ -1477,7 +1460,7 @@
         "max_float": 0.6,
         "rarity": "Mil-Spec Grade",
         "stattrak": false,
-        "souvenir": false,
+        "souvenir": true,
         "paint_index": "250",
         "wears": [
             "Factory New",
@@ -2146,22 +2129,6 @@
         ],
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sawedoff_cu_sawedoff_kisslove_light_large.55dc07f073e8c5ce65f21e4fb5957625db7ba266.png"
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     {
         "id": "skin-2293772",
         "name": "Nova | Candy Apple",
@@ -2173,7 +2140,7 @@
         "max_float": 0.3,
         "rarity": "Industrial Grade",
         "stattrak": false,
-        "souvenir": false,
+        "souvenir": true,
         "paint_index": "3",
         "wears": [
             "Factory New",
@@ -2245,7 +2212,7 @@
         "max_float": 0.8,
         "rarity": "Consumer Grade",
         "stattrak": false,
-        "souvenir": false,
+        "souvenir": true,
         "paint_index": "99",
         "wears": [
             "Factory New",
@@ -3299,19 +3266,6 @@
         ],
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_gs_nova_sobek_light_large.53046ae2482691e0c1ba90de50698f875294a737.png"
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
     {
         "id": "skin-1769600",
         "name": "MAG-7 | Silver",
@@ -4505,26 +4459,6 @@
         ],
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mag7_gs_mag7_goold_light_large.293c06a3f62ce9dfb177f79462fbb7b31bd5eb9f.png"
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     {
         "id": "skin-1835120",
         "name": "Negev | Anodized Navy",
@@ -5228,21 +5162,6 @@
         ],
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_negev_cu_negev_clear_sky_light_large.fc6f06d0f44e71207660f44b9b56021ce42a7e46.png"
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     {
         "id": "skin-917592",
         "name": "M249 | Contrast Spray",
