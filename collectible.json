@@ -1221,7 +1221,7 @@
         "description": "Awarded for outstanding service and achievement in 2016.",
         "rarity": null,
         "type": "Service Medal",
-        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/service_medal_2016_lvl1_large.2dabe9584a18a843e8e64a5b5ae6e78b792f2823.png"
+        "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fVOG_wcbQVmJ5IABWuoX3e1Y27P_efWwM74rhl4HblKX2MLqClz1XuZwijLCVpd6t3FW3-RFkNTz1LYGccQc_MkaQpAaz3mGjMg/96fx96f?allow_animated=1"
     },
     "collectible-1340": {
         "id": "collectible-1340",
@@ -1229,7 +1229,7 @@
         "description": "Awarded for outstanding service and achievement in 2016.",
         "rarity": null,
         "type": "Service Medal",
-        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/service_medal_2016_lvl2_large.113667efbc19c5f236527ed91490680a55a42952.png"
+        "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fVOG_wcbQVmJ5IABWuoX3e1Y27P_efW8M6t-3xtDfwvXwNeLSlTpTvsEni7vF94-njQCyqkY5ZmqhLIfEJlJrNUaQpAY-L24YGQ/96fx96f?allow_animated=1"
     },
     "collectible-1341": {
         "id": "collectible-1341",
@@ -1237,7 +1237,7 @@
         "description": "Awarded for outstanding service and achievement in 2016.",
         "rarity": null,
         "type": "Service Medal",
-        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/service_medal_2016_lvl3_large.0cf4db6649dcea51f472dac87d9cb5f45e2425a4.png"
+        "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fVOG_wcbQVmJ5IABWuoX3e1Y27P_efW4M7t6wx9nSwPatNb2FxTkDuJRz0-rEpI2gjgTjrxU-MGGiddKUcFRsaEaQpAYNXZaGGw/96fx96f?allow_animated=1"
     },
     "collectible-1342": {
         "id": "collectible-1342",
@@ -1245,7 +1245,7 @@
         "description": "Awarded for outstanding service and achievement in 2016.",
         "rarity": null,
         "type": "Service Medal",
-        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/service_medal_2016_lvl4_large.f5e3278c684d420867b39c421af42f122642f2de.png"
+        "image": "https://csprofile.com/Images/Missing_Items/service_medal_2016_lvl4.png"
     },
     "collectible-1343": {
         "id": "collectible-1343",
@@ -1253,7 +1253,7 @@
         "description": "Awarded for outstanding service and achievement in 2016.",
         "rarity": null,
         "type": "Service Medal",
-        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/service_medal_2016_lvl5_large.06fe1268f07b0c6ad65fcdc2cd600a722229f0a6.png"
+        "image": "https://csprofile.com/Images/Missing_Items/service_medal_2016_lvl5.png"
     },
     "collectible-1344": {
         "id": "collectible-1344",
@@ -1261,7 +1261,15 @@
         "description": "Awarded for outstanding service and achievement in 2016.",
         "rarity": null,
         "type": "Service Medal",
-        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/service_medal_2016_lvl6_large.fc26832c27b8c798b289cf72478abf4769d02feb.png"
+        "image": "https://csprofile.com/Images/Missing_Items/service_medal_2016_lvl5.png"
+    },
+    "collectible-1345": {
+        "id": "collectible-1344",
+        "name": "2016 Service Medal",
+        "description": "Awarded for outstanding service and achievement in 2016.",
+        "rarity": null,
+        "type": "Service Medal",
+        "image": "https://csprofile.com/Images/Missing_Items/service_medal_2016_lvl6.png"
     },
     "collectible-1352": {
         "id": "collectible-1352",
