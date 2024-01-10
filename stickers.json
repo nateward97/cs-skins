@@ -495,12 +495,14 @@
         "name": "Sticker | Titan | Katowice 2014",
         "description": null,
         "rarity": "High Grade",
+        "variant": "Paper",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/emskatowice2014/titan_large.c6594b1f3592efec6f5261228f9e5a90a45760a6.png"
     },
     "sticker-76": {
         "id": "sticker-76",
         "name": "Sticker | Titan (Holo) | Katowice 2014",
         "description": null,
+        "variant": "Holo",
         "rarity": "Remarkable",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/emskatowice2014/titan_holo_large.bfea30263342666a115079ef5eba50949eb3c301.png"
     },
