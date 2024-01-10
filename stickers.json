@@ -875,6 +875,7 @@
         "id": "sticker-122",
         "name": "Sticker | Cloud9 | Cologne 2014",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/cloud9_large.070e3cec10e6745682eb6335aa954afb5c01d318.png"
     },
@@ -882,6 +883,7 @@
         "id": "sticker-123",
         "name": "Sticker | Cloud9 (Holo) | Cologne 2014",
         "description": null,
+        "variant":"Holo",
         "rarity": "Remarkable",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/cloud9_holo_large.bedf83a7aac6416f23e50406eca8b8e95abda63b.png"
     },
@@ -889,6 +891,7 @@
         "id": "sticker-124",
         "name": "Sticker | Fnatic | Cologne 2014",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/fnatic_large.01467a5bd9a29e56bf925beabe46097e0af3fbde.png"
     },
@@ -896,6 +899,7 @@
         "id": "sticker-125",
         "name": "Sticker | Fnatic (Holo) | Cologne 2014",
         "description": null,
+        "variant":"Holo",
         "rarity": "Remarkable",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/fnatic_holo_large.e922984e6d01f9caa58caab062ab6ea266767e52.png"
     },
@@ -903,6 +907,7 @@
         "id": "sticker-126",
         "name": "Sticker | HellRaisers | Cologne 2014",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/hellraisers_large.dd6f902e44af324317a22d8d50037e442b1420cb.png"
     },
@@ -910,6 +915,7 @@
         "id": "sticker-127",
         "name": "Sticker | HellRaisers (Holo) | Cologne 2014",
         "description": null,
+        "variant":"Holo",
         "rarity": "Remarkable",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/hellraisers_holo_large.96464dda19a0506239ae84639854b4f97a476f55.png"
     },
@@ -917,6 +923,7 @@
         "id": "sticker-128",
         "name": "Sticker | Ninjas in Pyjamas | Cologne 2014",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/ninjasinpyjamas_large.844bf3d2594e179ba5ab43b8d64e8fe7ad2e74d3.png"
     },
@@ -924,6 +931,7 @@
         "id": "sticker-129",
         "name": "Sticker | Ninjas in Pyjamas (Holo) | Cologne 2014",
         "description": null,
+        "variant":"Holo",
         "rarity": "Remarkable",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/ninjasinpyjamas_holo_large.431691efac5bb3978868be56fd0517ac81e970e6.png"
     },
@@ -931,6 +939,7 @@
         "id": "sticker-130",
         "name": "Sticker | Team Dignitas | Cologne 2014",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/teamdignitas_large.af54797fe9b3dfa0c388c852ea03c7318ded5c6c.png"
     },
@@ -938,6 +947,7 @@
         "id": "sticker-131",
         "name": "Sticker | Team Dignitas (Holo) | Cologne 2014",
         "description": null,
+        "variant":"Holo",
         "rarity": "Remarkable",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/teamdignitas_holo_large.2a7869d23e6270f4093bda0e590a035dccee6068.png"
     },
@@ -945,6 +955,7 @@
         "id": "sticker-132",
         "name": "Sticker | Team LDLC.com | Cologne 2014",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/teamldlc_large.a241770921f7c86193ba2e61ca49d0133e3caa31.png"
     },
@@ -952,6 +963,7 @@
         "id": "sticker-133",
         "name": "Sticker | Team LDLC.com (Holo) | Cologne 2014",
         "description": null,
+        "variant":"Holo",
         "rarity": "Remarkable",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/teamldlc_holo_large.5a2571df1a41d7ffe501cdb2a70c98394b9ddd48.png"
     },
@@ -959,6 +971,7 @@
         "id": "sticker-134",
         "name": "Sticker | Virtus.Pro | Cologne 2014",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/virtuspro_large.b68d5cb31d464053d7b9fd173c01aba5da1433c1.png"
     },
@@ -966,6 +979,7 @@
         "id": "sticker-135",
         "name": "Sticker | Virtus.Pro (Holo) | Cologne 2014",
         "description": null,
+        "variant":"Holo",
         "rarity": "Remarkable",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/virtuspro_holo_large.e3070d21400353882061184ed68941808e954c4e.png"
     },
@@ -973,6 +987,7 @@
         "id": "sticker-136",
         "name": "Sticker | Copenhagen Wolves | Cologne 2014",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/copenhagenwolves_large.fe099e981669d7e58511655bc9437b0f8d42e8fa.png"
     },
@@ -980,6 +995,7 @@
         "id": "sticker-137",
         "name": "Sticker | Copenhagen Wolves (Holo) | Cologne 2014",
         "description": null,
+        "variant":"Holo",
         "rarity": "Remarkable",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/copenhagenwolves_holo_large.13cee37078b1f98171ad4c6f70f6f8f66f1a7635.png"
     },
@@ -987,6 +1003,7 @@
         "id": "sticker-138",
         "name": "Sticker | dAT team | Cologne 2014",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/datteam_large.63ad91c6791747694121c40bcf33497963393378.png"
     },
@@ -994,6 +1011,7 @@
         "id": "sticker-139",
         "name": "Sticker | dAT team (Holo) | Cologne 2014",
         "description": null,
+        "variant":"Holo",
         "rarity": "Remarkable",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/datteam_holo_large.e4315be3e2c8f7dafebc1b4b3fbc45d456b9e1ca.png"
     },
@@ -1001,6 +1019,7 @@
         "id": "sticker-140",
         "name": "Sticker | Epsilon eSports | Cologne 2014",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/epsilonesports_large.f998daff8021c2dbc0fd14fdf0f184ac7603a224.png"
     },
@@ -1008,6 +1027,7 @@
         "id": "sticker-141",
         "name": "Sticker | Epsilon eSports (Holo) | Cologne 2014",
         "description": null,
+        "variant":"Holo",
         "rarity": "Remarkable",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/epsilonesports_holo_large.528c18f9132762fa0fa95e79297de2a5277d3b24.png"
     },
@@ -1015,6 +1035,7 @@
         "id": "sticker-142",
         "name": "Sticker | iBUYPOWER | Cologne 2014",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/ibuypower_large.95a502a91dae038c1c7c43ac00b4dffac34dfb80.png"
     },
@@ -1022,6 +1043,7 @@
         "id": "sticker-143",
         "name": "Sticker | iBUYPOWER (Holo) | Cologne 2014",
         "description": null,
+        "variant":"Holo",
         "rarity": "Remarkable",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/ibuypower_holo_large.a96797f288e4610c070d0fce61eba103cf0c9bd5.png"
     },
@@ -1029,6 +1051,7 @@
         "id": "sticker-144",
         "name": "Sticker | London Conspiracy | Cologne 2014",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/londonconspiracy_large.35729404aa00422e52096b9a837815cba711de35.png"
     },
@@ -1036,6 +1059,7 @@
         "id": "sticker-145",
         "name": "Sticker | London Conspiracy (Holo) | Cologne 2014",
         "description": null,
+        "variant":"Holo",
         "rarity": "Remarkable",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/londonconspiracy_holo_large.e6d437983b45120961e18fa11090f0b450511360.png"
     },
@@ -1043,6 +1067,7 @@
         "id": "sticker-146",
         "name": "Sticker | Natus Vincere | Cologne 2014",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/navi_large.fd21d236b8d114cde2b3f7f257a4be111686f1ec.png"
     },
@@ -1050,6 +1075,7 @@
         "id": "sticker-147",
         "name": "Sticker | Natus Vincere (Holo) | Cologne 2014",
         "description": null,
+        "variant":"Holo",
         "rarity": "Remarkable",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/navi_holo_large.40078888d138c2c5555c563e95f7fff891f3d8de.png"
     },
@@ -1057,6 +1083,7 @@
         "id": "sticker-148",
         "name": "Sticker | Titan | Cologne 2014",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/titan_large.005904082b5177657d683275454a56042cce5794.png"
     },
@@ -1064,6 +1091,7 @@
         "id": "sticker-149",
         "name": "Sticker | Titan (Holo) | Cologne 2014",
         "description": null,
+        "variant":"Holo",
         "rarity": "Remarkable",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/titan_holo_large.57965282d2abe6169f99fa6c1365dd42c2ff6f78.png"
     },
@@ -1071,6 +1099,7 @@
         "id": "sticker-150",
         "name": "Sticker | Vox Eminor | Cologne 2014",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/voxeminor_large.9d3f6be61d413f7ba52b0354ac8fa35f87bcd5a3.png"
     },
@@ -1078,6 +1107,7 @@
         "id": "sticker-151",
         "name": "Sticker | Vox Eminor (Holo) | Cologne 2014",
         "description": null,
+        "variant":"Holo",
         "rarity": "Remarkable",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/voxeminor_holo_large.01fca47eea8de2a4cfc0e0d22a46b7460f6112af.png"
     },
@@ -1085,6 +1115,7 @@
         "id": "sticker-152",
         "name": "Sticker | MTS GameGod Wolf | Cologne 2014",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/wolf_large.eea32bebd69b3a40780ae1ce4d8be9f39b18aef4.png"
     },
@@ -1092,6 +1123,7 @@
         "id": "sticker-153",
         "name": "Sticker | MTS GameGod Wolf (Holo) | Cologne 2014",
         "description": null,
+        "variant":"Holo",
         "rarity": "Remarkable",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/wolf_holo_large.188ea6bd2f22a521dba4e9e8fc32e0621cfc4628.png"
     },
@@ -1099,6 +1131,7 @@
         "id": "sticker-154",
         "name": "Sticker | ESL One Cologne 2014 (Blue)",
         "description": null,
+        "variant":"Paper",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/esl_a_large.2a2710f6abceb6dbadf947c46a7e454d992d402a.png"
     },
@@ -1106,6 +1139,7 @@
         "id": "sticker-155",
         "name": "Sticker | ESL One Cologne 2014 (Red)",
         "description": null,
+        "variant":"Paper",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/esl_b_large.7c5dc6575f280da34d2433f95d1c15cd3ba9ba44.png"
     },
@@ -1113,6 +1147,7 @@
         "id": "sticker-156",
         "name": "Sticker | Cloud9 (Foil) | Cologne 2014",
         "description": null,
+        "variant":"Foil",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/cloud9_foil_large.0af11b570e5819f48e00a6c1ed3d50a70e19332a.png"
     },
@@ -1120,6 +1155,7 @@
         "id": "sticker-157",
         "name": "Sticker | Fnatic (Foil) | Cologne 2014",
         "description": null,
+        "variant":"Foil",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/fnatic_foil_large.87d31abd4894c0c7b794fd28e7bae11c1d92f797.png"
     },
@@ -1127,6 +1163,7 @@
         "id": "sticker-158",
         "name": "Sticker | HellRaisers (Foil) | Cologne 2014",
         "description": null,
+        "variant":"Foil",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/hellraisers_foil_large.a1823256823e3d57ccafc9d5848ec1b30c8710ec.png"
     },
@@ -1134,6 +1171,7 @@
         "id": "sticker-159",
         "name": "Sticker | Ninjas in Pyjamas (Foil) | Cologne 2014",
         "description": null,
+        "variant":"Foil",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/ninjasinpyjamas_foil_large.104b4df8ab892fcb25501517971072da6666e063.png"
     },
@@ -1141,6 +1179,7 @@
         "id": "sticker-160",
         "name": "Sticker | Team Dignitas (Foil) | Cologne 2014",
         "description": null,
+        "variant":"Foil",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/teamdignitas_foil_large.d28c90d7418c30a79423a9c4cb45461a72c86be0.png"
     },
@@ -1148,6 +1187,7 @@
         "id": "sticker-161",
         "name": "Sticker | Team LDLC.com (Foil) | Cologne 2014",
         "description": null,
+        "variant":"Foil",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/teamldlc_foil_large.62bc308b980348525a92a7b38ffec3091861afcf.png"
     },
@@ -1155,6 +1195,7 @@
         "id": "sticker-162",
         "name": "Sticker | Virtus.Pro (Foil) | Cologne 2014",
         "description": null,
+        "variant":"Foil",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/virtuspro_foil_large.a82440c1d4aa3c55dd3b894e117793d8e696e63c.png"
     },
@@ -1162,6 +1203,7 @@
         "id": "sticker-163",
         "name": "Sticker | Copenhagen Wolves (Foil) | Cologne 2014",
         "description": null,
+        "variant":"Foil",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/copenhagenwolves_foil_large.5560f02e270ebb8faf73b690e9b3368e26eb9827.png"
     },
@@ -1169,6 +1211,7 @@
         "id": "sticker-164",
         "name": "Sticker | dAT team (Foil) | Cologne 2014",
         "description": null,
+        "variant":"Foil",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/datteam_foil_large.0fb7e83b089bb2bd71693721a313d11e25c24fb4.png"
     },
@@ -1176,6 +1219,7 @@
         "id": "sticker-165",
         "name": "Sticker | Epsilon eSports (Foil) | Cologne 2014",
         "description": null,
+        "variant":"Foil",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/epsilonesports_foil_large.ff5fefdc776d2fa45d4fa54837a5bdeb5199f302.png"
     },
@@ -1183,6 +1227,7 @@
         "id": "sticker-166",
         "name": "Sticker | iBUYPOWER (Foil) | Cologne 2014",
         "description": null,
+        "variant":"Foil",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/ibuypower_foil_large.d8ea292be61f2245bbb7d273e0868db5e7a27b3d.png"
     },
@@ -1190,6 +1235,7 @@
         "id": "sticker-167",
         "name": "Sticker | London Conspiracy (Foil) | Cologne 2014",
         "description": null,
+        "variant":"Foil",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/londonconspiracy_foil_large.1bd826b35c7562d2edd6abe04179bac74e77961e.png"
     },
@@ -1197,6 +1243,7 @@
         "id": "sticker-168",
         "name": "Sticker | Natus Vincere (Foil) | Cologne 2014",
         "description": null,
+        "variant":"Foil",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/navi_foil_large.93719ac04cef596e7f65f872ac7cde80966dba1e.png"
     },
@@ -1204,6 +1251,7 @@
         "id": "sticker-169",
         "name": "Sticker | Titan (Foil) | Cologne 2014",
         "description": null,
+        "variant":"Foil",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/titan_foil_large.e8f4051c966538c77b3fb40af517a8263f00e131.png"
     },
@@ -1211,6 +1259,7 @@
         "id": "sticker-170",
         "name": "Sticker | Vox Eminor (Foil) | Cologne 2014",
         "description": null,
+        "variant":"Foil",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/voxeminor_foil_large.3a780600bc64051f911ddb83de74ac255dbfa241.png"
     },
@@ -1218,6 +1267,7 @@
         "id": "sticker-171",
         "name": "Sticker | MTS GameGod Wolf (Foil) | Cologne 2014",
         "description": null,
+        "variant":"Foil",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/wolf_foil_large.035c1fa4cf8ca3bd85a55bf97b763d4dbd1c3aa1.png"
     },
