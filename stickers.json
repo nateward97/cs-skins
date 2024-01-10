@@ -1458,6 +1458,7 @@
         "id": "sticker-198",
         "name": "Sticker | Fnatic | DreamHack 2014",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/fnatic_large.341e4130694509f10480111791ff42cdef73b585.png"
     },
@@ -1465,6 +1466,7 @@
         "id": "sticker-199",
         "name": "Sticker | Fnatic (Holo) | DreamHack 2014",
         "description": null,
+        "variant":"Holo",
         "rarity": "Remarkable",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/fnatic_holo_large.7993583b1bbc256a3f49d5da1d2549cb6df7587b.png"
     },
@@ -1472,6 +1474,7 @@
         "id": "sticker-200",
         "name": "Sticker | Fnatic (Foil) | DreamHack 2014",
         "description": null,
+        "variant":"Foil",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/fnatic_foil_large.f1dc73e7e9aa14ae35e285a39aaedf07d3bc6290.png"
     },
@@ -1479,6 +1482,7 @@
         "id": "sticker-201",
         "name": "Sticker | Cloud9 | DreamHack 2014",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/cloud9_large.09729c21f58cf48dc8cbd2ea25cb9c938211d587.png"
     },
@@ -1486,6 +1490,7 @@
         "id": "sticker-202",
         "name": "Sticker | Cloud9 (Holo) | DreamHack 2014",
         "description": null,
+        "variant":"Holo",
         "rarity": "Remarkable",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/cloud9_holo_large.b2afe2ad728d01e9dedbab006233892e231c1fbc.png"
     },
@@ -1493,6 +1498,7 @@
         "id": "sticker-203",
         "name": "Sticker | Cloud9 (Foil) | DreamHack 2014",
         "description": null,
+        "variant":"Foil",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/cloud9_foil_large.ae1b694b2bc20bdc4a8d4baa79c6a7c8be6e5447.png"
     },
@@ -1500,6 +1506,7 @@
         "id": "sticker-207",
         "name": "Sticker | Virtus.Pro | DreamHack 2014",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/virtuspro_large.3f54f2b45ab69b3830f2941855b37362a7c756c7.png"
     },
@@ -1507,6 +1514,7 @@
         "id": "sticker-208",
         "name": "Sticker | Virtus.Pro (Holo) | DreamHack 2014",
         "description": null,
+        "variant":"Holo",
         "rarity": "Remarkable",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/virtuspro_holo_large.f1061786999e75327301ca0e04664893cb7710b2.png"
     },
@@ -1514,6 +1522,7 @@
         "id": "sticker-209",
         "name": "Sticker | Virtus.Pro (Foil) | DreamHack 2014",
         "description": null,
+        "variant":"Foil",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/virtuspro_foil_large.9129a74bceaee223e9d7d270b10c5be564768de7.png"
     },
@@ -1521,6 +1530,7 @@
         "id": "sticker-210",
         "name": "Sticker | Ninjas in Pyjamas | DreamHack 2014",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/ninjasinpyjamas_large.aaa876adaee626de2c090d2eaefd7a102ea3e21d.png"
     },
@@ -1528,6 +1538,7 @@
         "id": "sticker-211",
         "name": "Sticker | Ninjas in Pyjamas (Holo) | DreamHack 2014",
         "description": null,
+        "variant":"Holo",
         "rarity": "Remarkable",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/ninjasinpyjamas_holo_large.a9d3b3c443676367ad34102fd6768ca531b518cb.png"
     },
@@ -1535,6 +1546,7 @@
         "id": "sticker-212",
         "name": "Sticker | Ninjas in Pyjamas (Foil) | DreamHack 2014",
         "description": null,
+        "variant":"Foil",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/ninjasinpyjamas_foil_large.648505285072c358917535208fbc36da3ebaee08.png"
     },
@@ -1542,6 +1554,7 @@
         "id": "sticker-213",
         "name": "Sticker | Natus Vincere | DreamHack 2014",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/navi_large.3f406c283c73c0e394f859a7c9fe82b125b0b0e6.png"
     },
@@ -1549,6 +1562,7 @@
         "id": "sticker-214",
         "name": "Sticker | Natus Vincere (Holo) | DreamHack 2014",
         "description": null,
+        "variant":"Holo",
         "rarity": "Remarkable",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/navi_holo_large.6c05ad9ac4dec0ae58c9f87b03d820f4a1fe7b7b.png"
     },
@@ -1556,6 +1570,7 @@
         "id": "sticker-215",
         "name": "Sticker | Natus Vincere (Foil) | DreamHack 2014",
         "description": null,
+        "variant":"Foil",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/navi_foil_large.e96ad031c7a5e77b79b7bbe211f3e49886679823.png"
     },
@@ -1563,6 +1578,7 @@
         "id": "sticker-219",
         "name": "Sticker | Team Dignitas | DreamHack 2014",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/dignitas_large.bc7c4602e33c314a2c5336d197a393edf250e8e7.png"
     },
@@ -1570,6 +1586,7 @@
         "id": "sticker-220",
         "name": "Sticker | Team Dignitas (Holo) | DreamHack 2014",
         "description": null,
+        "variant":"Holo",
         "rarity": "Remarkable",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/dignitas_holo_large.58e400c9a157a6d449f585ad55466eb9cfe12a9d.png"
     },
@@ -1577,6 +1594,7 @@
         "id": "sticker-221",
         "name": "Sticker | Team Dignitas (Foil) | DreamHack 2014",
         "description": null,
+        "variant":"Foil",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/dignitas_foil_large.5f19c3c1940c35fe5fc4de064a666d61f8ca3722.png"
     },
@@ -1584,6 +1602,7 @@
         "id": "sticker-222",
         "name": "Sticker | Bravado Gaming | DreamHack 2014",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/bravadogaming_large.502768f3a37eabc8e227f35300ebe4f50e30acd1.png"
     },
@@ -1591,6 +1610,7 @@
         "id": "sticker-223",
         "name": "Sticker | ESC Gaming | DreamHack 2014",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/escgaming_large.ce8418ad193e27b867b5ebcad15b131e37db4491.png"
     },
@@ -1598,6 +1618,7 @@
         "id": "sticker-224",
         "name": "Sticker | HellRaisers | DreamHack 2014",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/hellraisers_large.909a85109977d63ffc2c46a05409026657fdde6e.png"
     },
@@ -1605,6 +1626,7 @@
         "id": "sticker-225",
         "name": "Sticker | iBUYPOWER | DreamHack 2014",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/ibuypower_large.436eab1f9a65109c260b2b718e57d3028a00ba83.png"
     },
@@ -1612,6 +1634,7 @@
         "id": "sticker-226",
         "name": "Sticker | PENTA Sports | DreamHack 2014",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/pentasports_large.e1056a880b5071e5ef6ac74b307edf93041065ed.png"
     },
@@ -1619,6 +1642,7 @@
         "id": "sticker-227",
         "name": "Sticker | Planetkey Dynamics | DreamHack 2014",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/planetkeydynamics_large.33f51a8cb0edd49ee5d8411191037685b4832320.png"
     },
@@ -1626,6 +1650,7 @@
         "id": "sticker-228",
         "name": "Sticker | Team LDLC.com | DreamHack 2014",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/teamldlc_large.e07013d978d6f91f8e20b2401085dfdd73032ff8.png"
     },
@@ -1633,6 +1658,7 @@
         "id": "sticker-229",
         "name": "Sticker | myXMG | DreamHack 2014",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/myxmg_large.64006519d172306cf1bbb404b446351241fdaec6.png"
     },
@@ -1640,6 +1666,7 @@
         "id": "sticker-230",
         "name": "Sticker | DreamHack Winter 2014",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/dreamhackwinter2014_large.44a3ae4ec611d0cc81bba7a6368cd26257cc5288.png"
     },
@@ -1647,6 +1674,7 @@
         "id": "sticker-231",
         "name": "Sticker | DreamHack Winter 2014 (Foil)",
         "description": null,
+        "variant":"Paper",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/dreamhackwinter2014_foil_large.eec7c4354460e2654e1a1267468f85ed18bffc6f.png"
     },
@@ -1654,6 +1682,7 @@
         "id": "sticker-232",
         "name": "Sticker | 3DMAX | DreamHack 2014",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/3dmax_large.fa11e39140200f3c441fc7e0fb0b9ce893918169.png"
     },
@@ -1661,6 +1690,7 @@
         "id": "sticker-233",
         "name": "Sticker | Copenhagen Wolves | DreamHack 2014",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/copenhagenwolves_large.32935def21beead765167a528d65137bc4fabc82.png"
     },
@@ -1668,6 +1698,7 @@
         "id": "sticker-234",
         "name": "Sticker | dAT team | DreamHack 2014",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/datteam_large.d2a656a7d09c14a4a6e67e524aed0c3d194c20fb.png"
     },
@@ -1675,6 +1706,7 @@
         "id": "sticker-235",
         "name": "Sticker | London Conspiracy | DreamHack 2014",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/londonconspiracy_large.39b6be0a1f1605efc103975636b064290715fff5.png"
     },
@@ -1682,6 +1714,7 @@
         "id": "sticker-236",
         "name": "Sticker | mousesports | DreamHack 2014",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/mousesports_large.c344d7ad5338f077af1923efce5f78fd8de3013b.png"
     },
@@ -1729,6 +1762,7 @@
         "id": "sticker-242",
         "name": "Sticker | null",
         "description": null,
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/dignitas_gold_large.6a4074695e9a0ae7d58e5c8963335239391feec7.png"
     },
@@ -1832,6 +1866,7 @@
         "id": "sticker-255",
         "name": "Sticker | Virtus.Pro (Gold) | DreamHack 2014",
         "description": null,
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/virtuspro_gold_large.6a15d7b5c192d1585ea346e741029949c134de94.png"
     },
@@ -1839,6 +1874,7 @@
         "id": "sticker-256",
         "name": "Sticker | Flipsid3 Tactics | DreamHack 2014",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/flipsid3_large.c221f04f9e5019b0d604d103438ec7002b5d8d43.png"
     },
