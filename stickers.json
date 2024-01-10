@@ -1225,6 +1225,7 @@
         "id": "sticker-172",
         "name": "Sticker | ESL One Cologne 2014 (Gold)",
         "description": null,
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/esl_c_large.10931e51b1bc7dbfa327168a517ce74337f9092c.png"
     },
@@ -1638,6 +1639,7 @@
         "id": "sticker-237",
         "name": "Sticker | 3DMAX (Gold) | DreamHack 2014",
         "description": null,
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/3dmax_gold_large.5a176d668686ec568a8e8c4afbeaf9b48fb7f9ce.png"
     },
@@ -1645,6 +1647,7 @@
         "id": "sticker-238",
         "name": "Sticker | Bravado Gaming (Gold) | DreamHack 2014",
         "description": null,
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/bravadogaming_gold_large.3e70fcc37f90825e391d4bb6fcf5905edeebd757.png"
     },
@@ -1652,6 +1655,7 @@
         "id": "sticker-239",
         "name": "Sticker | Cloud9 (Gold) | DreamHack 2014",
         "description": null,
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/cloud9_gold_large.047e6bfeaafa399a7d07f6115ce537d104208d75.png"
     },
@@ -1659,6 +1663,7 @@
         "id": "sticker-240",
         "name": "Sticker | Copenhagen Wolves (Gold) | DreamHack 2014",
         "description": null,
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/copenhagenwolves_gold_large.594ac0c935ddb0b166861555df609f8f3c44d419.png"
     },
@@ -1666,6 +1671,7 @@
         "id": "sticker-241",
         "name": "Sticker | dAT team (Gold) | DreamHack 2014",
         "description": null,
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/datteam_gold_large.b31ec4c979a6ae2aeeb73dd79bb94a1a17c5014e.png"
     },
@@ -1680,6 +1686,7 @@
         "id": "sticker-243",
         "name": "Sticker | ESC Gaming (Gold) | DreamHack 2014",
         "description": null,
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/escgaming_gold_large.fbff835bcd10cda0d1e6b375133dc9a867403d00.png"
     },
@@ -1687,6 +1694,7 @@
         "id": "sticker-244",
         "name": "Sticker | Fnatic (Gold) | DreamHack 2014",
         "description": null,
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/fnatic_gold_large.b3aa16e8b6cb8b36c19c15a5215a32cef355af33.png"
     },
@@ -1694,6 +1702,7 @@
         "id": "sticker-245",
         "name": "Sticker | HellRaisers (Gold) | DreamHack 2014",
         "description": null,
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/hellraisers_gold_large.77a54ff9a61162624ad15fdb55b995c0ea97e621.png"
     },
@@ -1701,6 +1710,7 @@
         "id": "sticker-246",
         "name": "Sticker | iBUYPOWER (Gold) | DreamHack 2014",
         "description": null,
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/ibuypower_gold_large.293e2823f8ab656df3e4ec598bb54943d327b866.png"
     },
@@ -1708,6 +1718,7 @@
         "id": "sticker-247",
         "name": "Sticker | London Conspiracy (Gold) | DreamHack 2014",
         "description": null,
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/londonconspiracy_gold_large.d78d5a07b26ac7f81d84b15232aceb30866e2bd9.png"
     },
@@ -1715,6 +1726,7 @@
         "id": "sticker-248",
         "name": "Sticker | mousesports (Gold) | DreamHack 2014",
         "description": null,
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/mousesports_gold_large.54a9e7144daa770d0d9f7bcd5a8229bb1a6a5007.png"
     },
@@ -1722,6 +1734,7 @@
         "id": "sticker-249",
         "name": "Sticker | myXMG (Gold) | DreamHack 2014",
         "description": null,
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/myxmg_gold_large.0d8fe13b80dbee456b36c0049e7324193c7a7428.png"
     },
@@ -1729,6 +1742,7 @@
         "id": "sticker-250",
         "name": "Sticker | Natus Vincere (Gold) | DreamHack 2014",
         "description": null,
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/navi_gold_large.5e49c0371e5b27196e9689c0217aa992e2854b05.png"
     },
@@ -1736,6 +1750,7 @@
         "id": "sticker-251",
         "name": "Sticker | Ninjas in Pyjamas (Gold) | DreamHack 2014",
         "description": null,
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/ninjasinpyjamas_gold_large.61a7582df4921f41651ba8fce3d3f202207f02c3.png"
     },
@@ -1743,6 +1758,7 @@
         "id": "sticker-252",
         "name": "Sticker | PENTA Sports (Gold) | DreamHack 2014",
         "description": null,
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/pentasports_gold_large.56f5bc853c4f4c7e86178a01bc12deeaef96bfd5.png"
     },
@@ -1750,6 +1766,7 @@
         "id": "sticker-253",
         "name": "Sticker | Planetkey Dynamics (Gold) | DreamHack 2014",
         "description": null,
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/planetkeydynamics_gold_large.59f04c3591dc15b0b299d31113a8e40d2883e9e4.png"
     },
@@ -1757,6 +1774,7 @@
         "id": "sticker-254",
         "name": "Sticker | Team LDLC.com (Gold) | DreamHack 2014",
         "description": null,
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/teamldlc_gold_large.9e40b4b5db98d308c478dae4dbfc32a125c25f62.png"
     },
@@ -1778,6 +1796,7 @@
         "id": "sticker-257",
         "name": "Sticker | Flipsid3 Tactics (Gold) | DreamHack 2014",
         "description": null,
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/flipsid3_gold_large.16d167b9a54b51971fda12cbe2df33b82a85f668.png"
     },
@@ -1995,6 +2014,7 @@
         "id": "sticker-289",
         "name": "Sticker | 3DMAX (Gold) | Katowice 2015",
         "description": null,
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/3dmax_gold_large.e35e0d73e69768e6d1a59d4e8679af49f6453644.png"
     },
@@ -2023,6 +2043,7 @@
         "id": "sticker-293",
         "name": "Sticker | Cloud9 G2A (Gold) | Katowice 2015",
         "description": null,
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/cloud9_gold_large.04bcdb64ca9690d67f015534ee32cc682559cd0e.png"
     },
@@ -2051,6 +2072,7 @@
         "id": "sticker-297",
         "name": "Sticker | Counter Logic Gaming (Gold) | Katowice 2015",
         "description": null,
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/counterlogic_gold_large.7825a6de688545d643afe9e7981530f33a6ad794.png"
     },
@@ -2065,6 +2087,7 @@
         "id": "sticker-301",
         "name": "Sticker | ESL One (Gold) | Katowice 2015",
         "description": null,
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/esl_a_gold_large.edfc006ef6e5657b089cb8e6e0e80239e7851ec2.png"
     },
@@ -2093,6 +2116,7 @@
         "id": "sticker-305",
         "name": "Sticker | Flipsid3 Tactics (Gold) | Katowice 2015",
         "description": null,
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/flipsid3_gold_large.613ea88f376608f9357eb45d9de24a0acf249846.png"
     },
@@ -2121,6 +2145,7 @@
         "id": "sticker-309",
         "name": "Sticker | Fnatic (Gold) | Katowice 2015",
         "description": null,
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/fnatic_gold_large.d791357cb2e3944805639f90655eae43ab3ec804.png"
     },
@@ -2149,6 +2174,7 @@
         "id": "sticker-313",
         "name": "Sticker | HellRaisers (Gold) | Katowice 2015",
         "description": null,
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/hellraisers_gold_large.4528658b8fefe992813b9eee6e7cc34537590daa.png"
     },
@@ -2177,6 +2203,7 @@
         "id": "sticker-317",
         "name": "Sticker | Keyd Stars (Gold) | Katowice 2015",
         "description": null,
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/keyd_gold_large.14a35c3ddfbfc4b66e8d3657168d24319b9f8503.png"
     },
@@ -2205,6 +2232,7 @@
         "id": "sticker-321",
         "name": "Sticker | LGB eSports (Gold) | Katowice 2015",
         "description": null,
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/lgb_gold_large.5794afbb8ba6a6d95c634bd5ab7d8f0d4dfe261a.png"
     },
@@ -2233,6 +2261,7 @@
         "id": "sticker-325",
         "name": "Sticker | Natus Vincere (Gold) | Katowice 2015",
         "description": null,
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/navi_gold_large.27740f9a9f267acbe9fedea38cdfc9246b627124.png"
     },
@@ -2261,6 +2290,7 @@
         "id": "sticker-329",
         "name": "Sticker | Ninjas in Pyjamas (Gold) | Katowice 2015",
         "description": null,
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/ninjasinpyjamas_gold_large.73c02522ff718652ced2adae188c292d8ceeb63d.png"
     },
@@ -2289,6 +2319,7 @@
         "id": "sticker-333",
         "name": "Sticker | PENTA Sports (Gold) | Katowice 2015",
         "description": null,
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/pentasports_gold_large.dcf22bbaf7a107123c4503e1b472d0db5c26126e.png"
     },
@@ -2317,6 +2348,7 @@
         "id": "sticker-337",
         "name": "Sticker | Team EnVyUs (Gold) | Katowice 2015",
         "description": null,
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/teamenvyus_gold_large.bd12538f7f17aa755d52c938fdb69da1c63acd55.png"
     },
@@ -2345,6 +2377,7 @@
         "id": "sticker-341",
         "name": "Sticker | TSM Kinguin (Gold) | Katowice 2015",
         "description": null,
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/teamsolomid_gold_large.9447e80f8943638da1e32191091c3f544ac19812.png"
     },
@@ -2373,6 +2406,7 @@
         "id": "sticker-345",
         "name": "Sticker | Titan (Gold) | Katowice 2015",
         "description": null,
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/titan_gold_large.7745590c7b21432d1748f57c64398cbfac444e72.png"
     },
@@ -2401,6 +2435,7 @@
         "id": "sticker-349",
         "name": "Sticker | Virtus.pro (Gold) | Katowice 2015",
         "description": null,
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/virtuspro_gold_large.1933d9c68151d31f11a115cfe20aa5213f8cf71c.png"
     },
@@ -2429,6 +2464,7 @@
         "id": "sticker-353",
         "name": "Sticker | Vox Eminor (Gold) | Katowice 2015",
         "description": null,
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/voxeminor_gold_large.b11001457a3fcf03a4bdb19e8d21c0533f0d9415.png"
     },
@@ -2632,6 +2668,7 @@
         "id": "sticker-382",
         "name": "Sticker | pronax (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Markus Wallsten playing for Fnatic at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_pronax_gold_large.ed6ef2628f70f7072800edb1526de9bdb72f7bb7.png"
     },
@@ -2653,6 +2690,7 @@
         "id": "sticker-385",
         "name": "Sticker | flusha (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Robin Rönnquist playing for Fnatic at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_flusha_gold_large.f134bfe341d01a14d2ba63fc861ec8463a863d25.png"
     },
@@ -2674,6 +2712,7 @@
         "id": "sticker-388",
         "name": "Sticker | JW (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Jesper Wecksell playing for Fnatic at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_jw_gold_large.a48c2b564b2d8b7f14014f13c371e8684c76cb36.png"
     },
@@ -2695,6 +2734,7 @@
         "id": "sticker-391",
         "name": "Sticker | KRIMZ (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Lars Freddy Johansson playing for Fnatic at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_krimz_gold_large.b83d63a7970323d1dd6de88492bc8295c5487df6.png"
     },
@@ -2716,6 +2756,7 @@
         "id": "sticker-394",
         "name": "Sticker | olofmeister (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Olof Kajbjer playing for Fnatic at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_olofmeister_gold_large.bd56109c92369361b47b373d359c79faf6c33477.png"
     },
@@ -2737,6 +2778,7 @@
         "id": "sticker-397",
         "name": "Sticker | FalleN (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Gabriel Toledo playing for Luminosity Gaming at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_fallen_gold_large.cb253188f9c1062798c8d48908ea0835618b31b9.png"
     },
@@ -2758,6 +2800,7 @@
         "id": "sticker-400",
         "name": "Sticker | steel (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Lucas Lopes playing for Luminosity Gaming at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_steel_gold_large.ef0cf902d17dac78b6c7d4db4e7fbdcb2d1cd4e1.png"
     },
@@ -2779,6 +2822,7 @@
         "id": "sticker-403",
         "name": "Sticker | fer (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Fernando Alvarenga playing for Luminosity Gaming at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_fer_gold_large.cf36fbccff45148cda20122059ee2551755d3a1f.png"
     },
@@ -2800,6 +2844,7 @@
         "id": "sticker-406",
         "name": "Sticker | boltz (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Ricardo Prass playing for Luminosity Gaming at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_boltz_gold_large.4a28b93d172614286dadc72b1d26162327c08df6.png"
     },
@@ -2821,6 +2866,7 @@
         "id": "sticker-409",
         "name": "Sticker | coldzera (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Marcelo David playing for Luminosity Gaming at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_coldzera_gold_large.14a99fb5446f1925a6079563b8390cb663af8fc4.png"
     },
@@ -2842,6 +2888,7 @@
         "id": "sticker-412",
         "name": "Sticker | GuardiaN (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Ladislav Kovács playing for Natus Vincere at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_guardian_gold_large.a268e69f1464c48ab78f1e0e818cf24507a85318.png"
     },
@@ -2863,6 +2910,7 @@
         "id": "sticker-415",
         "name": "Sticker | Zeus (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Danylo Teslenko playing for Natus Vincere at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_zeus_gold_large.2cc4d4e586e6dfab7924d2a2b97a1277adf7493f.png"
     },
@@ -2884,6 +2932,7 @@
         "id": "sticker-418",
         "name": "Sticker | seized (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Denis Kostin playing for Natus Vincere at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_seized_gold_large.99d70d0babdb72fb4662a99eff694aab55b90c03.png"
     },
@@ -2905,6 +2954,7 @@
         "id": "sticker-421",
         "name": "Sticker | Edward (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Ioann Sukhariev playing for Natus Vincere at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_edward_gold_large.4e6bf3e49d4449425dbb1798cec9a3fbfab15f9a.png"
     },
@@ -2926,6 +2976,7 @@
         "id": "sticker-424",
         "name": "Sticker | flamie (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Egor Vasilyev playing for Natus Vincere at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_flamie_gold_large.b54e8f1bdc1b73ea5cd450deeeff1d654fcbb6cd.png"
     },
@@ -2947,6 +2998,7 @@
         "id": "sticker-427",
         "name": "Sticker | Xizt (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Richard Landström playing for Ninjas in Pyjamas at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_xizt_gold_large.11f50d60df198b2a74dfb045d6f1f6ae8d576dfb.png"
     },
@@ -2968,6 +3020,7 @@
         "id": "sticker-430",
         "name": "Sticker | f0rest (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Patrik Lindberg playing for Ninjas in Pyjamas at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_forest_gold_large.49830e1e7865313b0388e6d79b2be4df180f581c.png"
     },
@@ -2989,6 +3042,7 @@
         "id": "sticker-433",
         "name": "Sticker | GeT_RiGhT (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Christopher Alesund playing for Ninjas in Pyjamas at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_getright_gold_large.09a5e0e70b9cb988fda8c79701bb3fc4b9deb0b6.png"
     },
@@ -3010,6 +3064,7 @@
         "id": "sticker-436",
         "name": "Sticker | friberg (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Adam Friberg playing for Ninjas in Pyjamas at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_friberg_gold_large.c9a9526181d350912a76cbebb562264605c5afd0.png"
     },
@@ -3031,6 +3086,7 @@
         "id": "sticker-439",
         "name": "Sticker | allu (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Aleksi Jalli playing for Ninjas in Pyjamas at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_allu_gold_large.c43133fa06ad73e3c12706677eb6120304992c8e.png"
     },
@@ -3052,6 +3108,7 @@
         "id": "sticker-442",
         "name": "Sticker | kennyS (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Kenny Schrub playing for Team EnVyUs at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_kennys_gold_large.e457fed432483e0a032fcfc7db3269ed238c35f4.png"
     },
@@ -3073,6 +3130,7 @@
         "id": "sticker-445",
         "name": "Sticker | kioShiMa (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Fabien Fiey playing for Team EnVyUs at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_kioshima_gold_large.235e565e1dcefceaea2667086ff5f8879e8616ca.png"
     },
@@ -3094,6 +3152,7 @@
         "id": "sticker-448",
         "name": "Sticker | Happy (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Vincent Cervoni playing for Team EnVyUs at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_happy_gold_large.ccf8efae274fac3f65d7dd3a42e8fc4c81370c35.png"
     },
@@ -3115,6 +3174,7 @@
         "id": "sticker-451",
         "name": "Sticker | apEX (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Dan Madesclaire playing for Team EnVyUs at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_apex_gold_large.552adae5dd945e2b8b5113a450df4205446e4702.png"
     },
@@ -3136,6 +3196,7 @@
         "id": "sticker-454",
         "name": "Sticker | NBK- (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Nathan Schmitt playing for Team EnVyUs at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_nbk_gold_large.21df489675658541434f56337bbdcb643e8858d5.png"
     },
@@ -3157,6 +3218,7 @@
         "id": "sticker-457",
         "name": "Sticker | karrigan (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Finn Andersen playing for Team SoloMid at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_karrigan_gold_large.cff234b8c747919c455858197ba8c89c85c435e1.png"
     },
@@ -3178,6 +3240,7 @@
         "id": "sticker-460",
         "name": "Sticker | device (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Nicolai Reedtz playing for Team SoloMid at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_device_gold_large.f5acda6dc67d73298e3039182b303c5b0e3c53ce.png"
     },
@@ -3199,6 +3262,7 @@
         "id": "sticker-463",
         "name": "Sticker | dupreeh (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Peter Rasmussen playing for Team SoloMid at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_dupreeh_gold_large.0ce96275683c92f96b46422dea4ff8cc43c1eb33.png"
     },
@@ -3220,6 +3284,7 @@
         "id": "sticker-466",
         "name": "Sticker | Xyp9x (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Andreas Højsleth playing for Team SoloMid at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_xyp9x_gold_large.90b5d0cfb7c00c6f320f1f9ad79c58d27d14c682.png"
     },
@@ -3241,6 +3306,7 @@
         "id": "sticker-469",
         "name": "Sticker | cajunb (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player René Borg playing for Team SoloMid at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_cajunb_gold_large.899f62138df131288c1b787b9d5108d90ba41c1e.png"
     },
@@ -3262,6 +3328,7 @@
         "id": "sticker-472",
         "name": "Sticker | NEO (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Filip Kubski playing for Virtus.Pro at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_neo_gold_large.89f20440725fff0dd529fa3c4dd90f76d3a48080.png"
     },
@@ -3283,6 +3350,7 @@
         "id": "sticker-475",
         "name": "Sticker | pashaBiceps (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Jarosław Jarząbkowski playing for Virtus.Pro at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_pasha_gold_large.1491e725407cf2917dae2ba4ad84664478691776.png"
     },
@@ -3304,6 +3372,7 @@
         "id": "sticker-478",
         "name": "Sticker | TaZ (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Wiktor Wojtas playing for Virtus.Pro at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_taz_gold_large.ae06d6b713c3e796b772b7bcfb0cb6753a30b9b6.png"
     },
@@ -3325,6 +3394,7 @@
         "id": "sticker-481",
         "name": "Sticker | Snax (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Janusz Pogorzelski playing for Virtus.Pro at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_snax_gold_large.171575284f3b91f4d5fd2dd47a3e8c709acedcee.png"
     },
@@ -3346,6 +3416,7 @@
         "id": "sticker-484",
         "name": "Sticker | byali (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Pawel Bielinsky playing for Virtus.Pro at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_byali_gold_large.726c43a9a5d2459169cec31a8658ae0689c0b04a.png"
     },
@@ -3367,6 +3438,7 @@
         "id": "sticker-487",
         "name": "Sticker | chrisJ (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Chris de Jong playing for mousesports at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_chrisj_gold_large.143fe19d9dd7339463f676bf3ec75d1b3925fddb.png"
     },
@@ -3388,6 +3460,7 @@
         "id": "sticker-490",
         "name": "Sticker | gob b (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Fatih Dayik playing for mousesports at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_gobb_gold_large.55134e8abd1f239c694d74df02ad72914466cdfc.png"
     },
@@ -3409,6 +3482,7 @@
         "id": "sticker-493",
         "name": "Sticker | denis (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Denis Howell playing for mousesports at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_denis_gold_large.843b826dd8e4db02fcf9a467ce8a6fba2b3e9709.png"
     },
@@ -3430,6 +3504,7 @@
         "id": "sticker-496",
         "name": "Sticker | nex (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Johannes Maget playing for mousesports at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_nex_gold_large.2d6585da3bab10cbdc17d1fd01b668a70df28d91.png"
     },
@@ -3451,6 +3526,7 @@
         "id": "sticker-499",
         "name": "Sticker | Spiidi (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Timo Richter playing for mousesports at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_spiidi_gold_large.37b512bf6fe43511ca98327137f548d24215840b.png"
     },
@@ -3472,6 +3548,7 @@
         "id": "sticker-502",
         "name": "Sticker | AZR (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Aaron Ward playing for Renegades at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_azr_gold_large.103ab989cb2680dbb7729b9076b09adedc6ddd0b.png"
     },
@@ -3493,6 +3570,7 @@
         "id": "sticker-505",
         "name": "Sticker | Havoc (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Luke Paton playing for Renegades at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_havoc_gold_large.823d809f65ea15ca632c1b5c55663a11417ef0d5.png"
     },
@@ -3514,6 +3592,7 @@
         "id": "sticker-508",
         "name": "Sticker | jks (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Justin Savage playing for Renegades at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_jks_gold_large.ffcb777135beb69d009e4ea6dba5ffa358dd08cb.png"
     },
@@ -3535,6 +3614,7 @@
         "id": "sticker-511",
         "name": "Sticker | SPUNJ (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Chad Burchill playing for Renegades at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_spunj_gold_large.9e7629d55171e3fd25d2f7cd4de6f2d2df810a5d.png"
     },
@@ -3556,6 +3636,7 @@
         "id": "sticker-514",
         "name": "Sticker | yam (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Yaman Ergenekon playing for Renegades at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_yam_gold_large.9356c7a3267ab4df12ad9673a6c28a1af98a60b7.png"
     },
@@ -3577,6 +3658,7 @@
         "id": "sticker-517",
         "name": "Sticker | USTILO (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Karlo Pivac playing for Team Immunity at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_ustilo_gold_large.4fa14e9ab7423120c45ba7917a20486a6c6abc6d.png"
     },
@@ -3598,6 +3680,7 @@
         "id": "sticker-520",
         "name": "Sticker | Rickeh (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Ricardo Mulholland playing for Team Immunity at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_rickeh_gold_large.5f1c649e131d392e9ec98e0c86b881eba053f7ba.png"
     },
@@ -3619,6 +3702,7 @@
         "id": "sticker-523",
         "name": "Sticker | emagine (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Chris Rowlands playing for Team Immunity at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_emagine_gold_large.59be6826b8f284c66b9b73919c1caf41906639a3.png"
     },
@@ -3640,6 +3724,7 @@
         "id": "sticker-526",
         "name": "Sticker | SnypeR (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Iain Turner playing for Team Immunity at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_snyper_gold_large.d8b8edf47f7915a00b9073140686e5e10ef5ee29.png"
     },
@@ -3661,6 +3746,7 @@
         "id": "sticker-529",
         "name": "Sticker | James (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player James Quinn playing for Team Immunity at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_james_gold_large.ae522f4bc5e9059a6e726248a0a2b76b5b854f44.png"
     },
@@ -3682,6 +3768,7 @@
         "id": "sticker-532",
         "name": "Sticker | markeloff (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Yegor Markelov playing for Flipsid3 Tactics at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_markeloff_gold_large.a83efe685e2834fd062de78ecfdcccfc18fa1186.png"
     },
@@ -3703,6 +3790,7 @@
         "id": "sticker-535",
         "name": "Sticker | B1ad3 (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Andrey Gorodenskiy playing for Flipsid3 Tactics at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_b1ad3_gold_large.5c557d20208e602065b4213a216488b0f140ceac.png"
     },
@@ -3724,6 +3812,7 @@
         "id": "sticker-538",
         "name": "Sticker | bondik (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Vladyslav Nechyporchuk playing for Flipsid3 Tactics at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_bondik_gold_large.da689e13ab95f0ccb54ffa284eb659ed7b1bd118.png"
     },
@@ -3745,6 +3834,7 @@
         "id": "sticker-541",
         "name": "Sticker | WorldEdit (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Georgy Yaskin playing for Flipsid3 Tactics at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_worldedit_gold_large.8a36f6d34674dc7cef5da4091e503832c961b854.png"
     },
@@ -3766,6 +3856,7 @@
         "id": "sticker-544",
         "name": "Sticker | DavCost (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Vadim Vasilyev playing for Flipsid3 Tactics at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_davcost_gold_large.bddfa7ca1da9b585f41f8fcb17ded3b9c77654a6.png"
     },
@@ -3787,6 +3878,7 @@
         "id": "sticker-547",
         "name": "Sticker | dennis (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Dennis Edman playing for Team Kinguin at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_dennis_gold_large.812c0ee1cd6866ad1284fc2203a7065a90d6986f.png"
     },
@@ -3808,6 +3900,7 @@
         "id": "sticker-550",
         "name": "Sticker | ScreaM (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Adil Benrlitom playing for Team Kinguin at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_scream_gold_large.81e203c147824be88063732bf06ebfdb05dcc2b1.png"
     },
@@ -3829,6 +3922,7 @@
         "id": "sticker-553",
         "name": "Sticker | rain (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Håvard Nygaard playing for Team Kinguin at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_rain_gold_large.e1986c3a0841bd98f79c44e45edba3b73c9bf0e6.png"
     },
@@ -3850,6 +3944,7 @@
         "id": "sticker-556",
         "name": "Sticker | Maikelele (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Mikail Bill playing for Team Kinguin at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_maikelele_gold_large.4a031e4e2252b745c54d8b9bee6a2f02fbee6630.png"
     },
@@ -3871,6 +3966,7 @@
         "id": "sticker-559",
         "name": "Sticker | fox (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Ricardo Pacheco playing for Team Kinguin at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_fox_gold_large.3772ee98951a10d9808fd92262f03587ceb8b054.png"
     },
@@ -3892,6 +3988,7 @@
         "id": "sticker-562",
         "name": "Sticker | rallen (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Karol Rodowicz playing for Team eBettle at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_rallen_gold_large.b59146049b19ceb9a7d38a721fec80d8e754d907.png"
     },
@@ -3913,6 +4010,7 @@
         "id": "sticker-565",
         "name": "Sticker | Hyper (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Bartosz Wolny playing for Team eBettle at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_hyper_gold_large.9659946210dabc1cf6b3047f9b6297fc0dc170de.png"
     },
@@ -3934,6 +4032,7 @@
         "id": "sticker-568",
         "name": "Sticker | peet (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Piotr Ćwikliński playing for Team eBettle at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_peet_gold_large.4259ccf7404496bfc58e519f11bd477e053237bc.png"
     },
@@ -3955,6 +4054,7 @@
         "id": "sticker-571",
         "name": "Sticker | Furlan (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Damian Kislowski playing for Team eBettle at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_furlan_gold_large.b98878b7daa3d704699f2e8f87bfb13e18129cb4.png"
     },
@@ -3976,6 +4076,7 @@
         "id": "sticker-574",
         "name": "Sticker | GruBy (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Dominik Swiderski playing for Team eBettle at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_gruby_gold_large.692accd3c244cc3ae067d107ec27b131447d5c68.png"
     },
@@ -3997,6 +4098,7 @@
         "id": "sticker-577",
         "name": "Sticker | Maniac (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Mathieu Quiquerez playing for Titan at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_maniac_gold_large.c45a6e5c43f67b1ac50e2bc8234b37dabbd61c6f.png"
     },
@@ -4018,6 +4120,7 @@
         "id": "sticker-580",
         "name": "Sticker | Ex6TenZ (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Kévin Droolans playing for Titan at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_ex6tenz_gold_large.296802305b4eff12727ccc65ab7ccd8fd3668932.png"
     },
@@ -4039,6 +4142,7 @@
         "id": "sticker-583",
         "name": "Sticker | shox (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Richard Papillon playing for Titan at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_shox_gold_large.c8ddd40a60b96789af5f754ae2f908a8dab616ec.png"
     },
@@ -4060,6 +4164,7 @@
         "id": "sticker-586",
         "name": "Sticker | SmithZz (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Edouard Dubourdeaux playing for Titan at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_smithzz_gold_large.e914ff076e5da17cca17c122a7968013b2066d0c.png"
     },
@@ -4081,6 +4186,7 @@
         "id": "sticker-589",
         "name": "Sticker | RpK (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Cédric Guipouy playing for Titan at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_rpk_gold_large.0c55c189208956609db507018e93084ddcaa91fe.png"
     },
@@ -4102,6 +4208,7 @@
         "id": "sticker-592",
         "name": "Sticker | hazed (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player James Cobb playing for Counter Logic Gaming at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_hazed_gold_large.9796ab908d9b679784f04b6527293a1468da010c.png"
     },
@@ -4123,6 +4230,7 @@
         "id": "sticker-595",
         "name": "Sticker | FNS (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Pujan Mehta playing for Counter Logic Gaming at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_fns_gold_large.7bd7b76634001364a9c68c72645a2ea52d6fed41.png"
     },
@@ -4144,6 +4252,7 @@
         "id": "sticker-598",
         "name": "Sticker | jdm64 (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Joshua Marzano playing for Counter Logic Gaming at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_jdm64_gold_large.eca4d7084b3e3f59d356099376197ec3d5b9aacb.png"
     },
@@ -4165,6 +4274,7 @@
         "id": "sticker-601",
         "name": "Sticker | reltuC (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Steven Cutler playing for Counter Logic Gaming at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_reltuc_gold_large.e165acf718d03c8570c40d6f77a3ebba85dbb26c.png"
     },
@@ -4186,6 +4296,7 @@
         "id": "sticker-604",
         "name": "Sticker | tarik (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Tarik Celik playing for Counter Logic Gaming at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_tarik_gold_large.1ed23da308a6653e7808aa8ee3d5ea0a1cf612c2.png"
     },
@@ -4207,6 +4318,7 @@
         "id": "sticker-607",
         "name": "Sticker | n0thing (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Jordan Gilbert playing for Cloud9 G2A at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_nothing_gold_large.834c1fb19681b83403fcbfcb1b2d5de866be9907.png"
     },
@@ -4228,6 +4340,7 @@
         "id": "sticker-610",
         "name": "Sticker | seang@res (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Sean Gares playing for Cloud9 G2A at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_sgares_gold_large.a6c2edd819f470c12e582d41893f88b9cef563f0.png"
     },
@@ -4249,6 +4362,7 @@
         "id": "sticker-613",
         "name": "Sticker | shroud (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Michael Grzesiek playing for Cloud9 G2A at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_shroud_gold_large.c8b6d9e6bfa2dfd833e913876ec079b82f03de06.png"
     },
@@ -4270,6 +4384,7 @@
         "id": "sticker-616",
         "name": "Sticker | freakazoid (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Ryan Abadir playing for Cloud9 G2A at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_freakazoid_gold_large.ccb969af78b8f08da42ac8f1b871282676890941.png"
     },
@@ -4291,6 +4406,7 @@
         "id": "sticker-619",
         "name": "Sticker | Skadoodle (Gold) | Cologne 2015",
         "description": "This gold sticker was autographed by professional player Tyler Latham playing for Cloud9 G2A at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_skadoodle_gold_large.2824ba481bfdc5f3c1b5d3c16c928b55e63cc5ac.png"
     },
@@ -4312,6 +4428,7 @@
         "id": "sticker-622",
         "name": "Sticker | Fnatic (Gold) | Cologne 2015",
         "description": "50% of the proceeds from the sale of this sticker support the included organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/fnatic_gold_large.0695eb3bb039be84f448284bdeb8611c1617d3e1.png"
     },
@@ -4333,6 +4450,7 @@
         "id": "sticker-625",
         "name": "Sticker | Virtus.Pro (Gold) | Cologne 2015",
         "description": "50% of the proceeds from the sale of this sticker support the included organizations.",
+        "variant":"Gold",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/virtuspro_gold_large.e1a280a82fb5d08d3a8d477002d69acbb07de1ff.png"
     },
