@@ -2079,6 +2079,7 @@
         "id": "sticker-286",
         "name": "Sticker | 3DMAX | Katowice 2015",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/3dmax_large.6dd94c5043a00ba0116d9cba6f632f93254637f5.png"
     },
@@ -2086,6 +2087,7 @@
         "id": "sticker-287",
         "name": "Sticker | 3DMAX (Holo) | Katowice 2015",
         "description": null,
+        "variant":"Holo",
         "rarity": "Remarkable",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/3dmax_holo_large.a00ad758d51f22593246e354f3514c66df3caef1.png"
     },
@@ -2093,6 +2095,7 @@
         "id": "sticker-288",
         "name": "Sticker | 3DMAX (Foil) | Katowice 2015",
         "description": null,
+        "variant":"Foil",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/3dmax_foil_large.01d7f52e27586ecbda9de7e4cdc71c8621a91961.png"
     },
@@ -2108,6 +2111,7 @@
         "id": "sticker-290",
         "name": "Sticker | Cloud9 G2A | Katowice 2015",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/cloud9_large.cbcc87fdb71be8e2f62f6a54fd063c229d3b4e82.png"
     },
@@ -2115,6 +2119,7 @@
         "id": "sticker-291",
         "name": "Sticker | Cloud9 G2A (Holo) | Katowice 2015",
         "description": null,
+        "variant":"Holo",
         "rarity": "Remarkable",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/cloud9_holo_large.e4b43fae2b8670091c1b2b9eeda4cf3fcf588c4f.png"
     },
@@ -2122,6 +2127,7 @@
         "id": "sticker-292",
         "name": "Sticker | Cloud9 G2A (Foil) | Katowice 2015",
         "description": null,
+        "variant":"Foil",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/cloud9_foil_large.a8f7204e31c4831e6da488ff0a3e561878727898.png"
     },
@@ -2137,6 +2143,7 @@
         "id": "sticker-294",
         "name": "Sticker | Counter Logic Gaming | Katowice 2015",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/counterlogic_large.03c5c9314466ac62842ca18f2928be56fd76647d.png"
     },
@@ -2144,6 +2151,7 @@
         "id": "sticker-295",
         "name": "Sticker | Counter Logic Gaming (Holo) | Katowice 2015",
         "description": null,
+        "variant":"Holo",
         "rarity": "Remarkable",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/counterlogic_holo_large.4ef997ae4bb396f8193c633e621d8278cfd9dcda.png"
     },
@@ -2151,6 +2159,7 @@
         "id": "sticker-296",
         "name": "Sticker | Counter Logic Gaming (Foil) | Katowice 2015",
         "description": null,
+        "variant":"Foil",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/counterlogic_foil_large.ccf38bd282137c066fcee90c17a80fdbe9ff6dcf.png"
     },
@@ -2166,6 +2175,7 @@
         "id": "sticker-300",
         "name": "Sticker | ESL One (Foil) | Katowice 2015",
         "description": null,
+        "variant":"Foil",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/esl_a_foil_large.f05c3b70707dfeeb2202ef5c8336d7aaffe7df99.png"
     },
@@ -2181,6 +2191,7 @@
         "id": "sticker-302",
         "name": "Sticker | Flipsid3 Tactics | Katowice 2015",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/flipsid3_large.84f5a0408e732c3405580c211050a916195e5b9b.png"
     },
@@ -2188,6 +2199,7 @@
         "id": "sticker-303",
         "name": "Sticker | Flipsid3 Tactics (Holo) | Katowice 2015",
         "description": null,
+        "variant":"Holo",
         "rarity": "Remarkable",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/flipsid3_holo_large.78545a7aa6a92ba277944e2b3ca7389f111ec127.png"
     },
@@ -2195,6 +2207,7 @@
         "id": "sticker-304",
         "name": "Sticker | Flipsid3 Tactics (Foil) | Katowice 2015",
         "description": null,
+        "variant":"Foil",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/flipsid3_foil_large.5fef48d5d31c84537b5e94f1583a662f7df226ba.png"
     },
@@ -2210,6 +2223,7 @@
         "id": "sticker-306",
         "name": "Sticker | Fnatic | Katowice 2015",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/fnatic_large.65da8ea42ccaa373812e4a3d08d70b3fc6b92ef8.png"
     },
@@ -2217,6 +2231,7 @@
         "id": "sticker-307",
         "name": "Sticker | Fnatic (Holo) | Katowice 2015",
         "description": null,
+        "variant":"Holo",
         "rarity": "Remarkable",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/fnatic_holo_large.639a3bdfa38737816af7b955145f3b188b4ac978.png"
     },
@@ -2224,6 +2239,7 @@
         "id": "sticker-308",
         "name": "Sticker | Fnatic (Foil) | Katowice 2015",
         "description": null,
+        "variant":"Foil",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/fnatic_foil_large.ed7534c17c5f5a9eccfe00767810fdb7f1b4003e.png"
     },
@@ -2239,6 +2255,7 @@
         "id": "sticker-310",
         "name": "Sticker | HellRaisers | Katowice 2015",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/hellraisers_large.791b11a91b2a12c5cc56018056ac6ef4a4cd7bc2.png"
     },
@@ -2246,6 +2263,7 @@
         "id": "sticker-311",
         "name": "Sticker | HellRaisers (Holo) | Katowice 2015",
         "description": null,
+        "variant":"Holo",
         "rarity": "Remarkable",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/hellraisers_holo_large.9d838b302ef030c9a04501db6324d6d20492c3dd.png"
     },
@@ -2253,6 +2271,7 @@
         "id": "sticker-312",
         "name": "Sticker | HellRaisers (Foil) | Katowice 2015",
         "description": null,
+        "variant":"Foil",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/hellraisers_foil_large.59f068f8fc33f7c08918470377b285ea7380e092.png"
     },
@@ -2268,6 +2287,7 @@
         "id": "sticker-314",
         "name": "Sticker | Keyd Stars | Katowice 2015",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/keyd_large.1371381a6ac4c1a9275ed55285f93658f844fc05.png"
     },
@@ -2275,6 +2295,7 @@
         "id": "sticker-315",
         "name": "Sticker | Keyd Stars (Holo) | Katowice 2015",
         "description": null,
+        "variant":"Holo",
         "rarity": "Remarkable",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/keyd_holo_large.ccf82a75c2116afbbb936d78ed94ae7b03dfac20.png"
     },
@@ -2282,6 +2303,7 @@
         "id": "sticker-316",
         "name": "Sticker | Keyd Stars (Foil) | Katowice 2015",
         "description": null,
+        "variant":"Foil",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/keyd_foil_large.c28f0a25f025a3e0a31ea8f8aa9dd23c7ef33fbc.png"
     },
@@ -2297,6 +2319,7 @@
         "id": "sticker-318",
         "name": "Sticker | LGB eSports | Katowice 2015",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/lgb_large.e2433db63170f333355ec88914b901efa6e002fc.png"
     },
@@ -2304,6 +2327,7 @@
         "id": "sticker-319",
         "name": "Sticker | LGB eSports (Holo) | Katowice 2015",
         "description": null,
+        "variant":"Holo",
         "rarity": "Remarkable",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/lgb_holo_large.5176eeed6246c8a7ee4787aef599ed88992f0ee5.png"
     },
@@ -2311,6 +2335,7 @@
         "id": "sticker-320",
         "name": "Sticker | LGB eSports (Foil) | Katowice 2015",
         "description": null,
+        "variant":"Foil",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/lgb_foil_large.372ec6bd62b3b1453ea66465301d717f1879cb4a.png"
     },
@@ -2326,6 +2351,7 @@
         "id": "sticker-322",
         "name": "Sticker | Natus Vincere | Katowice 2015",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/navi_large.ead83ccce5bb308db55d2eb92b2e4d511adf6307.png"
     },
@@ -2333,6 +2359,7 @@
         "id": "sticker-323",
         "name": "Sticker | Natus Vincere (Holo) | Katowice 2015",
         "description": null,
+        "variant":"Holo",
         "rarity": "Remarkable",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/navi_holo_large.c158f76fec5abf115981a410977117abe6dfa2de.png"
     },
@@ -2340,6 +2367,7 @@
         "id": "sticker-324",
         "name": "Sticker | Natus Vincere (Foil) | Katowice 2015",
         "description": null,
+        "variant":"Foil",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/navi_foil_large.f5b6195a26e0759055d80f378a52b6a3fc7a3b6d.png"
     },
@@ -2355,6 +2383,7 @@
         "id": "sticker-326",
         "name": "Sticker | Ninjas in Pyjamas  | Katowice 2015",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/ninjasinpyjamas_large.b651b80e8c58f443bd1b24c5de146931ff380992.png"
     },
@@ -2362,6 +2391,7 @@
         "id": "sticker-327",
         "name": "Sticker | Ninjas in Pyjamas (Holo) | Katowice 2015",
         "description": null,
+        "variant":"Holo",
         "rarity": "Remarkable",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/ninjasinpyjamas_holo_large.70241f44d59e8f415987319102ecd52277475a07.png"
     },
@@ -2369,6 +2399,7 @@
         "id": "sticker-328",
         "name": "Sticker | Ninjas in Pyjamas (Foil) | Katowice 2015",
         "description": null,
+        "variant":"Foil",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/ninjasinpyjamas_foil_large.ffbdd01ff5e659161a7d6475d8e18d7cfb9dd8be.png"
     },
@@ -2384,6 +2415,7 @@
         "id": "sticker-330",
         "name": "Sticker | PENTA Sports  | Katowice 2015",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/pentasports_large.8fdf2611c611d48069b2bbc1d580d457ab7e3a5f.png"
     },
@@ -2391,6 +2423,7 @@
         "id": "sticker-331",
         "name": "Sticker | PENTA Sports (Holo) | Katowice 2015",
         "description": null,
+        "variant":"Holo",
         "rarity": "Remarkable",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/pentasports_holo_large.95de416a0d5b3f962dfdbcadc86528d230a5c614.png"
     },
@@ -2398,6 +2431,7 @@
         "id": "sticker-332",
         "name": "Sticker | PENTA Sports (Foil) | Katowice 2015",
         "description": null,
+        "variant":"Foil",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/pentasports_foil_large.657d9d00b86552cc2de5612499b4bf993c7806a5.png"
     },
@@ -2413,6 +2447,7 @@
         "id": "sticker-334",
         "name": "Sticker | Team EnVyUs | Katowice 2015",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/teamenvyus_large.ecd0526e2cf238b0425e98c4f7bd3c9779f9647b.png"
     },
@@ -2420,6 +2455,7 @@
         "id": "sticker-335",
         "name": "Sticker | Team EnVyUs (Holo) | Katowice 2015",
         "description": null,
+        "variant":"Holo",
         "rarity": "Remarkable",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/teamenvyus_holo_large.d1b4eb6649c5eea186a89e9311d56220d66e3b5a.png"
     },
@@ -2427,6 +2463,7 @@
         "id": "sticker-336",
         "name": "Sticker | Team EnVyUs (Foil) | Katowice 2015",
         "description": null,
+        "variant":"Foil",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/teamenvyus_foil_large.ce5bfaf06443a5a0b8d7edffef56d18bbed2bd99.png"
     },
@@ -2442,6 +2479,7 @@
         "id": "sticker-338",
         "name": "Sticker | TSM Kinguin | Katowice 2015",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/teamsolomid_large.be234b9678c6c4b3116f72e24efd9347e4e2f50d.png"
     },
@@ -2449,6 +2487,7 @@
         "id": "sticker-339",
         "name": "Sticker | TSM Kinguin (Holo) | Katowice 2015",
         "description": null,
+        "variant":"Holo",
         "rarity": "Remarkable",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/teamsolomid_holo_large.b2b93f8257e37c632915508feb63e309bf43e194.png"
     },
@@ -2456,6 +2495,7 @@
         "id": "sticker-340",
         "name": "Sticker | TSM Kinguin (Foil) | Katowice 2015",
         "description": null,
+        "variant":"Foil",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/teamsolomid_foil_large.064a976fc9062ef007bc2462bb203cc8c21e306b.png"
     },
@@ -2471,6 +2511,7 @@
         "id": "sticker-342",
         "name": "Sticker | Titan | Katowice 2015",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/titan_large.ec5f872517c77762c74f1461867c76f929d0a620.png"
     },
@@ -2478,6 +2519,7 @@
         "id": "sticker-343",
         "name": "Sticker | Titan (Holo) | Katowice 2015",
         "description": null,
+        "variant":"Holo",
         "rarity": "Remarkable",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/titan_holo_large.a1c2b4efee4ca6f128e414f7669b07351dcfdefa.png"
     },
@@ -2485,6 +2527,7 @@
         "id": "sticker-344",
         "name": "Sticker | Titan (Foil) | Katowice 2015",
         "description": null,
+        "variant":"Foil",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/titan_foil_large.8c845af6d866c05ace2039442325eaaef3fa8a4d.png"
     },
@@ -2500,6 +2543,7 @@
         "id": "sticker-346",
         "name": "Sticker | Virtus.pro | Katowice 2015",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/virtuspro_large.aacafa7a15b4d315ac8b6c2d873af56824100a62.png"
     },
@@ -2507,6 +2551,7 @@
         "id": "sticker-347",
         "name": "Sticker | Virtus.pro (Holo) | Katowice 2015",
         "description": null,
+        "variant":"Holo",
         "rarity": "Remarkable",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/virtuspro_holo_large.5877839ee67c233584c68502c3b54de6566fa148.png"
     },
@@ -2514,6 +2559,7 @@
         "id": "sticker-348",
         "name": "Sticker | Virtus.pro (Foil) | Katowice 2015",
         "description": null,
+        "variant":"Foil",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/virtuspro_foil_large.f34ada40dfeb8033c82df12f5d8b6d4effd75115.png"
     },
@@ -2529,6 +2575,7 @@
         "id": "sticker-350",
         "name": "Sticker | Vox Eminor  | Katowice 2015",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/voxeminor_large.283cf0be32bf62f205be77bfaa8afc5641a86167.png"
     },
@@ -2536,6 +2583,7 @@
         "id": "sticker-351",
         "name": "Sticker | Vox Eminor (Holo) | Katowice 2015",
         "description": null,
+        "variant":"Holo",
         "rarity": "Remarkable",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/voxeminor_holo_large.695e82b971a2e9be9fd9e6668a67fcdfb1b610f6.png"
     },
@@ -2543,6 +2591,7 @@
         "id": "sticker-352",
         "name": "Sticker | Vox Eminor (Foil) | Katowice 2015",
         "description": null,
+        "variant":"Foil",
         "rarity": "Exotic",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/voxeminor_foil_large.54ad7a07104c36f7944f40ce90d3f8b929a09040.png"
     },
@@ -2558,6 +2607,7 @@
         "id": "sticker-354",
         "name": "Sticker | ESL One | Katowice 2015",
         "description": null,
+        "variant":"Paper",
         "rarity": "High Grade",
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/esl_a_large.b6e94be2643e41e1db192c0794c0cf18101106de.png"
     },
