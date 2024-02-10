@@ -59970,9 +59970,380 @@
   },
   "sticker-7233": {
     "id": "sticker-7233",
+    "name": "Sticker | Ouchie (Foil)",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [
+      {
+        "id": "crate-4905",
+        "name": "Ambush Sticker Capsule",
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/1675e7262bd51fdba1d74664fd4b4fc06a50bb12/public/images/econ/weapon_cases/crate_sticker_pack_community_2024_capsule.png"
+      }
+    ],
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0HdUuqkw9acUFJ5KBFZv668FFUwgaeHdzJL4OO5gYODnvK6NbnXkD0J7JYm3buZotqk2wXj_ERvamrzINPBclI6Mg3V-FfvwOntgoj84soTsde3Lw/260fx260f"
+  },
+  "sticker-7234": {
+    "id": "sticker-7234",
+    "name": "Sticker | Lost In Smoke (Foil)",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [
+      {
+        "id": "crate-4905",
+        "name": "Ambush Sticker Capsule",
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/1675e7262bd51fdba1d74664fd4b4fc06a50bb12/public/images/econ/weapon_cases/crate_sticker_pack_community_2024_capsule.png"
+      }
+    ],
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0HdUuqkw9acUFJ5KBFZv668FFUwgaeHdzJL4OO6m5OfqP76DKjcmWBUppUh2L6Z89ug21Hm-0Q4MGH0JobEegRrY1iCqAK8yOvmhp7uvs_BmHR9-n51WhY31IY/260fx260f"
+  },
+  "sticker-7235": {
+    "id": "sticker-7235",
+    "name": "Sticker | Retro Zeus",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4905",
+        "name": "Ambush Sticker Capsule",
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/1675e7262bd51fdba1d74664fd4b4fc06a50bb12/public/images/econ/weapon_cases/crate_sticker_pack_community_2024_capsule.png"
+      }
+    ],
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0HdUuqkw9acUFJ5KBFZv668FFUwgaeHYTxS6c6JhoWfhfjLKb7EhSUHuZIji7yY89-hiwOyqkc_NmD0I4HGJFQ7NVvR_wLokr_q08e8uZSd1zI97Q1q4ZGm/260fx260f"
+  },
+  "sticker-7236": {
+    "id": "sticker-7236",
+    "name": "Sticker | This Is Fine (Chicken)",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4905",
+        "name": "Ambush Sticker Capsule",
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/1675e7262bd51fdba1d74664fd4b4fc06a50bb12/public/images/econ/weapon_cases/crate_sticker_pack_community_2024_capsule.png"
+      }
+    ],
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0HdUuqkw9acUFJ5KBFZv668FFUwgaeHYTxS6c6JgIiChMj9IITXn2VU18Z5g-rK8IK7jVa1r0duNzzwI4LHd1U3YFDZ-1m5wO3tgJPu6ZvIy3BnuyZwsHiPywv330-BNCv0vA/260fx260f"
+  },
+  "sticker-7237": {
+    "id": "sticker-7237",
+    "name": "Sticker | Please Return To",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4905",
+        "name": "Ambush Sticker Capsule",
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/1675e7262bd51fdba1d74664fd4b4fc06a50bb12/public/images/econ/weapon_cases/crate_sticker_pack_community_2024_capsule.png"
+      }
+    ],
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0HdUuqkw9acUFJ5KBFZv668FFUwgaeHYTxS6c6JhIyOluTxDKnUgn5D5osp3LqR9N2j3gSy_kE5ZG_ydtOXcgE7YF3Z_lm9lbu5gJK_75vMynVnpGB8skX_LQaO/260fx260f"
+  },
+  "sticker-7238": {
+    "id": "sticker-7238",
+    "name": "Sticker | Peek-A-Boo",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4905",
+        "name": "Ambush Sticker Capsule",
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/1675e7262bd51fdba1d74664fd4b4fc06a50bb12/public/images/econ/weapon_cases/crate_sticker_pack_community_2024_capsule.png"
+      }
+    ],
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0HdUuqkw9acUFJ5KBFZv668FFUwgaeHYTxS6c6JhIWOnMj1DLnemSUGuJF03LCSptyg3FGy-hE9Yzr6INCcJwBsNA3S-Ae2k-7u05XquM7M1zI97QSdFZg-/260fx260f"
+  },
+  "sticker-7239": {
+    "id": "sticker-7239",
+    "name": "Sticker | AKickflip-47",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4905",
+        "name": "Ambush Sticker Capsule",
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/1675e7262bd51fdba1d74664fd4b4fc06a50bb12/public/images/econ/weapon_cases/crate_sticker_pack_community_2024_capsule.png"
+      }
+    ],
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0HdUuqkw9acUFJ5KBFZv668FFUwgaeHYTxS6c6Jn4mInPH4OqvuwjwfupZ1jOjCotXz3VHh80BlajjzcITEe1VtZ1uF_gO-yO_n1MC4uZWcn2wj5HciKZOntQ/260fx260f"
+  },
+  "sticker-7240": {
+    "id": "sticker-7240",
+    "name": "Sticker | Easy For Ricksaw",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4905",
+        "name": "Ambush Sticker Capsule",
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/1675e7262bd51fdba1d74664fd4b4fc06a50bb12/public/images/econ/weapon_cases/crate_sticker_pack_community_2024_capsule.png"
+      }
+    ],
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0HdUuqkw9acUFJ5KBFZv668FFUwgaeHYTxS6c6JkYGYjsjyPKnuhGJS49ZwnaeYoduji1Ls_EdkYWrzd4_BcQI8YwzS_1i9lOrvjJ-_vMnMm3Vq6Ckl-z-DyMhEOziR/260fx260f"
+  },
+  "sticker-7241": {
+    "id": "sticker-7241",
+    "name": "Sticker | Bum A Smoke",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4905",
+        "name": "Ambush Sticker Capsule",
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/1675e7262bd51fdba1d74664fd4b4fc06a50bb12/public/images/econ/weapon_cases/crate_sticker_pack_community_2024_capsule.png"
+      }
+    ],
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0HdUuqkw9acUFJ5KBFZv668FFUwgaeHYTxS6c6JlpWGqPbLILbenW4fv5Am0rzH9o6i0FDn-BE5am70J4KQIANtaVCEqFHtybzv1J677ZnPyWwj5HfacQqUxA/260fx260f"
+  },
+  "sticker-7242": {
+    "id": "sticker-7242",
+    "name": "Sticker | Angry T",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade",
+      "color": "#4b69ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4905",
+        "name": "Ambush Sticker Capsule",
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/1675e7262bd51fdba1d74664fd4b4fc06a50bb12/public/images/econ/weapon_cases/crate_sticker_pack_community_2024_capsule.png"
+      }
+    ],
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0HdUuqkw9acUFJ5KBFZv668FFUwgaeHYTxS6c6JlY6Mhe7LJ_WFlTpTuJ1zi-qVrIj23AfhrxE6ZW-nII-RJgc9NQqB8wXsxujugpPpot2Xnl0ELkl8/260fx260f"
+  },
+  "sticker-7243": {
+    "id": "sticker-7243",
+    "name": "Sticker | Old School (Lenticular)",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "crates": [
+      {
+        "id": "crate-4905",
+        "name": "Ambush Sticker Capsule",
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/1675e7262bd51fdba1d74664fd4b4fc06a50bb12/public/images/econ/weapon_cases/crate_sticker_pack_community_2024_capsule.png"
+      }
+    ],
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0HdUuqkw9acUFJ5KBFZv668FFUwgaeHfThM-NW1gYyKhcj7P7_uhWhZ58p9xL2R84mjiwew80RsZGGhdYTBIwI9ZgzY-VXrlem9h5Dou5rIm3Ax6yI8pSGKBpI5QvQ/260fx260f"
+  },
+  "sticker-7244": {
+    "id": "sticker-7244",
+    "name": "Sticker | Econometer (Lenticular)",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "crates": [
+      {
+        "id": "crate-4905",
+        "name": "Ambush Sticker Capsule",
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/1675e7262bd51fdba1d74664fd4b4fc06a50bb12/public/images/econ/weapon_cases/crate_sticker_pack_community_2024_capsule.png"
+      }
+    ],
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0HdUuqkw9acUFJ5KBFZv668FFUwgaeHfThM-NW1gYyKhcjxMLTfmWZU_MBjxOqYpdql3ATi-RVua27yI4eVdQM6M1HY-lXqkOnnh8O77p7OzHMxvCM8pSGK5ZolPaQ/260fx260f"
+  },
+  "sticker-7245": {
+    "id": "sticker-7245",
+    "name": "Sticker | Dystopian Gaze (Lenticular)",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "crates": [
+      {
+        "id": "crate-4905",
+        "name": "Ambush Sticker Capsule",
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/1675e7262bd51fdba1d74664fd4b4fc06a50bb12/public/images/econ/weapon_cases/crate_sticker_pack_community_2024_capsule.png"
+      }
+    ],
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0HdUuqkw9acUFJ5KBFZv668FFUwgaeHfThM-NW1gYyKhcjwKqjFmXtY6ctOjejb8MKg3AzlrkNtNjqgdY_Gcg82NV3Z-wW7kr3thJS_vc7OmCAwviB3t3rZgVXp1kqb2F9E/260fx260f"
+  },
+  "sticker-7246": {
+    "id": "sticker-7246",
+    "name": "Sticker | Loving Eyes (Holo)",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4905",
+        "name": "Ambush Sticker Capsule",
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/1675e7262bd51fdba1d74664fd4b4fc06a50bb12/public/images/econ/weapon_cases/crate_sticker_pack_community_2024_capsule.png"
+      }
+    ],
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0HdUuqkw9acUFJ5KBFZv668FFUwgaeHeTJO4-O6m5aCmfDLNqLUhSVSvsQo0ryRoNuh0VHn_UM4YGyhI4eQcwE7Z1qGqFfswu-9jZK0up6a1zI97QTFHfXd/260fx260f"
+  },
+  "sticker-7247": {
+    "id": "sticker-7247",
+    "name": "Sticker | Try Hard (Holo)",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4905",
+        "name": "Ambush Sticker Capsule",
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/1675e7262bd51fdba1d74664fd4b4fc06a50bb12/public/images/econ/weapon_cases/crate_sticker_pack_community_2024_capsule.png"
+      }
+    ],
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0HdUuqkw9acUFJ5KBFZv668FFUwgaeHeTJO4-Oihpm0n_bmN_WFwDIGuJ10j7vA8Nn0jQOyrxFkMDigcoSQdgU-YVzU_Ve3k-vqhMe_ot2XnpKPTW7P/260fx260f"
+  },
+  "sticker-7248": {
+    "id": "sticker-7248",
+    "name": "Sticker | Lit (Holo)",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4905",
+        "name": "Ambush Sticker Capsule",
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/1675e7262bd51fdba1d74664fd4b4fc06a50bb12/public/images/econ/weapon_cases/crate_sticker_pack_community_2024_capsule.png"
+      }
+    ],
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0HdUuqkw9acUFJ5KBFZv668FFUwgaeHeTJO4-O6nZTFwaPwYb2JkG5X7cEi3e-UoNuj2wTm_EFvMWHyItWVd1dtaAuD_AK2wPCv28HeFa8zlA/260fx260f"
+  },
+  "sticker-7249": {
+    "id": "sticker-7249",
+    "name": "Sticker | Cedar Creek (Holo)",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4905",
+        "name": "Ambush Sticker Capsule",
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/1675e7262bd51fdba1d74664fd4b4fc06a50bb12/public/images/econ/weapon_cases/crate_sticker_pack_community_2024_capsule.png"
+      }
+    ],
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0HdUuqkw9acUFJ5KBFZv668FFUwgaeHeTJO4-O1kYSKhcj3Ib7UnSUD6sZy3LyT9t_wi1Ht-0VpYW_2LdLHdlJtZFGD_lm_lezujJLqvpTM1zI97YC5k66B/260fx260f"
+  },
+  "sticker-7250": {
+    "id": "sticker-7250",
+    "name": "Sticker | Pushing Smokes (Glitter)",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4905",
+        "name": "Ambush Sticker Capsule",
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/1675e7262bd51fdba1d74664fd4b4fc06a50bb12/public/images/econ/weapon_cases/crate_sticker_pack_community_2024_capsule.png"
+      }
+    ],
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0HdUuqkw9acUFJ5KBFZv668FFUwgaeHdjFL-Mizhr-bguT8OrXWqXhc5850maeXpdSk21bm_EJtNz_6IdKXdFBrN1rTqFm9wOvujJ-4vM6bnCcy73F3-z-DyGE8WO8g/260fx260f"
+  },
+  "sticker-7251": {
+    "id": "sticker-7251",
+    "name": "Sticker | Lotus (Glitter)",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable",
+      "color": "#8847ff"
+    },
+    "crates": [
+      {
+        "id": "crate-4905",
+        "name": "Ambush Sticker Capsule",
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/1675e7262bd51fdba1d74664fd4b4fc06a50bb12/public/images/econ/weapon_cases/crate_sticker_pack_community_2024_capsule.png"
+      }
+    ],
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0HdUuqkw9acUFJ5KBFZv668FFUwgaeHdjFL-Mizhr-HmOPhIPXUwmhQsJwj0rGV9IqnigLlqBFsYjr1ctWVIVJqaQyD_Ae5lebnhpO_ot2XnncQ8ZC8/260fx260f"
+  },
+  "sticker-7252": {
+    "id": "sticker-7252",
+    "name": "Sticker | Factory Sealed (Foil)",
+    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [
+      {
+        "id": "crate-4905",
+        "name": "Ambush Sticker Capsule",
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/1675e7262bd51fdba1d74664fd4b4fc06a50bb12/public/images/econ/weapon_cases/crate_sticker_pack_community_2024_capsule.png"
+      }
+    ],
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0HdUuqkw9acUFJ5KBFZv668FFUwgaeHdzJL4OOlkYGHkvO6N-OJlToDuZQm3biXpYr32Qbi80M6a2H6d4bGdwI-aFvWq1Dqx7jogoj84spB3KmCZQ/260fx260f"
+  },
+  "sticker-7253": {
+    "id": "sticker-7253",
     "name": "Sticker | On An Eco (Foil)",
     "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
-    "rarity": "Exotic",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic",
+      "color": "#d32ce6"
+    },
+    "crates": [
+      {
+        "id": "crate-4905",
+        "name": "Ambush Sticker Capsule",
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/1675e7262bd51fdba1d74664fd4b4fc06a50bb12/public/images/econ/weapon_cases/crate_sticker_pack_community_2024_capsule.png"
+      }
+    ],
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0HdUuqkw9acUFJ5KBFZv668FFUwgaeHdzJL4OO5mr-OlPi6MOvQxzxU6ZZzi-vFodyh3gLj_kM-Z2z6Jo_GdQc8Yl6G_1Dsxr-9jYj84sqke16Kmg/260fx260f"
   }
 }
