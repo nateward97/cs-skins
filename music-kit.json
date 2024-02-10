@@ -728,5 +728,53 @@
     "stattrak": false,
     "exclusive": false,
     "image": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA1rRS_Ko6J-CHQ1yJ1VVt-7yLl42i_fJKTxHv4i3ldXSw6OmN-OHkmkFucBw2rqYp9i7mFqzYilkTt8/330x192?allow_animated=1"
+  },
+  "music_kit-71": {
+    "id": "music_kit-71",
+    "name": "Music Kit | DRYDEN, Feel The Power",
+    "description": "What else needs to be said? Feel The Power. Lock in with this high-energy electro Music Kit from DRYDEN.",
+    "stattrak": false,
+    "exclusive": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/dryden_01_png.png"
+  },
+  "music_kit-72": {
+    "id": "music_kit-72",
+    "name": "Music Kit | ISOxo, inhuman",
+    "description": "Made especially for those games when you feel... <i>different</i>. Haunt your enemies round after round with the \\\"inhuman\\\" Music Kit from ISOxo.",
+    "stattrak": false,
+    "exclusive": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/isoxo_01_png.png"
+  },
+  "music_kit-73": {
+    "id": "music_kit-73",
+    "name": "Music Kit | KILL SCRIPT, All Night",
+    "description": "Are you a lover or a fighter? Perhaps both? Let the entire lobby know with the \\\"All Night\\\" Music Kit from KILL SCRIPT.",
+    "stattrak": false,
+    "exclusive": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/killscript_01_png.png"
+  },
+  "music_kit-74": {
+    "id": "music_kit-74",
+    "name": "Music Kit | Knock2, Make U SWEAT!",
+    "description": "For players who treat every game like it's a Major Grand Final, even when there's only a few hundred CSR on the line. Bring the energy and the wins with Knock2's second Music Kit, \\\"Make U SWEAT!\\\".",
+    "stattrak": false,
+    "exclusive": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/knock2_02_png.png"
+  },
+  "music_kit-75": {
+    "id": "music_kit-75",
+    "name": "Music Kit | Rad Cat, Reason",
+    "description": "Sometimes defusing the bomb is enough to be the round MVP. Celebrate every moment—big or small—with the \\\"Reason\\\" Music Kit from Rad Cat.",
+    "stattrak": false,
+    "exclusive": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/radcat_01_png.png"
+  },
+  "music_kit-76": {
+    "id": "music_kit-76",
+    "name": "Music Kit | TWERL, Ekko & Sidetrack, Under Bright Lights",
+    "description": "There's no better time to come alive than when in the spotlight. Let the drum and bass anthem \\\"Under Bright Lights\\\" by TWERL and Ekko & Sidetrack carry you and your team to new heights.",
+    "stattrak": false,
+    "exclusive": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/twerl_01_png.png"
   }
 }
