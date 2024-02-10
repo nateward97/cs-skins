@@ -254,6 +254,7 @@
     "description": null,
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/stickers2/bash_holo_large.55dea74f8a4589e3ffcaa90485be4c3abbcc6dad.png",
+    "letter": "B",
     "buff-id": "39906",
     "buff-stickersearch-id": "825"
   },
@@ -263,6 +264,7 @@
     "description": null,
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/stickers2/bosh_holo_large.7f0b6d367e66c1d723ac742c08ff666ce6212ae1.png",
+    "letter": "H",
     "buff-id": "39932",
     "buff-stickersearch-id": "848"
   },
@@ -308,6 +310,7 @@
     "description": null,
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/stickers2/goodgame_large.e0259d14f72cfde54c1ab1098a4b08bc1e472288.png",
+    "string-letter": "GG",
     "buff-id": "40244",
     "buff-stickersearch-id": "1155"
   },
@@ -326,6 +329,7 @@
     "description": null,
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/stickers2/havefun_large.c2e82fc8c928fdbd5e52ef4936d4a9f93e0402d9.png",
+    "letter": "HF",
     "buff-id": "40297",
     "buff-stickersearch-id": "1206"
   },
@@ -410,6 +414,7 @@
     "variant": "Paper",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/emskatowice2014/complexity_large.917e510e61b99f57e3ddbea6dccbc07724731fd5.png",
+    "letter": "S",
     "buff-id": "41284",
     "buff-stickersearch-id": "2181"
   },
@@ -420,6 +425,7 @@
     "variant": "Holo",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/emskatowice2014/complexity_holo_large.7f6b3e8749a77123409ac4407cdee49cfdaaf28f.png",
+    "letter": "S",
     "buff-id": "41283",
     "buff-stickersearch-id": "2180"
   },
@@ -530,6 +536,7 @@
     "variant": "Paper",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/emskatowice2014/lgb_large.6f1a226396d628e7bec9c54580c7dbac0605342f.png",
+    "letter": "G",
     "buff-id": "40431",
     "buff-stickersearch-id": "1337"
   },
@@ -540,6 +547,7 @@
     "variant": "Holo",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/emskatowice2014/lgb_holo_large.9c0959db6f6d3a6d4d2b539c95767231d2e73896.png",
+    "letter": "G",
     "buff-id": "40429",
     "buff-stickersearch-id": "1335"
   },
@@ -650,6 +658,7 @@
     "variant": "Paper",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/emskatowice2014/titan_large.c6594b1f3592efec6f5261228f9e5a90a45760a6.png",
+    "letter": "T",
     "buff-id": "40986",
     "buff-stickersearch-id": "1883"
   },
@@ -660,6 +669,7 @@
     "variant": "Holo",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/emskatowice2014/titan_holo_large.bfea30263342666a115079ef5eba50949eb3c301.png",
+    "letter": "T",
     "buff-id": "40981",
     "buff-stickersearch-id": "1878"
   },
@@ -891,6 +901,7 @@
     "description": null,
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/community01/backstab_large.38a679faba8a7d51415c44d1c48299aad7c6c16d.png",
+    "letter": "B",
     "buff-id": "39904",
     "buff-stickersearch-id": "823"
   },
@@ -1017,6 +1028,7 @@
     "description": null,
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/community01/swag_foil_large.0893bac4cb1e9640feeba10299cfe0e3a5264dd8.png",
+    "letter": "S",
     "buff-id": "40860",
     "buff-stickersearch-id": "1760"
   },
@@ -1301,6 +1313,7 @@
     "variant": "Paper",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/londonconspiracy_large.35729404aa00422e52096b9a837815cba711de35.png",
+    "letter": "CUN",
     "buff-id": "40448",
     "buff-stickersearch-id": "1354"
   },
@@ -1341,6 +1354,7 @@
     "variant": "Paper",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/titan_large.005904082b5177657d683275454a56042cce5794.png",
+    "letter": "T",
     "buff-id": "40984",
     "buff-stickersearch-id": "1881"
   },
@@ -1351,6 +1365,7 @@
     "variant": "Holo",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/titan_holo_large.57965282d2abe6169f99fa6c1365dd42c2ff6f78.png",
+    "letter": "T",
     "buff-id": "40980",
     "buff-stickersearch-id": "1877"
   },
@@ -1979,6 +1994,7 @@
     "variant": "Paper",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/bravadogaming_large.502768f3a37eabc8e227f35300ebe4f50e30acd1.png",
+    "letter": "O",
     "buff-id": "39934",
     "buff-stickersearch-id": "850"
   },
@@ -1989,6 +2005,7 @@
     "variant": "Paper",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/escgaming_large.ce8418ad193e27b867b5ebcad15b131e37db4491.png",
+    "letter": "E",
     "buff-id": "40045",
     "buff-stickersearch-id": "956"
   },
@@ -2019,6 +2036,7 @@
     "variant": "Paper",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/pentasports_large.e1056a880b5071e5ef6ac74b307edf93041065ed.png",
+    "letter": "5",
     "buff-id": "40653",
     "buff-stickersearch-id": "1554"
   },
@@ -2289,6 +2307,7 @@
     "variant": "Paper",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/flipsid3_large.c221f04f9e5019b0d604d103438ec7002b5d8d43.png",
+    "letter": "F",
     "buff-id": "40157",
     "buff-stickersearch-id": "1068"
   },
@@ -2687,6 +2706,7 @@
     "variant": "Paper",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/flipsid3_large.84f5a0408e732c3405580c211050a916195e5b9b.png",
+    "letter": "F",
     "buff-id": "40158",
     "buff-stickersearch-id": "1069"
   },
@@ -2697,6 +2717,7 @@
     "variant": "Holo",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/flipsid3_holo_large.78545a7aa6a92ba277944e2b3ca7389f111ec127.png",
+    "letter": "F",
     "buff-id": "40149",
     "buff-stickersearch-id": "1060"
   },
@@ -2707,6 +2728,7 @@
     "variant": "Foil",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/flipsid3_foil_large.5fef48d5d31c84537b5e94f1583a662f7df226ba.png",
+    "letter": "F",
     "buff-id": "40144",
     "buff-stickersearch-id": "1055"
   },
@@ -2843,6 +2865,7 @@
     "variant": "Paper",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/lgb_large.e2433db63170f333355ec88914b901efa6e002fc.png",
+    "letter": "G",
     "buff-id": "40432",
     "buff-stickersearch-id": "1338"
   },
@@ -2853,6 +2876,7 @@
     "variant": "Holo",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/lgb_holo_large.5176eeed6246c8a7ee4787aef599ed88992f0ee5.png",
+    "letter": "G",
     "buff-id": "40430",
     "buff-stickersearch-id": "1336"
   },
@@ -2863,6 +2887,7 @@
     "variant": "Foil",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/lgb_foil_large.372ec6bd62b3b1453ea66465301d717f1879cb4a.png",
+    "letter": "G",
     "buff-id": "40428",
     "buff-stickersearch-id": "1334"
   },
@@ -2957,7 +2982,10 @@
     "description": null,
     "variant": "Paper",
     "rarity": "High Grade",
-    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/pentasports_large.8fdf2611c611d48069b2bbc1d580d457ab7e3a5f.png"
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/pentasports_large.8fdf2611c611d48069b2bbc1d580d457ab7e3a5f.png",
+    "letter": "5",
+    "buff-id": "40648",
+    "buff-stickersearch-id": "1549"
   },
   "sticker-331": {
     "id": "sticker-331",
@@ -2966,6 +2994,7 @@
     "variant": "Holo",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/pentasports_holo_large.95de416a0d5b3f962dfdbcadc86528d230a5c614.png",
+    "letter": "5",
     "buff-id": "40651",
     "buff-stickersearch-id": "1552"
   },
@@ -2976,6 +3005,7 @@
     "variant": "Foil",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/pentasports_foil_large.657d9d00b86552cc2de5612499b4bf993c7806a5.png",
+    "letter": "5",
     "buff-id": "40649",
     "buff-stickersearch-id": "1550"
   },
@@ -2995,6 +3025,8 @@
     "variant": "Paper",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/teamenvyus_large.ecd0526e2cf238b0425e98c4f7bd3c9779f9647b.png",
+    "letter": "N",
+    "default": "yes",
     "buff-id": "40926",
     "buff-stickersearch-id": "1824"
   },
@@ -3005,6 +3037,7 @@
     "variant": "Holo",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/teamenvyus_holo_large.d1b4eb6649c5eea186a89e9311d56220d66e3b5a.png",
+    "letter": "N",
     "buff-id": "40919",
     "buff-stickersearch-id": "1817"
   },
@@ -3015,6 +3048,7 @@
     "variant": "Foil",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/teamenvyus_foil_large.ce5bfaf06443a5a0b8d7edffef56d18bbed2bd99.png",
+    "letter": "N",
     "buff-id": "40914",
     "buff-stickersearch-id": "1812"
   },
@@ -3034,6 +3068,7 @@
     "variant": "Paper",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/teamsolomid_large.be234b9678c6c4b3116f72e24efd9347e4e2f50d.png",
+    "letter": "SM",
     "buff-id": "40878",
     "buff-stickersearch-id": "1778"
   },
@@ -3044,6 +3079,7 @@
     "variant": "Holo",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/teamsolomid_holo_large.b2b93f8257e37c632915508feb63e309bf43e194.png",
+    "letter": "SM",
     "buff-id": "40877",
     "buff-stickersearch-id": "1777"
   },
@@ -3054,6 +3090,7 @@
     "variant": "Foil",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/teamsolomid_foil_large.064a976fc9062ef007bc2462bb203cc8c21e306b.png",
+    "letter": "SM",
     "buff-id": "40876",
     "buff-stickersearch-id": "1776"
   },
@@ -3073,6 +3110,7 @@
     "variant": "Paper",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/titan_large.ec5f872517c77762c74f1461867c76f929d0a620.png",
+    "letter": "T",
     "buff-id": "40987",
     "buff-stickersearch-id": "1884"
   },
@@ -3083,6 +3121,7 @@
     "variant": "Holo",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/titan_holo_large.a1c2b4efee4ca6f128e414f7669b07351dcfdefa.png",
+    "letter": "T",
     "buff-id": "40982",
     "buff-stickersearch-id": "1879"
   },
@@ -3093,6 +3132,7 @@
     "variant": "Foil",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/titan_foil_large.8c845af6d866c05ace2039442325eaaef3fa8a4d.png",
+    "letter": "T",
     "buff-id": "40979",
     "buff-stickersearch-id": "1876"
   },
@@ -5817,6 +5857,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/envyus_large.d784e189d585254bf8bf4d617d73a3944bf9aa8a.png",
+    "letter": "N",
     "buff-id": "40924",
     "buff-stickersearch-id": "1822"
   },
@@ -5826,6 +5867,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/envyus_foil_large.878194b0a511b756d49186c30992daefdcbde762.png",
+    "letter": "N",
     "buff-id": "43943",
     "buff-stickersearch-id": "2861"
   },
@@ -5895,6 +5937,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/teamimmunity_large.b828628533c691ce5a8ba6efc5da876bf0bee974.png",
+    "letter": "M",
     "buff-id": "40929",
     "buff-stickersearch-id": "1827"
   },
@@ -5904,6 +5947,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/teamimmunity_foil_large.c96310bbbfc6e3712f80d0d5a4b3cff4bc93fb27.png",
+    "letter": "M",
     "buff-id": "40928",
     "buff-stickersearch-id": "1826"
   },
@@ -5921,6 +5965,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/flipside_large.b1c24dd5a42f192a4f07e63398eb662de8580da3.png",
+    "letter": "F",
     "buff-id": "40155",
     "buff-stickersearch-id": "1066"
   },
@@ -5930,6 +5975,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/flipside_foil_large.1d055bba036dbaf389cad2da2059d34372b3d238.png",
+    "letter": "F",
     "buff-id": "40142",
     "buff-stickersearch-id": "1053"
   },
@@ -5947,6 +5993,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/titan_large.b0e0885602d786d4f0763541a303d45b16fcf194.png",
+    "letter": "T",
     "buff-id": "40985",
     "buff-stickersearch-id": "1882"
   },
@@ -5956,6 +6003,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/titan_foil_large.1603af33682fcc6cc7af2e0d4959d1244f76ee84.png",
+    "letter": "T",
     "buff-id": "40978",
     "buff-stickersearch-id": "1875"
   },
@@ -8183,6 +8231,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cluj2015/vex_large.20f48097153b223651684f514c7f789bcfd353f6.png",
+    "letter": "X",
     "buff-id": "41013",
     "buff-stickersearch-id": "1910"
   },
@@ -8192,6 +8241,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cluj2015/vex_foil_large.c9cd6f5ffd483783aa4564304ccca9da6ece5885.png",
+    "letter": "X",
     "buff-id": "43944",
     "buff-stickersearch-id": "2862"
   },
@@ -8209,6 +8259,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cluj2015/flip_large.2fd3fdcdba22f17a0d095327588049014ea33ba1.png",
+    "letter": "F",
     "buff-id": "40154",
     "buff-stickersearch-id": "1065"
   },
@@ -8218,6 +8269,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cluj2015/flip_foil_large.f01feb291e37e45968e7bbc0387457f1eeca4575.png",
+    "letter": "F",
     "buff-id": "40141",
     "buff-stickersearch-id": "1052"
   },
@@ -8391,6 +8443,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cluj2015/tit_large.79f53164d6c3d0833ae1597f6a495e51907bce15.png",
+    "letter": "T",
     "buff-id": "40983",
     "buff-stickersearch-id": "1880"
   },
@@ -8400,6 +8453,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cluj2015/tit_foil_large.187520d3bf607c1cefe5ca9e9d5e5854fc5ac3c9.png",
+    "letter": "T",
     "buff-id": "40977",
     "buff-stickersearch-id": "1874"
   },
@@ -8443,6 +8497,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cluj2015/nv_large.63cb2f608bd4ed2ce4f5ce47172d921bb1f6308d.png",
+    "letter": "N",
     "buff-id": "40923",
     "buff-stickersearch-id": "1821"
   },
@@ -8452,6 +8507,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cluj2015/nv_foil_large.1fe9a20cd0dc7dde498549b3efff17cbc31ca9ad.png",
+    "letter": "N",
     "buff-id": "40912",
     "buff-stickersearch-id": "1810"
   },
@@ -8808,6 +8864,7 @@
     "description": null,
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/team_roles_capsule/bomber_large.90341283d8a1f3117fc489dbbba596c228ea6b19.png",
+    "letter": "O",
     "buff-id": "40963",
     "buff-stickersearch-id": "1861"
   },
@@ -8844,6 +8901,7 @@
     "description": null,
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/team_roles_capsule/lurker_large.c25c1a10e14c67bef12ac892bbc69af2a1e851e8.png",
+    "letter": "O",
     "buff-id": "40968",
     "buff-stickersearch-id": "1866"
   },
@@ -8871,6 +8929,7 @@
     "description": null,
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/team_roles_capsule/support_large.6f4814f01836de6c9afcfece8beb42d3c254bd57.png",
+    "letter": "O",
     "buff-id": "40859",
     "buff-stickersearch-id": "1759"
   },
@@ -8973,6 +9032,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/columbus2016/splc_large.5fb439a52d1eea4026eaab03d48d4c36faf497d5.png",
+    "letter": "S",
     "buff-id": "40840",
     "buff-stickersearch-id": "1740"
   },
@@ -8982,6 +9042,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/columbus2016/splc_holo_large.47ee63a465426157d96836ad34b272b105cdb37d.png",
+    "letter": "S",
     "buff-id": "40839",
     "buff-stickersearch-id": "1739"
   },
@@ -8991,6 +9052,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/columbus2016/splc_foil_large.ab99f138a71ab94d408f4935f51c93acc94d9050.png",
+    "letter": "S",
     "buff-id": "40838",
     "buff-stickersearch-id": "1738"
   },
@@ -9078,6 +9140,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/columbus2016/flip_large.1641f21389abcd1dfe54e3ff5d078ad4f8d877d1.png",
+    "letter": "F",
     "buff-id": "40160",
     "buff-stickersearch-id": "1071"
   },
@@ -9087,6 +9150,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/columbus2016/flip_holo_large.541ddfaa99575a50659e56c0b221c7531a6baddd.png",
+    "letter": "F",
     "buff-id": "40151",
     "buff-stickersearch-id": "1062"
   },
@@ -9096,6 +9160,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/columbus2016/flip_foil_large.2986e806307cec5a2ca1de780cabfd15389c99e6.png",
+    "letter": "F",
     "buff-id": "40145",
     "buff-stickersearch-id": "1056"
   },
@@ -9323,6 +9388,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/columbus2016/faze_large.e13327ddc12744e0c2e1e63b6379f0d614a50511.png",
+    "letter": "F",
     "buff-id": "40111",
     "buff-stickersearch-id": "1022"
   },
@@ -9332,6 +9398,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/columbus2016/faze_holo_large.afc4ce7f1a731e6b5c44b1a71d41759c93e34a0d.png",
+    "letter": "F",
     "buff-id": "40106",
     "buff-stickersearch-id": "1017"
   },
@@ -9341,6 +9408,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/columbus2016/faze_foil_large.322fe5f3279c4af3bb931a2186586d11270a78d2.png",
+    "letter": "F",
     "buff-id": "40101",
     "buff-stickersearch-id": "1012"
   },
@@ -9350,6 +9418,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/columbus2016/faze_gold_large.4f960d4f6d5bd6858ce4472736f30399548ce439.png",
+    "letter": "F",
     "buff-stickersearch-id": "3404"
   },
   "sticker-1055": {
@@ -9393,6 +9462,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/columbus2016/nv_large.027e54cf4c2a1c3c8f865d013518e8474fc347d5.png",
+    "letter": "N",
     "buff-id": "40927",
     "buff-stickersearch-id": "1825"
   },
@@ -9402,6 +9472,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/columbus2016/nv_holo_large.37d4aeda54eefc5a48e3a90f91cf3b53ebecbf07.png",
+    "letter": "N",
     "buff-id": "40920",
     "buff-stickersearch-id": "1818"
   },
@@ -9411,6 +9482,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/columbus2016/nv_foil_large.c1553ddfed52a428212e366bcce67d7e66a832a9.png",
+    "letter": "N",
     "buff-id": "40915",
     "buff-stickersearch-id": "1813"
   },
@@ -11761,6 +11833,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2016/flip_large.38b6723bbf830ba79dd7c777e5349b64a9eb23f7.png",
+    "letter": "F",
     "buff-id": "40156",
     "buff-stickersearch-id": "1067"
   },
@@ -11770,6 +11843,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2016/flip_holo_large.e73b3c1b22d8af6b01935e01b9cddb838db866ec.png",
+    "letter": "F",
     "buff-id": "40148",
     "buff-stickersearch-id": "1059"
   },
@@ -11779,6 +11853,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2016/flip_foil_large.d3a875c77aed70a4eef734dfeb3b646176715963.png",
+    "letter": "F",
     "buff-id": "40143",
     "buff-stickersearch-id": "1054"
   },
@@ -12006,6 +12081,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2016/faze_large.20e12e924a1362d20586b9fd402559c1e3f3f4c2.png",
+    "letter": "F",
     "buff-id": "40109",
     "buff-stickersearch-id": "1020"
   },
@@ -12015,6 +12091,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2016/faze_holo_large.79a42cdb9cc5173cc0962fa3626279b45cfde560.png",
+    "letter": "F",
     "buff-id": "40104",
     "buff-stickersearch-id": "1015"
   },
@@ -12024,6 +12101,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2016/faze_foil_large.a97691b57d3b47ef2ca8d601f77b3ac6b2cead8e.png",
+    "letter": "F",
     "buff-id": "40099",
     "buff-stickersearch-id": "1010"
   },
@@ -12033,6 +12111,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2016/faze_gold_large.cdb8456f6fe83a1c8ac1b756ac53b246303a9eca.png",
+    "letter": "F",
     "buff-stickersearch-id": "3425"
   },
   "sticker-1365": {
@@ -12076,6 +12155,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2016/nv_large.d81a927a5c1293abd58240fb58fce9526106c00a.png",
+    "letter": "N",
     "buff-id": "40925",
     "buff-stickersearch-id": "1823"
   },
@@ -12085,6 +12165,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2016/nv_holo_large.e33569b4134fac6fbd64b383d37a7f7c0eabdf33.png",
+    "letter": "N",
     "buff-id": "40918",
     "buff-stickersearch-id": "1816"
   },
@@ -12094,6 +12175,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2016/nv_foil_large.e4e79c0def348c26ece365945217bec9802a7643.png",
+    "letter": "N",
     "buff-id": "40913",
     "buff-stickersearch-id": "1811"
   },
@@ -14638,6 +14720,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/atlanta2017/nv_large.17f841b7a988cd434d5465aa6fce5759efce7df9.png",
+    "letter": "N",
     "buff-id": "40921",
     "buff-stickersearch-id": "1819"
   },
@@ -14647,6 +14730,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/atlanta2017/nv_holo_large.da4d20337036ca8263c9b37c8743aa0291230cce.png",
+    "letter": "N",
     "buff-id": "40916",
     "buff-stickersearch-id": "1814"
   },
@@ -14656,6 +14740,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/atlanta2017/nv_foil_large.cc7966c2ff116642a6563c16be8f5aa61038964d.png",
+    "letter": "N",
     "buff-id": "40910",
     "buff-stickersearch-id": "1808"
   },
@@ -14673,6 +14758,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/atlanta2017/faze_large.229044c7179e4b3e4be481427b7b577cba199be4.png",
+    "letter": "F",
     "buff-id": "40107",
     "buff-stickersearch-id": "1018"
   },
@@ -14682,6 +14768,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/atlanta2017/faze_holo_large.3ed85638f84a7ecfc8a6a170c219ebb3e42c545f.png",
+    "letter": "F",
     "buff-id": "40102",
     "buff-stickersearch-id": "1013"
   },
@@ -14691,6 +14778,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/atlanta2017/faze_foil_large.ba4c5ff9c5062ec196f2135bbea0d09181db5ce1.png",
+    "letter": "F",
     "buff-id": "40097",
     "buff-stickersearch-id": "1008"
   },
@@ -14700,6 +14788,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/atlanta2017/faze_gold_large.9672e3c461c4eb938d18182ef7fb258c953a7f0a.png",
+    "letter": "F",
     "buff-stickersearch-id": "3329"
   },
   "sticker-1750": {
@@ -14708,6 +14797,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/atlanta2017/flip_large.02680669ddae1b321b1306b6c128ac70c5179c95.png",
+    "letter": "F",
     "buff-id": "40152",
     "buff-stickersearch-id": "1063"
   },
@@ -14717,6 +14807,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/atlanta2017/flip_holo_large.1d27a0a9e5df73d59122004d5dc9d655a58acdfa.png",
+    "letter": "F",
     "buff-id": "40146",
     "buff-stickersearch-id": "1057"
   },
@@ -14726,6 +14817,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/atlanta2017/flip_foil_large.41755e23d7faa328be71ab1cdd1436b2c9b4f510.png",
+    "letter": "F",
     "buff-id": "40139",
     "buff-stickersearch-id": "1050"
   },
@@ -17523,6 +17615,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/krakow2017/faze_large.ffefc690da3329959055f71669ae789ce482820f.png",
+    "letter": "F",
     "buff-id": "40110",
     "buff-stickersearch-id": "1021"
   },
@@ -17532,6 +17625,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/krakow2017/faze_holo_large.6cb2b117971e229679ecb58726d70a2c7d644cc3.png",
+    "letter": "F",
     "buff-id": "40105",
     "buff-stickersearch-id": "1016"
   },
@@ -17541,6 +17635,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/krakow2017/faze_foil_large.0e273731a5a17c6bc5a1a80c93210d0029b0b3e4.png",
+    "letter": "F",
     "buff-id": "40100",
     "buff-stickersearch-id": "1011"
   },
@@ -17550,6 +17645,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/krakow2017/faze_gold_large.2e63c918eabfc845b238e98f3f2b15fbbffa73eb.png",
+    "letter": "F",
     "buff-stickersearch-id": "3540"
   },
   "sticker-2095": {
@@ -17698,6 +17794,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/krakow2017/penta_large.c1bfc45cd3e036d837c691ffea47a564a61dedaa.png",
+    "letter": "5",
     "buff-id": "40654",
     "buff-stickersearch-id": "1555"
   },
@@ -17707,6 +17804,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/krakow2017/penta_holo_large.fac161f88d983a9d0d879080691871070807d46d.png",
+    "letter": "5",
     "buff-id": "40652",
     "buff-stickersearch-id": "1553"
   },
@@ -17716,6 +17814,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/krakow2017/penta_foil_large.e82e97cee7be1a5b6b87bf03258a62561454c9bf.png",
+    "letter": "5",
     "buff-id": "40650",
     "buff-stickersearch-id": "1551"
   },
@@ -17733,6 +17832,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/krakow2017/flip_large.f2a5e24240687a9066f59bdb617ada356a4e07d6.png",
+    "letter": "F",
     "buff-id": "40159",
     "buff-stickersearch-id": "1070"
   },
@@ -17742,6 +17842,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/krakow2017/flip_holo_large.b84178d3ba54365052d05064727acf35c493d794.png",
+    "letter": "F",
     "buff-id": "40150",
     "buff-stickersearch-id": "1061"
   },
@@ -17751,6 +17852,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/krakow2017/flip_foil_large.f4fc4a4dbc4ae3936595ee4737955d44446a5318.png",
+    "letter": "F",
     "buff-id": "43940",
     "buff-stickersearch-id": "2858"
   },
@@ -20652,6 +20754,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/boston2018/flip_large.bfc45ed35a60123084af18c4d2b6a55637d54dcb.png",
+    "letter": "F",
     "buff-id": "40153",
     "buff-stickersearch-id": "1064"
   },
@@ -20661,6 +20764,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/boston2018/flip_holo_large.8f8ee9fefcb66e4cb41a9135e6f738659177f58d.png",
+    "letter": "F",
     "buff-id": "40147",
     "buff-stickersearch-id": "1058"
   },
@@ -20670,6 +20774,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/boston2018/flip_foil_large.719333d108539fff77ce397f80a44396f7afe746.png",
+    "letter": "F",
     "buff-id": "40140",
     "buff-stickersearch-id": "1051"
   },
@@ -20792,6 +20897,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/boston2018/faze_large.447ff91da6b9c8632b71ff94d50750a8bea78c84.png",
+    "letter": "F",
     "buff-id": "40108",
     "buff-stickersearch-id": "1019"
   },
@@ -20801,6 +20907,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/boston2018/faze_holo_large.17ee381314f5c448d1be63a8233935699f949afe.png",
+    "letter": "F",
     "buff-id": "40103",
     "buff-stickersearch-id": "1014"
   },
@@ -20810,6 +20917,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/boston2018/faze_foil_large.d7909a06dab264f5097fd5f2556834328269eff3.png",
+    "letter": "F",
     "buff-id": "40098",
     "buff-stickersearch-id": "1009"
   },
@@ -20819,6 +20927,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/boston2018/faze_gold_large.2336467fa5fbd65a94dd3c4fadb2df20af8b95a3.png",
+    "letter": "F",
     "buff-stickersearch-id": "3380"
   },
   "sticker-2496": {
@@ -21002,6 +21111,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/boston2018/nv_large.0c75c71dfd1775a96342f506cb5f6fe7dcc2284c.png",
+    "letter": "N",
     "buff-id": "40922",
     "buff-stickersearch-id": "1820"
   },
@@ -21011,6 +21121,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/boston2018/nv_holo_large.69594e893e43a93903d6154e5fc4fcba9ab08c6f.png",
+    "letter": "N",
     "buff-id": "40917",
     "buff-stickersearch-id": "1815"
   },
@@ -21020,6 +21131,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/boston2018/nv_foil_large.15c46597cd25e43c85d994c84e2341da93aa62a9.png",
+    "letter": "N",
     "buff-id": "40911",
     "buff-stickersearch-id": "1809"
   },
@@ -24765,6 +24877,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/london2018/faze_large.8eaa40a20e53898ad86fd18dc3305cf75e38edad.png",
+    "letter": "F",
     "buff-id": "760409",
     "buff-stickersearch-id": "2911"
   },
@@ -24774,6 +24887,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/london2018/faze_holo_large.3b9c8ce950e2eabfa036788cc32f00a9b6fceca2.png",
+    "letter": "F",
     "buff-id": "760459",
     "buff-stickersearch-id": "2935"
   },
@@ -24783,6 +24897,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/london2018/faze_foil_large.497fba94f6563e9d5c37cf50404d45b3ca04def0.png",
+    "letter": "F",
     "buff-id": "760717",
     "buff-stickersearch-id": "3105"
   },
@@ -24792,6 +24907,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/london2018/faze_gold_large.08b7fdbe067eacf8c19ffc23d378f0d30d1bf3c7.png",
+    "letter": "F",
     "buff-stickersearch-id": "3382"
   },
   "sticker-2963": {
@@ -25325,6 +25441,8 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/london2018/col_large.ac38947f0bbb6359f11398808475d7b5e79c6a3a.png",
+    "letter": "O",
+    "default": "yes",
     "buff-id": "760434",
     "buff-stickersearch-id": "2920"
   },
@@ -25334,6 +25452,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/london2018/col_holo_large.9961b1878328ee17674ba59621e2ff86ae442918.png",
+    "letter": "O",
     "buff-id": "760466",
     "buff-stickersearch-id": "2941"
   },
@@ -25343,6 +25462,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/london2018/col_foil_large.62720d4c6fb5426b4f2b507e1cb33c9c3265cf75.png",
+    "letter": "O",
     "buff-id": "760463",
     "buff-stickersearch-id": "2938"
   },
@@ -27840,6 +27960,7 @@
     "description": "This sticker was autographed by professional player Fredrik Sterner playing for Ninjas in Pyjamas at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/london2018/sig_rez_large.18819bd2cc82ad17178c7993d1c688f66cc394cf.png",
+    "letter": "R",
     "buff-id": "760491",
     "buff-stickersearch-id": "2964"
   },
@@ -27849,6 +27970,7 @@
     "description": "This foil sticker was autographed by professional player Fredrik Sterner playing for Ninjas in Pyjamas at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/london2018/sig_rez_foil_large.74b70d264e7274743458f7f40a925b842907e94e.png",
+    "letter": "R",
     "buff-id": "760607",
     "buff-stickersearch-id": "3056"
   },
@@ -27858,6 +27980,7 @@
     "description": "This gold sticker was autographed by professional player Fredrik Sterner playing for Ninjas in Pyjamas at London 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Extraordinary",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/london2018/sig_rez_gold_large.814b0fa07a6912549543a52e3d46b521b8c4ee64.png",
+    "letter": "R",
     "buff-id": "761116",
     "buff-stickersearch-id": "3311"
   },
@@ -29036,6 +29159,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/katowice2019/avg_large.4e3a42efcda04db4039293575debcfa18cb69507.png",
+    "letter": "W",
     "buff-id": "768359",
     "buff-stickersearch-id": "4721"
   },
@@ -29045,6 +29169,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/katowice2019/avg_holo_large.0f742df1ae57d4c2fed2ef43b5eb5f9ab76c4bc2.png",
+    "letter": "W",
     "buff-id": "768229",
     "buff-stickersearch-id": "4680"
   },
@@ -29054,6 +29179,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/katowice2019/avg_foil_large.045c46d3105b509ddfb608ab871bf221c289182a.png",
+    "letter": "W",
     "buff-id": "768659",
     "buff-stickersearch-id": "4496"
   },
@@ -29141,6 +29267,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/katowice2019/col_large.dd098185877848826a6ddda433dacd0ce8af88c9.png",
+    "letter": "O",
     "buff-id": "768577",
     "buff-stickersearch-id": "4830"
   },
@@ -29150,6 +29277,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/katowice2019/col_holo_large.59959ccb1b152f1ae7aa3a02f046e7687dbc8043.png",
+    "letter": "O",
     "buff-id": "768230",
     "buff-stickersearch-id": "4590"
   },
@@ -29159,6 +29287,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/katowice2019/col_foil_large.779cb800eba97b77bd8552e83068ea7d25f01d33.png",
+    "letter": "O",
     "buff-id": "768234",
     "buff-stickersearch-id": "4683"
   },
@@ -29211,6 +29340,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/katowice2019/faze_large.9883b325d14d4ef4795b6b54f511e66d8133d940.png",
+    "letter": "F",
     "buff-id": "768313",
     "buff-stickersearch-id": "4576"
   },
@@ -29220,6 +29350,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/katowice2019/faze_holo_large.4b33cb9451fabf221754ad1e0de159698d482da3.png",
+    "letter": "F",
     "buff-id": "768177",
     "buff-stickersearch-id": "4533"
   },
@@ -29229,6 +29360,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/katowice2019/faze_foil_large.e6fe51be73873487764b2f78933fc9de830ce9cb.png",
+    "letter": "F",
     "buff-id": "768153",
     "buff-stickersearch-id": "4638"
   },
@@ -29238,6 +29370,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/katowice2019/faze_gold_large.e45e6f95d5e553ffa8e08ce9eedcb7755d2ef2bc.png",
+    "letter": "F",
     "buff-stickersearch-id": "5412"
   },
   "sticker-3488": {
@@ -29736,6 +29869,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/katowice2019/vici_large.4f49b0ad9697cac40251dc5f44469e8db4edb569.png",
+    "letter": "V",
     "buff-id": "768158",
     "buff-stickersearch-id": "4483"
   },
@@ -29745,6 +29879,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/katowice2019/vici_holo_large.4486bb6a4f0db0d00ad3adb6644cb4ae2f749b72.png",
+    "letter": "V",
     "buff-id": "768381",
     "buff-stickersearch-id": "4982"
   },
@@ -29754,6 +29889,7 @@
     "description": "50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/katowice2019/vici_foil_large.d3880972e4ea59cc4bf6257276cab5a49f8ea8cb.png",
+    "letter": "V",
     "buff-id": "768633",
     "buff-stickersearch-id": "5081"
   },
@@ -33332,6 +33468,7 @@
     "description": null,
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/chicken_capsule/hotwings_pack01_large.32b2852eb85a59a2ad890acaa86ba86a26faca9a.png",
+    "letter": "I",
     "buff-id": "770853",
     "buff-stickersearch-id": "8814"
   },
@@ -33606,6 +33743,7 @@
     "description": null,
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/berlin2019/faze_large.f49aa5930a3d65d0e732f716cc0eee3e2863d677.png",
+    "letter": "F",
     "buff-id": "772298",
     "buff-stickersearch-id": "10505"
   },
@@ -33615,6 +33753,7 @@
     "description": null,
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/berlin2019/faze_holo_large.fad0939ea8fec056ec5858526e7eaa9ff66aedc8.png",
+    "letter": "F",
     "buff-id": "772180",
     "buff-stickersearch-id": "10401"
   },
@@ -33624,6 +33763,7 @@
     "description": null,
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/berlin2019/faze_foil_large.092a9c5f5a6a3f35bfcaf56f8f984f14ffbec28b.png",
+    "letter": "F",
     "buff-id": "772348",
     "buff-stickersearch-id": "10538"
   },
@@ -33633,6 +33773,7 @@
     "description": null,
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/berlin2019/faze_gold_large.a0b3ef6989988ea4ff3465799ffd8750d89ffe47.png",
+    "letter": "F",
     "buff-stickersearch-id": "10722"
   },
   "sticker-4043": {
@@ -33781,6 +33922,7 @@
     "description": null,
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/berlin2019/avg_large.6c0e9c46f4d9c17f3f4d3d5c301a1d542d2a7c14.png",
+    "letter": "W",
     "buff-id": "772381",
     "buff-stickersearch-id": "10567"
   },
@@ -33790,6 +33932,7 @@
     "description": null,
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/berlin2019/avg_holo_large.2f4cfb8c2a69c2eddac96e847ca423b16bee5c96.png",
+    "letter": "W",
     "buff-id": "772016",
     "buff-stickersearch-id": "10315"
   },
@@ -33799,6 +33942,7 @@
     "description": null,
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/berlin2019/avg_foil_large.61be56f80848d0d72756dbe8656db7679bc02fea.png",
+    "letter": "W",
     "buff-id": "772438",
     "buff-stickersearch-id": "10611"
   },
@@ -34927,6 +35071,7 @@
     "description": "This sticker was autographed by professional player Fredrik Sterner playing for Ninjas in Pyjamas at Berlin 2019.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/berlin2019/sig_rez_large.9aa4f1c693e7545873e08fce9916ac9c1a6f7c4a.png",
+    "letter": "R",
     "buff-id": "772216",
     "buff-stickersearch-id": "10435"
   },
@@ -34936,6 +35081,7 @@
     "description": "This foil sticker was autographed by professional player Fredrik Sterner playing for Ninjas in Pyjamas at Berlin 2019.",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/berlin2019/sig_rez_foil_large.10f836c24779dbdc0d55ffb5f67fb698dc363967.png",
+    "letter": "R",
     "buff-id": "772026",
     "buff-stickersearch-id": "10324"
   },
@@ -34945,6 +35091,7 @@
     "description": "This gold sticker was autographed by professional player Fredrik Sterner playing for Ninjas in Pyjamas at Berlin 2019.",
     "rarity": "Extraordinary",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/berlin2019/sig_rez_gold_large.5840a26628d8589d63f18dbf1802adcd91f1c385.png",
+    "letter": "R",
     "buff-id": "772451",
     "buff-stickersearch-id": "10619"
   },
@@ -37627,6 +37774,7 @@
     "description": null,
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cs20/cs20_anniversary_pixel_holo_large.051174ea80526af418a95ce4e359feffd9856dba.png",
+    "letter": "2",
     "buff-id": "773544",
     "buff-stickersearch-id": "10754"
   },
@@ -38014,6 +38162,8 @@
     "description": "Half-Life: Alyx Commemorative Sticker",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/alyx/lambda_large.336a7eb6114c09b77277994181a39791fa504dbd.png",
+    "letter": "Y",
+    "default": "yes",
     "buff-id": "779020",
     "buff-stickersearch-id": "10953"
   },
@@ -38050,6 +38200,7 @@
     "description": "Half-Life: Alyx Commemorative Sticker",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/alyx/lambda_holo_large.e17819b33a10f29591842426a83209f4427395bb.png",
+    "letter": "Y",
     "buff-id": "779027",
     "buff-stickersearch-id": "10944"
   },
@@ -38464,6 +38615,7 @@
     "description": null,
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/recoil/sg553_recoil_large.7539349dd68beb75041ed0d930c214ea6923ae89.png",
+    "letter": "L",
     "buff-id": "835675",
     "buff-stickersearch-id": "15547"
   },
@@ -38473,6 +38625,7 @@
     "description": null,
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/recoil/sg553_recoil_gold_large.8075227fb403939f7777b125eba92daad5a15fff.png",
+    "letter": "L",
     "buff-id": "835834",
     "buff-stickersearch-id": "15523"
   },
@@ -38986,6 +39139,7 @@
     "description": null,
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/rmr2020/faze_large.93975cd1217d4242860b6b7698283e76fbfb46c8.png",
+    "letter": "F",
     "buff-id": "847259",
     "buff-stickersearch-id": "15804"
   },
@@ -38995,6 +39149,7 @@
     "description": null,
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/rmr2020/faze_holo_large.1fb02a2c91e1ac11f7c4c5b57bf0bb202d377976.png",
+    "letter": "F",
     "buff-id": "847272",
     "buff-stickersearch-id": "15814"
   },
@@ -39004,6 +39159,7 @@
     "description": null,
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/rmr2020/faze_foil_large.b35c566fe3301e53a7307a1d78277ed0669187b5.png",
+    "letter": "F",
     "buff-id": "847304",
     "buff-stickersearch-id": "15841"
   },
@@ -39013,6 +39169,7 @@
     "description": null,
     "rarity": "Extraordinary",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/rmr2020/faze_gold_large.7c60f1705eb84395928cb3a1f02dc2707cad6e8a.png",
+    "letter": "F",
     "buff-id": "847330",
     "buff-stickersearch-id": "15865"
   },
@@ -39130,6 +39287,7 @@
     "description": null,
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/rmr2020/nemi_large.69b54e149469981a9ac3545d0ed5b3b605f1a80e.png",
+    "letter": "N",
     "buff-id": "847218",
     "buff-stickersearch-id": "15783"
   },
@@ -39139,6 +39297,7 @@
     "description": null,
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/rmr2020/nemi_holo_large.c6d49084b3b413d4a0c451fee4f1b05a3017dccf.png",
+    "letter": "N",
     "buff-id": "847293",
     "buff-stickersearch-id": "15830"
   },
@@ -39148,6 +39307,7 @@
     "description": null,
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/rmr2020/nemi_foil_large.5e779f4a317925fbe0a47e638940a8776216357a.png",
+    "letter": "N",
     "buff-id": "847298",
     "buff-stickersearch-id": "15835"
   },
@@ -39157,6 +39317,7 @@
     "description": null,
     "rarity": "Extraordinary",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/rmr2020/nemi_gold_large.8d7441adc307aaabadac65384128870deff227ba.png",
+    "letter": "N",
     "buff-id": "847316",
     "buff-stickersearch-id": "15853"
   },
@@ -40210,6 +40371,7 @@
     "description": null,
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/riptide_surfshop/tier6_01_large.301a3bc0faf713a1c7c9c76bd56cc6da2e4b6413.png",
+    "letter": "6",
     "buff-id": "871750",
     "buff-stickersearch-id": "16081"
   },
@@ -40219,6 +40381,7 @@
     "description": null,
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/riptide_surfshop/tier6_02_large.4ba51d0d9bc6f93a30831207d28c8910767d121b.png",
+    "letter": "6",
     "buff-id": "871724",
     "buff-stickersearch-id": "16069"
   },
@@ -40228,6 +40391,7 @@
     "description": null,
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/riptide_surfshop/tier6_03_large.336b59fc0c82136dd285a2683d51833c712c9219.png",
+    "letter": "6",
     "buff-id": "871094",
     "buff-stickersearch-id": "16002"
   },
@@ -40237,6 +40401,7 @@
     "description": null,
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/riptide_surfshop/tier6_04_large.a89a0937ff448cc4aff25697daa0e88609e9d00b.png",
+    "letter": "6",
     "buff-id": "871689",
     "buff-stickersearch-id": "16061"
   },
@@ -40309,6 +40474,7 @@
     "description": null,
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/community2021/ez_glossy_large.8846ca03107dac0534024af5721bd1b819701275.png",
+    "letter": "E",
     "buff-id": "869889",
     "buff-stickersearch-id": "15976"
   },
@@ -40489,6 +40655,7 @@
     "description": null,
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/bf2042/bf2042_paper_large.c8ccb383b33c474831c306d79d4a12f00cac1350.png",
+    "letter": "B",
     "buff-id": "880158",
     "buff-stickersearch-id": "16479"
   },
@@ -40507,6 +40674,7 @@
     "description": null,
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/bf2042/fortytwo_paper_large.d9d6265b51817c5a20a7fe6a34fb5c605984d9d3.png",
+    "letter": "42",
     "buff-id": "880155",
     "buff-stickersearch-id": "16477"
   },
@@ -40534,6 +40702,7 @@
     "description": null,
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/bf2042/nopats_paper_large.5971ecc35360dbfdd8c407bb880ddfd3901c01ca.png",
+    "letter": "N",
     "buff-id": "880156",
     "buff-stickersearch-id": "16478"
   },
@@ -40570,6 +40739,7 @@
     "description": null,
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/bf2042/nopats_holo_large.747d036f0a0fd017d78f285aff68c45e07765b2a.png",
+    "letter": "N",
     "buff-id": "880193",
     "buff-stickersearch-id": "16491"
   },
@@ -41182,6 +41352,7 @@
     "description": null,
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/stockh2021/pain_large.08b1811616aaa05581a9b52df0cdfbe17c2c1141.png",
+    "letter": "P",
     "buff-id": "876039",
     "buff-stickersearch-id": "16168"
   },
@@ -41191,6 +41362,7 @@
     "description": null,
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/stockh2021/pain_holo_large.db40a0e768ee9ecf0a9c669c1d8d8bf3835ffefd.png",
+    "letter": "P",
     "buff-id": "876123",
     "buff-stickersearch-id": "16169"
   },
@@ -41200,6 +41372,7 @@
     "description": null,
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/stockh2021/pain_foil_large.ce574d7bba819411bed262ab8fdf95b24724e811.png",
+    "letter": "P",
     "buff-id": "876142",
     "buff-stickersearch-id": "16261"
   },
@@ -41209,6 +41382,7 @@
     "description": null,
     "rarity": "Extraordinary",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/stockh2021/pain_gold_large.c8e7630fc2aa037789213cd126b3641160c18239.png",
+    "letter": "P",
     "buff-id": "876015",
     "buff-stickersearch-id": "16204"
   },
@@ -41650,6 +41824,7 @@
     "description": null,
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/stockh2021/faze_large.ad49439a6bee4db31cf8bfec4d30c868bf379344.png",
+    "letter": "F",
     "buff-id": "875857",
     "buff-stickersearch-id": "16151"
   },
@@ -41659,6 +41834,7 @@
     "description": null,
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/stockh2021/faze_holo_large.59429ae55f16d4cf3930258b43294839f7291174.png",
+    "letter": "F",
     "buff-id": "876072",
     "buff-stickersearch-id": "16184"
   },
@@ -41668,6 +41844,7 @@
     "description": null,
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/stockh2021/faze_foil_large.25c461dfdc8cf58b70fce70e2dc2e188ec7f6503.png",
+    "letter": "F",
     "buff-id": "876102",
     "buff-stickersearch-id": "16236"
   },
@@ -41677,6 +41854,7 @@
     "description": null,
     "rarity": "Extraordinary",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/stockh2021/faze_gold_large.bdaf773fc665aa3df60366582e03ed1839d31c6f.png",
+    "letter": "F",
     "buff-id": "876110",
     "buff-stickersearch-id": "16241"
   },
@@ -42586,6 +42764,7 @@
     "description": "This sticker was autographed by professional player Fredrik Sterner playing for Ninjas in Pyjamas, Quarterfinalist at the PGL Stockholm 2021 CS:GO Major Championship.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/stockh2021/sig_rez_large.0898153661b65e3b315089ba1efb95e9b92ccdca.png",
+    "letter": "R",
     "buff-id": "878916",
     "buff-stickersearch-id": "16402"
   },
@@ -42595,6 +42774,7 @@
     "description": "This holographic sticker was autographed by professional player Fredrik Sterner playing for Ninjas in Pyjamas, Quarterfinalist at the PGL Stockholm 2021 CS:GO Major Championship.",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/stockh2021/sig_rez_holo_large.b6fbc414e71a48bda30ce8df609db26490912aa0.png",
+    "letter": "R",
     "buff-id": "878862",
     "buff-stickersearch-id": "16366"
   },
@@ -42604,6 +42784,7 @@
     "description": "This gold sticker was autographed by professional player Fredrik Sterner playing for Ninjas in Pyjamas, Quarterfinalist at the PGL Stockholm 2021 CS:GO Major Championship.",
     "rarity": "Extraordinary",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/stockh2021/sig_rez_gold_large.3960d4b64893dbd646d8e44dbfeebc788bf141c4.png",
+    "letter": "R",
     "buff-id": "879012",
     "buff-stickersearch-id": "16458"
   },
@@ -42802,6 +42983,7 @@
     "description": null,
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/spring2022/b_hop_paper_large.1989349d91e6ddd34526c1888db0e59143147972.png",
+    "letter": "B",
     "buff-id": "888030",
     "buff-stickersearch-id": "16523"
   },
@@ -42919,6 +43101,7 @@
     "description": null,
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/spring2022/infinite_diamond_holo_large.010f28dd8e659f32f680c9af948f6d5efd6bdc47.png",
+    "letter": "O",
     "buff-id": "888057",
     "buff-stickersearch-id": "16534"
   },
@@ -43180,6 +43363,7 @@
     "description": null,
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/antwerp2022/faze_large.702fa75e04c58b270b85641c9cdd61bcf06dbf7e.png",
+    "letter": "F",
     "buff-id": "894085",
     "buff-stickersearch-id": "16621"
   },
@@ -43189,6 +43373,7 @@
     "description": null,
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/antwerp2022/faze_glitter_large.5f80f20d1bcc250d360cea1d3725e03d787ca7ac.png",
+    "letter": "F",
     "buff-id": "894147",
     "buff-stickersearch-id": "16655"
   },
@@ -43198,6 +43383,7 @@
     "description": null,
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/antwerp2022/faze_holo_large.77534c796faebe697e4b512d56a69fcba949e01a.png",
+    "letter": "F",
     "buff-id": "894178",
     "buff-stickersearch-id": "16676"
   },
@@ -43207,6 +43393,7 @@
     "description": null,
     "rarity": "Extraordinary",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/antwerp2022/faze_gold_large.ca847464cee707a00a7313b97bce860bdca0543b.png",
+    "letter": "F",
     "buff-id": "894457",
     "buff-stickersearch-id": "17253"
   },
@@ -48535,6 +48722,7 @@
     "description": null,
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/csgo10/dragon_tale_paper_large.3e978bc12137714d31edd99e36b98fb3af8657d9.png",
+    "letter": "V",
     "buff-id": "903814",
     "buff-stickersearch-id": "17360"
   },
@@ -48598,6 +48786,7 @@
     "description": null,
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/csgo10/go_paper_large.54f6c27f37c783bfb709d043e6d85d18bc3b261c.png",
+    "letter": "GO",
     "buff-id": "903828",
     "buff-stickersearch-id": "17373"
   },
@@ -48679,6 +48868,7 @@
     "description": null,
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/csgo10/rush_b_csgo10_paper_large.824f87d0e56083d09db7222910031a4f3b6a8e19.png",
+    "letter": "B",
     "buff-id": "903824",
     "buff-stickersearch-id": "17369"
   },
@@ -49021,6 +49211,7 @@
     "description": null,
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/rio2022/faze_large.0f61764532a9f577250f8de8bd6a8082b5e4e66a.png",
+    "letter": "F",
     "buff-id": "911007",
     "buff-stickersearch-id": "17466"
   },
@@ -49030,6 +49221,7 @@
     "description": null,
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/rio2022/faze_glitter_large.f3f370a42ffdb20668ed4a71b0d9c3e6b43c0b2c.png",
+    "letter": "F",
     "buff-id": "911298",
     "buff-stickersearch-id": "17599"
   },
@@ -49039,6 +49231,7 @@
     "description": null,
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/rio2022/faze_holo_large.f9f9a26ff3c71cdbfa7e406dd9b80e111e556ba7.png",
+    "letter": "F",
     "buff-id": "911341",
     "buff-stickersearch-id": "17632"
   },
@@ -49048,6 +49241,7 @@
     "description": null,
     "rarity": "Extraordinary",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/rio2022/faze_gold_large.e3f5266a7f9066057a4914956ce93c6cc585a67a.png",
+    "letter": "F",
     "buff-id": "911248",
     "buff-stickersearch-id": "17559"
   },
@@ -54457,6 +54651,7 @@
     "description": null,
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/community2022/run_t_run_paper_large.7760c2207619d747535f99ae69e36710eda7e2ae.png",
+    "letter": "T",
     "buff-id": "921388",
     "buff-stickersearch-id": "18088"
   },
@@ -55014,6 +55209,7 @@
     "description": null,
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/pain_large.3fe53218bdfc8cdc0df217a7a3522145ab5ae6d4.png",
+    "letter": "P",
     "buff-id": "927963",
     "buff-stickersearch-id": "18295"
   },
@@ -55023,6 +55219,7 @@
     "description": null,
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/pain_glitter_large.5b02bf704b11f0076272e7cb62c3b0fee23cb6f8.png",
+    "letter": "P",
     "buff-id": "928196",
     "buff-stickersearch-id": "18465"
   },
@@ -55032,6 +55229,7 @@
     "description": null,
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/pain_holo_large.74c3134089ee47980a80d92c80cc102718f1880c.png",
+    "letter": "P",
     "buff-id": "928144",
     "buff-stickersearch-id": "18422"
   },
@@ -55041,6 +55239,7 @@
     "description": null,
     "rarity": "Extraordinary",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/pain_gold_large.022794774c9211739ba7691eb1e5e088ee97473f.png",
+    "letter": "P",
     "buff-id": "928466",
     "buff-stickersearch-id": "18698"
   },
@@ -55050,6 +55249,8 @@
     "description": null,
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/gl_large.c75fd7b544ebecda84cad74f4bd1e59ead3bf044.png",
+    "letter": "G",
+    "default": "yes",
     "buff-id": "928109",
     "buff-stickersearch-id": "18396"
   },
@@ -55059,6 +55260,7 @@
     "description": null,
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/gl_glitter_large.157bba98c116e081934af239c6121ee3d563b941.png",
+    "letter": "G",
     "buff-id": "928173",
     "buff-stickersearch-id": "18447"
   },
@@ -55068,6 +55270,7 @@
     "description": null,
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/gl_holo_large.732797fed99da767f05e9db05183fa85900158be.png",
+    "letter": "G",
     "buff-id": "928266",
     "buff-stickersearch-id": "18526"
   },
@@ -55077,6 +55280,7 @@
     "description": null,
     "rarity": "Extraordinary",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/gl_gold_large.0f5562e07f8e2d9263871a17f2c94753d483c4ab.png",
+    "letter": "G",
     "buff-id": "928398",
     "buff-stickersearch-id": "18638"
   },
@@ -55086,6 +55290,8 @@
     "description": null,
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/apex_large.61ab89c586c909cb43bd252ca32deeb61ac8b4a8.png",
+    "letter": "A",
+    "default": "yes",
     "buff-id": "928031",
     "buff-stickersearch-id": "18330"
   },
@@ -55095,6 +55301,7 @@
     "description": null,
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/apex_glitter_large.6246dac49f676342be1f4cd507e20840725882c6.png",
+    "letter": "A",
     "buff-id": "928114",
     "buff-stickersearch-id": "18400"
   },
@@ -55104,6 +55311,7 @@
     "description": null,
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/apex_holo_large.697123d61c27282e4be2e6d63fc13e7900f8bb49.png",
+    "letter": "A",
     "buff-id": "928384",
     "buff-stickersearch-id": "18626"
   },
@@ -55113,6 +55321,7 @@
     "description": null,
     "rarity": "Extraordinary",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/apex_gold_large.b9d0050ee610fef43e39ecedd057fbea2dd8dfe2.png",
+    "letter": "A",
     "buff-id": "928391",
     "buff-stickersearch-id": "18631"
   },
@@ -55194,6 +55403,7 @@
     "description": null,
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/faze_large.5b4c8e226bd001fdd0dc75982358c1189a84094c.png",
+    "letter": "F",
     "buff-id": "927965",
     "buff-stickersearch-id": "18296"
   },
@@ -55203,6 +55413,7 @@
     "description": null,
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/faze_glitter_large.57086c587848764ee6415ffafab58f741e2b40ab.png",
+    "letter": "F",
     "buff-id": "928111",
     "buff-stickersearch-id": "18398"
   },
@@ -55212,6 +55423,7 @@
     "description": null,
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/faze_holo_large.d1aad737602e645feaf49fb7b97792d3a76e5e13.png",
+    "letter": "F",
     "buff-id": "928047",
     "buff-stickersearch-id": "18345"
   },
@@ -55221,6 +55433,7 @@
     "description": null,
     "rarity": "Extraordinary",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/faze_gold_large.7103f1dafc0839eb0f19b8973a071c331aef29d7.png",
+    "letter": "F",
     "buff-id": "928387",
     "buff-stickersearch-id": "18629"
   },
@@ -55878,6 +56091,8 @@
     "description": "This sticker was autographed by professional player Andr\u00e9 Wagner de Abreu playing for FURIA at the BLAST.tv Paris 2023 CS:GO Major Championship.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/sig_drop_large.fe4d707ab7161c5e8094643d5ebae6895c5b1d45.png",
+    "letter": "D",
+    "default": "yes",
     "buff-id": "928082",
     "buff-stickersearch-id": "18376"
   },
@@ -55887,6 +56102,7 @@
     "description": "This glitter sticker was autographed by professional player Andr\u00e9 Wagner de Abreu playing for FURIA at the BLAST.tv Paris 2023 CS:GO Major Championship.",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/sig_drop_glitter_large.9ffc7a56d28589a7a7ec7afb9f46ed530ce784f5.png",
+    "letter": "D",
     "buff-id": "928354",
     "buff-stickersearch-id": "18600"
   },
@@ -55896,6 +56112,7 @@
     "description": "This holographic sticker was autographed by professional player Andr\u00e9 Wagner de Abreu playing for FURIA at the BLAST.tv Paris 2023 CS:GO Major Championship.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/sig_drop_holo_large.3d8cdb2c2048be17d7c26c47e86eefbd2a6c9832.png",
+    "letter": "D",
     "buff-id": "928491",
     "buff-stickersearch-id": "18718"
   },
@@ -55905,6 +56122,7 @@
     "description": "This gold sticker was autographed by professional player Andr\u00e9 Wagner de Abreu playing for FURIA at the BLAST.tv Paris 2023 CS:GO Major Championship.",
     "rarity": "Extraordinary",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/sig_drop_gold_large.ea0ba408d978266abdf4fb6fd65ac7075cda8207.png",
+    "letter": "D",
     "buff-id": "928514",
     "buff-stickersearch-id": "18739"
   },
@@ -57462,6 +57680,7 @@
     "description": "This sticker was autographed by professional player Abdulkhalik Gasanov playing for OG at the BLAST.tv Paris 2023 CS:GO Major Championship.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/sig_degster_large.5b77415f1a1a961b232d3787c2f8f65ea10265fa.png",
+    "letter": "S",
     "buff-id": "928118",
     "buff-stickersearch-id": "18403"
   },
@@ -57471,6 +57690,7 @@
     "description": "This glitter sticker was autographed by professional player Abdulkhalik Gasanov playing for OG at the BLAST.tv Paris 2023 CS:GO Major Championship.",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/sig_degster_glitter_large.18ffa9117318ea3449626b8473affae11028e5f8.png",
+    "letter": "S",
     "buff-id": "928363",
     "buff-stickersearch-id": "18608"
   },
@@ -57480,6 +57700,7 @@
     "description": "This holographic sticker was autographed by professional player Abdulkhalik Gasanov playing for OG at the BLAST.tv Paris 2023 CS:GO Major Championship.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/sig_degster_holo_large.ea4028d4dc2c6031b3d9671fd63f3313175e77ef.png",
+    "letter": "S",
     "buff-id": "928022",
     "buff-stickersearch-id": "18322"
   },
@@ -57489,6 +57710,7 @@
     "description": "This gold sticker was autographed by professional player Abdulkhalik Gasanov playing for OG at the BLAST.tv Paris 2023 CS:GO Major Championship.",
     "rarity": "Extraordinary",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/sig_degster_gold_large.3fff2c9251f9ebda795d75423f74adf86603aaee.png",
+    "letter": "S",
     "buff-id": "928441",
     "buff-stickersearch-id": "18675"
   },
@@ -58282,6 +58504,7 @@
     "description": "This sticker was autographed by professional player Viktor Orudzhev playing for Monte at the BLAST.tv Paris 2023 CS:GO Major Championship.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/sig_sdy_large.bee160105314b6e7b8b05cd6af2350e295c3b1ae.png",
+    "letter": "Y",
     "buff-id": "928021",
     "buff-stickersearch-id": "18321"
   },
@@ -58291,6 +58514,7 @@
     "description": "This glitter sticker was autographed by professional player Viktor Orudzhev playing for Monte at the BLAST.tv Paris 2023 CS:GO Major Championship.",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/sig_sdy_glitter_large.0d209ea3c26c269afeb7c5d58e68fd29a9487968.png",
+    "string-letter": "SDY",
     "buff-id": "928473",
     "buff-stickersearch-id": "18705"
   },
@@ -58300,6 +58524,7 @@
     "description": "This holographic sticker was autographed by professional player Viktor Orudzhev playing for Monte at the BLAST.tv Paris 2023 CS:GO Major Championship.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/sig_sdy_holo_large.e18423504699bb0096fa30bddd0e3b17ef44adf1.png",
+    "letter": "Y",
     "buff-id": "928411",
     "buff-stickersearch-id": "18651"
   },
@@ -58309,6 +58534,7 @@
     "description": "This gold sticker was autographed by professional player Viktor Orudzhev playing for Monte at the BLAST.tv Paris 2023 CS:GO Major Championship.",
     "rarity": "Extraordinary",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/sig_sdy_gold_large.aea54b4d33c84a95de27fa2d23c9339ccb1690f6.png",
+    "letter": "Y",
     "buff-id": "928651",
     "buff-stickersearch-id": "18857"
   },
@@ -58930,6 +59156,8 @@
     "description": "This sticker was autographed by professional player Joshua Potter playing for Grayhound Gaming at the BLAST.tv Paris 2023 CS:GO Major Championship.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/sig_ins_large.62ff2ec4ab08b914bc6c3a2425d60ab909c2fcbc.png",
+    "letter": "I",
+    "default": "yes",
     "buff-id": "928164",
     "buff-stickersearch-id": "18439"
   },
@@ -58939,6 +59167,7 @@
     "description": "This glitter sticker was autographed by professional player Joshua Potter playing for Grayhound Gaming at the BLAST.tv Paris 2023 CS:GO Major Championship.",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/sig_ins_glitter_large.9b5a967281169f3e8ef6e1c372bb22d1d9543d1c.png",
+    "letter": "I",
     "buff-id": "928452",
     "buff-stickersearch-id": "18684"
   },
@@ -58948,6 +59177,7 @@
     "description": "This holographic sticker was autographed by professional player Joshua Potter playing for Grayhound Gaming at the BLAST.tv Paris 2023 CS:GO Major Championship.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/sig_ins_holo_large.6407c8752f365acac3f9f0cf6c7ba037651c6ceb.png",
+    "letter": "I",
     "buff-id": "928480",
     "buff-stickersearch-id": "18710"
   },
@@ -58957,6 +59187,7 @@
     "description": "This gold sticker was autographed by professional player Joshua Potter playing for Grayhound Gaming at the BLAST.tv Paris 2023 CS:GO Major Championship.",
     "rarity": "Extraordinary",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/sig_ins_gold_large.c878730bbb165ba2d575b1d748d2e97fb0591744.png",
+    "letter": "I",
     "buff-id": "928654",
     "buff-stickersearch-id": "18860"
   },
@@ -59967,173 +60198,5 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/sig_zywoo_gold_champion_large.7be09229b6d1ce5182c91d95beccb4c6a5164ace.png",
     "buff-id": "930511",
     "buff-stickersearch-id": "18911"
-  },
-  "sticker-7233": {
-    "id": "sticker-7233",
-    "name": "Sticker | Ouchie (Foil)",
-    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
-    "rarity": "Exotic",
-    "collection": "Ambush Sticker Capsule",
-    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0HdUuqkw9acUFJ5KBFZv668FFUwgaeHdzJL4OO5gYODnvK6NbnXkD0J7JYm3buZotqk2wXj_ERvamrzINPBclI6Mg3V-FfvwOntgoj84soTsde3Lw/260fx260f"
-  },
-  "sticker-7234": {
-    "id": "sticker-7234",
-    "name": "Sticker | Lost In Smoke (Foil)",
-    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
-    "rarity": "Exotic",
-    "collection": "Ambush Sticker Capsule",
-    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0HdUuqkw9acUFJ5KBFZv668FFUwgaeHdzJL4OO6m5OfqP76DKjcmWBUppUh2L6Z89ug21Hm-0Q4MGH0JobEegRrY1iCqAK8yOvmhp7uvs_BmHR9-n51WhY31IY/260fx260f"
-  },
-  "sticker-7235": {
-    "id": "sticker-7235",
-    "name": "Sticker | Retro Zeus",
-    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
-    "rarity": "High Grade",
-    "collection": "Ambush Sticker Capsule",
-    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0HdUuqkw9acUFJ5KBFZv668FFUwgaeHYTxS6c6JhoWfhfjLKb7EhSUHuZIji7yY89-hiwOyqkc_NmD0I4HGJFQ7NVvR_wLokr_q08e8uZSd1zI97Q1q4ZGm/260fx260f"
-  },
-  "sticker-7236": {
-    "id": "sticker-7236",
-    "name": "Sticker | This Is Fine (Chicken)",
-    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
-    "rarity": "High Grade",
-    "collection": "Ambush Sticker Capsule",
-    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0HdUuqkw9acUFJ5KBFZv668FFUwgaeHYTxS6c6JgIiChMj9IITXn2VU18Z5g-rK8IK7jVa1r0duNzzwI4LHd1U3YFDZ-1m5wO3tgJPu6ZvIy3BnuyZwsHiPywv330-BNCv0vA/260fx260f"
-  },
-  "sticker-7237": {
-    "id": "sticker-7237",
-    "name": "Sticker | Please Return To",
-    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
-    "rarity": "High Grade",
-    "collection": "Ambush Sticker Capsule",
-    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0HdUuqkw9acUFJ5KBFZv668FFUwgaeHYTxS6c6JhIyOluTxDKnUgn5D5osp3LqR9N2j3gSy_kE5ZG_ydtOXcgE7YF3Z_lm9lbu5gJK_75vMynVnpGB8skX_LQaO/260fx260f"
-  },
-  "sticker-7238": {
-    "id": "sticker-7238",
-    "name": "Sticker | Peek-A-Boo",
-    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
-    "rarity": "High Grade",
-    "collection": "Ambush Sticker Capsule",
-    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0HdUuqkw9acUFJ5KBFZv668FFUwgaeHYTxS6c6JhIWOnMj1DLnemSUGuJF03LCSptyg3FGy-hE9Yzr6INCcJwBsNA3S-Ae2k-7u05XquM7M1zI97QSdFZg-/260fx260f"
-  },
-  "sticker-7239": {
-    "id": "sticker-7239",
-    "name": "Sticker | AKickflip-47",
-    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
-    "rarity": "High Grade",
-    "collection": "Ambush Sticker Capsule",
-    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0HdUuqkw9acUFJ5KBFZv668FFUwgaeHYTxS6c6Jn4mInPH4OqvuwjwfupZ1jOjCotXz3VHh80BlajjzcITEe1VtZ1uF_gO-yO_n1MC4uZWcn2wj5HciKZOntQ/260fx260f"
-  },
-  "sticker-7240": {
-    "id": "sticker-7240",
-    "name": "Sticker | Easy For Ricksaw",
-    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
-    "rarity": "High Grade",
-    "collection": "Ambush Sticker Capsule",
-    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0HdUuqkw9acUFJ5KBFZv668FFUwgaeHYTxS6c6JkYGYjsjyPKnuhGJS49ZwnaeYoduji1Ls_EdkYWrzd4_BcQI8YwzS_1i9lOrvjJ-_vMnMm3Vq6Ckl-z-DyMhEOziR/260fx260f"
-  },
-  "sticker-7241": {
-    "id": "sticker-7241",
-    "name": "Sticker | Bum A Smoke",
-    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
-    "rarity": "High Grade",
-    "collection": "Ambush Sticker Capsule",
-    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0HdUuqkw9acUFJ5KBFZv668FFUwgaeHYTxS6c6JlpWGqPbLILbenW4fv5Am0rzH9o6i0FDn-BE5am70J4KQIANtaVCEqFHtybzv1J677ZnPyWwj5HfacQqUxA/260fx260f"
-  },
-  "sticker-7242": {
-    "id": "sticker-7242",
-    "name": "Sticker | Angry T",
-    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
-    "rarity": "High Grade",
-    "collection": "Ambush Sticker Capsule",
-    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0HdUuqkw9acUFJ5KBFZv668FFUwgaeHYTxS6c6JlY6Mhe7LJ_WFlTpTuJ1zi-qVrIj23AfhrxE6ZW-nII-RJgc9NQqB8wXsxujugpPpot2Xnl0ELkl8/260fx260f"
-  },
-  "sticker-7243": {
-    "id": "sticker-7243",
-    "name": "Sticker | Old School (Lenticular)",
-    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
-    "rarity": "Extraordinary",
-    "collection": "Ambush Sticker Capsule",
-    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0HdUuqkw9acUFJ5KBFZv668FFUwgaeHfThM-NW1gYyKhcj7P7_uhWhZ58p9xL2R84mjiwew80RsZGGhdYTBIwI9ZgzY-VXrlem9h5Dou5rIm3Ax6yI8pSGKBpI5QvQ/260fx260f"
-  },
-  "sticker-7244": {
-    "id": "sticker-7244",
-    "name": "Sticker | Econometer (Lenticular)",
-    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
-    "rarity": "Extraordinary",
-    "collection": "Ambush Sticker Capsule",
-    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0HdUuqkw9acUFJ5KBFZv668FFUwgaeHfThM-NW1gYyKhcjxMLTfmWZU_MBjxOqYpdql3ATi-RVua27yI4eVdQM6M1HY-lXqkOnnh8O77p7OzHMxvCM8pSGK5ZolPaQ/260fx260f"
-  },
-  "sticker-7245": {
-    "id": "sticker-7245",
-    "name": "Sticker | Dystopian Gaze (Lenticular)",
-    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
-    "rarity": "Extraordinary",
-    "collection": "Ambush Sticker Capsule",
-    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0HdUuqkw9acUFJ5KBFZv668FFUwgaeHfThM-NW1gYyKhcjwKqjFmXtY6ctOjejb8MKg3AzlrkNtNjqgdY_Gcg82NV3Z-wW7kr3thJS_vc7OmCAwviB3t3rZgVXp1kqb2F9E/260fx260f"
-  },
-  "sticker-7246": {
-    "id": "sticker-7246",
-    "name": "Sticker | Loving Eyes (Holo)",
-    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
-    "rarity": "Remarkable",
-    "collection": "Ambush Sticker Capsule",
-    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0HdUuqkw9acUFJ5KBFZv668FFUwgaeHeTJO4-O6m5aCmfDLNqLUhSVSvsQo0ryRoNuh0VHn_UM4YGyhI4eQcwE7Z1qGqFfswu-9jZK0up6a1zI97QTFHfXd/260fx260f"
-  },
-  "sticker-7247": {
-    "id": "sticker-7247",
-    "name": "Sticker | Try Hard (Holo)",
-    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
-    "rarity": "Remarkable",
-    "collection": "Ambush Sticker Capsule",
-    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0HdUuqkw9acUFJ5KBFZv668FFUwgaeHeTJO4-Oihpm0n_bmN_WFwDIGuJ10j7vA8Nn0jQOyrxFkMDigcoSQdgU-YVzU_Ve3k-vqhMe_ot2XnpKPTW7P/260fx260f"
-  },
-  "sticker-7248": {
-    "id": "sticker-7248",
-    "name": "Sticker | Lit (Holo)",
-    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
-    "rarity": "Remarkable",
-    "collection": "Ambush Sticker Capsule",
-    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0HdUuqkw9acUFJ5KBFZv668FFUwgaeHeTJO4-O6nZTFwaPwYb2JkG5X7cEi3e-UoNuj2wTm_EFvMWHyItWVd1dtaAuD_AK2wPCv28HeFa8zlA/260fx260f"
-  },
-  "sticker-7249": {
-    "id": "sticker-7249",
-    "name": "Sticker | Cedar Creek (Holo)",
-    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
-    "rarity": "Remarkable",
-    "collection": "Ambush Sticker Capsule",
-    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0HdUuqkw9acUFJ5KBFZv668FFUwgaeHeTJO4-O1kYSKhcj3Ib7UnSUD6sZy3LyT9t_wi1Ht-0VpYW_2LdLHdlJtZFGD_lm_lezujJLqvpTM1zI97YC5k66B/260fx260f"
-  },
-  "sticker-7250": {
-    "id": "sticker-7250",
-    "name": "Sticker | Pushing Smokes (Glitter)",
-    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
-    "rarity": "Remarkable",
-    "collection": "Ambush Sticker Capsule",
-    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0HdUuqkw9acUFJ5KBFZv668FFUwgaeHdjFL-Mizhr-bguT8OrXWqXhc5850maeXpdSk21bm_EJtNz_6IdKXdFBrN1rTqFm9wOvujJ-4vM6bnCcy73F3-z-DyGE8WO8g/260fx260f"
-  },
-  "sticker-7251": {
-    "id": "sticker-7251",
-    "name": "Sticker | Lotus (Glitter)",
-    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
-    "rarity": "Remarkable",
-    "collection": "Ambush Sticker Capsule",
-    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0HdUuqkw9acUFJ5KBFZv668FFUwgaeHdjFL-Mizhr-HmOPhIPXUwmhQsJwj0rGV9IqnigLlqBFsYjr1ctWVIVJqaQyD_Ae5lebnhpO_ot2XnncQ8ZC8/260fx260f"
-  },
-  "sticker-7252": {
-    "id": "sticker-7252",
-    "name": "Sticker | Factory Sealed (Foil)",
-    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
-    "rarity": "Exotic",
-    "collection": "Ambush Sticker Capsule",
-    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0HdUuqkw9acUFJ5KBFZv668FFUwgaeHdzJL4OOlkYGHkvO6N-OJlToDuZQm3biXpYr32Qbi80M6a2H6d4bGdwI-aFvWq1Dqx7jogoj84spB3KmCZQ/260fx260f"
-  },
-  "sticker-7253": {
-    "id": "sticker-7253",
-    "name": "Sticker | On An Eco (Foil)",
-    "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
-    "rarity": "Exotic",
-    "collection": "Ambush Sticker Capsule",
-    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0HdUuqkw9acUFJ5KBFZv668FFUwgaeHdzJL4OO5mr-OlPi6MOvQxzxU6ZZzi-vFodyh3gLj_kM-Z2z6Jo_GdQc8Yl6G_1Dsxr-9jYj84sqke16Kmg/260fx260f"
   }
 }
