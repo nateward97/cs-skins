@@ -21493,35 +21493,16 @@
     "pattern": "Forest DDPAT",
     "min_float": 0.06,
     "max_float": 0.8,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
+    "rarity": "Covert",
     "stattrak": true,
     "souvenir": false,
     "paint_index": "5",
     "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
     ],
     "collections": [],
     "crates": [
@@ -21531,11 +21512,17 @@
         "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_33_png.png"
       }
     ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR95MWJko-ZkuTgDLnehG5Q5Pp9g-7J4cKn3lXhr0JlYD-nJI6VdQRtNVCGrlm2kuzrgsS8uc7Jn3cw6CUl43vYgVXp1kdkJU_m/360fx360f"
+    "image": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR95MWJko-ZkuTgDLnehG5Q5Pp9g-7J4cKn3lXhr0JlYD-nJI6VdQRtNVCGrlm2kuzrgsS8uc7Jn3cw6CUl43vYgVXp1kdkJU_m/360fx360f",
+    "buff-id-factory-new": "",
+    "buff-id-minimal-wear": "",
+    "buff-id-field-tested": "",
+    "buff-id-well-worn": "",
+    "buff-id-battle-scarred": "",
+    "stattrak-id-factory-new": "",
+    "stattrak-id-minimal-wear": "",
+    "stattrak-id-field-tested": "",
+    "stattrak-id-well-worn": "",
+    "stattrak-id-battle-scarred": ""
   },
   {
     "id": "skin-34471984",
@@ -21546,35 +21533,16 @@
     "pattern": "Crimson Web",
     "min_float": 0.06,
     "max_float": 0.8,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
+    "rarity": "Covert",
     "stattrak": true,
     "souvenir": false,
     "paint_index": "12",
     "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
     ],
     "collections": [],
     "crates": [
@@ -21584,11 +21552,17 @@
         "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_33_png.png"
       }
     ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR95MWJg4WJhMj4OrzZgiVX7Jcg2LyR99X2jAyw_ENuZGDwcdWddgA5MwqGq1Lsw-vsh5Xo7Z7P1zI97SGihRju/360fx360f"
+    "image": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR95MWJg4WJhMj4OrzZgiVX7Jcg2LyR99X2jAyw_ENuZGDwcdWddgA5MwqGq1Lsw-vsh5Xo7Z7P1zI97SGihRju/360fx360f",
+    "buff-id-factory-new": "",
+    "buff-id-minimal-wear": "",
+    "buff-id-field-tested": "",
+    "buff-id-well-worn": "",
+    "buff-id-battle-scarred": "",
+    "stattrak-id-factory-new": "",
+    "stattrak-id-minimal-wear": "",
+    "stattrak-id-field-tested": "",
+    "stattrak-id-well-worn": "",
+    "stattrak-id-battle-scarred": ""
   },
   {
     "id": "skin-34472088",
@@ -21599,23 +21573,13 @@
     "pattern": "Fade",
     "min_float": 0,
     "max_float": 0.08,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
+    "rarity": "Covert",
     "stattrak": true,
     "souvenir": false,
     "paint_index": "38",
     "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      }
+      "Factory New",
+      "Minimal Wear"
     ],
     "collections": [],
     "crates": [
@@ -21625,11 +21589,13 @@
         "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_33_png.png"
       }
     ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR97d2JkoGPksj4OrzZgiUE6ZwmjOqXpYnz2Vew-RY5NWv1IdCXe1Q7NFqB_Fe5kue8hZK8vc_J1zI97Wo4QJnu/360fx360f"
+    "image": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR97d2JkoGPksj4OrzZgiUE6ZwmjOqXpYnz2Vew-RY5NWv1IdCXe1Q7NFqB_Fe5kue8hZK8vc_J1zI97Wo4QJnu/360fx360f",
+    "buff-id-factory-new": "",
+    "buff-id-minimal-wear": "",
+    "buff-id-field-tested": "",
+    "stattrak-id-factory-new": "",
+    "stattrak-id-minimal-wear": "",
+    "stattrak-id-field-tested": "",
   },
   {
     "id": "skin-34472104",
@@ -21640,35 +21606,16 @@
     "pattern": "Blue Steel",
     "min_float": 0,
     "max_float": 1,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
+    "rarity": "Covert",
     "stattrak": true,
     "souvenir": false,
     "paint_index": "42",
     "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
     ],
     "collections": [],
     "crates": [
@@ -21678,11 +21625,17 @@
         "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_33_png.png"
       }
     ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR97c2JloyekvPLP7LWnn8f6pwhjLGVpd-k2wznqENrNzygdtLEJgU6ZgqB-Vi8yebpjZHtupqbmGwj5HcUzqoZvQ/360fx360f"
+    "image": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR97c2JloyekvPLP7LWnn8f6pwhjLGVpd-k2wznqENrNzygdtLEJgU6ZgqB-Vi8yebpjZHtupqbmGwj5HcUzqoZvQ/360fx360f",
+    "buff-id-factory-new": "",
+    "buff-id-minimal-wear": "",
+    "buff-id-field-tested": "",
+    "buff-id-well-worn": "",
+    "buff-id-battle-scarred": "",
+    "stattrak-id-factory-new": "",
+    "stattrak-id-minimal-wear": "",
+    "stattrak-id-field-tested": "",
+    "stattrak-id-well-worn": "",
+    "stattrak-id-battle-scarred": ""
   },
   {
     "id": "skin-34472108",
@@ -21693,35 +21646,16 @@
     "pattern": "Stained",
     "min_float": 0,
     "max_float": 1,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
+    "rarity": "Covert",
     "stattrak": true,
     "souvenir": false,
     "paint_index": "43",
     "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
     ],
     "collections": [],
     "crates": [
@@ -21731,11 +21665,17 @@
         "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_33_png.png"
       }
     ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR97c2Jko-ZlPLwDLfYkWNFpsYkiL2Yp9ui3QXi_xdqZzyldoWTJwM7Y1rRqAToyObp0cS-75WfzyN9-n517V07HaI/360fx360f"
+    "image": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR97c2Jko-ZlPLwDLfYkWNFpsYkiL2Yp9ui3QXi_xdqZzyldoWTJwM7Y1rRqAToyObp0cS-75WfzyN9-n517V07HaI/360fx360f",
+    "buff-id-factory-new": "",
+    "buff-id-minimal-wear": "",
+    "buff-id-field-tested": "",
+    "buff-id-well-worn": "",
+    "buff-id-battle-scarred": "",
+    "stattrak-id-factory-new": "",
+    "stattrak-id-minimal-wear": "",
+    "stattrak-id-field-tested": "",
+    "stattrak-id-well-worn": "",
+    "stattrak-id-battle-scarred": ""
   },
   {
     "id": "skin-34472112",
@@ -21746,35 +21686,16 @@
     "pattern": "Case Hardened",
     "min_float": 0,
     "max_float": 1,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
+    "rarity": "Covert",
     "stattrak": true,
     "souvenir": false,
     "paint_index": "44",
     "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
     ],
     "collections": [],
     "crates": [
@@ -21784,11 +21705,17 @@
         "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_33_png.png"
       }
     ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR97c2Jm4mHkvPLP7LWnn8fuZ13ibqTrdv3jA21rkVkNjilcdSUIQE8Y1GB-Fi9xOa-gJC66Z7Mn2wj5HclR6e16Q/360fx360f"
+    "image": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR97c2Jm4mHkvPLP7LWnn8fuZ13ibqTrdv3jA21rkVkNjilcdSUIQE8Y1GB-Fi9xOa-gJC66Z7Mn2wj5HclR6e16Q/360fx360f",
+    "buff-id-factory-new": "",
+    "buff-id-minimal-wear": "",
+    "buff-id-field-tested": "",
+    "buff-id-well-worn": "",
+    "buff-id-battle-scarred": "",
+    "stattrak-id-factory-new": "",
+    "stattrak-id-minimal-wear": "",
+    "stattrak-id-field-tested": "",
+    "stattrak-id-well-worn": "",
+    "stattrak-id-battle-scarred": ""
   },
   {
     "id": "skin-34472172",
@@ -21799,27 +21726,14 @@
     "pattern": "Slaughter",
     "min_float": 0.01,
     "max_float": 0.26,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
+    "rarity": "Covert",
     "stattrak": true,
     "souvenir": false,
     "paint_index": "59",
     "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      }
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested"
     ],
     "collections": [],
     "crates": [
@@ -21829,11 +21743,13 @@
         "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_33_png.png"
       }
     ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR97dGJjoWJhfbLP7LWnn8fvZIgjrGYpo-m3wbmqBU6NmmmLYaTIQFqMAzR8gfrx-rs1JK77pWdmmwj5HfC17GeYA/360fx360f"
+    "image": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR97dGJjoWJhfbLP7LWnn8fvZIgjrGYpo-m3wbmqBU6NmmmLYaTIQFqMAzR8gfrx-rs1JK77pWdmmwj5HfC17GeYA/360fx360f",
+    "buff-id-factory-new": "",
+    "buff-id-minimal-wear": "",
+    "buff-id-field-tested": "",
+    "stattrak-id-factory-new": "",
+    "stattrak-id-minimal-wear": "",
+    "stattrak-id-field-tested": "",
   },
   {
     "id": "skin-34472224",
@@ -21844,35 +21760,16 @@
     "pattern": "Safari Mesh",
     "min_float": 0.06,
     "max_float": 0.8,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
+    "rarity": "Covert",
     "stattrak": true,
     "souvenir": false,
     "paint_index": "72",
     "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
     ],
     "collections": [],
     "crates": [
@@ -21882,11 +21779,17 @@
         "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_33_png.png"
       }
     ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR9_8yJmYWYn8jgMrXummJW4NE_j-2Xpdyl3Qbl_kc_YGGlIYOWcwI8aVnV_ATslOvmjJ677sicmHJqsz5iuyg6yWV5Bw/360fx360f"
+    "image": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR9_8yJmYWYn8jgMrXummJW4NE_j-2Xpdyl3Qbl_kc_YGGlIYOWcwI8aVnV_ATslOvmjJ677sicmHJqsz5iuyg6yWV5Bw/360fx360f",
+    "buff-id-factory-new": "",
+    "buff-id-minimal-wear": "",
+    "buff-id-field-tested": "",
+    "buff-id-well-worn": "",
+    "buff-id-battle-scarred": "",
+    "stattrak-id-factory-new": "",
+    "stattrak-id-minimal-wear": "",
+    "stattrak-id-field-tested": "",
+    "stattrak-id-well-worn": "",
+    "stattrak-id-battle-scarred": ""
   },
   {
     "id": "skin-34472244",
@@ -21897,35 +21800,16 @@
     "pattern": "Boreal Forest",
     "min_float": 0.06,
     "max_float": 0.8,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
+    "rarity": "Covert",
     "stattrak": true,
     "souvenir": false,
     "paint_index": "77",
     "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
     ],
     "collections": [],
     "crates": [
@@ -21935,11 +21819,17 @@
         "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_33_png.png"
       }
     ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR95MWJko-ZkuTgDLnehG5Q5Pp9g-7J4cKn3lXhr0JlYD-nJI6VdQRtNVCGrlm2kuzrgsS8uc7Jn3cw6CUl43vYgVXp1kdkJU_m/360fx360f"
+    "image": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR95MWJko-ZkuTgDLnehG5Q5Pp9g-7J4cKn3lXhr0JlYD-nJI6VdQRtNVCGrlm2kuzrgsS8uc7Jn3cw6CUl43vYgVXp1kdkJU_m/360fx360f",
+    "buff-id-factory-new": "",
+    "buff-id-minimal-wear": "",
+    "buff-id-field-tested": "",
+    "buff-id-well-worn": "",
+    "buff-id-battle-scarred": "",
+    "stattrak-id-factory-new": "",
+    "stattrak-id-minimal-wear": "",
+    "stattrak-id-field-tested": "",
+    "stattrak-id-well-worn": "",
+    "stattrak-id-battle-scarred": ""
   },
   {
     "id": "skin-34472508",
@@ -21950,35 +21840,16 @@
     "pattern": "Urban Masked",
     "min_float": 0.06,
     "max_float": 0.8,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
+    "rarity": "Covert",
     "stattrak": true,
     "souvenir": false,
     "paint_index": "143",
     "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
     ],
     "collections": [],
     "crates": [
@@ -21988,11 +21859,17 @@
         "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_33_png.png"
       }
     ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR9_8yJgIGbksjhIbnQmFRd4cJ5nqeR9o-h2FLm8xFlYDj3JISWdVVsaFDXr1Hole-9jcS8tJ7Ay3BiviN3-z-DyFR1CfhQ/360fx360f"
+    "image": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR9_8yJgIGbksjhIbnQmFRd4cJ5nqeR9o-h2FLm8xFlYDj3JISWdVVsaFDXr1Hole-9jcS8tJ7Ay3BiviN3-z-DyFR1CfhQ/360fx360f",
+    "buff-id-factory-new": "",
+    "buff-id-minimal-wear": "",
+    "buff-id-field-tested": "",
+    "buff-id-well-worn": "",
+    "buff-id-battle-scarred": "",
+    "stattrak-id-factory-new": "",
+    "stattrak-id-minimal-wear": "",
+    "stattrak-id-field-tested": "",
+    "stattrak-id-well-worn": "",
+    "stattrak-id-battle-scarred": ""
   },
   {
     "id": "skin-34472636",
@@ -22003,35 +21880,16 @@
     "pattern": "Scorched",
     "min_float": 0.06,
     "max_float": 0.8,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
+    "rarity": "Covert",
     "stattrak": true,
     "souvenir": false,
     "paint_index": "175",
     "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
     ],
     "collections": [],
     "crates": [
@@ -22041,11 +21899,17 @@
         "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_33_png.png"
       }
     ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR9_8yJkIGbh_vxDLfYkWNFpsEm3bmQoYj2ilfs8hVtNT31doDHJlM2aFHV_Fe5xu7q08S7vpXKwXR9-n51QqUUfjU/360fx360f"
+    "image": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR9_8yJkIGbh_vxDLfYkWNFpsEm3bmQoYj2ilfs8hVtNT31doDHJlM2aFHV_Fe5xu7q08S7vpXKwXR9-n51QqUUfjU/360fx360f",
+    "buff-id-factory-new": "",
+    "buff-id-minimal-wear": "",
+    "buff-id-field-tested": "",
+    "buff-id-well-worn": "",
+    "buff-id-battle-scarred": "",
+    "stattrak-id-factory-new": "",
+    "stattrak-id-minimal-wear": "",
+    "stattrak-id-field-tested": "",
+    "stattrak-id-well-worn": "",
+    "stattrak-id-battle-scarred": ""
   },
   {
     "id": "skin-34474876",
@@ -22056,35 +21920,16 @@
     "pattern": "Night Stripe",
     "min_float": 0.06,
     "max_float": 0.8,
-    "rarity": {
-      "id": "rarity_ancient_weapon",
-      "name": "Covert",
-      "color": "#eb4b4b"
-    },
+    "rarity": "Covert",
     "stattrak": true,
     "souvenir": false,
     "paint_index": "735",
     "wears": [
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_0",
-        "name": "Factory New"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_1",
-        "name": "Minimal Wear"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_2",
-        "name": "Field-Tested"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_3",
-        "name": "Well-Worn"
-      },
-      {
-        "id": "SFUI_InvTooltip_Wear_Amount_4",
-        "name": "Battle-Scarred"
-      }
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
     ],
     "collections": [],
     "crates": [
@@ -22094,10 +21939,16 @@
         "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_33_png.png"
       }
     ],
-    "team": {
-      "id": "both",
-      "name": "Both Teams"
-    },
-    "image": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR9_8yJmomMn-PnJ6nYhm5u5Mx2gv2P99ms0Fa2qRBva273Io7AdQE8ZV-B81W9x7jsgZ-6vJnKwSBqsigl4GGdwULjCYL13Q/360fx360f"
+    "image": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR9_8yJmomMn-PnJ6nYhm5u5Mx2gv2P99ms0Fa2qRBva273Io7AdQE8ZV-B81W9x7jsgZ-6vJnKwSBqsigl4GGdwULjCYL13Q/360fx360f",
+    "buff-id-factory-new": "",
+    "buff-id-minimal-wear": "",
+    "buff-id-field-tested": "",
+    "buff-id-well-worn": "",
+    "buff-id-battle-scarred": "",
+    "stattrak-id-factory-new": "",
+    "stattrak-id-minimal-wear": "",
+    "stattrak-id-field-tested": "",
+    "stattrak-id-well-worn": "",
+    "stattrak-id-battle-scarred": ""
   }
 ]
