@@ -15168,7 +15168,7 @@
     "name": "SSG 08 | Dezastre",
     "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship. It has been custom painted with a high tech black, white, and red design. Always follow manufacturer guidelines for safe use",
     "weapon": "SSG 08",
-    "category": "Rifles",
+    "category": "rifle",
     "pattern": "Dezastre",
     "min_float": 0.00,
     "max_float": 1,
@@ -15199,14 +15199,15 @@
     "stattrak-id-minimal-wear": "",
     "stattrak-id-field-tested": "",
     "stattrak-id-well-worn": "",
-    "stattrak-id-battle-scarred": ""
+    "stattrak-id-battle-scarred": "",
+    "collection": "Kilowatt Case"
   },
   {
     "id": "skin-1053236",
     "name": "M4A4 | Etch Lord",
     "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been custom painted to appear as if it was etched into. It's just a phase",
     "weapon": "M4A4",
-    "category": "Rifles",
+    "category": "rifle",
     "pattern": "Etch Lord",
     "min_float": 0.00,
     "max_float": 1,
@@ -15237,14 +15238,15 @@
     "stattrak-id-minimal-wear": "",
     "stattrak-id-field-tested": "",
     "stattrak-id-well-worn": "",
-    "stattrak-id-battle-scarred": ""
+    "stattrak-id-battle-scarred": "",
+    "collection": "Kilowatt Case"
   },
   {
     "id": "skin-3936824",
     "name": "M4A1-S | Black Lotus",
     "description": "With a smaller magazine than its unmuffled counterpart, the silenced M4A1 provides quieter shots with less recoil and better accuracy. It has been custom painted with a black lotus flower over a blue and purple base. Adds 2 kills during rifle round, then is discarded",
     "weapon": "M4A1-S",
-    "category": "Rifles",
+    "category": "rifle",
     "pattern": "Black Lotus",
     "min_float": 0.00,
     "max_float": 0.70,
@@ -15275,14 +15277,15 @@
     "stattrak-id-minimal-wear": "",
     "stattrak-id-field-tested": "",
     "stattrak-id-well-worn": "",
-    "stattrak-id-battle-scarred": ""
+    "stattrak-id-battle-scarred": "",
+    "collection": "Kilowatt Case"
   },
   {
     "id": "skin-594504",
     "name": "AWP | Chrome Cannon",
     "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. Custom painted with mirror coat paint, this AWP is finished with multicolored accents and a carbon fiber scope. Where'd this come from? Why do you ask? - Booth, Arms Dealer",
     "weapon": "AWP",
-    "category": "Rifles",
+    "category": "rifle",
     "pattern": "Chrome Cannon",
     "min_float": 0.00,
     "max_float": 1,
@@ -15313,14 +15316,15 @@
     "stattrak-id-minimal-wear": "",
     "stattrak-id-field-tested": "",
     "stattrak-id-well-worn": "",
-    "stattrak-id-battle-scarred": ""
+    "stattrak-id-battle-scarred": "",
+    "collection": "Kilowatt Case"
   },
   {
     "id": "skin-463436",
     "name": "AK-47 | Inheritance",
     "description": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. This custom paint job takes inspiration from traditional Chinese porcelain and Delft Blauw art. A family heirloom, passed through generations",
     "weapon": "AK-47",
-    "category": "Rifles",
+    "category": "rifle",
     "pattern": "Inheritance",
     "min_float": 0.00,
     "max_float": 0.80,
@@ -15351,6 +15355,7 @@
     "stattrak-id-minimal-wear": "",
     "stattrak-id-field-tested": "",
     "stattrak-id-well-worn": "",
-    "stattrak-id-battle-scarred": ""
+    "stattrak-id-battle-scarred": "",
+    "collection": "Kilowatt Case"
   }
 ]

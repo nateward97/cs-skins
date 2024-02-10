@@ -21950,5 +21950,28 @@
     "stattrak-id-field-tested": "",
     "stattrak-id-well-worn": "",
     "stattrak-id-battle-scarred": ""
+  },
+  {
+    "id": "skin-vanilla-weapon_knife_kukri",
+    "name": "★ Kukri Knife",
+    "description": "Used in traditional rituals, such as weddings or stabbings.",
+    "weapon": "Kukri Knife",
+    "category": "knife",
+    "pattern": "★ (Vanilla)",
+    "min_float": null,
+    "max_float": null,
+    "rarity": "Covert",
+    "stattrak": true,
+    "paint_index": null,
+    "crates": [
+      {
+        "id": "crate-4904",
+        "name": "Kilowatt Case",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_33_png.png"
+      }
+    ],
+    "image": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaIAlp1fb3eihJ_tX4ktCPwfTwZbqDkG9Q7J1yjuvFoNim2wCx_BI4az37dtKSelA5YF3UrE_-n7m6gqgBBA/360fx360f",
+    "buff-id": "",
+    "stattrak-id": ""
   }
 ]
