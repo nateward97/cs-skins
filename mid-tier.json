@@ -17508,5 +17508,271 @@
         "souvenir-id-well-worn": "929050",
         "souvenir-id-battle-scarred": "929027",
         "collection": "Anubis Collection"
+    },
+    {
+        "id": "skin-2298408",
+        "name": "Nova | Dark Sigil",
+        "description": "The Nova's rock-bottom price tag makes it a great ambush weapon for a cash-strapped team. It has been custom painted with longships and dragons. It emerged from the fog of war",
+        "weapon": "Nova",
+        "category": "mid-tier",
+        "pattern": "Dark Sigil",
+        "min_float": 0.00,
+        "max_float": 0.70,
+        "rarity": "Mil-Spec Grade",
+        "stattrak": true,
+        "souvenir": false,
+        "paint_index": "1162",
+        "wears": [
+            "Factory New",
+            "Minimal Wear",
+            "Field-Tested",
+            "Well-Worn",
+            "Battle-Scarred"
+        ],
+        "crates": [
+            {
+                "id": "crate-4904",
+                "name": "Kilowatt Case"
+            }
+        ],
+        "image": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhu3OXJTjlQ7de9lZK0m_7zO6-fzj8C7sYhiLiR94702QDn_UJrNmv2dYLDcFU8ZVrX_1frlennjcC97oOJlyX_Py1n0g/360fx360f",
+        "buff-id-factory-new": "",
+        "buff-id-minimal-wear": "",
+        "buff-id-field-tested": "",
+        "buff-id-well-worn": "",
+        "buff-id-battle-scarred": "",
+        "stattrak-id-factory-new": "",
+        "stattrak-id-minimal-wear": "",
+        "stattrak-id-field-tested": "",
+        "stattrak-id-well-worn": "",
+        "stattrak-id-battle-scarred": ""
+    },
+    {
+        "id": "skin-1577564",
+        "name": "UMP-45 | Motorized",
+        "description": "The misunderstood middle child of the SMG family, the UMP45's small magazine is the only drawback to an otherwise versatile close-quarters automatic. This custom paint job resembles a combustion engine, repurposed to be used as a weapon. With routine maintenance this'll last at least 500000 bullets!",
+        "weapon": "UMP-45",
+        "category": "mid-tier",
+        "pattern": "Motorized",
+        "min_float": 0.00,
+        "max_float": 0.80,
+        "rarity": "Mil-Spec Grade",
+        "stattrak": true,
+        "souvenir": false,
+        "paint_index": "1175",
+        "wears": [
+            "Factory New",
+            "Minimal Wear",
+            "Field-Tested",
+            "Well-Worn",
+            "Battle-Scarred"
+        ],
+        "crates": [
+            {
+                "id": "crate-4904",
+                "name": "Kilowatt Case"
+            }
+        ],
+        "image": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jfxv7YJWh97c-lkY2Jm_LwDL7fkWJf7fp9g-7J4cKn0Qaxr0c6YmumI4GVdlBtN1rZr1G8k-zm1sW-6J3PzXUyvScm5SyPgVXp1qY5rykn/360fx360f",
+        "buff-id-factory-new": "",
+        "buff-id-minimal-wear": "",
+        "buff-id-field-tested": "",
+        "buff-id-well-worn": "",
+        "buff-id-battle-scarred": "",
+        "stattrak-id-factory-new": "",
+        "stattrak-id-minimal-wear": "",
+        "stattrak-id-field-tested": "",
+        "stattrak-id-well-worn": "",
+        "stattrak-id-battle-scarred": ""
+    },
+    {
+        "id": "skin-1643096",
+        "name": "XM1014 | Irezumi",
+        "description": "The XM1014 is a powerful fully automatic shotgun that justifies its heftier price tag with the ability to paint a room with lead fast. A snake has been custom painted atop a gold-colored base in a style inspired by the Japanese tattoo art style Irezumi. Snakes represent wisdom and prophecy, two words which best describe XM1014 users",
+        "weapon": "XM1014",
+        "category": "mid-tier",
+        "pattern": "Irezumi",
+        "min_float": 0.00,
+        "max_float": 0.80,
+        "rarity": "Mil-Spec Grade",
+        "stattrak": true,
+        "souvenir": false,
+        "paint_index": "1174",
+        "wears": [
+            "Factory New",
+            "Minimal Wear",
+            "Field-Tested",
+            "Well-Worn",
+            "Battle-Scarred"
+        ],
+        "crates": [
+            {
+                "id": "crate-4904",
+                "name": "Kilowatt Case"
+            }
+        ],
+        "image": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07OvFIG0TuOO_hoWRgvr9DLfYkWNFpsMk2LjH8dis2Abg8xA4YDr7ctWVdAM5ZFHY-1K8xrzn1sTv6szPyCN9-n51nuU3Vic/360fx360f",
+        "buff-id-factory-new": "",
+        "buff-id-minimal-wear": "",
+        "buff-id-field-tested": "",
+        "buff-id-well-worn": "",
+        "buff-id-battle-scarred": "",
+        "stattrak-id-factory-new": "",
+        "stattrak-id-minimal-wear": "",
+        "stattrak-id-field-tested": "",
+        "stattrak-id-well-worn": "",
+        "stattrak-id-battle-scarred": ""
+    },
+    {
+        "id": "skin-1118768",
+        "name": "MAC-10 | Light Box",
+        "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been custom painted to appear as if you are looking into the back of the MAC-10. Custom built",
+        "weapon": "MAC-10",
+        "category": "mid-tier",
+        "pattern": "Light Box",
+        "min_float": 0.00,
+        "max_float": 1,
+        "rarity": "Mil-Spec Grade",
+        "stattrak": true,
+        "souvenir": false,
+        "paint_index": "1164",
+        "wears": [
+            "Factory New",
+            "Minimal Wear",
+            "Field-Tested",
+            "Well-Worn",
+            "Battle-Scarred"
+        ],
+        "crates": [
+            {
+                "id": "crate-4904",
+                "name": "Kilowatt Case"
+            }
+        ],
+        "image": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf3vLLIG195dC6gZOCmPnLP7LWnn8f7cR3ibuXp9WkiQO3_kM_Nm-hJYXDcQ9tMgrYqFTvk-vo0cDq6pqcm2wj5HfOKwrF1Q/360fx360f",
+        "buff-id-factory-new": "",
+        "buff-id-minimal-wear": "",
+        "buff-id-field-tested": "",
+        "buff-id-well-worn": "",
+        "buff-id-battle-scarred": "",
+        "stattrak-id-factory-new": "",
+        "stattrak-id-minimal-wear": "",
+        "stattrak-id-field-tested": "",
+        "stattrak-id-well-worn": "",
+        "stattrak-id-battle-scarred": ""
+    },
+    {
+        "id": "skin-2167340",
+        "name": "MP7 | Just Smile",
+        "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. The blue and purple base coat is finished with a smiley face and the words Just Smile in yellow. Say cheeeeese",
+        "weapon": "MP7",
+        "category": "mid-tier",
+        "pattern": "Just Smile",
+        "min_float": 0.00,
+        "max_float": 1,
+        "rarity": "Restricted",
+        "stattrak": true,
+        "souvenir": false,
+        "paint_index": "1163",
+        "wears": [
+            "Factory New",
+            "Minimal Wear",
+            "Field-Tested",
+            "Well-Worn",
+            "Battle-Scarred"
+        ],
+        "crates": [
+            {
+                "id": "crate-4904",
+                "name": "Kilowatt Case"
+            }
+        ],
+        "image": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFApwhMzCZC5W08-7nYyOqPv9NLPF2DkCv50ij7nD84j03QeyrURqam3yLISVegI3Mw2Bq1S9wr_q08Dq6cvXiSw0jpWIZ4I/360fx360f",
+        "buff-id-factory-new": "",
+        "buff-id-minimal-wear": "",
+        "buff-id-field-tested": "",
+        "buff-id-well-worn": "",
+        "buff-id-battle-scarred": "",
+        "stattrak-id-factory-new": "",
+        "stattrak-id-minimal-wear": "",
+        "stattrak-id-field-tested": "",
+        "stattrak-id-well-worn": "",
+        "stattrak-id-battle-scarred": ""
+    },
+    {
+        "id": "skin-1905184",
+        "name": "Sawed-Off | Analog Input",
+        "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit. It has been custom painted with diagonal bands of color and the letters X, Y, B, and A. 19 in 99",
+        "weapon": "Sawed-Off",
+        "category": "mid-tier",
+        "pattern": "Analog Input",
+        "min_float": 0.00,
+        "max_float": 0.62,
+        "rarity": "Restricted",
+        "stattrak": true,
+        "souvenir": false,
+        "paint_index": "1160",
+        "wears": [
+            "Factory New",
+            "Minimal Wear",
+            "Field-Tested",
+            "Well-Worn",
+            "Battle-Scarred"
+        ],
+        "crates": [
+            {
+                "id": "crate-4904",
+                "name": "Kilowatt Case"
+            }
+        ],
+        "image": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3YjxV6di5koa0kPb5NqnummJW4NE_2u-Yrd6i2AG3_BJtMmv0IoWSIFc4ZgqG_VbvlOe90cO8tZycnyA3uj5iuyhcVi1dpA/360fx360f",
+        "buff-id-factory-new": "",
+        "buff-id-minimal-wear": "",
+        "buff-id-field-tested": "",
+        "buff-id-well-worn": "",
+        "buff-id-battle-scarred": "",
+        "stattrak-id-factory-new": "",
+        "stattrak-id-minimal-wear": "",
+        "stattrak-id-field-tested": "",
+        "stattrak-id-well-worn": "",
+        "stattrak-id-battle-scarred": ""
+    },
+    {
+        "id": "skin-1905184",
+        "name": "Sawed-Off | Analog Input",
+        "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit. It has been custom painted with diagonal bands of color and the letters X, Y, B, and A. 19 in 99",
+        "weapon": "Sawed-Off",
+        "category": "mid-tier",
+        "pattern": "Analog Input",
+        "min_float": 0.00,
+        "max_float": 0.62,
+        "rarity": "Restricted",
+        "stattrak": true,
+        "souvenir": false,
+        "paint_index": "1160",
+        "wears": [
+            "Factory New",
+            "Minimal Wear",
+            "Field-Tested",
+            "Well-Worn",
+            "Battle-Scarred"
+        ],
+        "crates": [
+            {
+                "id": "crate-4904",
+                "name": "Kilowatt Case"
+            }
+        ],
+        "image": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3YjxV6di5koa0kPb5NqnummJW4NE_2u-Yrd6i2AG3_BJtMmv0IoWSIFc4ZgqG_VbvlOe90cO8tZycnyA3uj5iuyhcVi1dpA/360fx360f",
+        "buff-id-factory-new": "",
+        "buff-id-minimal-wear": "",
+        "buff-id-field-tested": "",
+        "buff-id-well-worn": "",
+        "buff-id-battle-scarred": "",
+        "stattrak-id-factory-new": "",
+        "stattrak-id-minimal-wear": "",
+        "stattrak-id-field-tested": "",
+        "stattrak-id-well-worn": "",
+        "stattrak-id-battle-scarred": ""
     }
 ]
