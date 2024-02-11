@@ -329,7 +329,7 @@
     "description": null,
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/stickers2/havefun_large.c2e82fc8c928fdbd5e52ef4936d4a9f93e0402d9.png",
-    "letter": "HF",
+    "string-letter": "HF",
     "buff-id": "40297",
     "buff-stickersearch-id": "1206"
   },
@@ -1313,7 +1313,8 @@
     "variant": "Paper",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/londonconspiracy_large.35729404aa00422e52096b9a837815cba711de35.png",
-    "letter": "CUN",
+    "letter": "C",
+    "default": "yes",
     "buff-id": "40448",
     "buff-stickersearch-id": "1354"
   },
@@ -1324,6 +1325,7 @@
     "variant": "Holo",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2014/londonconspiracy_holo_large.e6d437983b45120961e18fa11090f0b450511360.png",
+    "letter": "C",
     "buff-id": "40447",
     "buff-stickersearch-id": "1353"
   },
@@ -3026,7 +3028,6 @@
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/teamenvyus_large.ecd0526e2cf238b0425e98c4f7bd3c9779f9647b.png",
     "letter": "N",
-    "default": "yes",
     "buff-id": "40926",
     "buff-stickersearch-id": "1824"
   },
@@ -3068,7 +3069,6 @@
     "variant": "Paper",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/teamsolomid_large.be234b9678c6c4b3116f72e24efd9347e4e2f50d.png",
-    "letter": "SM",
     "buff-id": "40878",
     "buff-stickersearch-id": "1778"
   },
@@ -3079,7 +3079,6 @@
     "variant": "Holo",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/teamsolomid_holo_large.b2b93f8257e37c632915508feb63e309bf43e194.png",
-    "letter": "SM",
     "buff-id": "40877",
     "buff-stickersearch-id": "1777"
   },
@@ -3090,7 +3089,6 @@
     "variant": "Foil",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/teamsolomid_foil_large.064a976fc9062ef007bc2462bb203cc8c21e306b.png",
-    "letter": "SM",
     "buff-id": "40876",
     "buff-stickersearch-id": "1776"
   },
@@ -3516,6 +3514,7 @@
     "description": "This sticker was autographed by professional player Jesper Wecksell playing for Fnatic at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_jw_large.77cf8862faf3d0c44f4bb5e4973a6b82403e1666.png",
+    "letter": "J",
     "buff-id": "40360",
     "buff-stickersearch-id": "1268"
   },
@@ -3525,6 +3524,7 @@
     "description": "This foil sticker was autographed by professional player Jesper Wecksell playing for Fnatic at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_jw_foil_large.acf7c431dc109b535afc817c1ff97477300dc515.png",
+    "letter": "J",
     "buff-id": "40351",
     "buff-stickersearch-id": "1259"
   },
@@ -3535,6 +3535,7 @@
     "variant": "Gold",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_jw_gold_large.a48c2b564b2d8b7f14014f13c371e8684c76cb36.png",
+    "letter": "J",
     "buff-stickersearch-id": "3444"
   },
   "sticker-389": {
@@ -3759,6 +3760,7 @@
     "description": "This sticker was autographed by professional player Danylo Teslenko playing for Natus Vincere at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_zeus_large.3a9f6def0a1e7bb7fbc6cdab029452d3b7479e80.png",
+    "letter": "Z",
     "buff-id": "41119",
     "buff-stickersearch-id": "2016"
   },
@@ -3768,6 +3770,7 @@
     "description": "This foil sticker was autographed by professional player Danylo Teslenko playing for Natus Vincere at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_zeus_foil_large.e4c7205df3189a2a8ed9b06cbca917fbf59901f0.png",
+    "letter": "Z",
     "buff-id": "41110",
     "buff-stickersearch-id": "2007"
   },
@@ -4569,6 +4572,8 @@
     "description": "This sticker was autographed by professional player Luke Paton playing for Renegades at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_havoc_large.7897909268f70fd765f6177a5a5ec3a0b0b7689a.png",
+    "letter": "H",
+    "default": "yes",
     "buff-id": "40299",
     "buff-stickersearch-id": "1208"
   },
@@ -4578,6 +4583,7 @@
     "description": "This foil sticker was autographed by professional player Luke Paton playing for Renegades at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_havoc_foil_large.ad9eb435c1e8b372afe896eeb766cb0b7f50aeb1.png",
+    "letter": "H",
     "buff-id": "40298",
     "buff-stickersearch-id": "1207"
   },
@@ -5136,6 +5142,7 @@
     "description": "This sticker was autographed by professional player Piotr \u0106wikli\u0144ski playing for Team eBettle at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_peet_large.db3485a1a045c71d02043c8d985c3bab13d1089d.png",
+    "letter": "P",
     "buff-id": "41769",
     "buff-stickersearch-id": "2666"
   },
@@ -5145,6 +5152,7 @@
     "description": "This foil sticker was autographed by professional player Piotr \u0106wikli\u0144ski playing for Team eBettle at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_peet_foil_large.14de17de24ba0ba7ec34fe609952bbf9e602ed1d.png",
+    "letter": "P",
     "buff-id": "41767",
     "buff-stickersearch-id": "2664"
   },
@@ -5351,6 +5359,7 @@
     "description": "This sticker was autographed by professional player James Cobb playing for Counter Logic Gaming at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_hazed_large.02e945566be57789c6eaf92bffc1757c6ff70b61.png",
+    "letter": "H",
     "buff-id": "41488",
     "buff-stickersearch-id": "2385"
   },
@@ -5360,6 +5369,7 @@
     "description": "This foil sticker was autographed by professional player James Cobb playing for Counter Logic Gaming at ESL One Cologne 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_hazed_foil_large.61d8ee90983aac7b12cc7793dd050db5f10f8d62.png",
+    "letter": "H",
     "buff-id": "41484",
     "buff-stickersearch-id": "2381"
   },
@@ -5994,6 +6004,7 @@
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/titan_large.b0e0885602d786d4f0763541a303d45b16fcf194.png",
     "letter": "T",
+    "default": "yes",
     "buff-id": "40985",
     "buff-stickersearch-id": "1882"
   },
@@ -7217,6 +7228,7 @@
     "description": "This sticker was autographed by professional player Danylo Teslenko playing for Natus Vincere at DreamHack Cluj-Napoca 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cluj2015/sig_zeus_large.0ea96087c43523448d9c5c400059450731950830.png",
+    "letter": "Z",
     "buff-id": "41118",
     "buff-stickersearch-id": "2015"
   },
@@ -7226,6 +7238,7 @@
     "description": "This foil sticker was autographed by professional player Danylo Teslenko playing for Natus Vincere at DreamHack Cluj-Napoca 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cluj2015/sig_zeus_foil_large.69f1b15ebc8a1ee57ef7dc1c7a39bd5fbf4a51e0.png",
+    "letter": "Z",
     "buff-id": "41109",
     "buff-stickersearch-id": "2006"
   },
@@ -7945,6 +7958,7 @@
     "description": "This sticker was autographed by professional player Bartosz Wolny playing for Vexed Gaming at DreamHack Cluj-Napoca 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cluj2015/sig_hyper_large.eea1ff65a6f144c6c9fe288c5744e9f5f9e3db14.png",
+    "letter": "H",
     "buff-id": "40339",
     "buff-stickersearch-id": "1248"
   },
@@ -7954,6 +7968,7 @@
     "description": "This foil sticker was autographed by professional player Bartosz Wolny playing for Vexed Gaming at DreamHack Cluj-Napoca 2015.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cluj2015/sig_hyper_foil_large.d1d749ce1322d2038ea9c6adbc43745f4ac98331.png",
+    "letter": "H",
     "buff-id": "40337",
     "buff-stickersearch-id": "1246"
   },
@@ -8232,6 +8247,7 @@
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cluj2015/vex_large.20f48097153b223651684f514c7f789bcfd353f6.png",
     "letter": "X",
+    "default": "yes",
     "buff-id": "41013",
     "buff-stickersearch-id": "1910"
   },
@@ -9033,6 +9049,7 @@
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/columbus2016/splc_large.5fb439a52d1eea4026eaab03d48d4c36faf497d5.png",
     "letter": "S",
+    "default": "yes",
     "buff-id": "40840",
     "buff-stickersearch-id": "1740"
   },
@@ -10748,6 +10765,7 @@
     "description": "This sticker was autographed by professional player Danylo Teslenko playing for Natus Vincere at MLG Columbus 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/columbus2016/sig_zeus_large.c83dba51e961121c16523b5bbf8314303a55a142.png",
+    "letter": "Z",
     "buff-id": "41122",
     "buff-stickersearch-id": "2019"
   },
@@ -10757,6 +10775,7 @@
     "description": "This foil sticker was autographed by professional player Danylo Teslenko playing for Natus Vincere at MLG Columbus 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/columbus2016/sig_zeus_foil_large.266caa9a76dd2ccf60e00aad349d50dfd3494594.png",
+    "letter": "Z",
     "buff-id": "41113",
     "buff-stickersearch-id": "2010"
   },
@@ -11500,6 +11519,7 @@
     "description": "This sticker was autographed by professional player Rustem Telepov playing for Gambit Gaming at MLG Columbus 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/columbus2016/sig_mou_large.cecc28c216885aff5c696f79dd137e19b38fed91.png",
+    "letter": "M",
     "buff-id": "41666",
     "buff-stickersearch-id": "2563"
   },
@@ -11509,6 +11529,7 @@
     "description": "This foil sticker was autographed by professional player Rustem Telepov playing for Gambit Gaming at MLG Columbus 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/columbus2016/sig_mou_foil_large.1149aa52202a7e3702a65e57c9b741e1dc3b2482.png",
+    "letter": "M",
     "buff-id": "41659",
     "buff-stickersearch-id": "2556"
   },
@@ -12375,6 +12396,7 @@
     "description": "This sticker was autographed by professional player Faruk Pita playing for Counter Logic Gaming at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2016/sig_pita_large.20500c2291ac051a53c9339798f61e2a0858dba0.png",
+    "letter": "P",
     "buff-id": "41771",
     "buff-stickersearch-id": "2668"
   },
@@ -12384,6 +12406,7 @@
     "description": "This foil sticker was autographed by professional player Faruk Pita playing for Counter Logic Gaming at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2016/sig_pita_foil_large.859d95fe8cf108568119091ea586a1cfd51ee2c5.png",
+    "letter": "P",
     "buff-id": "41770",
     "buff-stickersearch-id": "2667"
   },
@@ -13441,6 +13464,7 @@
     "description": "This sticker was autographed by professional player Danylo Teslenko playing for Natus Vincere at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2016/sig_zeus_large.4acb67f8587a87edf7b038e78c8113fc78632aa1.png",
+    "letter": "Z",
     "buff-id": "41120",
     "buff-stickersearch-id": "2017"
   },
@@ -13450,6 +13474,7 @@
     "description": "This foil sticker was autographed by professional player Danylo Teslenko playing for Natus Vincere at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2016/sig_zeus_foil_large.fd5dd5520f33910992b5c43c885518b0362f0e44.png",
+    "letter": "Z",
     "buff-id": "41111",
     "buff-stickersearch-id": "2008"
   },
@@ -14195,6 +14220,7 @@
     "description": "This sticker was autographed by professional player Rustem Telepov playing for Gambit Gaming at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2016/sig_mou_large.2f8554e1dfb7bae82b98a5948c75e8baa42eaf34.png",
+    "letter": "M",
     "buff-id": "41664",
     "buff-stickersearch-id": "2561"
   },
@@ -14204,6 +14230,7 @@
     "description": "This foil sticker was autographed by professional player Rustem Telepov playing for Gambit Gaming at Cologne 2016.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2016/sig_mou_foil_large.2998e6a26b4f08f8fb46713892335b04cfa160c2.png",
+    "letter": "M",
     "buff-id": "41657",
     "buff-stickersearch-id": "2554"
   },
@@ -17188,6 +17215,7 @@
     "description": "This sticker was autographed by professional player Rustem Telepov playing for Gambit Gaming at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/atlanta2017/sig_mou_large.978da0a51c7b1abd537e7993c3773235bce28670.png",
+    "letter": "M",
     "buff-id": "41662",
     "buff-stickersearch-id": "2559"
   },
@@ -17197,6 +17225,7 @@
     "description": "This foil sticker was autographed by professional player Rustem Telepov playing for Gambit Gaming at Atlanta 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/atlanta2017/sig_mou_foil_large.b6376f36b1c92a23a7d00494bc0b8ff37360f4df.png",
+    "letter": "M",
     "buff-id": "41655",
     "buff-stickersearch-id": "2552"
   },
@@ -18731,6 +18760,8 @@
     "description": "This sticker was autographed by professional player Rustem Telepov playing for Gambit at Krakow 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/krakow2017/sig_mou_large.d2b5a19e4d384cb19abc16212e0ee2bdc3c344cc.png",
+    "letter": "M",
+    "default": "yes",
     "buff-id": "41665",
     "buff-stickersearch-id": "2562"
   },
@@ -18740,6 +18771,7 @@
     "description": "This foil sticker was autographed by professional player Rustem Telepov playing for Gambit at Krakow 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/krakow2017/sig_mou_foil_large.4cb294517dedb596aa029bb765bcf7221b8ff9a6.png",
+    "letter": "M",
     "buff-id": "41658",
     "buff-stickersearch-id": "2555"
   },
@@ -19352,6 +19384,7 @@
     "description": "This sticker was autographed by professional player Kevin Bartholom\u00e4us playing for BIG at Krakow 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/krakow2017/sig_keev_large.316d994c2a7ee85a0aca4256d7be491d86225a90.png",
+    "letter": "K",
     "buff-id": "41588",
     "buff-stickersearch-id": "2485"
   },
@@ -19361,6 +19394,7 @@
     "description": "This foil sticker was autographed by professional player Kevin Bartholom\u00e4us playing for BIG at Krakow 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/krakow2017/sig_keev_foil_large.acf9280834fc04359903fae9f7a444e678ef2615.png",
+    "letter": "K",
     "buff-id": "41584",
     "buff-stickersearch-id": "2481"
   },
@@ -19370,6 +19404,7 @@
     "description": "This gold sticker was autographed by professional player Kevin Bartholom\u00e4us playing for BIG at Krakow 2017.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Extraordinary",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/krakow2017/sig_keev_gold_large.588061a0caf70cfcd1f9f82a6052dce3d2bf61cd.png",
+    "letter": "K",
     "buff-id": "41586",
     "buff-stickersearch-id": "2483"
   },
@@ -21414,6 +21449,7 @@
     "description": "This sticker was autographed by professional player Rustem Telepov playing for Gambit Esports at Boston 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/boston2018/sig_mou_large.3d428c470a5c9bab894d31058de1510b2dce4c88.png",
+    "letter": "M",
     "buff-id": "41663",
     "buff-stickersearch-id": "2560"
   },
@@ -21423,6 +21459,7 @@
     "description": "This foil sticker was autographed by professional player Rustem Telepov playing for Gambit Esports at Boston 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/boston2018/sig_mou_foil_large.fa90ac82f8def345e38d18f39241dd792b01e4a9.png",
+    "letter": "M",
     "buff-id": "41656",
     "buff-stickersearch-id": "2553"
   },
@@ -21432,6 +21469,7 @@
     "description": "This gold sticker was autographed by professional player Rustem Telepov playing for Gambit Esports at Boston 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Extraordinary",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/boston2018/sig_mou_gold_large.f0ec482d2b4fbf8889c7aab071d90bc7a8ab76ec.png",
+    "letter": "M",
     "buff-id": "41660",
     "buff-stickersearch-id": "2557"
   },
@@ -22143,6 +22181,8 @@
     "description": "This sticker was autographed by professional player Kevin Bartholom\u00e4us playing for BIG at Boston 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/boston2018/sig_keev_large.59e6d106cdb1e97f2f3de94a91258c29832e1fde.png",
+    "letter": "K",
+    "default": "yes",
     "buff-id": "41587",
     "buff-stickersearch-id": "2484"
   },
@@ -22152,6 +22192,7 @@
     "description": "This foil sticker was autographed by professional player Kevin Bartholom\u00e4us playing for BIG at Boston 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/boston2018/sig_keev_foil_large.51c86d1b463063c5ca4ba9f3729c404eb98a8081.png",
+    "letter": "K",
     "buff-id": "41583",
     "buff-stickersearch-id": "2480"
   },
@@ -22161,6 +22202,7 @@
     "description": "This gold sticker was autographed by professional player Kevin Bartholom\u00e4us playing for BIG at Boston 2018.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Extraordinary",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/boston2018/sig_keev_gold_large.8707bbab9fdb6334f1c688a56c52daf8a79fe0fb.png",
+    "letter": "K",
     "buff-id": "41585",
     "buff-stickersearch-id": "2482"
   },
@@ -29870,6 +29912,7 @@
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/katowice2019/vici_large.4f49b0ad9697cac40251dc5f44469e8db4edb569.png",
     "letter": "V",
+    "default": "yes",
     "buff-id": "768158",
     "buff-stickersearch-id": "4483"
   },
@@ -30228,6 +30271,7 @@
     "description": "This sticker was autographed by professional player Alexey Golubev playing for Avangar at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/katowice2019/sig_qikert_large.551971a198241dab6f596bd53101fb6700b0abb0.png",
+    "letter": "Q",
     "buff-id": "768191",
     "buff-stickersearch-id": "4655"
   },
@@ -30237,6 +30281,7 @@
     "description": "This foil sticker was autographed by professional player Alexey Golubev playing for Avangar at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/katowice2019/sig_qikert_foil_large.833459c0d520eef31185e03ddfe2f32095721b13.png",
+    "letter": "Q",
     "buff-id": "768611",
     "buff-stickersearch-id": "4858"
   },
@@ -30246,6 +30291,7 @@
     "description": "This gold sticker was autographed by professional player Alexey Golubev playing for Avangar at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Extraordinary",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/katowice2019/sig_qikert_gold_large.1a856b15ffffb3847d40d4c9707481b3cb2230bb.png",
+    "letter": "Q",
     "buff-id": "768703",
     "buff-stickersearch-id": "4936"
   },
@@ -33090,6 +33136,7 @@
     "description": "This sticker was autographed by professional player Mathieu Herbaut playing for Vitality at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/katowice2019/sig_zywoo_large.bfe7571e32f7c18d82201c5e4ae51cc7c4eb9b57.png",
+    "letter": "Z",
     "buff-id": "768258",
     "buff-stickersearch-id": "4613"
   },
@@ -33099,6 +33146,7 @@
     "description": "This foil sticker was autographed by professional player Mathieu Herbaut playing for Vitality at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/katowice2019/sig_zywoo_foil_large.3bc31a7c5f60deae8b9bc6ef65efea1c5d11c0f0.png",
+    "letter": "Z",
     "buff-id": "768425",
     "buff-stickersearch-id": "4749"
   },
@@ -33108,6 +33156,7 @@
     "description": "This gold sticker was autographed by professional player Mathieu Herbaut playing for Vitality at Katowice 2019.\\n\\n50% of the proceeds from the sale of this sticker support the included players and organizations.",
     "rarity": "Extraordinary",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/katowice2019/sig_zywoo_gold_large.c67bec32d206d235a0b1dc946a943491b99a7800.png",
+    "letter": "Z",
     "buff-id": "768772",
     "buff-stickersearch-id": "4978"
   },
@@ -33923,6 +33972,7 @@
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/berlin2019/avg_large.6c0e9c46f4d9c17f3f4d3d5c301a1d542d2a7c14.png",
     "letter": "W",
+    "default": "yes",
     "buff-id": "772381",
     "buff-stickersearch-id": "10567"
   },
@@ -35857,6 +35907,8 @@
     "description": "This sticker was autographed by professional player Alexey Golubev playing for Avangar at Berlin 2019.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/berlin2019/sig_qikert_large.72b6c6fe5c2a7e41ea4cba69a17ad1385c86bfe5.png",
+    "letter": "Q",
+    "default": "yes",
     "buff-id": "772030",
     "buff-stickersearch-id": "10327"
   },
@@ -35866,6 +35918,7 @@
     "description": "This foil sticker was autographed by professional player Alexey Golubev playing for Avangar at Berlin 2019.",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/berlin2019/sig_qikert_foil_large.57dfd586d02b3e6982dc296e08f2c371914bae20.png",
+    "letter": "Q",
     "buff-id": "772317",
     "buff-stickersearch-id": "10522"
   },
@@ -35875,6 +35928,7 @@
     "description": "This gold sticker was autographed by professional player Alexey Golubev playing for Avangar at Berlin 2019.",
     "rarity": "Extraordinary",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/berlin2019/sig_qikert_gold_large.64449c1a3de54b68e0de8d4a640905c46054c2a3.png",
+    "letter": "Q",
     "buff-id": "772553",
     "buff-stickersearch-id": "10688"
   },
@@ -36181,6 +36235,7 @@
     "description": "This sticker was autographed by professional player Mathieu Herbaut playing for Vitality at Berlin 2019.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/berlin2019/sig_zywoo_large.e0d99c0a1a4d86dc523a0630eda34863d8eabb3e.png",
+    "letter": "Z",
     "buff-id": "772019",
     "buff-stickersearch-id": "10318"
   },
@@ -36190,6 +36245,7 @@
     "description": "This foil sticker was autographed by professional player Mathieu Herbaut playing for Vitality at Berlin 2019.",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/berlin2019/sig_zywoo_foil_large.9091c4e2c197358d366554ee50bd45d918a0e088.png",
+    "letter": "Z",
     "buff-id": "772001",
     "buff-stickersearch-id": "10303"
   },
@@ -36199,6 +36255,7 @@
     "description": "This gold sticker was autographed by professional player Mathieu Herbaut playing for Vitality at Berlin 2019.",
     "rarity": "Extraordinary",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/berlin2019/sig_zywoo_gold_large.89860328b6fe6397b4a17d65aab7d66ea499f255.png",
+    "letter": "Z",
     "buff-id": "772544",
     "buff-stickersearch-id": "10681"
   },
@@ -38616,6 +38673,7 @@
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/recoil/sg553_recoil_large.7539349dd68beb75041ed0d930c214ea6923ae89.png",
     "letter": "L",
+    "default": "yes",
     "buff-id": "835675",
     "buff-stickersearch-id": "15547"
   },
@@ -40475,6 +40533,7 @@
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/community2021/ez_glossy_large.8846ca03107dac0534024af5721bd1b819701275.png",
     "letter": "E",
+    "default": "yes",
     "buff-id": "869889",
     "buff-stickersearch-id": "15976"
   },
@@ -40703,6 +40762,7 @@
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/bf2042/nopats_paper_large.5971ecc35360dbfdd8c407bb880ddfd3901c01ca.png",
     "letter": "N",
+    "default": "yes",
     "buff-id": "880156",
     "buff-stickersearch-id": "16478"
   },
@@ -41353,6 +41413,7 @@
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/stockh2021/pain_large.08b1811616aaa05581a9b52df0cdfbe17c2c1141.png",
     "letter": "P",
+    "default": "yes",
     "buff-id": "876039",
     "buff-stickersearch-id": "16168"
   },
@@ -42765,6 +42826,7 @@
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/stockh2021/sig_rez_large.0898153661b65e3b315089ba1efb95e9b92ccdca.png",
     "letter": "R",
+    "default": "yes",
     "buff-id": "878916",
     "buff-stickersearch-id": "16402"
   },
@@ -42848,6 +42910,7 @@
     "description": "This sticker was autographed by professional player Mathieu Herbaut playing for Vitality, Quarterfinalist at the PGL Stockholm 2021 CS:GO Major Championship.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/stockh2021/sig_zywoo_large.24ad3dae703195b212cf428476aab53d34ed48f6.png",
+    "letter": "Z",
     "buff-id": "878850",
     "buff-stickersearch-id": "16357"
   },
@@ -42857,6 +42920,7 @@
     "description": "This holographic sticker was autographed by professional player Mathieu Herbaut playing for Vitality, Quarterfinalist at the PGL Stockholm 2021 CS:GO Major Championship.",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/stockh2021/sig_zywoo_holo_large.876cbc31017342b5baa8de6c689496061b85bb8b.png",
+    "letter": "Z",
     "buff-id": "878967",
     "buff-stickersearch-id": "16424"
   },
@@ -42866,6 +42930,7 @@
     "description": "This gold sticker was autographed by professional player Mathieu Herbaut playing for Vitality, Quarterfinalist at the PGL Stockholm 2021 CS:GO Major Championship.",
     "rarity": "Extraordinary",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/stockh2021/sig_zywoo_gold_large.6393fdb6f5acb0b87b3bc33b6ad8cb52fa1d0fdc.png",
+    "letter": "Z",
     "buff-id": "878985",
     "buff-stickersearch-id": "16439"
   },
@@ -42984,6 +43049,7 @@
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/spring2022/b_hop_paper_large.1989349d91e6ddd34526c1888db0e59143147972.png",
     "letter": "B",
+    "default": "yes",
     "buff-id": "888030",
     "buff-stickersearch-id": "16523"
   },
@@ -43364,6 +43430,7 @@
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/antwerp2022/faze_large.702fa75e04c58b270b85641c9cdd61bcf06dbf7e.png",
     "letter": "F",
+    "default": "yes",
     "buff-id": "894085",
     "buff-stickersearch-id": "16621"
   },
@@ -47615,6 +47682,8 @@
     "description": "This sticker was autographed by professional player Ioannis Theodosiou playing for Complexity Gaming at the PGL Antwerp 2022 CS:GO Major Championship.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/antwerp2022/sig_jt_large.8ef78c6c2eb5f8bf893815c209ffc9a7563d2f82.png",
+    "letter": "J",
+    "default": "yes",
     "buff-id": "895314",
     "buff-stickersearch-id": "16905"
   },
@@ -47624,6 +47693,7 @@
     "description": "This glitter sticker was autographed by professional player Ioannis Theodosiou playing for Complexity Gaming at the PGL Antwerp 2022 CS:GO Major Championship.",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/antwerp2022/sig_jt_glitter_large.ed48fbc3def0a35a210d393cec7314cf3cf54dc2.png",
+    "letter": "J",
     "buff-id": "895397",
     "buff-stickersearch-id": "16981"
   },
@@ -47633,6 +47703,7 @@
     "description": "This holographic sticker was autographed by professional player Ioannis Theodosiou playing for Complexity Gaming at the PGL Antwerp 2022 CS:GO Major Championship.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/antwerp2022/sig_jt_holo_large.a49635d7b9af744391bb76f3cac1cb5456e0efd2.png",
+    "letter": "J",
     "buff-id": "895461",
     "buff-stickersearch-id": "17273"
   },
@@ -47642,6 +47713,7 @@
     "description": "This gold sticker was autographed by professional player Ioannis Theodosiou playing for Complexity Gaming at the PGL Antwerp 2022 CS:GO Major Championship.",
     "rarity": "Extraordinary",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/antwerp2022/sig_jt_gold_large.20da6cbd36ccbbafb9ca629b1056ed4629cf1985.png",
+    "letter": "J",
     "buff-id": "895569",
     "buff-stickersearch-id": "17117"
   },
@@ -48722,7 +48794,8 @@
     "description": null,
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/csgo10/dragon_tale_paper_large.3e978bc12137714d31edd99e36b98fb3af8657d9.png",
-    "letter": "V",
+    "letter": "U",
+    "default": "yes",
     "buff-id": "903814",
     "buff-stickersearch-id": "17360"
   },
@@ -58000,6 +58073,8 @@
     "description": "This sticker was autographed by professional player Romeu Rocco playing for paiN Gaming at the BLAST.tv Paris 2023 CS:GO Major Championship.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/sig_zevy_large.9f34bb8cb04f19ee8c0abea19e3adea5dd260789.png",
+    "letter": "Z",
+    "default": "yes",
     "buff-id": "928033",
     "buff-stickersearch-id": "18332"
   },
@@ -58009,6 +58084,7 @@
     "description": "This glitter sticker was autographed by professional player Romeu Rocco playing for paiN Gaming at the BLAST.tv Paris 2023 CS:GO Major Championship.",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/sig_zevy_glitter_large.5a755c6d56f92524c5445ef056314fda97959cb0.png",
+    "letter": "Z",
     "buff-id": "928499",
     "buff-stickersearch-id": "18726"
   },
@@ -58018,6 +58094,7 @@
     "description": "This holographic sticker was autographed by professional player Romeu Rocco playing for paiN Gaming at the BLAST.tv Paris 2023 CS:GO Major Championship.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/sig_zevy_holo_large.4df20fe120fa82a0392ed42bc50a1a56eddba88f.png",
+    "letter": "Z",
     "buff-id": "928508",
     "buff-stickersearch-id": "18735"
   },
@@ -58027,6 +58104,7 @@
     "description": "This gold sticker was autographed by professional player Romeu Rocco playing for paiN Gaming at the BLAST.tv Paris 2023 CS:GO Major Championship.",
     "rarity": "Extraordinary",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/sig_zevy_gold_large.59f8187681e3fea1de9b5785db95902a776ff567.png",
+    "letter": "Z",
     "buff-id": "928628",
     "buff-stickersearch-id": "18836"
   },
@@ -58468,6 +58546,7 @@
     "description": "This sticker was autographed by professional player Szymon Mrozek playing for Monte at the BLAST.tv Paris 2023 CS:GO Major Championship.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/sig_krasnal_large.943e92a11d0cd55c5410b273792136fe7d575a3a.png",
+    "string-letter": "kRaSnaL",
     "buff-id": "928053",
     "buff-stickersearch-id": "18351"
   },
@@ -59629,6 +59708,7 @@
     "description": "This sticker was autographed by professional player Ioannis Theodosiou playing for Complexity Gaming at the BLAST.tv Paris 2023 CS:GO Major Championship.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/sig_jt_large.5b5fcca534d6517783f99d0ed1a5adb5abe7edf0.png",
+    "letter": "J",
     "buff-id": "928287",
     "buff-stickersearch-id": "18544"
   },
@@ -59638,6 +59718,7 @@
     "description": "This glitter sticker was autographed by professional player Ioannis Theodosiou playing for Complexity Gaming at the BLAST.tv Paris 2023 CS:GO Major Championship.",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/sig_jt_glitter_large.d5eeaad29a5306de976cb4ee68c842389960c878.png",
+    "letter": "J",
     "buff-id": "928292",
     "buff-stickersearch-id": "18546"
   },
@@ -59647,6 +59728,7 @@
     "description": "This holographic sticker was autographed by professional player Ioannis Theodosiou playing for Complexity Gaming at the BLAST.tv Paris 2023 CS:GO Major Championship.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/sig_jt_holo_large.edb2bdd80790091db6bd4258ed75850aadc3a62f.png",
+    "letter": "J",
     "buff-id": "928498",
     "buff-stickersearch-id": "18725"
   },
@@ -59656,6 +59738,7 @@
     "description": "This gold sticker was autographed by professional player Ioannis Theodosiou playing for Complexity Gaming at the BLAST.tv Paris 2023 CS:GO Major Championship.",
     "rarity": "Extraordinary",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/sig_jt_gold_large.227c3492345425e1c3166ef2bd9e27b2710841ca.png",
+    "letter": "J",
     "buff-id": "928631",
     "buff-stickersearch-id": "18839"
   },
@@ -60169,6 +60252,7 @@
     "description": "This sticker was autographed by professional player Mathieu Herbaut playing for Vitality, Champion at the BLAST.tv Paris 2023 CS:GO Major Championship.",
     "rarity": "High Grade",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/sig_zywoo_champion_large.6dc20fb916ec7ca91cfc57b25fdd99e89abdc5ba.png",
+    "letter": "Z",
     "buff-id": "930502",
     "buff-stickersearch-id": "18903"
   },
@@ -60178,6 +60262,7 @@
     "description": "This glitter sticker was autographed by professional player Mathieu Herbaut playing for Vitality, Champion at the BLAST.tv Paris 2023 CS:GO Major Championship.",
     "rarity": "Remarkable",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/sig_zywoo_glitter_champion_large.88cd68debe535c2c51c737774baf1cebdb9e2a9f.png",
+    "letter": "Z",
     "buff-id": "930482",
     "buff-stickersearch-id": "18899"
   },
@@ -60187,6 +60272,7 @@
     "description": "This holographic sticker was autographed by professional player Mathieu Herbaut playing for Vitality, Champion at the BLAST.tv Paris 2023 CS:GO Major Championship.",
     "rarity": "Exotic",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/sig_zywoo_holo_champion_large.6caa6166c93c38f8ae027b81ea911150cf7ad0db.png",
+    "letter": "Z",
     "buff-id": "930509",
     "buff-stickersearch-id": "18909"
   },
@@ -60196,6 +60282,7 @@
     "description": "This gold sticker was autographed by professional player Mathieu Herbaut playing for Vitality, Champion at the BLAST.tv Paris 2023 CS:GO Major Championship.",
     "rarity": "Extraordinary",
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/sig_zywoo_gold_champion_large.7be09229b6d1ce5182c91d95beccb4c6a5164ace.png",
+    "letter": "Z",
     "buff-id": "930511",
     "buff-stickersearch-id": "18911"
   }
