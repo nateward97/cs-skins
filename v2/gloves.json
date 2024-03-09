@@ -1,0 +1,3180 @@
+[
+  {
+    "id": "skin-309697940",
+    "name": "★ Broken Fang Gloves | Jade",
+    "description": "These fingerless gloves have been decorated with metal studs and the Operation Broken Fang logo.",
+    "weapon": "Broken Fang Gloves",
+    "category": "gloves",
+    "pattern": "Jade",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10085",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4717",
+        "name": "Operation Broken Fang Case"
+      },
+      {
+        "id": "crate-4747",
+        "name": "Snakebite Case"
+      },
+      {
+        "id": "crate-4846",
+        "name": "Recoil Case"
+      }
+    ],
+    "image": {
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibi3JAxl3fXJfzp969C5goWYqPjkNqnQgmJe5pQhteTE4Y35gVeLrAE5NjecedPBK0Njfw7SrFTvk-3q15Xu7c-bznMwv3Zx7CyInRezgE4ZZrBq0_zNQFifAqxXXP7VYiScbn4",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibi3JAxl3fXJfzp969C5goWYqPjkNqnQgmJe5pQhteTE4Y35gVeLrAE5NjeceN_CKkIgaFGC8gK4l-nr18DpvM-bnHBhsyUgsXmIzUS_1x1EOuw7jKedHFXID7sJQvezMvLDSA",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibi3JAxl3fXJfzp969C5goWYqPjkNqnQgmJe5pQhteTE4Y35gVeLrAE5NjeceN_CKkIgaFGC8gK4l-nr18DpvM-bnHBhsyUgsXmIzUS_1x1EOuw7jKedHFXID7sJQvezMvLDSA",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibi3JAxl3fXJfzp969C5goWYqPjkNqnQgmJe5pQhteTE4Y35gVeLrAE5NjecfNPENE8gNViD8we2xOzogpDotM6cyCNksyMj4yqMmkTjhEsfZrBthPybQQ3IUbsJQveIQycysw",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibi3JAxl3fXJfzp969C5goWYqPjkNqnQgmJe5pQhteTE4Y35gVeLrAE5NjecedPBK0Njfw7SrFTvk-3q15Xu7c-bznMwv3Zx7CyInRezgE4ZZrBq0_zNQFifAqxXXP7VYiScbn4"
+    },
+    "buff-id-factory-new": "842580",
+    "buff-id-minimal-wear": "836034",
+    "buff-id-field-tested": "835880",
+    "buff-id-well-worn": "835981",
+    "buff-id-battle-scarred": "836079"
+  },
+  {
+    "id": "skin-309697944",
+    "name": "★ Broken Fang Gloves | Yellow-banded",
+    "description": "These fingerless gloves have been decorated with metal studs and the Operation Broken Fang logo.",
+    "weapon": "Broken Fang Gloves",
+    "category": "gloves",
+    "pattern": "Yellow-banded",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10086",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4717",
+        "name": "Operation Broken Fang Case"
+      },
+      {
+        "id": "crate-4747",
+        "name": "Snakebite Case"
+      },
+      {
+        "id": "crate-4846",
+        "name": "Recoil Case"
+      }
+    ],
+    "image": {
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibi3JAxl3fXJfzp969C5goWYqPjkNqnQgmJe5pQhtfnO_J_6hmuyuRw7DDuvddXOHU9rPQSPvT7imLm3wYjt78idzXdj7CRwsCmJnxG3gxFNP-Vn0fWXSl3NUaZMSajXBnrTsc97Vmz0Tn4yfwZ_",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibi3JAxl3fXJfzp969C5goWYqPjkNqnQgmJe5pQhtfnO_J_6hmuyuRw7DDuvddXOHU9rPQSPvT7mlL-pzIjvuJzKyHBmuyl04XjZm0S2gRkfb-Vo1qCfHV6eVPMYTfHWVHDU5ZtyVmz0Toni1eme",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibi3JAxl3fXJfzp969C5goWYqPjkNqnQgmJe5pQhtfnO_J_6hmuyuRw7DDuvddXOHU9rPQSPvT7jlLq2wMuiv57OwXpq7yFz5X-LzBe10BFEP-Nt0PTNQF2dBKdLFaKLUnLWuZxwGjLqR03TQWOpXQ",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibi3JAxl3fXJfzp969C5goWYqPjkNqnQgmJe5pQhtfnO_J_6hmuyuRw7DDuvddXOHU9rPQSPvT7jlLq2wMuiv57OwXpq7yFz5X-LzBe10BFEP-Nt0PTNQF2dBKdLFaKLUnLWuZxwGjLqR03TQWOpXQ",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibi3JAxl3fXJfzp969C5goWYqPjkNqnQgmJe5pQhtfnO_J_6hmuyuRw7DDuvddXOHU9rPQSPvT7imLm3wYjt78idzXdj7CRwsCmJnxG3gxFNP-Vn0fWXSl3NUaZMSajXBnrTsc97Vmz0Tn4yfwZ_"
+    },
+    "buff-id-factory-new": "837362",
+    "buff-id-minimal-wear": "835904",
+    "buff-id-field-tested": "836009",
+    "buff-id-well-worn": "836253",
+    "buff-id-battle-scarred": "836178"
+  },
+  {
+    "id": "skin-309697948",
+    "name": "★ Broken Fang Gloves | Needle Point",
+    "description": "These fingerless gloves have been decorated with metal studs and the Operation Broken Fang logo.",
+    "weapon": "Broken Fang Gloves",
+    "category": "gloves",
+    "pattern": "Needle Point",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10087",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4717",
+        "name": "Operation Broken Fang Case"
+      },
+      {
+        "id": "crate-4747",
+        "name": "Snakebite Case"
+      },
+      {
+        "id": "crate-4846",
+        "name": "Recoil Case"
+      }
+    ],
+    "image": {
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibi3JAxl3fXJfzp969C5goWYqPjkNqnQgmJe5pQhte_N-p70hGu5rhc1JjTtdoOUcQZqZF7Z-FK6wOy8jZLo6pWYyndn6yIrsXqPzUS30kkea-c60-veFwvCb_bLEQ",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibi3JAxl3fXJfzp969C5goWYqPjkNqnQgmJe5pQhte_N-p70hGu4ohQ0J3f6dtDBIw8-N16C-QDvxrjt1JK0tJjNz3M26XMksHncnkfmiUtMauQ9m7XAHjVqDclr",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibi3JAxl3fXJfzp969C5goWYqPjkNqnQgmJe5pQhte_N-p70hGu8rhIqKnf2J9SXJgI2ZQrY_FPvwLvt0ZW1vZvByXVruCJwsSzenkaw1EpMOOxmm7XAHoOrZEZv",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibi3JAxl3fXJfzp969C5goWYqPjkNqnQgmJe5pQhte_N-p70hGu5rhc1JjTtdoOUcQZqZF7Z-FK6wOy8jZLo6pWYyndn6yIrsXqPzUS30kkea-c60-veFwvCb_bLEQ",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibi3JAxl3fXJfzp969C5goWYqPjkNqnQgmJe5pQhte_N-p70hGu4ohQ0J3f6dtDBIw8-N16C-QDvxrjt1JK0tJjNz3M26XMksHncnkfmiUtMauQ9m7XAHjVqDclr"
+    },
+    "buff-id-factory-new": "836372",
+    "buff-id-minimal-wear": "836248",
+    "buff-id-field-tested": "835985",
+    "buff-id-well-worn": "835966",
+    "buff-id-battle-scarred": "836041"
+  },
+  {
+    "id": "skin-309697952",
+    "name": "★ Broken Fang Gloves | Unhinged",
+    "description": "These fingerless gloves have been decorated with metal studs and the Operation Broken Fang logo.",
+    "weapon": "Broken Fang Gloves",
+    "category": "gloves",
+    "pattern": "Unhinged",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10088",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4717",
+        "name": "Operation Broken Fang Case"
+      },
+      {
+        "id": "crate-4747",
+        "name": "Snakebite Case"
+      },
+      {
+        "id": "crate-4846",
+        "name": "Recoil Case"
+      }
+    ],
+    "image": {
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibi3JAxl3fXJfzp969C5goWYqPjkNqnQgmJe5pQhtfrP9Ifwm1-9pSw-Pzigf-nJK1FmJUbSrFnsw73ph8XpuJidyyBhvXIn53bcyUa0hk0fb-I6h6SeSg2YA_QYAuDcUfVqg8xH",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibi3JAxl3fXJfzp969C5goWYqPjkNqnQgmJe5pQhtfrP9Ifwm1-9pSw-Pzigf-nNJ1d4KEaG-AC5x-zp0ZW5tZnNmHtrvSAq5H-OzhK30B8YOuM-0PSfT13NBfRBAuDcUZX2zv7x",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibi3JAxl3fXJfzp969C5goWYqPjkNqnQgmJe5pQhtfrP9Ifwm1-9pSw-Pzigf-nJK1FmJUbSrFnsw73ph8XpuJidyyBhvXIn53bcyUa0hk0fb-I6h6SeSg2YA_QYAuDcUfVqg8xH",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibi3JAxl3fXJfzp969C5goWYqPjkNqnQgmJe5pQhtfrP9Ifwm1-9pSw-Pzigf-nIJ1JnJAXO-lXqlLi6gsLvvpXOzSFkv3FxsXfdzUbjgRAdaLdrgaDPS1nIVPFNSb7CWCR4MJPNiw",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibi3JAxl3fXJfzp969C5goWYqPjkNqnQgmJe5pQhtfrP9Ifwm1-9pSw-Pzigf-nIJ1JnJAXO-lXqlLi6gsLvvpXOzSFkv3FxsXfdzUbjgRAdaLdrgaDPS1nIVPFNSb7CWCR4MJPNiw"
+    },
+    "buff-id-factory-new": "836520",
+    "buff-id-minimal-wear": "836263",
+    "buff-id-field-tested": "835851",
+    "buff-id-well-worn": "835887",
+    "buff-id-battle-scarred": "836340"
+  },
+  {
+    "id": "skin-329489496",
+    "name": "★ Bloodhound Gloves | Charred",
+    "description": "These fingerless gloves have been decorated with metal studs and the Operation Bloodhound logo.",
+    "weapon": "Bloodhound Gloves",
+    "category": "gloves",
+    "pattern": "Charred",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10006",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4288",
+        "name": "Glove Case"
+      },
+      {
+        "id": "crate-4352",
+        "name": "Operation Hydra Case"
+      }
+    ],
+    "image": {
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibipJAhk2_zdfzl969C5goWYqPX4PLTVnmRE5sFOiOXA9ofKm124vRYuDDSmcN_QLxhoNFjV-QXtxubt1Jbv75-dzHVmuCF04i3ZmBW0hktOb-Fsh_fMTVrNGeUXSxsbBApC",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibipJAhk2_zdfzl969C5goWYqPX4PLTVnmRE5sFOiOXA9ofKm124vRYuDDSmcN_QLxhoNFjV-QXtxubt1Jbv75-dzHVmuCF04i3ZmBW0hktOb-Fsh_fMTVrNGeUXSxsbBApC",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibipJAhk2_zdfzl969C5goWYqPX4PLTVnmRE5sFOiOXA9ofKm124vRYuDDWqc97RbAU4YF2C81K4xem80JO5uZvBwXNlunIis3qMmxez00pOOuU616DPQQqAR_seOPeG-rI",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibipJAhk2_zdfzl969C5goWYqPX4PLTVnmRE5sFOiOXA9ofKm124vRYuDDWqc97RbAU4MFmG-QO_yb3tgZa4tJqYnHQy6HEl5nrZnRywhBwfaeVp1KbPTlyAR_seqlMyB4c",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibipJAhk2_zdfzl969C5goWYqPX4PLTVnmRE5sFOiOXA9ofKm124vRYuDDGmdcDcbAA7NAzW-gLowL251JXouJ7NzXFiuikgt3renhy0hEsfbudmhPeXHA2AR_seB1rcSds"
+    },
+    "buff-id-factory-new": "45453",
+    "buff-id-minimal-wear": "42452",
+    "buff-id-field-tested": "42451",
+    "buff-id-well-worn": "42453",
+    "buff-id-battle-scarred": "42450"
+  },
+  {
+    "id": "skin-329489500",
+    "name": "★ Bloodhound Gloves | Snakebite",
+    "description": "These fingerless gloves have been decorated with metal studs and the Operation Bloodhound logo.",
+    "weapon": "Bloodhound Gloves",
+    "category": "gloves",
+    "pattern": "Snakebite",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10007",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4288",
+        "name": "Glove Case"
+      },
+      {
+        "id": "crate-4352",
+        "name": "Operation Hydra Case"
+      }
+    ],
+    "image": {
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibipJAhk2_zdfzl969C5goWYqPX4PLTVnmRE5sFOmefA_onmg126lBEuMiqwS9rMJV56f1iBrlW3yOu9gsLqu8_Ky3c26CBw7XzUmROzhRofPeZogKSZGFSbVKFXXP7VsL8pvHM",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibipJAhk2_zdfzl969C5goWYqPX4PLTVnmRE5sFOmefA_onmg126lBEuMiqwS9rMJV56f1iBrlW3yOu9gsLqu8_Ky3c26CBw7XzUmROzhRofPeZogKSZGFSbVKFXXP7VsL8pvHM",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibipJAhk2_zdfzl969C5goWYqPX4PLTVnmRE5sFOmefA_onmg126lBEuMiqwS97AI0B3f1_T_QC5lL3phJLtvs-fnHRi6XUrtHjeyUHk0BAZP7ZmgfObT1uaD_dXXP7VQIu1-wk",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibipJAhk2_zdfzl969C5goWYqPX4PLTVnmRE5sFOmefA_onmg126lBEuMiqwS9vAJl97PEaG-lm8ye_uhpO9vMzBy3RhuCJwsHeMyhfh0BlIZuJuh6CZSgicBawYAuDcUahB35Gt",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibipJAhk2_zdfzl969C5goWYqPX4PLTVnmRE5sFOmefA_onmg126lBEuMiqwS9vAJl97PEaG-lm8ye_uhpO9vMzBy3RhuCJwsHeMyhfh0BlIZuJuh6CZSgicBawYAuDcUahB35Gt"
+    },
+    "buff-id-factory-new": "756175",
+    "buff-id-minimal-wear": "42459",
+    "buff-id-field-tested": "42458",
+    "buff-id-well-worn": "42460",
+    "buff-id-battle-scarred": "42457"
+  },
+  {
+    "id": "skin-329489504",
+    "name": "★ Bloodhound Gloves | Bronzed",
+    "description": "These fingerless gloves have been decorated with metal studs and the Operation Bloodhound logo.",
+    "weapon": "Bloodhound Gloves",
+    "category": "gloves",
+    "pattern": "Bronzed",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10008",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4288",
+        "name": "Glove Case"
+      },
+      {
+        "id": "crate-4352",
+        "name": "Operation Hydra Case"
+      }
+    ],
+    "image": {
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibipJAhk2_zdfzl969C5goWYqPX4PLTVnmRE5sFOh-zV9ID5gVeLphY4OiyuOoSUcwNqZw7U81O3kOjsh5-7vJrJzHtkviYk7XfdzhW1gxlMO-1vgvCACQLJAVdjrUc",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibipJAhk2_zdfzl969C5goWYqPX4PLTVnmRE5sFOh-zV9ID5gVeLoxY9JSDtLdeWIwA6ZAnS_QXrwenu0cPuvZvKyHQwunYg53zUykDi00xMZu1vg-veFwvzIBXm0Q",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibipJAhk2_zdfzl969C5goWYqPX4PLTVnmRE5sFOh-zV9ID5gVeLpxo7Oy3tJ4DBdFdqNQvYrAW3xea-0JLu6ZuanyAxuSkns3_dmBzh005Nb-U6jOveFwublOLQNQ",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibipJAhk2_zdfzl969C5goWYqPX4PLTVnmRE5sFOh-zV9ID5gVeLpxo7Oy3tJ4DBdFdqNQvYrAW3xea-0JLu6ZuanyAxuSkns3_dmBzh005Nb-U6jOveFwublOLQNQ",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibipJAhk2_zdfzl969C5goWYqPX4PLTVnmRE5sFOh-zV9ID5gVeLphY4OiyuOoSUcwNqZw7U81O3kOjsh5-7vJrJzHtkviYk7XfdzhW1gxlMO-1vgvCACQLJAVdjrUc"
+    },
+    "buff-id-factory-new": "45547",
+    "buff-id-minimal-wear": "42448",
+    "buff-id-field-tested": "42447",
+    "buff-id-well-worn": "42449",
+    "buff-id-battle-scarred": "42446"
+  },
+  {
+    "id": "skin-329489628",
+    "name": "★ Bloodhound Gloves | Guerrilla",
+    "description": "These fingerless gloves have been decorated with metal studs and the Operation Bloodhound logo.",
+    "weapon": "Bloodhound Gloves",
+    "category": "gloves",
+    "pattern": "Guerrilla",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10039",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4288",
+        "name": "Glove Case"
+      },
+      {
+        "id": "crate-4352",
+        "name": "Operation Hydra Case"
+      }
+    ],
+    "image": {
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibipJAhk2_zdfzl969C5goWYqPX4PLTVnmRE5sFOjfzE5578hFi1lB45NzC2eZiVdAA4MgyD-wPoxe69g5e76JnJwXZg7Clwt33flxW-ghxKbbY8gqCYVxzAUOEOFA6i",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibipJAhk2_zdfzl969C5goWYqPX4PLTVnmRE5sFOjfzE5578hFi1lBs5Mi-6OoTGIFQ_Z16C81e3x7vujMC47ZzAzntmv3J04X6LzRPigRoZb-Rm0KSACQLJb8jEZb0",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibipJAhk2_zdfzl969C5goWYqPX4PLTVnmRE5sFOjfzE5578hFi1lB45NzC2eZiVdAA4MgyD-wPoxe69g5e76JnJwXZg7Clwt33flxW-ghxKbbY8gqCYVxzAUOEOFA6i",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibipJAhk2_zdfzl969C5goWYqPX4PLTVnmRE5sFOjfzE5578hFi1lB81NDG3Oo-dJwU_N1qB-1G_lbi-h5C5us-azXswsign4ivYlxC210sdOOdth_aACQLJ-HYrWAg",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibipJAhk2_zdfzl969C5goWYqPX4PLTVnmRE5sFOjfzE5578hFi1lB81NDG3OoXEJFNvNAuE_1XvwubvhJXvvsifnXA17CMi7XmMzkGx0x1OP7Y61_GACQLJ73mnFtE"
+    },
+    "buff-id-factory-new": "755937",
+    "buff-id-minimal-wear": "42456",
+    "buff-id-field-tested": "42455",
+    "buff-id-well-worn": "43954",
+    "buff-id-battle-scarred": "42454"
+  },
+  {
+    "id": "skin-329686152",
+    "name": "★ Sport Gloves | Superconductor",
+    "description": "Synthetic fabrics make these athletic gloves durable and eye-catching.",
+    "weapon": "Sport Gloves",
+    "category": "gloves",
+    "pattern": "Superconductor",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10018",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4288",
+        "name": "Glove Case"
+      },
+      {
+        "id": "crate-4352",
+        "name": "Operation Hydra Case"
+      }
+    ],
+    "image": {
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO6nYeDg8j2P67UqWdY781lxOjFotz3igK2_0Y-Nm2ncI_DJ1BsYFGErwC8ye_m08TtvprJm3VjuCI8pSGKv_XB_cI",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO6nYeDg8j2P67UqWNU6dNoxO3Aptqkiwfj-0psZj37IdKUIQRvNQnU81O4xevn0JC1v56Yz3Brsyg8pSGKpBf-pJI",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO6nYeDg8j2P67UqWZU7Mxkh6fHodut2wXnqhVqNWGndobAdgZrMljY-Fm5l-3n0JC1uc7Am3RnuiAl-z-DyPVKusCT",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO6nYeDg8j2P67UqWdY781lxOjFotz3igK2_0Y-Nm2ncI_DJ1BsYFGErwC8ye_m08TtvprJm3VjuCI8pSGKv_XB_cI",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO6nYeDg8j2P67UqWZU7Mxkh6fHodut2wXnqhVqNWGndobAdgZrMljY-Fm5l-3n0JC1uc7Am3RnuiAl-z-DyPVKusCT"
+    },
+    "buff-id-factory-new": "756371",
+    "buff-id-minimal-wear": "43263",
+    "buff-id-field-tested": "43262",
+    "buff-id-well-worn": "43264",
+    "buff-id-battle-scarred": "43261"
+  },
+  {
+    "id": "skin-329686156",
+    "name": "★ Sport Gloves | Arid",
+    "description": "Synthetic fabrics make these athletic gloves durable and eye-catching.",
+    "weapon": "Sport Gloves",
+    "category": "gloves",
+    "pattern": "Arid",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10019",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4288",
+        "name": "Glove Case"
+      },
+      {
+        "id": "crate-4352",
+        "name": "Operation Hydra Case"
+      }
+    ],
+    "image": {
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO7nYyCg_bmKoTck29Y_cg_0r2V9on3jg2xr0NvNWv6d4_HcgU4MwzYrlO2lL3o1JC6upvAnXZkuD5iuyixmiSWUA",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO7nYyCg_bmKoTck29Y_cg_0r2V9on3jg2xr0NvNWv6d4_HcgU4MwzYrlO2lL3o1JC6upvAnXZkuD5iuyixmiSWUA",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO7nYyCg_bmKoTdn2xZ_Isl27_AoNukjFG2-kpkY2r2cYCccVVvZlyEr1C5w7-7h5Tt6JzBwXJqpGB8su67HUiO",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO7nYyCg_bmKoTdn2xZ_Isl27_AoNukjFG2-kpkY2r2cYCccVVvZlyEr1C5w7-7h5Tt6JzBwXJqpGB8su67HUiO",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO7nYyCg_bmKoTZk2pH8Ysm2byUpoqg2QCw_RA5a2v6cY6SIQI9Mg2Dr1Ltxum7gsW_vsnInXtkpGB8ssgjmN9E"
+    },
+    "buff-id-factory-new": "43250",
+    "buff-id-minimal-wear": "43252",
+    "buff-id-field-tested": "43251",
+    "buff-id-well-worn": "43253",
+    "buff-id-battle-scarred": "43249"
+  },
+  {
+    "id": "skin-329686228",
+    "name": "★ Sport Gloves | Pandora's Box",
+    "description": "Synthetic fabrics make these athletic gloves durable and eye-catching.",
+    "weapon": "Sport Gloves",
+    "category": "gloves",
+    "pattern": "Pandora's Box",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10037",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4288",
+        "name": "Glove Case"
+      },
+      {
+        "id": "crate-4352",
+        "name": "Operation Hydra Case"
+      }
+    ],
+    "image": {
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eOmgZKbm_LLPr7Vn35cppIp2uvA896kiQW1-hdvMT30I9fHIAA9MFqDrlntkLru1J67v5nBmHp9-n51oZE8XSM",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eOmgZKbm_LLP7LWnn8fvZNwj7zA8duk2FHk_Uo6Y23zcI6TIVdvZA6BqVi7w7i7hpPo7sjNwWwj5HcYIjYaag",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eOmgZKbm_LLO77QgHIfvscm0rCQ9I2l2FftqkQ6Z2jycoDDdwc7Nw7W_AS9w725gJPu75ifmGwj5Hd3t3uSnQ",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eOmgZKbm_LLPr7Vn35cppIp2uvA896kiQW1-hdvMT30I9fHIAA9MFqDrlntkLru1J67v5nBmHp9-n51oZE8XSM"
+    },
+    "buff-id-factory-new": "755908",
+    "buff-id-minimal-wear": "44999",
+    "buff-id-field-tested": "43259",
+    "buff-id-well-worn": "43260",
+    "buff-id-battle-scarred": "43258"
+  },
+  {
+    "id": "skin-329686232",
+    "name": "★ Sport Gloves | Hedge Maze",
+    "description": "Synthetic fabrics make these athletic gloves durable and eye-catching.",
+    "weapon": "Sport Gloves",
+    "category": "gloves",
+    "pattern": "Hedge Maze",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10038",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4288",
+        "name": "Glove Case"
+      },
+      {
+        "id": "crate-4352",
+        "name": "Operation Hydra Case"
+      }
+    ],
+    "image": {
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eOxhoWOmcj5Nr_Yg2YfuJxy2LuU9NWgigHsrURlMW7wIIWQegA2YFyE-FPqyb3qh5W7vpzPz2wj5HcMw2bv5Q",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eOxhoWOmcj5Nr_Yg2YfuJxy2LuU9NWgigHsrURlMW7wIIWQegA2YFyE-FPqyb3qh5W7vpzPz2wj5HcMw2bv5Q",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eOxhoWOmcj8NrrHjyVTuMQji77EpdSm0QTg_hZpNT-icYSTd1drNAmDrwPtl-nnjMO97c7M1zI97VlAA1OS",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eOxhoWOmcj4OrzZgiUCvZN3jL-TrNmhiQCwqEBoMD3yctOXJwU3NF_QrAPswr_sgZC0vJvK1zI97Rp_ZvQv",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eOxhoWOmcj4OrzZgiUCvZN3jL-TrNmhiQCwqEBoMD3yctOXJwU3NF_QrAPswr_sgZC0vJvK1zI97Rp_ZvQv"
+    },
+    "buff-id-factory-new": "757533",
+    "buff-id-minimal-wear": "43256",
+    "buff-id-field-tested": "43255",
+    "buff-id-well-worn": "43257",
+    "buff-id-battle-scarred": "43254"
+  },
+  {
+    "id": "skin-329686260",
+    "name": "★ Sport Gloves | Amphibious",
+    "description": "Synthetic fabrics make these athletic gloves durable and eye-catching.",
+    "weapon": "Sport Gloves",
+    "category": "gloves",
+    "pattern": "Amphibious",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10045",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4471",
+        "name": "Clutch Case"
+      },
+      {
+        "id": "crate-4880",
+        "name": "Revolution Case"
+      }
+    ],
+    "image": {
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eOmm4mYmPnLNanekVRT5NB0tf7J_Jjwt1mxrxopPnfwLYbBIQFraQmG_AO2xei6jZK8v8zJy3VruCdz5C3cmBS3iRlFaO1pm7XAHnjUC0GF",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eOmm4mYmPnLNanekVRT5NB0tf7J_Jjwt1yxqgUlfTr6cYCRcVVqZAnZ-FTsxOzshp7ttMybn3Bk7yYj5nrfykDk10oZZrZxxavJWWuPdAw",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eOmm4mYmPnLNanekVRT5NB0tf7J_Jjwt1i9rBsofT37coXEJA5sZ1mC-QDskO680560uZTPnXcx7iVw5CvUzh201BlMP-BxxavJBAJj5Yw",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eOmm4mYmPnLNanekVRT5NB0tf7J_Jjwt1mxrxopPnfwLYbBIQFraQmG_AO2xei6jZK8v8zJy3VruCdz5C3cmBS3iRlFaO1pm7XAHnjUC0GF"
+    },
+    "buff-id-factory-new": "757697",
+    "buff-id-minimal-wear": "45440",
+    "buff-id-field-tested": "45451",
+    "buff-id-well-worn": "422857",
+    "buff-id-battle-scarred": "45597"
+  },
+  {
+    "id": "skin-329686264",
+    "name": "★ Sport Gloves | Bronze Morph",
+    "description": "Synthetic fabrics make these athletic gloves durable and eye-catching.",
+    "weapon": "Sport Gloves",
+    "category": "gloves",
+    "pattern": "Bronze Morph",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10046",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4471",
+        "name": "Clutch Case"
+      },
+      {
+        "id": "crate-4880",
+        "name": "Revolution Case"
+      }
+    ],
+    "image": {
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eOmm4mYmPnLNanekVRD7cFOjfvE8ILKhF2zowdyY2-hcNKUewI6aVzYrlK4lbi7jMW675San3MwvyIg7CzdnxS-0hkfafsv26J2ymqCgA",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eOmm4mYmPnLNanekVRD7cFOjfvE8ILKhF2zowdyY2-hcNKUewI6aVzYrlK4lbi7jMW675San3MwvyIg7CzdnxS-0hkfafsv26J2ymqCgA",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eOmm4mYmPnLNanekVRD7cFOjfvE8ILKgFG1vQpyYGv1JNLBdVBrNQ6DqQS7yOzrhsC1tZmcn3BnvHV05nyLnES00xtEPPsv26LpLCWLGg",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eOmm4mYmPnLNanekVRD7cFOjfvE8ILKhVGwogYxfT36cIGSdgE_ZQnZ-wW7wr28jZW96prBwHE1vShw5HeJnxDjiEtPZ-BxxavJpsojTz0",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eOmm4mYmPnLNanekVRD7cFOjfvE8ILKhVGwogYxfT36cIGSdgE_ZQnZ-wW7wr28jZW96prBwHE1vShw5HeJnxDjiEtPZ-BxxavJpsojTz0"
+    },
+    "buff-id-factory-new": "767923",
+    "buff-id-minimal-wear": "45603",
+    "buff-id-field-tested": "45441",
+    "buff-id-well-worn": "45570",
+    "buff-id-battle-scarred": "45413"
+  },
+  {
+    "id": "skin-329686268",
+    "name": "★ Sport Gloves | Omega",
+    "description": "Synthetic fabrics make these athletic gloves durable and eye-catching.",
+    "weapon": "Sport Gloves",
+    "category": "gloves",
+    "pattern": "Omega",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10047",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4471",
+        "name": "Clutch Case"
+      },
+      {
+        "id": "crate-4880",
+        "name": "Revolution Case"
+      }
+    ],
+    "image": {
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO0mIGInMjjNrnTn2VW19x0huXO4rP4jVC9vh5yZWiiItPEe1Q4NF6G-1S5l-m-gZPq7pjNmCdlsyB3tnfanxPl0kwfavsv26JQVuwc2Q",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO0mIGInMjjNrnTn2VW19x0huXO4rP5gVO8vywwMiukcZiQJgFsYFjRrwO5yenq1pK978ufzHo2unZz5Szdl0SziE5LbeVs1_CeVxzAUAb58qK8",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO0mIGInMjjNrnTn2VW19x0huXO4rP9jVWisl1pZTr7JIXDdwA8Zg3UqVXolOfojJ68vMjAzScyuHIq5C2JlxHmghgZcKUx0mwG1UHW",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO0mIGInMjjNrnTn2VW19x0huXO4rP4jVC9vh5yZWiiItPEe1Q4NF6G-1S5l-m-gZPq7pjNmCdlsyB3tnfanxPl0kwfavsv26JQVuwc2Q",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO0mIGInMjjNrnTn2VW19x0huXO4rP5gVO8v11pN26hJYaUJ1Q5aV_VqVW_kri5gJ7pvMuYySFjsnEm7CnanBW00x1McKUx0jX7Ty6x"
+    },
+    "buff-id-factory-new": "757532",
+    "buff-id-minimal-wear": "45571",
+    "buff-id-field-tested": "45509",
+    "buff-id-well-worn": "755679",
+    "buff-id-battle-scarred": "45497"
+  },
+  {
+    "id": "skin-329686272",
+    "name": "★ Sport Gloves | Vice",
+    "description": "Synthetic fabrics make these athletic gloves durable and eye-catching.",
+    "weapon": "Sport Gloves",
+    "category": "gloves",
+    "pattern": "Vice",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10048",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4471",
+        "name": "Clutch Case"
+      },
+      {
+        "id": "crate-4880",
+        "name": "Revolution Case"
+      }
+    ],
+    "image": {
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO0mJWOqOf9PbDum25V4dB8xLuUodml21Hg8hZtZ2ChI4PBIwY4M17VqVS9x-ft1pG_7Z_PwCRruSA8pSGKVMmunN8",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO0mJWOqOf9PbDum25V4dB8xLuUodml21Hg8hZtZ2ChI4PBIwY4M17VqVS9x-ft1pG_7Z_PwCRruSA8pSGKVMmunN8",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO0mJWOqOf9PbDunm5Q_tw_0-zD8I3x3gHs8hY4MW6hJoGVJlQ-NQnVrAS6l--7gpW06MjBmHEyvD5iuygP5Q0mFA",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO0mJWOqOf9PbDummJW4NE_2u3Aooj2i1KwrkNoYW_7dYKXeg9vNVyC_AK-wb_thse9vpmYz3Bn7z5iuyh6Nk1_Sw"
+    },
+    "buff-id-factory-new": "756118",
+    "buff-id-minimal-wear": "162629",
+    "buff-id-field-tested": "45582",
+    "buff-id-well-worn": "507467",
+    "buff-id-battle-scarred": "755612"
+  },
+  {
+    "id": "skin-329686372",
+    "name": "★ Sport Gloves | Slingshot",
+    "description": "Synthetic fabrics make these athletic gloves durable and eye-catching.",
+    "weapon": "Sport Gloves",
+    "category": "gloves",
+    "pattern": "Slingshot",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10073",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4717",
+        "name": "Operation Broken Fang Case"
+      },
+      {
+        "id": "crate-4747",
+        "name": "Snakebite Case"
+      },
+      {
+        "id": "crate-4846",
+        "name": "Recoil Case"
+      }
+    ],
+    "image": {
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eOlmImFkOT8PK_ummJW4NFOhujT8om72wWw-EE-amCgJISRdQJqYgvT8wXol-7mjJ_ouZ6bnSFiuCQr4Hfbywv330-uIHwuiA",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eOlmImFkOT8PK_unm5Q_tw_2bmZoY703VflqRVlY2jxINeSdwM9MF3VqFe9x-zo1pXv752cyyc36T5iuyibvaYirg",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eOlmImFkOT8PK_um25V4dB8xL-Wodv03wbm-BJoNzryIdTBclNvZ1DYrlO5x-_ohJG-6s_BwXM26CE8pSGKBf4J4z8",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eOlmImFkOT8PK_ummJW4NFOhujT8om72wWw-EE-amCgJISRdQJqYgvT8wXol-7mjJ_ouZ6bnSFiuCQr4Hfbywv330-uIHwuiA",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eOlmImFkOT8PK_um25V4dB8xL-Wodv03wbm-BJoNzryIdTBclNvZ1DYrlO5x-_ohJG-6s_BwXM26CE8pSGKBf4J4z8"
+    },
+    "buff-id-factory-new": "837536",
+    "buff-id-minimal-wear": "835686",
+    "buff-id-field-tested": "835867",
+    "buff-id-well-worn": "836055",
+    "buff-id-battle-scarred": "836093"
+  },
+  {
+    "id": "skin-329686376",
+    "name": "★ Sport Gloves | Big Game",
+    "description": "Synthetic fabrics make these athletic gloves durable and eye-catching.",
+    "weapon": "Sport Gloves",
+    "category": "gloves",
+    "pattern": "Big Game",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10074",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4717",
+        "name": "Operation Broken Fang Case"
+      },
+      {
+        "id": "crate-4747",
+        "name": "Snakebite Case"
+      },
+      {
+        "id": "crate-4846",
+        "name": "Recoil Case"
+      }
+    ],
+    "image": {
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO-gY6fkuXLO77QgHIf6cZ03urFpNSn2gHl_0dpN2Dzd9KRd1NtaFiG-wXsxefm0Z-96ZvBwWwj5Hd2f_glQg",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO-gY6fkuXLP7LWnn8f7JQij7qSpN7xjgXi-kQ4MDvxdYbHIQE3Y1rQ_lLtxb-9gMe5tcyaymwj5Hdo8cSWSQ",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO-gY6fkuXLP7LWnn8f7JQij7qSpN7xjgXi-kQ4MDvxdYbHIQE3Y1rQ_lLtxb-9gMe5tcyaymwj5Hdo8cSWSQ",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO-gY6fkuXLPr7Vn35cpscjiLmS9InwjAbn-0BlZGGmII7Bd1Q_ZlzS-FC4xLzmg5XtvcvMy3Z9-n51PDtN7rk",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO-gY6fkuXLPr7Vn35cpscjiLmS9InwjAbn-0BlZGGmII7Bd1Q_ZlzS-FC4xLzmg5XtvcvMy3Z9-n51PDtN7rk"
+    },
+    "buff-id-factory-new": "837367",
+    "buff-id-minimal-wear": "836026",
+    "buff-id-field-tested": "835938",
+    "buff-id-well-worn": "836042",
+    "buff-id-battle-scarred": "835898"
+  },
+  {
+    "id": "skin-329686380",
+    "name": "★ Sport Gloves | Scarlet Shamagh",
+    "description": "Synthetic fabrics make these athletic gloves durable and eye-catching.",
+    "weapon": "Sport Gloves",
+    "category": "gloves",
+    "pattern": "Scarlet Shamagh",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10075",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4717",
+        "name": "Operation Broken Fang Case"
+      },
+      {
+        "id": "crate-4747",
+        "name": "Snakebite Case"
+      },
+      {
+        "id": "crate-4846",
+        "name": "Recoil Case"
+      }
+    ],
+    "image": {
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO-m5WFk-TgPLTFnlRD7cFOh-zF_Jn4xg2xqBdlaz_1LILDI1U6MFDTrFXsyOi7jcC97pXOyydkuSRw537UnR2pwUYbvu3uoFg",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO-m5WFk-TgPLTFnlRD7cFOhuDG_Zi7jgfi-0JsYGHzJ9XEIwRrM1-DrFnryee-gZ_o78ycy3Iw6HN25naMlgv330-fWdPknA",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO-m5WFk-TgPLTFnlRD7cFOh-zF_Jn4xg2xqBdlaz_1LILDI1U6MFDTrFXsyOi7jcC97pXOyydkuSRw537UnR2pwUYbvu3uoFg",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO-m5WFk-TgPLTFnlRD7cFOguzA45W7iQLm-hBqMmv3do7AI1JtYQvY_gTrle7vh5K_6pTNzXBlvyl07SuMygv3309N05Eipg"
+    },
+    "buff-id-factory-new": "837430",
+    "buff-id-minimal-wear": "836069",
+    "buff-id-field-tested": "835883",
+    "buff-id-well-worn": "836040",
+    "buff-id-battle-scarred": "836028"
+  },
+  {
+    "id": "skin-329686384",
+    "name": "★ Sport Gloves | Nocts",
+    "description": "Synthetic fabrics make these athletic gloves durable and eye-catching.",
+    "weapon": "Sport Gloves",
+    "category": "gloves",
+    "pattern": "Nocts",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10076",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4717",
+        "name": "Operation Broken Fang Case"
+      },
+      {
+        "id": "crate-4747",
+        "name": "Snakebite Case"
+      },
+      {
+        "id": "crate-4846",
+        "name": "Recoil Case"
+      }
+    ],
+    "image": {
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO8lYeeluXLPr7Vn35cpp0i0-jDo9r20VbmrUo4Yj2gJYKUcAE_Z1CF8lS7kr_thcS46cjNwCR9-n51-wVTfcs",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO8lYeeluXLO77QgHIfuJIk0uiX8Nus3QPn-kQ5MGGncoGUcVI6NVmGrFm3wr3r08e9vJ7MyGwj5HfEX3cWcA",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO8lYeeluXLP7LWnn9u5MRjjeyPp92kjVC1-0I6YGH6J47Gc1c4NFDV-wDvxevqgJbvtZmdyyQw63Ir5mGdwUILovLG4A",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO8lYeeluXLP7LWnn8fvpVyiOjCoI333wLg_kY9Mjv0LI-TdAQ8MF2D_FS7lL270ZDp6p7PyGwj5HexG89Jtg",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO8lYeeluXLPr7Vn35cpp0i0-jDo9r20VbmrUo4Yj2gJYKUcAE_Z1CF8lS7kr_thcS46cjNwCR9-n51-wVTfcs"
+    },
+    "buff-id-factory-new": "837514",
+    "buff-id-minimal-wear": "836080",
+    "buff-id-field-tested": "835873",
+    "buff-id-well-worn": "836091",
+    "buff-id-battle-scarred": "835948"
+  },
+  {
+    "id": "skin-329751668",
+    "name": "★ Driver Gloves | Lunar Weave",
+    "description": "These driving gloves offer protection from the elements while still maintaining tactile sensation.",
+    "weapon": "Driver Gloves",
+    "category": "gloves",
+    "pattern": "Lunar Weave",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10013",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4288",
+        "name": "Glove Case"
+      },
+      {
+        "id": "crate-4352",
+        "name": "Operation Hydra Case"
+      }
+    ],
+    "image": {
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ97tC3l4u0m_7zO6-fx2oCsMAk07-Z9tmh0VDg8hZramigcoOQIFU6N1DZ-FK8lO_m0JS66oOJlyXrKxYjaQ",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ97tC3l4u0m_7zO6-fzztUu8Amj7_D8IiliQy1-kBvYT36ItDBcVU2YgnW-1a_xu2815C-tYOJlyXaNaq4Nw",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ97tC3l4u0mvLwOq7c2DsAscZy2-iQoNWl31Xk8xc4Zjz2IoXDew9tNFuE8lPvl-65hJW1vszXiSw0pKnYO40",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ97tC3l4u0n_L1JaKfkzlXvp130-yW9tTziQO1_xc9N2GhIIGUdQ83MlvUq1a-wrrvjZfp6IOJlyW3N8t9nQ",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ97tC3l4u0mvLwOq7c2DsAscZy2-iQoNWl31Xk8xc4Zjz2IoXDew9tNFuE8lPvl-65hJW1vszXiSw0pKnYO40"
+    },
+    "buff-id-factory-new": "45657",
+    "buff-id-minimal-wear": "42612",
+    "buff-id-field-tested": "42611",
+    "buff-id-well-worn": "43955",
+    "buff-id-battle-scarred": "42610"
+  },
+  {
+    "id": "skin-329751676",
+    "name": "★ Driver Gloves | Convoy",
+    "description": "These driving gloves offer protection from the elements while still maintaining tactile sensation.",
+    "weapon": "Driver Gloves",
+    "category": "gloves",
+    "pattern": "Convoy",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10015",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4288",
+        "name": "Glove Case"
+      },
+      {
+        "id": "crate-4352",
+        "name": "Operation Hydra Case"
+      }
+    ],
+    "image": {
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ94dW6nZSKhe7LP7LWnn8f6sAp2r_EpIn32wfi_Ec-YGGlJ4WUcQI_ZQnS8gTrlee60Z-8u8jKzmwj5Hftrxd8HQ",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ94dW6nZSKhe7LPr7Vn35cpsYm373C99r3iVW1-hBlNW6iIYOTJlI-ZAyC_1i7yLy9gZ7vtJ6cwXV9-n51sTrKnlw",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ94dW6nZSKhe7LPr7Vn35cpsYm373C99r3iVW1-hBlNW6iIYOTJlI-ZAyC_1i7yLy9gZ7vtJ6cwXV9-n51sTrKnlw",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ94dW6nZSKhe7LO77QgHIf6ZQm3brDp46l3Vfirhdpa2vwd4SUdVM6NV7Z_lntl7250MC5v5vPwGwj5HcH7xbKvQ",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ94dW6nZSKhe7LP7LWnn8f6sAp2r_EpIn32wfi_Ec-YGGlJ4WUcQI_ZQnS8gTrlee60Z-8u8jKzmwj5Hftrxd8HQ"
+    },
+    "buff-id-factory-new": "724419",
+    "buff-id-minimal-wear": "42599",
+    "buff-id-field-tested": "42598",
+    "buff-id-well-worn": "42600",
+    "buff-id-battle-scarred": "42597"
+  },
+  {
+    "id": "skin-329751680",
+    "name": "★ Driver Gloves | Crimson Weave",
+    "description": "These driving gloves offer protection from the elements while still maintaining tactile sensation.",
+    "weapon": "Driver Gloves",
+    "category": "gloves",
+    "pattern": "Crimson Weave",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10016",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4288",
+        "name": "Glove Case"
+      },
+      {
+        "id": "crate-4352",
+        "name": "Operation Hydra Case"
+      }
+    ],
+    "image": {
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_tmyq42Ok_7hPvWAwm1XvJQh07-So9ytjVK1-hdpNmHycICUcAQ3aVvQ-QC3wLvv05Tuot2XnkQ7uFh_",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_tmyq4yCkP_gfeqCwT8EvcN13L2Zo4-g21KxrUJpMmzxJ9CddFM8aFrY_VW9lbvmgsOi_MOeabvul1k",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_tmyq42Ok_7hPvWAwm1XvJQh07-So9ytjVK1-hdpNmHycICUcAQ3aVvQ-QC3wLvv05Tuot2XnkQ7uFh_",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_tmyq4iOluHtfeyJlWgH7cB02uuY8Yis3wDi_kI5MjuhdoHBIQc-ZAyE8ge6ku-9g5Ki_MOevUll-nE",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_tmyq4yCkP_gfePXwG5VvJYj3LyS8d_x3gfsqko_Zzr6IdSWIwZsYV7RrFLvxey70ZKi_MOeecxzQdI"
+    },
+    "buff-id-factory-new": "757315",
+    "buff-id-minimal-wear": "42603",
+    "buff-id-field-tested": "42602",
+    "buff-id-well-worn": "42604",
+    "buff-id-battle-scarred": "42601"
+  },
+  {
+    "id": "skin-329751776",
+    "name": "★ Driver Gloves | Diamondback",
+    "description": "These driving gloves offer protection from the elements while still maintaining tactile sensation.",
+    "weapon": "Driver Gloves",
+    "category": "gloves",
+    "pattern": "Diamondback",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10040",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4288",
+        "name": "Glove Case"
+      },
+      {
+        "id": "crate-4352",
+        "name": "Operation Hydra Case"
+      }
+    ],
+    "image": {
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_9K3n4WYnP76DKLUmmde__p9g-7J4cLz21fiqRBtam2hcYSTdVQ3aVjX81Xqwu7p15a_usmdnSc37ycmti7UgVXp1uY6fvLi",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_9K3n4WYnP76DKLUmmde__p8j-3I4IG73AeyqhA5YG3wLICXJAA-NQyD8lC6yee805Tt75jOnHYwuHIr4nrYnwv330913oYk6A",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_9K3n4WYnP76DKLUmmde__p9g-7J4cLz21fiqRBtam2hcYSTdVQ3aVjX81Xqwu7p15a_usmdnSc37ycmti7UgVXp1uY6fvLi",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_9K3n4WYnP76DKLUmmde__p8j-3I4IG73AeyqhA5YG3wLICXJAA-NQyD8lC6yee805Tt75jOnHYwuHIr4nrYnwv330913oYk6A",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_9K3n4WYnP76DKLUmmde__p5j-jX7MKljASy-EZvMDv2cYPGcFVtMgrW81a9lezmhpLuvszLwXVqu3Vx53yJgVXp1n3kFQvj"
+    },
+    "buff-id-factory-new": "42606",
+    "buff-id-minimal-wear": "42608",
+    "buff-id-field-tested": "42607",
+    "buff-id-well-worn": "42609",
+    "buff-id-battle-scarred": "42605"
+  },
+  {
+    "id": "skin-329751780",
+    "name": "★ Driver Gloves | King Snake",
+    "description": "These driving gloves offer protection from the elements while still maintaining tactile sensation.",
+    "weapon": "Driver Gloves",
+    "category": "gloves",
+    "pattern": "King Snake",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10041",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4471",
+        "name": "Clutch Case"
+      },
+      {
+        "id": "crate-4880",
+        "name": "Revolution Case"
+      }
+    ],
+    "image": {
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_9K3n4WYnP76DKzZn39U18h0juDU-MKs3A2x-0ZuZmD1ddXHJwFtNArS_gfvxebp1MK9vJnKmHVivHUrtH_fgVXp1mTq6wSw",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_9K3n4WYnP76DKzZn39U1810i__Yu9j02FC1_kI-YG2lcdXGcgM2M1uFqQfrwO_sgJLu752cnXJmvHF243_D30vgrTRrLsA",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_9K3n4WYnP76DKzZn39U18h0juDU-MKs3A2x-0ZuZmD1ddXHJwFtNArS_gfvxebp1MK9vJnKmHVivHUrtH_fgVXp1mTq6wSw",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_9K3n4WYnP76DKzZn39U18l4jeHVu47w3VDk_RBlYW_yddCcJwBvMFnVrwTrkO7phJG0uMzPyXZivCEj4H7D30vgh70AmsQ"
+    },
+    "buff-id-factory-new": "757294",
+    "buff-id-minimal-wear": "45486",
+    "buff-id-field-tested": "45504",
+    "buff-id-well-worn": "45550",
+    "buff-id-battle-scarred": "45485"
+  },
+  {
+    "id": "skin-329751784",
+    "name": "★ Driver Gloves | Imperial Plaid",
+    "description": "These driving gloves offer protection from the elements while still maintaining tactile sensation.",
+    "weapon": "Driver Gloves",
+    "category": "gloves",
+    "pattern": "Imperial Plaid",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10042",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4471",
+        "name": "Clutch Case"
+      },
+      {
+        "id": "crate-4880",
+        "name": "Revolution Case"
+      }
+    ],
+    "image": {
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_NC3nYS0h-LmI7fUqWZU7Mxkh6fF89v32Qfm_xBsZTj3IdKcJwFoaA3XqVS9yOm90JO4uJTNyXUx63Ml-z-DyJQzRVLD",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_NC3nYS0h-LmI7fUqWdY781lteXA54vwxgTn-kY-ZG-nddDDIA49aA3Q-QC3lOvrhsLvvMnNmHEy6HUl5HnUnRepwUYb5f1GGmY",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_NC3nYS0h-LmI7fUqWZU7Mxkh6fF89v32Qfm_xBsZTj3IdKcJwFoaA3XqVS9yOm90JO4uJTNyXUx63Ml-z-DyJQzRVLD",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_NC3nYS0h-LmI7fUqWNU6dNoxOiTpomgilay_Bc5ZW36JNWQdVU_Y1vS-1Hsx-q61pe06JvLwCBlu3I8pSGKWcP2G5c",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_NC3nYS0h-LmI7fUqWdY781lxLGR8I6n3FHn80Y_amDzItSce1Q_YlrRqFPol7juhJS-vsnKzndnvSQ8pSGKx74A7sQ"
+    },
+    "buff-id-factory-new": "756444",
+    "buff-id-minimal-wear": "45655",
+    "buff-id-field-tested": "45549",
+    "buff-id-well-worn": "45656",
+    "buff-id-battle-scarred": "45406"
+  },
+  {
+    "id": "skin-329751788",
+    "name": "★ Driver Gloves | Overtake",
+    "description": "These driving gloves offer protection from the elements while still maintaining tactile sensation.",
+    "weapon": "Driver Gloves",
+    "category": "gloves",
+    "pattern": "Overtake",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10043",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4471",
+        "name": "Clutch Case"
+      },
+      {
+        "id": "crate-4880",
+        "name": "Revolution Case"
+      }
+    ],
+    "image": {
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_8i_gIODkvPLMbfQlWBu59dwhO7EyoHwjF2hpl0-N2CnJYSWdABqZg7R8we8xrvqh8O_vsnJwCdk7nMh5XbVnBC200lNcKUx0qq7qTNZ",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_8i_gIODkvPLMbfQlWBu59dwhO7EyoD8j1yg5RBqYz2lLYbAcFc4Nw7SqAO9wLvphse475rKynI37CAi5yqImUCzgUxSLrs4l0x75wQ",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_8i_gIODkvPLMbfQlWBu59dwhO7EyoTwiUKt5RA4Mj_2cYORc1c2YAmE8wPswua50Ja46MjOmnsxvXUrsX_enEGwgh9SLrs4IwXJwFA",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_8i_gIODkvPLMbfQlWBu59dwhO7EyoHwjF2hpl0-N2CnJYSWdABqZg7R8we8xrvqh8O_vsnJwCdk7nMh5XbVnBC200lNcKUx0qq7qTNZ",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_8i_gIODkvPLMbfQlWBu59dwhO7EyoD8j1yg5UU_N2j3d4OUIA9oY1vZrFS5krjthZC8v8zIyiNr7Clw4iqLzRG11ExSLrs4O1U5jwo"
+    },
+    "buff-id-factory-new": "759669",
+    "buff-id-minimal-wear": "45533",
+    "buff-id-field-tested": "45492",
+    "buff-id-well-worn": "45407",
+    "buff-id-battle-scarred": "45658"
+  },
+  {
+    "id": "skin-329751792",
+    "name": "★ Driver Gloves | Racing Green",
+    "description": "These driving gloves offer protection from the elements while still maintaining tactile sensation.",
+    "weapon": "Driver Gloves",
+    "category": "gloves",
+    "pattern": "Racing Green",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10044",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4471",
+        "name": "Clutch Case"
+      },
+      {
+        "id": "crate-4880",
+        "name": "Revolution Case"
+      }
+    ],
+    "image": {
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_8i_gIODkvPLNKnUk2Vu79d0k9bM8Ij8nVn6_UQ-Ym3yJ4DBIwFrNwmFqFi3k-ju0JLouMibzyY36XV34nfZyhPliQYMMLLwKkinWg",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_8i_gIODkvPLNKnUk2Vu79d0k9bN_Iv9nBrt_kFqMW2lI9LHIwZrZ1DY_Fe7ye_s08XoupjPzidr6Cgj43nfmhThn1gSOejvPinT",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_8i_gIODkvPLNKnUk2Vu79d0k9bJ8I3jkRrhrxZtYmnyIISWclA6ZgmC_1fsk-i5hZK56JjAwHBmuyIr5ivcm0G1n1gSOYWEQ2Ff",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_8i_gIODkvPLNKnUk2Vu79d0k9bN_Iv9nBrt_kFqMW2lI9LHIwZrZ1DY_Fe7ye_s08XoupjPzidr6Cgj43nfmhThn1gSOejvPinT",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_8i_gIODkvPLNKnUk2Vu79d0k9bM8Ij8nVn6_UQ-Ym3yJ4DBIwFrNwmFqFi3k-ju0JLouMibzyY36XV34nfZyhPliQYMMLLwKkinWg"
+    },
+    "buff-id-factory-new": "757724",
+    "buff-id-minimal-wear": "45551",
+    "buff-id-field-tested": "45469",
+    "buff-id-well-worn": "45577",
+    "buff-id-battle-scarred": "45428"
+  },
+  {
+    "id": "skin-329751892",
+    "name": "★ Driver Gloves | Rezan the Red",
+    "description": "These driving gloves offer protection from the elements while still maintaining tactile sensation.",
+    "weapon": "Driver Gloves",
+    "category": "gloves",
+    "pattern": "Rezan the Red",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10069",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4717",
+        "name": "Operation Broken Fang Case"
+      },
+      {
+        "id": "crate-4747",
+        "name": "Snakebite Case"
+      },
+      {
+        "id": "crate-4846",
+        "name": "Recoil Case"
+      }
+    ],
+    "image": {
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_tmslY60mvLwOq7c2DwGvpAi3L2Qod7x0QS3qkZsNWH3I9CdcwM7aFjYr1i7xezuhpO7v5vXiSw0TTQZ9qk",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_tmslY60n_L1JaKflD9TvZYmi--R946ki1e1qhFsMWv7coKUJg82MFvTrFLtw-e6gp64vYOJlyXbbAgXPQ",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_tmslY60mvLwOq7c2DwGvpAi3L2Qod7x0QS3qkZsNWH3I9CdcwM7aFjYr1i7xezuhpO7v5vXiSw0TTQZ9qk",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_tmslY60m_7zO6-fxD4FupJ10u-U99T2iVbj_UE5YGChIoeWcwU8aFDTqQC_krrojMS-uYOJlyUaZzWxPQ",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_tmslY60m_7zO6-fxD4FupJ10u-U99T2iVbj_UE5YGChIoeWcwU8aFDTqQC_krrojMS-uYOJlyUaZzWxPQ"
+    },
+    "buff-id-factory-new": "836401",
+    "buff-id-minimal-wear": "835988",
+    "buff-id-field-tested": "835889",
+    "buff-id-well-worn": "836133",
+    "buff-id-battle-scarred": "836243"
+  },
+  {
+    "id": "skin-329751896",
+    "name": "★ Driver Gloves | Snow Leopard",
+    "description": "These driving gloves offer protection from the elements while still maintaining tactile sensation.",
+    "weapon": "Driver Gloves",
+    "category": "gloves",
+    "pattern": "Snow Leopard",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10070",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4717",
+        "name": "Operation Broken Fang Case"
+      },
+      {
+        "id": "crate-4747",
+        "name": "Snakebite Case"
+      },
+      {
+        "id": "crate-4846",
+        "name": "Recoil Case"
+      }
+    ],
+    "image": {
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ95t2xgYGZqOD8Oq_UqWdY781lxLuUoo3x3lfm_kU_MTqmcNeSc1U2aV_Y-lW4wu7vhMW1uZ-YwXtjviE8pSGKJB05PWE",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ95t2xgYGZqOD8Oq_UqWZU7Mxkh6fCoIrw2QTg8hVvZmGhJNeVcVJtaFHW81e-kr-9hpe1vMudznBks3Ui-z-DyB8J6hwt",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ95t2xgYGZqOD8Oq_UqWZU7Mxkh6fCoIrw2QTg8hVvZmGhJNeVcVJtaFHW81e-kr-9hpe1vMudznBks3Ui-z-DyB8J6hwt",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ95t2xgYGZqOD8Oq_UqWNU6dNoxOjA89_wjgHk_Uc_NW70cIKcdwA5ZwyF-1K8yLztgp7o7pianCEx6XQ8pSGKVQZxPbY"
+    },
+    "buff-id-factory-new": "836211",
+    "buff-id-minimal-wear": "836089",
+    "buff-id-field-tested": "835874",
+    "buff-id-well-worn": "836113",
+    "buff-id-battle-scarred": "836090"
+  },
+  {
+    "id": "skin-329751900",
+    "name": "★ Driver Gloves | Queen Jaguar",
+    "description": "These driving gloves offer protection from the elements while still maintaining tactile sensation.",
+    "weapon": "Driver Gloves",
+    "category": "gloves",
+    "pattern": "Queen Jaguar",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10071",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4717",
+        "name": "Operation Broken Fang Case"
+      },
+      {
+        "id": "crate-4747",
+        "name": "Snakebite Case"
+      },
+      {
+        "id": "crate-4846",
+        "name": "Recoil Case"
+      }
+    ],
+    "image": {
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ95t2xgYGZqO7xP7fegVRZ7cRnk6eV993x3gLhrUQ-MTvzIdLAclJsMg6CqVXsxufp08fptZSYzyM2syBw-z-DyPgdfYmq",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ95t2xgYGZqO7xP7fegVRd4cJ5nqeUo42njFWw-hJpMG-lJdLAIwc6M1qGqVDolObmhZa6uJibwHFkvnIg-z-DyK5fWchU",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ95t2xgYGZqO7xP7fegVRd4cJ5nqeUo42njFWw-hJpMG-lJdLAIwc6M1qGqVDolObmhZa6uJibwHFkvnIg-z-DyK5fWchU",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ95t2xgYGZqO7xP7fegVRc7cF4n-SPptuh3Vfk-kA_MGylIY-ScFJoN1GE_QC7kO7oh8e7vMycmCBjvXJxtmGdwUIXkXqu2g",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ95t2xgYGZqO7xP7fegVRc7cF4n-SPptuh3Vfk-kA_MGylIY-ScFJoN1GE_QC7kO7oh8e7vMycmCBjvXJxtmGdwUIXkXqu2g"
+    },
+    "buff-id-factory-new": "837419",
+    "buff-id-minimal-wear": "835952",
+    "buff-id-field-tested": "835940",
+    "buff-id-well-worn": "835950",
+    "buff-id-battle-scarred": "835993"
+  },
+  {
+    "id": "skin-329751904",
+    "name": "★ Driver Gloves | Black Tie",
+    "description": "These driving gloves offer protection from the elements while still maintaining tactile sensation.",
+    "weapon": "Driver Gloves",
+    "category": "gloves",
+    "pattern": "Black Tie",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10072",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4717",
+        "name": "Operation Broken Fang Case"
+      },
+      {
+        "id": "crate-4747",
+        "name": "Snakebite Case"
+      },
+      {
+        "id": "crate-4846",
+        "name": "Recoil Case"
+      }
+    ],
+    "image": {
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_8i_gIODkvPLMbfQlWBu_814nuz--YXygED6-Uc4Zz3wJtPDegBsYVnQ-Fi4x7jn05a67pybyHo17CUmtHfYzhO1hgYMMLKYvdILYw",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_8i_gIODkvPLMbfQlWBu_814nuz--InxgUG55RE-ZjugI9KXdg43Zl_Z-QDrk-rpgsTv6ZuYwXJjuykgs3bcmxfkgk5SLrs4C8pyj20",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_8i_gIODkvPLMbfQlWBu_814nuz-_Yn0nk36qEY6YWjyLI-UJ1U4Z1rX-lLtlbjr1Je4vJvLyHZiuSUi53jYmUfmhgYMMLL1ZgY0Xw",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_8i_gIODkvPLMbfQlWBu_814nuz--InxgUG55RE-ZjugI9KXdg43Zl_Z-QDrk-rpgsTv6ZuYwXJjuykgs3bcmxfkgk5SLrs4C8pyj20"
+    },
+    "buff-id-factory-new": "838188",
+    "buff-id-minimal-wear": "835782",
+    "buff-id-field-tested": "835781",
+    "buff-id-well-worn": "836122",
+    "buff-id-battle-scarred": "836017"
+  },
+  {
+    "id": "skin-329817188",
+    "name": "★ Hand Wraps | Leather",
+    "description": "Preferred by hand-to-hand fighters, these wraps protect the knuckles and stabilize the wrist when punching.",
+    "weapon": "Hand Wraps",
+    "category": "gloves",
+    "pattern": "Leather",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10009",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4288",
+        "name": "Glove Case"
+      },
+      {
+        "id": "crate-4352",
+        "name": "Operation Hydra Case"
+      }
+    ],
+    "image": {
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fp9g-7J4cL03VLl-hBoYDvwcIDDdg87aQyD8lm-kOq5jJ-0usvJznBr6HN0sXyOgVXp1sWipDG9",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fp8j-3I4IG73w23_xZoY2qlcYeTeg44ZVyCqwPrkrzo1MK8vZSbzXJn6SEmtyuJzQv330-T474Jjg",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fp9g-7J4cL3jgW2_xA4Zz-lINLDIA9rYwzZ8we7ye7v1pK86sudyHRjvXYgsHbcgVXp1u0ky6oF",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fp5j-jX7ML30VXm-xZqYz_wIYSRIAdvZ1GD-lXqk7_ujZTpv8jKyHM3unMn4HjZgVXp1rzPxrd-",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fp8j-3I4IG73w23_xZoY2qlcYeTeg44ZVyCqwPrkrzo1MK8vZSbzXJn6SEmtyuJzQv330-T474Jjg"
+    },
+    "buff-id-factory-new": "755683",
+    "buff-id-minimal-wear": "42880",
+    "buff-id-field-tested": "42879",
+    "buff-id-well-worn": "42881",
+    "buff-id-battle-scarred": "42878"
+  },
+  {
+    "id": "skin-329817192",
+    "name": "★ Hand Wraps | Spruce DDPAT",
+    "description": "Preferred by hand-to-hand fighters, these wraps protect the knuckles and stabilize the wrist when punching.",
+    "weapon": "Hand Wraps",
+    "category": "gloves",
+    "pattern": "Spruce DDPAT",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10010",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4288",
+        "name": "Glove Case"
+      },
+      {
+        "id": "crate-4352",
+        "name": "Operation Hydra Case"
+      }
+    ],
+    "image": {
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j3MrbeqWxD7dxOguzA45W72FXj-Bc6NWqmJIOXcgdoNA2BqQPtw7_p18W5vM-cyXdj6CUj537Vmwv3309OHS9m9Q",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j3MrbeqWxD7dxOh-zF_Jn4xgWy-UA9N231cIXEJgQ4ZlqDr1frkufu0J_u75SayCFjuHJ2s3fdnx2pwUYbIeuWuUo",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j3MrbeqWxD7dxOhuDG_Zi73lfg_xdrMmDwLdLBdFc9ZFvVrlm3l-rojcDquJvIyyZquiIm53eLmwv3309cucGezg",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j3MrbeqWxD7dxOh-zF_Jn4xgWy-UA9N231cIXEJgQ4ZlqDr1frkufu0J_u75SayCFjuHJ2s3fdnx2pwUYbIeuWuUo",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j3MrbeqWxD7dxOhuDG_Zi73lfg_xdrMmDwLdLBdFc9ZFvVrlm3l-rojcDquJvIyyZquiIm53eLmwv3309cucGezg"
+    },
+    "buff-id-factory-new": "42887",
+    "buff-id-minimal-wear": "42889",
+    "buff-id-field-tested": "42888",
+    "buff-id-well-worn": "42890",
+    "buff-id-battle-scarred": "42886"
+  },
+  {
+    "id": "skin-329817236",
+    "name": "★ Hand Wraps | Slaughter",
+    "description": "Preferred by hand-to-hand fighters, these wraps protect the knuckles and stabilize the wrist when punching.",
+    "weapon": "Hand Wraps",
+    "category": "gloves",
+    "pattern": "Slaughter",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10021",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4288",
+        "name": "Glove Case"
+      },
+      {
+        "id": "crate-4352",
+        "name": "Operation Hydra Case"
+      }
+    ],
+    "image": {
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8jmNr_uhWdQ_cJ5nuzTyoD8j1yg5UpkNWmhItDDclVsYw6B-VS4k-vo08O4vsnKyHVmvilwsC7UnRywiUpSLrs4fUssIRw",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8jmNr_uhWdQ_cJ5nuzTyoD8j1yg5UNuMD2mJoWSIQ43YQ7Y_wS6k7u7jJa66siYnXZqvSRw5X3ZmRC2iBpSLrs4234WE8I",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8jmNr_uhWdQ_cJ5nuzTyoTwiUKt5UI6amugIYCQew4_Y12Drlfoxee-0JLpv8vNmyNr7iF2tyzZyke2hUlSLrs4BJ8l00M",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8jmNr_uhWdQ_cJ5nuzTyoHwjF2hpl05Z27wIdfGdVA_aV2DrlC9wuzrg8Pq6M_NwXdiuCkq4H_Ul0OzhxhJcKUx0vUSZ-XH",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8jmNr_uhWdQ_cJ5nuzTyoHwjF2hpl05Z27wIdfGdVA_aV2DrlC9wuzrg8Pq6M_NwXdiuCkq4H_Ul0OzhxhJcKUx0vUSZ-XH"
+    },
+    "buff-id-factory-new": "755859",
+    "buff-id-minimal-wear": "42884",
+    "buff-id-field-tested": "42883",
+    "buff-id-well-worn": "42885",
+    "buff-id-battle-scarred": "42882"
+  },
+  {
+    "id": "skin-329817296",
+    "name": "★ Hand Wraps | Badlands",
+    "description": "Preferred by hand-to-hand fighters, these wraps protect the knuckles and stabilize the wrist when punching.",
+    "weapon": "Hand Wraps",
+    "category": "gloves",
+    "pattern": "Badlands",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10036",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4288",
+        "name": "Glove Case"
+      },
+      {
+        "id": "crate-4352",
+        "name": "Operation Hydra Case"
+      }
+    ],
+    "image": {
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8jyMrnDn2hu59dwhO7Eyo_0hVuLphY4OiyuOtTDdgI3ZFCG-Fnow73sjJC86p7MzXpjvCl3tH6JnkCxghgfbLNvhvaACQLJbW65ITg",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8jyMrnDn2hu59dwhO7Eyo_0hVuLphY4OiyuOtTDdgI3ZFCG-Fnow73sjJC86p7MzXpjvCl3tH6JnkCxghgfbLNvhvaACQLJbW65ITg",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8jyMrnDn2hu59dwhO7Eyo_0hVuLoxY9JSDtJ9CRIQ45aF_TrwPrkrzohMW8tZzPyXcxvCh04S3dnxS_gx9KbrRog-veFwt_AzfrkA",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8jyMrnDn2hu59dwhO7Eyo_0hVuLpxo7Oy3tco6RdwVtZ1iG_VXvyerp18K_753MynNj7nUms3_dm0bjiB0db7Q-h-veFwtkj0BHFw",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8jyMrnDn2hu59dwhO7Eyo_0hVuLpxo7Oy3tJdWTdAc3Z1nXqwLokrrn0Je-vsjNzXU2viAj7HndmEG3gBlNaeI71uveFwtXrUjv6Q"
+    },
+    "buff-id-factory-new": "45596",
+    "buff-id-minimal-wear": "42876",
+    "buff-id-field-tested": "42875",
+    "buff-id-well-worn": "42877",
+    "buff-id-battle-scarred": "42874"
+  },
+  {
+    "id": "skin-329817364",
+    "name": "★ Hand Wraps | Cobalt Skulls",
+    "description": "Preferred by hand-to-hand fighters, these wraps protect the knuckles and stabilize the wrist when punching.",
+    "weapon": "Hand Wraps",
+    "category": "gloves",
+    "pattern": "Cobalt Skulls",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10053",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4471",
+        "name": "Clutch Case"
+      },
+      {
+        "id": "crate-4880",
+        "name": "Revolution Case"
+      }
+    ],
+    "image": {
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fp3i-vT_I_KilihriwvOCyveMX6L1NqOB2N5FS6we_qhce-6JjMnHpn7Cl35Xjfnxa3ghpEbOxn1KaaHAnKAKMaGamcRi2HqvyoA00",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fp3i-vT_I_KilihriwvOCyveMX6Ll9pORzOrFe6xu6-hce47c_MwHZk6CRxtCrdnBDi1x9Ea-xr0fGaS1XNUvdLH77CWCR9IaxTog",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fp3i-vT_I_KilihriwvOCyveMX6L1NqOB2N5FS6we_qhce-6JjMnHpn7Cl35Xjfnxa3ghpEbOxn1KaaHAnKAKMaGamcRi2HqvyoA00",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fp3i-vT_I_KilihriwvOCyveMX6KlNvJxHO-VK3xujvh8Tt6pvJyno2v3Z27XzczBG3h05JaO1q0KedTlvPBKYdHr7CWCThWLmD-A"
+    },
+    "buff-id-factory-new": "759322",
+    "buff-id-minimal-wear": "422813",
+    "buff-id-field-tested": "45471",
+    "buff-id-well-worn": "755893",
+    "buff-id-battle-scarred": "45552"
+  },
+  {
+    "id": "skin-329817368",
+    "name": "★ Hand Wraps | Overprint",
+    "description": "Preferred by hand-to-hand fighters, these wraps protect the knuckles and stabilize the wrist when punching.",
+    "weapon": "Hand Wraps",
+    "category": "gloves",
+    "pattern": "Overprint",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10054",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4471",
+        "name": "Clutch Case"
+      },
+      {
+        "id": "crate-4880",
+        "name": "Revolution Case"
+      }
+    ],
+    "image": {
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fp3i-vT_I_Kj1G7phYoITCgS9TJN1NRPA2EoxTj3-ju1MK675-anXAy6CMn5yrVzR3k0xBLZu1p1KGXS1SZD6UcT6jWAnLO8MckMQuOmks",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fp3i-vT_I_Kj1G7phYoITCgS9TJN1NRPQGHohWgx-jn1sDu7c-bzXJrvSF0t3janRG00EtIOrE9gfycSA6dU_NIG_OAB22Q7s4ZlRd3zg",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fp3i-vT_I_Kj1G7phYoITCgS9TJN1NRPQGHohWgx-jn1sDu7c-bzXJrvSF0t3janRG00EtIOrE9gfycSA6dU_NIG_OAB22Q7s4ZlRd3zg",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fp3i-vT_I_Kj1G7phYoITCgS9TJN1NRPA2EoxTj3-ju1MK675-anXAy6CMn5yrVzR3k0xBLZu1p1KGXS1SZD6UcT6jWAnLO8MckMQuOmks",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fp3i-vT_I_Kj1G7phYoITCgS9TJN1NROQ2BvBiglLjr18e1v8zOy3Rl7iRx5H7fzBG-gRxEPO1njfPLSQiXBPQdGKjXA22Q7s4MesGFyw"
+    },
+    "buff-id-factory-new": "761881",
+    "buff-id-minimal-wear": "45605",
+    "buff-id-field-tested": "45578",
+    "buff-id-well-worn": "45555",
+    "buff-id-battle-scarred": "45554"
+  },
+  {
+    "id": "skin-329817372",
+    "name": "★ Hand Wraps | Duct Tape",
+    "description": "Preferred by hand-to-hand fighters, these wraps protect the knuckles and stabilize the wrist when punching.",
+    "weapon": "Hand Wraps",
+    "category": "gloves",
+    "pattern": "Duct Tape",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10055",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4471",
+        "name": "Clutch Case"
+      },
+      {
+        "id": "crate-4880",
+        "name": "Revolution Case"
+      }
+    ],
+    "image": {
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fp1n-rV4Y3ljWu5rhc1JjTtIYOTegM7aV2D-lm6kurn18e0tJiYmycy6SBwtnrZmUe01xhLbuVvhOveFwtaUU7byg",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fp1n-rV4Y3ljWu4ohQ0J3fzdYWRJlM8YVGC_lHrl73njJfpucvNwHth73Yg5nzVnhOwghtFaLQ6m7XAHj0-km2U",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fp1n-rV4Y3ljWu4ohQ0J3fzdYWRJlM8YVGC_lHrl73njJfpucvNwHth73Yg5nzVnhOwghtFaLQ6m7XAHj0-km2U",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fp1n-rV4Y3ljWu5rhc1JjTtIYOTegM7aV2D-lm6kurn18e0tJiYmycy6SBwtnrZmUe01xhLbuVvhOveFwtaUU7byg",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fp1n-rV4Y3ljWu8rhIqKnf6I9SRdFQ_ZF6GrFDtwOzmhcC_v8-bz3Viu3Im4X3dlhO0gxgdOu1qm7XAHjpDKmsz"
+    },
+    "buff-id-factory-new": "757195",
+    "buff-id-minimal-wear": "45430",
+    "buff-id-field-tested": "45429",
+    "buff-id-well-worn": "45408",
+    "buff-id-battle-scarred": "45553"
+  },
+  {
+    "id": "skin-329817376",
+    "name": "★ Hand Wraps | Arboreal",
+    "description": "Preferred by hand-to-hand fighters, these wraps protect the knuckles and stabilize the wrist when punching.",
+    "weapon": "Hand Wraps",
+    "category": "gloves",
+    "pattern": "Arboreal",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10056",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4471",
+        "name": "Clutch Case"
+      },
+      {
+        "id": "crate-4880",
+        "name": "Revolution Case"
+      }
+    ],
+    "image": {
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fp3i-vT_I_Kj0axrh0DMDiue-nIJ1JnJAXO_Fa8kOvmjZa_6c-byXY16XEk4HmJmhyyghpJP7NpjKDLSF-bUaBPHL7CWCT7FrtpEw",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fp3i-vT_I_Kj0axrh0DMDiue-nJK1FmJUbRqAO2we69hp6_tcjBzyFrvyFz4n-PnRXkiEpFPOA-gPeYTQ2dBvMYAuDcUakElI_s",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fp3i-vT_I_Kj0axrh0DMDiue-nNJ1d4KEaE-ALsyO--hJG1tJzLzHc1syAh4Xffmxe_1R4dZ7Ns0KPPTlmWDqNLAuDcUbIeSrc4",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fp3i-vT_I_Kj0axrh0DMDiue-nJK1FmJUbRqAO2we69hp6_tcjBzyFrvyFz4n-PnRXkiEpFPOA-gPeYTQ2dBvMYAuDcUakElI_s",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fp3i-vT_I_Kj0axrh0DMDiue-nIJ1JnJAXO_Fa8kOvmjZa_6c-byXY16XEk4HmJmhyyghpJP7NpjKDLSF-bUaBPHL7CWCT7FrtpEw"
+    },
+    "buff-id-factory-new": "755872",
+    "buff-id-minimal-wear": "45506",
+    "buff-id-field-tested": "45450",
+    "buff-id-well-worn": "45470",
+    "buff-id-battle-scarred": "45449"
+  },
+  {
+    "id": "skin-329817476",
+    "name": "★ Hand Wraps | Desert Shamagh",
+    "description": "Preferred by hand-to-hand fighters, these wraps protect the knuckles and stabilize the wrist when punching.",
+    "weapon": "Hand Wraps",
+    "category": "gloves",
+    "pattern": "Desert Shamagh",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10081",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4717",
+        "name": "Operation Broken Fang Case"
+      },
+      {
+        "id": "crate-4747",
+        "name": "Snakebite Case"
+      },
+      {
+        "id": "crate-4846",
+        "name": "Recoil Case"
+      }
+    ],
+    "image": {
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8jyMrnDn2hu4MpkhO3S4YP6nFyLpAE9PT6mS9vAJl97PEbT_ljowLjrgJ--6Z_Lm3Fh7CcltCyMn0ax0BBFZ-Y5gqeaT1-YDqVNAuDcUcuw046g",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8jyMrnDn2hu4MpkhO3S4YP6nFyLpAE9PT6mS9rMJV56fwvYrFfqle6-jZe77svPzXowuSAk53iMzRawiRhKO-1s0_WeT1yXAqRXXP7VakNMYYs",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8jyMrnDn2hu4MpkhO3S4YP6nFyLpAE9PT6mS9vAJl97PEbT_ljowLjrgJ--6Z_Lm3Fh7CcltCyMn0ax0BBFZ-Y5gqeaT1-YDqVNAuDcUcuw046g",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8jyMrnDn2hu4MpkhO3S4YP6nFyLpAE9PT6mS97AI0B3f1_X_ge9yb3mjJTvvM6fmCQy6CIn5X7by0SyhElJZ-Q91vfKHF_NUfdXXP7VxyLQABo",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8jyMrnDn2hu4MpkhO3S4YP6nFyLpAE9PT6mS9rMJV56fwvYrFfqle6-jZe77svPzXowuSAk53iMzRawiRhKO-1s0_WeT1yXAqRXXP7VakNMYYs"
+    },
+    "buff-id-factory-new": "836541",
+    "buff-id-minimal-wear": "836030",
+    "buff-id-field-tested": "836046",
+    "buff-id-well-worn": "836062",
+    "buff-id-battle-scarred": "836114"
+  },
+  {
+    "id": "skin-329817480",
+    "name": "★ Hand Wraps | Giraffe",
+    "description": "Preferred by hand-to-hand fighters, these wraps protect the knuckles and stabilize the wrist when punching.",
+    "weapon": "Hand Wraps",
+    "category": "gloves",
+    "pattern": "Giraffe",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10082",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4717",
+        "name": "Operation Broken Fang Case"
+      },
+      {
+        "id": "crate-4747",
+        "name": "Snakebite Case"
+      },
+      {
+        "id": "crate-4846",
+        "name": "Recoil Case"
+      }
+    ],
+    "image": {
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fp3i-vT_I_Kj12mqhU6NgaucdLMN1sgNAzXrADow-_qh5e-uZ7AwHZluXYl7HqPzUPi1x4aP-Nm1qGcTV6XVbsJQvfbOqBtRQ",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fp3i-vT_I_Kj12mqhU6NgaucdLMN1sgNAzXrADow-_qh5e-uZ7AwHZluXYl7HqPzUPi1x4aP-Nm1qGcTV6XVbsJQvfbOqBtRQ",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fp3i-vT_I_Kj12mqhU6NgavfdHNNhg2Yw7QrlHrxL_nhsK-7pnJmyAxuCJ24ivUnRK-hB0YbeFoh_WaHwqdGeUXS4qMiHEL",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fp3i-vT_I_Kj12mqhU6NgarcdfTOxg_YFGDq1G3kry-hcfqvMiYySRi7ycgtnyOm0e_0ExJb-Rs1_CeTg-ZGeUXS5l1zR-N",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fp3i-vT_I_Kj12mqhU6NgavfdHNNhg2Yw7QrlHrxL_nhsK-7pnJmyAxuCJ24ivUnRK-hB0YbeFoh_WaHwqdGeUXS4qMiHEL"
+    },
+    "buff-id-factory-new": "838184",
+    "buff-id-minimal-wear": "836095",
+    "buff-id-field-tested": "836001",
+    "buff-id-well-worn": "836373",
+    "buff-id-battle-scarred": "836083"
+  },
+  {
+    "id": "skin-329817484",
+    "name": "★ Hand Wraps | Constrictor",
+    "description": "Preferred by hand-to-hand fighters, these wraps protect the knuckles and stabilize the wrist when punching.",
+    "weapon": "Hand Wraps",
+    "category": "gloves",
+    "pattern": "Constrictor",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10083",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4717",
+        "name": "Operation Broken Fang Case"
+      },
+      {
+        "id": "crate-4747",
+        "name": "Snakebite Case"
+      },
+      {
+        "id": "crate-4846",
+        "name": "Recoil Case"
+      }
+    ],
+    "image": {
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fpihOjK8J_-gVqLpAE9PT6mS9vAJl97PEbT8gXtyLi9h5a4vsjByXZl6HZ3537YmxWzh0sfP-w51qCaT1iXBaMfAuDcUTp-Tr8Q",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fpihOjK8J_-gVqLpAE9PT6mS9vAJl97PEbT8gXtyLi9h5a4vsjByXZl6HZ3537YmxWzh0sfP-w51qCaT1iXBaMfAuDcUTp-Tr8Q",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fpihOjK8J_-gVqLpAE9PT6mS9rMJV56fwrQrgC5w7u6hZbv7ZXAmnRnsiYn4H7bzBPk1ExNbOE70fPKTQ3IUaVXXP7VnEbj_yo",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fpihOjK8J_-gVqLpAE9PT6mS9rMJV56fwrQrgC5w7u6hZbv7ZXAmnRnsiYn4H7bzBPk1ExNbOE70fPKTQ3IUaVXXP7VnEbj_yo",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fpihOjK8J_-gVqLpAE9PT6mS97AI0B3f1zU81TvxerqjZO0vMvBzyBk7CQg7HnYyRHl1EtEaLc80PHLTA3NBfNXXP7VY-8-Bgw"
+    },
+    "buff-id-factory-new": "836553",
+    "buff-id-minimal-wear": "836156",
+    "buff-id-field-tested": "835886",
+    "buff-id-well-worn": "836158",
+    "buff-id-battle-scarred": "836021"
+  },
+  {
+    "id": "skin-329817488",
+    "name": "★ Hand Wraps | CAUTION!",
+    "description": "Preferred by hand-to-hand fighters, these wraps protect the knuckles and stabilize the wrist when punching.",
+    "weapon": "Hand Wraps",
+    "category": "gloves",
+    "pattern": "CAUTION!",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10084",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4717",
+        "name": "Operation Broken Fang Case"
+      },
+      {
+        "id": "crate-4747",
+        "name": "Snakebite Case"
+      },
+      {
+        "id": "crate-4846",
+        "name": "Recoil Case"
+      }
+    ],
+    "image": {
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fpyi_zV_IP7t1i9rBsofW_7d9THJwZrMl_Wq1S_k7y-h5TpuZidm3pjuyJxsHaLzEC3hBtLb-RxxavJGhTTf7w",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fpyi_zV_IP7t1i9rBsofW_7d9THJwZrMl_Wq1S_k7y-h5TpuZidm3pjuyJxsHaLzEC3hBtLb-RxxavJGhTTf7w",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fpyi_zV_IP7t1mxrxopPnegdobDegU8ZFCE_VG3wuy605C6v5nNyCBj6HZ04i2Lnkaw0x1IOLQ9m7XAHk1G_2IP",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fpyi_zV_IP7t1yxqgUlfWmnIo-XIABqMwvU8lbtxr_r1sTuvJTIwHBh73IntH_em0DjiU1KaLFxxavJlbwNmi4",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fpyi_zV_IP7t1mxrxopPnegdobDegU8ZFCE_VG3wuy605C6v5nNyCBj6HZ04i2Lnkaw0x1IOLQ9m7XAHk1G_2IP"
+    },
+    "buff-id-factory-new": "850627",
+    "buff-id-minimal-wear": "835907",
+    "buff-id-field-tested": "835879",
+    "buff-id-well-worn": "836140",
+    "buff-id-battle-scarred": "836145"
+  },
+  {
+    "id": "skin-329882784",
+    "name": "★ Moto Gloves | Eclipse",
+    "description": "These bulky hard knuckled gloves can protect the wearers hands from road rash at 60 mph.",
+    "weapon": "Moto Gloves",
+    "category": "gloves",
+    "pattern": "Eclipse",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10024",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4288",
+        "name": "Glove Case"
+      },
+      {
+        "id": "crate-4352",
+        "name": "Operation Hydra Case"
+      }
+    ],
+    "image": {
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLnQhWJS18d9i-rKyoD8j1yg5Uo9a236dtWUdgM6YVzS_1ntyefphJK4tZTBySZrsyNwtHaIyUO1hk1SLrs4pKtdn7w",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLnQhWJS18d9i-rKyoHwjF2hpl1qMT_xd4aVdQFrMA3Y8gS_ye--gMC_uJqYm3M363Vx5Srfyx3l0EoYcKUx0uChaOaq",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLnQhWJS18d9i-rKyoTwiUKt5UM-ZmvwJYWXJgFsZ1rSrFC9kL3vhcfu7Z_KzXsy6yIl53mOn0Gw1xBSLrs4p0ASFAI",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLnQhWJS18d9i-rKyoHwjF2hpl1qMT_xd4aVdQFrMA3Y8gS_ye--gMC_uJqYm3M363Vx5Srfyx3l0EoYcKUx0uChaOaq",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLnQhWJS18d9i-rKyoD8j1yg5RBpNmqiJ46SdVNtZwrR_gXvkri-0MW_tcydm3IwuiMk5HuIyhOw0klSLrs4lUxii8I"
+    },
+    "buff-id-factory-new": "756691",
+    "buff-id-minimal-wear": "43156",
+    "buff-id-field-tested": "43155",
+    "buff-id-well-worn": "43157",
+    "buff-id-battle-scarred": "43154"
+  },
+  {
+    "id": "skin-329882792",
+    "name": "★ Moto Gloves | Spearmint",
+    "description": "These bulky hard knuckled gloves can protect the wearers hands from road rash at 60 mph.",
+    "weapon": "Moto Gloves",
+    "category": "gloves",
+    "pattern": "Spearmint",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10026",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4288",
+        "name": "Glove Case"
+      },
+      {
+        "id": "crate-4352",
+        "name": "Operation Hydra Case"
+      }
+    ],
+    "image": {
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLbYmH9u_Nd4i-fG-YnKhVGwogYxfT-nJIPEIA48M1vYq1TtlLzoh8fv6MnNzHY1uSRw4SrdlxDihBtKOOVxxavJ_VHCqCI",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLbYmH9u_Nd4i-fG-YnKhF2zowdyNzvzJoXDJFc_Z1HX_lHolb2708PovZzLmyY37yMk5nnayRK0g0tNbPsv26LzvhLreA",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLbYmH9u_Nd4i-fG-YnKgFG1vQpyMDr3IoeQJAVoYFzTrAPsw7vu0Jbo7ZzAynJh7CZ24X-Pm0a1gh9Lb_sv26LqLD7tow",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLbYmH9u_Nd4i-fG-YnKhVGwogYxfWrxLIOQIQdsY13U-wK6yey91JK66ZicwXVruCV3tnuPmEflhxBIOOVxxavJ8m_rAQw"
+    },
+    "buff-id-factory-new": "45457",
+    "buff-id-minimal-wear": "43160",
+    "buff-id-field-tested": "43159",
+    "buff-id-well-worn": "43161",
+    "buff-id-battle-scarred": "43158"
+  },
+  {
+    "id": "skin-329882796",
+    "name": "★ Moto Gloves | Boom!",
+    "description": "These bulky hard knuckled gloves can protect the wearers hands from road rash at 60 mph.",
+    "weapon": "Moto Gloves",
+    "category": "gloves",
+    "pattern": "Boom!",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10027",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4288",
+        "name": "Glove Case"
+      },
+      {
+        "id": "crate-4352",
+        "name": "Operation Hydra Case"
+      }
+    ],
+    "image": {
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLbemGRu6sp-h9bN_Iv9nBqw_UE_azymIIOQIwQ5MFzW_QTokOq9hJO778jNyCBn73JzsHfUyRKzn1gSOa862-hY",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLbemGRu6sp-h9bM8Ij8nVn680BpamymJ4aQcg9tNwrQ8lC8xO-505C5uZzKziBl6ylz4inZmkG0hQYMMLJx2v3EHw",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLbemGRu6sp-h9bM8Ij8nVn680BpamymJ4aQcg9tNwrQ8lC8xO-505C5uZzKziBl6ylz4inZmkG0hQYMMLJx2v3EHw",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLbemGRu6sp-h9bN_Iv9nBqw_UE_azymIIOQIwQ5MFzW_QTokOq9hJO778jNyCBn73JzsHfUyRKzn1gSOa862-hY",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLbemGRu6sp-h9bJ8I3jkRrt-0c-YTjxI9KScVVvNQrX81K4yezr15K-v5rIm3s2uSFz4HzZmx22n1gSOe5MuSqW"
+    },
+    "buff-id-factory-new": "44943",
+    "buff-id-minimal-wear": "43148",
+    "buff-id-field-tested": "43147",
+    "buff-id-well-worn": "43149",
+    "buff-id-battle-scarred": "43146"
+  },
+  {
+    "id": "skin-329882800",
+    "name": "★ Moto Gloves | Cool Mint",
+    "description": "These bulky hard knuckled gloves can protect the wearers hands from road rash at 60 mph.",
+    "weapon": "Moto Gloves",
+    "category": "gloves",
+    "pattern": "Cool Mint",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10028",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4288",
+        "name": "Glove Case"
+      },
+      {
+        "id": "crate-4352",
+        "name": "Operation Hydra Case"
+      }
+    ],
+    "image": {
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDK_Dn2pf78l0tevN4InKgFG1vQpyYDulcIKdIQ5oZ13Q_gTox-fn15S675vAwSdn7CB3sXrUzhSw00sdO_sv26IoRP6HzA",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDK_Dn2pf78l0tevN4InKhVGwogYxfTigcNeQdAdvYV-CrFO5xOvqgZHotc7PmiEysyMg5nyMyke-0E1FPORxxavJfL7WpEI",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDK_Dn2pf78l0tevN4InKhF2zowdyMDulLIfDdlc6M1yEr1Xsl728hMDv6ZzJySNjvHNw4yzUzhG-hRpKafsv26Jr83DxDg",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDK_Dn2pf78l0tevN4InKhF2zowdyYz-nJY-Veg9sMArY_1G8xbzmgZO06JrBz3c2uCEnsXiJnxSw10xEavsv26IlQaG-2Q",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDK_Dn2pf78l0tevN4InKhVGwogYxfTigcNeQdAdvYV-CrFO5xOvqgZHotc7PmiEysyMg5nyMyke-0E1FPORxxavJfL7WpEI"
+    },
+    "buff-id-factory-new": "757262",
+    "buff-id-minimal-wear": "43152",
+    "buff-id-field-tested": "43151",
+    "buff-id-well-worn": "43153",
+    "buff-id-battle-scarred": "43150"
+  },
+  {
+    "id": "skin-329882884",
+    "name": "★ Moto Gloves | POW!",
+    "description": "These bulky hard knuckled gloves can protect the wearers hands from road rash at 60 mph.",
+    "weapon": "Moto Gloves",
+    "category": "gloves",
+    "pattern": "POW!",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10049",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4471",
+        "name": "Clutch Case"
+      },
+      {
+        "id": "crate-4880",
+        "name": "Revolution Case"
+      }
+    ],
+    "image": {
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjZmWhe18d-heT-_Yn0nk36-xJkYzvzI4WVdABsMwzYr1Hsxbrug5Hov57OmnI2vSdw4X3bmUHk0wYMMLIU8lGphQ",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjZmWhe18d-heT--YXygECLpxIuNDztJ4HEIFI5Mw3R-Fi4l7_ugp69ucvOm3Zi6yd25XneyhGy0xtIbbY-1-veFwtjkaCWKQ",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjZmWhe18d-heT--YXygED680A5NWD2JteUI1c7aV6FqFC-kLzphJe4ucicn3dr73Fzty7anxLh0gYMMLJ8mSErhg",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjZmWhe18d-heT--InxgUG55RZsMDigJI6Qe1BrZ1nX_lHvxrrmhpe9v5ucyiZruCkm5CuIzRWzgR1SLrs45SIETzQ",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjZmWhe18d-heT--InxgUG55RZsMDigJI6Qe1BrZ1nX_lHvxrrmhpe9v5ucyiZruCkm5CuIzRWzgR1SLrs45SIETzQ"
+    },
+    "buff-id-factory-new": "758350",
+    "buff-id-minimal-wear": "45495",
+    "buff-id-field-tested": "45432",
+    "buff-id-well-worn": "755671",
+    "buff-id-battle-scarred": "45602"
+  },
+  {
+    "id": "skin-329882888",
+    "name": "★ Moto Gloves | Turtle",
+    "description": "These bulky hard knuckled gloves can protect the wearers hands from road rash at 60 mph.",
+    "weapon": "Moto Gloves",
+    "category": "gloves",
+    "pattern": "Turtle",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10050",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4471",
+        "name": "Clutch Case"
+      },
+      {
+        "id": "crate-4880",
+        "name": "Revolution Case"
+      }
+    ],
+    "image": {
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLnQhWJS18Jjj-zPyoPniVqzriwwOj6rYJiUe1BrN12B-wDvwebrhJG5v8nKyyM27ick5Szelha_h0xIb-BmjPGZVxzAUCMEEK1m",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLnQhWJS18Jjj-zPyoPniVqzriw0Nji1bZiXdQQ2MlnW-la8xum905a16ZSayndnuXEksXfdmEO_iUkYbuw9h_GXVxzAUAUK5iS3",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLnQhWJS18Jjj-zPyoPniVqzriwxNj2qYduLJA43Nw2GrFe3wOa7hMTpuJXLwXM3siEi5HeImEbl0xofZuU6gaScGELeWfLbi5F6iQ",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLnQhWJS18Jjj-zPyoPniVqzriwwOj6rYJiUe1BrN12B-wDvwebrhJG5v8nKyyM27ick5Szelha_h0xIb-BmjPGZVxzAUCMEEK1m",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLnQhWJS18Jjj-zPyoPniVqzriwxNj2qYduLJA43Nw2GrFe3wOa7hMTpuJXLwXM3siEi5HeImEbl0xofZuU6gaScGELeWfLbi5F6iQ"
+    },
+    "buff-id-factory-new": "757534",
+    "buff-id-minimal-wear": "45581",
+    "buff-id-field-tested": "45488",
+    "buff-id-well-worn": "45489",
+    "buff-id-battle-scarred": "45564"
+  },
+  {
+    "id": "skin-329882892",
+    "name": "★ Moto Gloves | Transport",
+    "description": "These bulky hard knuckled gloves can protect the wearers hands from road rash at 60 mph.",
+    "weapon": "Moto Gloves",
+    "category": "gloves",
+    "pattern": "Transport",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10051",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4471",
+        "name": "Clutch Case"
+      },
+      {
+        "id": "crate-4880",
+        "name": "Revolution Case"
+      }
+    ],
+    "image": {
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDKLUmmde__pyi-TOyoD8j1yg5RduYTrxJ9fDcwU4N1_RqVW_wem7jZO-vZzByCE27icitHiOnhKwgkxSLrs4-Z1y7uk",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDKLUmmde__pyi-TOyoD8j1yg5RduYTrxJ9fDcwU4N1_RqVW_wem7jZO-vZzByCE27icitHiOnhKwgkxSLrs4-Z1y7uk",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDKLUmmde__pyi-TOyoHwjF2hpl1kMmj7IYSUIwZsZwmGqFe2w73qhpPv7siayXMxuXQq4nrdlkGwgRxMcKUx0iFu6Msp",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDKLUmmde__pyi-TOyoHwjF2hpl1kMmj7IYSUIwZsZwmGqFe2w73qhpPv7siayXMxuXQq4nrdlkGwgRxMcKUx0iFu6Msp",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDKLUmmde__pyi-TOyoTwiUKt5UI5YGzyddSQJgVtYlCE_gK2w-7vgJXtvc7OnyRr6SgmtCvazBW_gRBSLrs45YzPfaE"
+    },
+    "buff-id-factory-new": "762713",
+    "buff-id-minimal-wear": "45493",
+    "buff-id-field-tested": "45411",
+    "buff-id-well-worn": "45580",
+    "buff-id-battle-scarred": "45563"
+  },
+  {
+    "id": "skin-329882896",
+    "name": "★ Moto Gloves | Polygon",
+    "description": "These bulky hard knuckled gloves can protect the wearers hands from road rash at 60 mph.",
+    "weapon": "Moto Gloves",
+    "category": "gloves",
+    "pattern": "Polygon",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10052",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4471",
+        "name": "Clutch Case"
+      },
+      {
+        "id": "crate-4880",
+        "name": "Revolution Case"
+      }
+    ],
+    "image": {
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDK_Dn2xD4cFOiOXU8LP5gVO8v10-YWnyIIeQIQc-Yl6D-lHtku_vjJHov87MyHFjviIjtirdmxXk1BkfcKUx0rvyuJdK",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDK_Dn2xD4cFOiOXU8LP9jVWisl0_NTryJIKRdQJsaFCG-lnokru8jJe5vp-fy3Mw7nV0tHfbzhe-hhlNcKUx0oowUTwA",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDK_Dn2xD4cFOiOXU8LP5gVO8v10-YWnyIIeQIQc-Yl6D-lHtku_vjJHov87MyHFjviIjtirdmxXk1BkfcKUx0rvyuJdK",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDK_Dn2xD4cFOiOXU8LP4jVC9vh5yMTj2JdSVJ1dsaVzRrlS_lbjqg5S0vJmdwXFluCAj7XnYlx3iiRlOP_sv26JBY92r1Q",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDK_Dn2xD4cFOiOXU8LP4jVC9vh5yMTj2JdSVJ1dsaVzRrlS_lbjqg5S0vJmdwXFluCAj7XnYlx3iiRlOP_sv26JBY92r1Q"
+    },
+    "buff-id-factory-new": "758165",
+    "buff-id-minimal-wear": "45534",
+    "buff-id-field-tested": "45473",
+    "buff-id-well-worn": "45487",
+    "buff-id-battle-scarred": "45562"
+  },
+  {
+    "id": "skin-329882996",
+    "name": "★ Moto Gloves | Finish Line",
+    "description": "These bulky hard knuckled gloves can protect the wearers hands from road rash at 60 mph.",
+    "weapon": "Moto Gloves",
+    "category": "gloves",
+    "pattern": "Finish Line",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10077",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4717",
+        "name": "Operation Broken Fang Case"
+      },
+      {
+        "id": "crate-4747",
+        "name": "Snakebite Case"
+      },
+      {
+        "id": "crate-4846",
+        "name": "Recoil Case"
+      }
+    ],
+    "image": {
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjZk2ha7ddOjOXA8rP3hEGxlBQuNjytS9vAJl97PEaG81S4w7_mjZS-6c_Az3JgvSkj4nbZlhW_101OOrc6hPebS16bD6QbAuDcUfydLqde",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjZk2ha7ddOjOXA8rP3hEGxlBQuNjytS9rMJV56f1jW8lO6wO69g8Tvu5udzHZjuyIi7H7UyhzhhExJa7Rs16PPT1WXBKJXXP7VKzgYFbc",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjZk2ha7ddOjOXA8rP3hEGxlBQuNjytS9vAJl97PEaG81S4w7_mjZS-6c_Az3JgvSkj4nbZlhW_101OOrc6hPebS16bD6QbAuDcUfydLqde",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjZk2ha7ddOjOXA8rP3hEGxlBQuNjytS9rMJV56fwzQq1e7l7rt0cPv6s_Lm3c3vnYqsS7Zy0Pk1RxIbuJohPSbSwiXUfdXXP7Vq44XhfI",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjZk2ha7ddOjOXA8rP3hEGxlBQuNjytS97AI0B3f1GBrwO2kuzohp7qup3LmHAx6XYksSnYlhGyh0xLb-ZpjaGWTl2ZVqdXXP7V_nGekpw"
+    },
+    "buff-id-factory-new": "836531",
+    "buff-id-minimal-wear": "835978",
+    "buff-id-field-tested": "835888",
+    "buff-id-well-worn": "836063",
+    "buff-id-battle-scarred": "836190"
+  },
+  {
+    "id": "skin-329883000",
+    "name": "★ Moto Gloves | Smoke Out",
+    "description": "These bulky hard knuckled gloves can protect the wearers hands from road rash at 60 mph.",
+    "weapon": "Moto Gloves",
+    "category": "gloves",
+    "pattern": "Smoke Out",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10078",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4717",
+        "name": "Operation Broken Fang Case"
+      },
+      {
+        "id": "crate-4747",
+        "name": "Snakebite Case"
+      },
+      {
+        "id": "crate-4846",
+        "name": "Recoil Case"
+      }
+    ],
+    "image": {
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDKjcmWBU1810i__Yu96k3FG3_UBlMj2hLNWccwQ4M1qFrlO3lenrjMTvtMiayXU2uXNz7S7D30vg5f8BpxY",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDKjcmWBU18h0juDU-MKhjFLs-BZsMmn7cdXHdQI4YA6Grla7yOjvgpe0u52ayXIx6XYitHqJgVXp1uoY8XAC",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDKjcmWBU18l4jeHVu4nwjFDi_BZlZW72doKUdlU7aFGG-FG7xO3m15O5tc7JzXdmvHMn4HzD30vgXSdlX6U",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDKjcmWBU18l4jeHVu9-m0AW280FtY2DzIYDHIw48YgvQrFG3krzphZe5vpnKwSZm7yJw7H7D30vgXeRGe3Y",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDKjcmWBU18h0juDU-MKhjFLs-BZsMmn7cdXHdQI4YA6Grla7yOjvgpe0u52ayXIx6XYitHqJgVXp1uoY8XAC"
+    },
+    "buff-id-factory-new": "838331",
+    "buff-id-minimal-wear": "836011",
+    "buff-id-field-tested": "835732",
+    "buff-id-well-worn": "836247",
+    "buff-id-battle-scarred": "836061"
+  },
+  {
+    "id": "skin-329883004",
+    "name": "★ Moto Gloves | Blood Pressure",
+    "description": "These bulky hard knuckled gloves can protect the wearers hands from road rash at 60 mph.",
+    "weapon": "Moto Gloves",
+    "category": "gloves",
+    "pattern": "Blood Pressure",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10079",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4717",
+        "name": "Operation Broken Fang Case"
+      },
+      {
+        "id": "crate-4747",
+        "name": "Snakebite Case"
+      },
+      {
+        "id": "crate-4846",
+        "name": "Recoil Case"
+      }
+    ],
+    "image": {
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjQhGle5sN4iOzTyp7wjGu8rhIqKnelI9WWcw43aQvYq1W7lOvmjJ7quJ3Ky3Q1unQn5CqJnB2whR0aaLRpm7XAHi2oOWkU",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjQhGle5sN4iOzTyp7wjGu5rhc1JjTtIIWUIFA-ZgyF-lG7kuruhsS0tMzByHoxuSRw4HbUyRPi00lFPbM51-veFwtG_GQNJQ",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjQhGle5sN4iOzTyp7wjGu4ohQ0J3fycdWRIQRvMA2FqVXskrjs0Z7vvc6YyHJmu3J2t3nVmhTk1RpMPedsm7XAHo9OKnzp",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjQhGle5sN4iOzTyp7wjGu4ohQ0J3fycdWRIQRvMA2FqVXskrjs0Z7vvc6YyHJmu3J2t3nVmhTk1RpMPedsm7XAHo9OKnzp",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjQhGle5sN4iOzTyp7wjGu5rhc1JjTtIIWUIFA-ZgyF-lG7kuruhsS0tMzByHoxuSRw4HbUyRPi00lFPbM51-veFwtG_GQNJQ"
+    },
+    "buff-id-factory-new": "836408",
+    "buff-id-minimal-wear": "836117",
+    "buff-id-field-tested": "835747",
+    "buff-id-well-worn": "836099",
+    "buff-id-battle-scarred": "836204"
+  },
+  {
+    "id": "skin-329883008",
+    "name": "★ Moto Gloves | 3rd Commando Company",
+    "description": "These bulky hard knuckled gloves can protect the wearers hands from road rash at 60 mph.",
+    "weapon": "Moto Gloves",
+    "category": "gloves",
+    "pattern": "3rd Commando Company",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10080",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4717",
+        "name": "Operation Broken Fang Case"
+      },
+      {
+        "id": "crate-4747",
+        "name": "Snakebite Case"
+      },
+      {
+        "id": "crate-4846",
+        "name": "Recoil Case"
+      }
+    ],
+    "image": {
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjem2ZQ5sF-teLS_rP9jVWisl1sYGz7JtTBdgA8aA6Drla6l-rs0JC9uJnAynVm6XMrtH7cmRWy1ElKcKUx0gtWPCk_",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjem2ZQ5sF-teLS_rP5gVO8v106ZmCiINXDcFc-NF6GrgTqyOnrg8K0tJWfyHVksyci5CvenhG00B1KcKUx0v0d-nrx",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjem2ZQ5sF-teLS_rP5gVO8v106ZmCiINXDcFc-NF6GrgTqyOnrg8K0tJWfyHVksyci5CvenhG00B1KcKUx0v0d-nrx",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjem2ZQ5sF-teLS_rP4jVC9vh5yMD32JtKXc1Q9Z16Er1i4wezo08C9uZ2cn3Vm63RztniInEeyhBpOPPsv26Jl8ohsKA",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjem2ZQ5sF-teLS_rP4jVC9vh5yMD32JtKXc1Q9Z16Er1i4wezo08C9uZ2cn3Vm63RztniInEeyhBpOPPsv26Jl8ohsKA"
+    },
+    "buff-id-factory-new": "837396",
+    "buff-id-minimal-wear": "836018",
+    "buff-id-field-tested": "835810",
+    "buff-id-well-worn": "836214",
+    "buff-id-battle-scarred": "836101"
+  },
+  {
+    "id": "skin-329948344",
+    "name": "★ Specialist Gloves | Forest DDPAT",
+    "description": "Durable, breathable, and stylish; these gloves are designed to take (and give) a beating.",
+    "weapon": "Specialist Gloves",
+    "category": "gloves",
+    "pattern": "Forest DDPAT",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10030",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4288",
+        "name": "Glove Case"
+      },
+      {
+        "id": "crate-4352",
+        "name": "Operation Hydra Case"
+      }
+    ],
+    "image": {
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL_VhmpF18Jjj-zPyo_0hVuLoxY9JSDtJoTAd1I8aF7R_FG_xry-gcK4tZzBzicwviBw5i3bnkO00EpPOuVs0OveFwv9MTjWlQ",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL_VhmpF18Jjj-zPyo_0hVuLpxo7Oy3tcI_BcVJvZl_Q-lC_xrzth5Tq6JrIyiRk7CNwtivYmBXighlIPeNs0eveFwsiIuvQ6g",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL_VhmpF18Jjj-zPyo_0hVuLphY4OiyuOtCXIVA8NwnU-FK-lerohJ_uv5jKzHI2vCYh4XjYnEO0hxFJPeVu0aGACQLJM8r5dnw",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL_VhmpF18Jjj-zPyo_0hVuLpxo7Oy3tLYeVdlQ7ZFqFrwLvyOrv05-8vZnJmCc3uXN3tHncnBC-00weZuZvhuveFwuN-T8pyg",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL_VhmpF18Jjj-zPyo_0hVuLphY4OiyuOtCXIVA8NwnU-FK-lerohJ_uv5jKzHI2vCYh4XjYnEO0hxFJPeVu0aGACQLJM8r5dnw"
+    },
+    "buff-id-factory-new": "43241",
+    "buff-id-minimal-wear": "43243",
+    "buff-id-field-tested": "43242",
+    "buff-id-well-worn": "43244",
+    "buff-id-battle-scarred": "43240"
+  },
+  {
+    "id": "skin-329948356",
+    "name": "★ Specialist Gloves | Crimson Kimono",
+    "description": "Durable, breathable, and stylish; these gloves are designed to take (and give) a beating.",
+    "weapon": "Specialist Gloves",
+    "category": "gloves",
+    "pattern": "Crimson Kimono",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10033",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4288",
+        "name": "Glove Case"
+      },
+      {
+        "id": "crate-4352",
+        "name": "Operation Hydra Case"
+      }
+    ],
+    "image": {
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLDYm2Rf5_p1g-jM-oLxm2umrhcDOzyiYs-LcwU2ZwnVrADsxu7ujMLtuJvBz3Q37CUj4CnUnxWw0BkebuBqh_SXQELeWfISGorr5Q",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLDYm2Rf5_p1g-jM-oLxm2umrhcDPzCkfMKLewY8NVDZ_le8x7ztjJbqusvJmCdgsiYlsH3cmR2zhB1NZ-JogvGXQULeWfLIJRig1Q",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLDYm2Rf5_p1g-jM-oLxm2umrhcDPjynfcPIbFI7MlnWr1m9wLu-08LouZjJyyFq7iUksCrUyhLl1BAfb-JvhvecGliAR_sesfEBVy4",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLDYm2Rf5_p1g-jM-oLxm2umrhcDPjynfcPIbFI7MlnWr1m9wLu-08LouZjJyyFq7iUksCrUyhLl1BAfb-JvhvecGliAR_sesfEBVy4"
+    },
+    "buff-id-factory-new": "761204",
+    "buff-id-minimal-wear": "43234",
+    "buff-id-field-tested": "43233",
+    "buff-id-well-worn": "43235",
+    "buff-id-battle-scarred": "43232"
+  },
+  {
+    "id": "skin-329948360",
+    "name": "★ Specialist Gloves | Emerald Web",
+    "description": "Durable, breathable, and stylish; these gloves are designed to take (and give) a beating.",
+    "weapon": "Specialist Gloves",
+    "category": "gloves",
+    "pattern": "Emerald Web",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10034",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4288",
+        "name": "Glove Case"
+      },
+      {
+        "id": "crate-4352",
+        "name": "Operation Hydra Case"
+      }
+    ],
+    "image": {
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL7ck3lQ5MFOnezDyoHwjF2hpl1tNj2mLI6TdlQ9MlDW81TvlebtgsO1u5ybmHtr6SJw5S3elxDkhxkacKUx0o6rC_kX",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL7ck3lQ5MFOnezDyoD8j1yg5UM9MGyldoDAd1BvN1jR8le-k7_rh8K8757KznpgvCl253_byxPjgR5SLrs4VQDGB6c",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL7ck3lQ5MFOnezDyoD8j1yg5UM9MGyldoDAd1BvN1jR8le-k7_rh8K8757KznpgvCl253_byxPjgR5SLrs4VQDGB6c",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL7ck3lQ5MFOnezDyoTwiUKt5Uc9a2-mIo6dcAA6YgyErFXswOe6hsfovZrBnXJr63Eq7CzVlhHkhU1SLrs4qlOuaG4",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL7ck3lQ5MFOnezDyoHwjF2hpl1tNj2mLI6TdlQ9MlDW81TvlebtgsO1u5ybmHtr6SJw5S3elxDkhxkacKUx0o6rC_kX"
+    },
+    "buff-id-factory-new": "45461",
+    "buff-id-minimal-wear": "43238",
+    "buff-id-field-tested": "43237",
+    "buff-id-well-worn": "43239",
+    "buff-id-battle-scarred": "43236"
+  },
+  {
+    "id": "skin-329948364",
+    "name": "★ Specialist Gloves | Foundation",
+    "description": "Durable, breathable, and stylish; these gloves are designed to take (and give) a beating.",
+    "weapon": "Specialist Gloves",
+    "category": "gloves",
+    "pattern": "Foundation",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10035",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4288",
+        "name": "Glove Case"
+      },
+      {
+        "id": "crate-4352",
+        "name": "Operation Hydra Case"
+      }
+    ],
+    "image": {
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLTDl2VW7fpmguDV8LP5gVO8v105Z2_6IoCcJlI3aVvW-gPqyOrrgJO9tMvIwXZl7yN043iMmRWxhhBJcKUx0vXdckXS",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLTDl2VW7fpmguDV8LP4jVC9vh5yMmD7JdSUelM3aFrQ_gPoyLjo18C86snPwHpjunYh4i7cnBe1gBhIbfsv26L3pHCcqw",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLTDl2VW7fpmguDV8LP9jVWisl1tN27yd9KVdAE8aF3T-FHol-zngZO97pXImCcxvHMr7X3Ymh3jh0pEcKUx0laoxWvN",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLTDl2VW7fpmguDV8LP5gVO8v11rNjyhJITBegJsYliF-VC8l-3t0ZO67cmdySYwvCIk5irYyRW1hktOcKUx0vHv-479",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLTDl2VW7fpmguDV8LP4jVC9vh5yMmD7JdSUelM3aFrQ_gPoyLjo18C86snPwHpjunYh4i7cnBe1gBhIbfsv26L3pHCcqw"
+    },
+    "buff-id-factory-new": "44945",
+    "buff-id-minimal-wear": "43247",
+    "buff-id-field-tested": "43246",
+    "buff-id-well-worn": "43248",
+    "buff-id-battle-scarred": "43245"
+  },
+  {
+    "id": "skin-329948468",
+    "name": "★ Specialist Gloves | Crimson Web",
+    "description": "Durable, breathable, and stylish; these gloves are designed to take (and give) a beating.",
+    "weapon": "Specialist Gloves",
+    "category": "gloves",
+    "pattern": "Crimson Web",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10061",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4471",
+        "name": "Clutch Case"
+      },
+      {
+        "id": "crate-4880",
+        "name": "Revolution Case"
+      }
+    ],
+    "image": {
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDKzUlHhu-sB1teTE8YXghRq3-kZtZz36II-cew5saAyErlC2wru5hMe_vs7KyHNguSRz4S3azUfln1gSOVoikF85",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDKzUlHhu-sB1teXI8oThxlLt8xdtazv3ctOSI1I5NF2ErwK4yL_phMC-75XLz3Fi6yQmsHuOmhepwUYb3__8r8U",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDKzUlHhu-sB1teHE9Jrsxge1_0I_ZzylcNTEc1Q-aVqFq1G4kO670Z-0v8_PwSdhvCYjtyvVnROpwUYbBNjeqjQ",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDKzUlHhu-sB1teXI8oThxgLl_0ttZG6gJI_HJA5vYlHQqVjtxei-1JDttJ3Iy3Ji7yJwtivYzBapwUYbqWKMPGU",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDKzUlHhu-sB1teTE8YXghRq3-kZtZz36II-cew5saAyErlC2wru5hMe_vs7KyHNguSRz4S3azUfln1gSOVoikF85"
+    },
+    "buff-id-factory-new": "756402",
+    "buff-id-minimal-wear": "422853",
+    "buff-id-field-tested": "45412",
+    "buff-id-well-worn": "645512",
+    "buff-id-battle-scarred": "755616"
+  },
+  {
+    "id": "skin-329948472",
+    "name": "★ Specialist Gloves | Buckshot",
+    "description": "Durable, breathable, and stylish; these gloves are designed to take (and give) a beating.",
+    "weapon": "Specialist Gloves",
+    "category": "gloves",
+    "pattern": "Buckshot",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10062",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4471",
+        "name": "Clutch Case"
+      },
+      {
+        "id": "crate-4880",
+        "name": "Revolution Case"
+      }
+    ],
+    "image": {
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3ehG5C_PpzmObW-7P4jVC9vh5yYWj6LISRc1JrYg6G-1e4xri8gMS66p7MnXIy6yhw433cn0fjhUxEOPsv26LHsSWWxw",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3ehG5C_PpzmObW-7P4jVC9vh5yYWj6LISRc1JrYg6G-1e4xri8gMS66p7MnXIy6yhw433cn0fjhUxEOPsv26LHsSWWxw",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3ehG5C_PpzmObW-7P9jVWisl1rMGv1LYWRIw9taAmBrla2wOjm1J616MidyXM2uSRw7XyJmhLkhEwYcKUx0rQ75zgN",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3ehG5C_PpzmObW-7P5gVO8v11lMmjxdoaWJFBoNFzT-wfsw-3pjMe97ZTNy3NkuyEn7S3Zm0e3gxxIcKUx0idxu2Qh",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3ehG5C_PpzmObW-7P5gVO8v11lMmjxdoaWJFBoNFzT-wfsw-3pjMe97ZTNy3NkuyEn7S3Zm0e3gxxIcKUx0idxu2Qh"
+    },
+    "buff-id-factory-new": "759504",
+    "buff-id-minimal-wear": "45565",
+    "buff-id-field-tested": "45490",
+    "buff-id-well-worn": "45566",
+    "buff-id-battle-scarred": "45650"
+  },
+  {
+    "id": "skin-329948476",
+    "name": "★ Specialist Gloves | Fade",
+    "description": "Durable, breathable, and stylish; these gloves are designed to take (and give) a beating.",
+    "weapon": "Specialist Gloves",
+    "category": "gloves",
+    "pattern": "Fade",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10063",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4471",
+        "name": "Clutch Case"
+      },
+      {
+        "id": "crate-4880",
+        "name": "Revolution Case"
+      }
+    ],
+    "image": {
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3Qkm5u4MBwnPCPpd7ziwXlrUtla2qmJtOSdwQ-Y13V_li8lb25gJW67smaySExvCAq42GdwULjRibN9Q",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3Qkm5u5cB1g_zMu9qh2wzn_0M4NmHwIISVdQQ9YlqD_1Ttlezv0Z_tu5ScziNm7CQk4yzD30vgvj_ETD0",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3Qkm5u5cB1g_zMu9qh2wzn_0M4NmHwIISVdQQ9YlqD_1Ttlezv0Z_tu5ScziNm7CQk4yzD30vgvj_ETD0",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3Qkm5u5Mx2gv2PpdWi3QGy-BY-YW6gcI6Vc1c5Z17RqADtxe7p0Z7qtJnLnHsxuCIk52GdwUIAanvipQ"
+    },
+    "buff-id-factory-new": "758271",
+    "buff-id-minimal-wear": "45568",
+    "buff-id-field-tested": "45508",
+    "buff-id-well-worn": "45496",
+    "buff-id-battle-scarred": "45567"
+  },
+  {
+    "id": "skin-329948480",
+    "name": "★ Specialist Gloves | Mogul",
+    "description": "Durable, breathable, and stylish; these gloves are designed to take (and give) a beating.",
+    "weapon": "Specialist Gloves",
+    "category": "gloves",
+    "pattern": "Mogul",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10064",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4471",
+        "name": "Clutch Case"
+      },
+      {
+        "id": "crate-4880",
+        "name": "Revolution Case"
+      }
+    ],
+    "image": {
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDKzYmH9U-s10ktbN_Iv9nBqy-xBuZz3wJ4aUcgBqYgrW_lC6wejo1MK6vJnJwCNnvyd35SzVzEHmn1gSOQCJib9B",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDKzYmH9U-s10ktbJ8I3jkRrm-0VpYm3yIdDAJg4-YlrYrlXsxufm0JHo6pifmnI3vCF07CzdmUfhn1gSOQ7f-MVQ",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDKzYmH9U-s10ktbM8Ij8nVn6_0FkZ2v1JIGWcFJqYQzT81Dtl-jvjcW5753JwSFh6SMrsHbYlxLh1AYMMLIwLmg8YQ",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDKzYmH9U-s10ktbN_Iv9nBqy-xBuZz3wJ4aUcgBqYgrW_lC6wejo1MK6vJnJwCNnvyd35SzVzEHmn1gSOQCJib9B",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDKzYmH9U-s10ktbM8Ij8nVn6_0FkZ2v1JIGWcFJqYQzT81Dtl-jvjcW5753JwSFh6SMrsHbYlxLh1AYMMLIwLmg8YQ"
+    },
+    "buff-id-factory-new": "756195",
+    "buff-id-minimal-wear": "45606",
+    "buff-id-field-tested": "45376",
+    "buff-id-well-worn": "45569",
+    "buff-id-battle-scarred": "45491"
+  },
+  {
+    "id": "skin-329948484",
+    "name": "★ Specialist Gloves | Marble Fade",
+    "description": "Durable, breathable, and stylish; these gloves are designed to take (and give) a beating.",
+    "weapon": "Specialist Gloves",
+    "category": "gloves",
+    "pattern": "Marble Fade",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10065",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4717",
+        "name": "Operation Broken Fang Case"
+      },
+      {
+        "id": "crate-4747",
+        "name": "Snakebite Case"
+      },
+      {
+        "id": "crate-4846",
+        "name": "Recoil Case"
+      }
+    ],
+    "image": {
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLbQhGld7fp3i-3EyoHwjF2hpl1tZzjzdo7HIFI9Nw7Z-QXqk73qgZDp6p7NyyBns3Em5izZnhO0gx5IcKUx0nmsCXwg",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLbQhGld7fp3i-3EyoD8j1yg5UdtYG6nd9eTelM4ZF-C-1HtkOq-0Za7tJ3NyHQ17Cgm5njbnRbh0k1SLrs4Ao8F8Po",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLbQhGld7fp3i-3EyoHwjF2hpl1tZzjzdo7HIFI9Nw7Z-QXqk73qgZDp6p7NyyBns3Em5izZnhO0gx5IcKUx0nmsCXwg",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLbQhGld7fp3i-3EyoTwiUKt5RE9MWn7LNLHJgZtYAmE_1DqwOe6hcK6uZ3OzSNh7yIh4nvVzhS2iBBSLrs4kRARkzk"
+    },
+    "buff-id-factory-new": "836568",
+    "buff-id-minimal-wear": "836085",
+    "buff-id-field-tested": "835939",
+    "buff-id-well-worn": "835931",
+    "buff-id-battle-scarred": "835983"
+  },
+  {
+    "id": "skin-329948488",
+    "name": "★ Specialist Gloves | Lt. Commander",
+    "description": "Durable, breathable, and stylish; these gloves are designed to take (and give) a beating.",
+    "weapon": "Specialist Gloves",
+    "category": "gloves",
+    "pattern": "Lt. Commander",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10066",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4717",
+        "name": "Operation Broken Fang Case"
+      },
+      {
+        "id": "crate-4747",
+        "name": "Snakebite Case"
+      },
+      {
+        "id": "crate-4846",
+        "name": "Recoil Case"
+      }
+    ],
+    "image": {
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDKnYlWBC6dJOiejM-rP5gVO8vywwMiukcZidcVU2NQnUrAK5yLroh5XqupTKmiNm6Slz4HrclxGwghpNOuNu06eaVxzAULicmv7r",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDKnYlWBC6dJOiejM-rP4jVC9vh5yNmz7d9WVcgA-aVzW_lC4ybi7g8W5uczNnXFj6XMjsH_ZnUSw1U4YbPsv26KwPeDdkA",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDKnYlWBC6dJOiejM-rP4jVC9vh5yNmz7d9WVcgA-aVzW_lC4ybi7g8W5uczNnXFj6XMjsH_ZnUSw1U4YbPsv26KwPeDdkA",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDKnYlWBC6dJOiejM-rP5gVO8v104Nz_wcteVIw49NAzW-lC5lOjqjZW1u56bmHFmuSFz5CzVnhO-gx9EcKUx0hHPeUMq",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDKnYlWBC6dJOiejM-rP9jVWisl1oMmCgJ4eTdFI_YF6BrFC4wb_m1pS4u5_JwHY36Sgj5n7czEPihh9EcKUx0m4woNlo"
+    },
+    "buff-id-factory-new": "838230",
+    "buff-id-minimal-wear": "835996",
+    "buff-id-field-tested": "836010",
+    "buff-id-well-worn": "836125",
+    "buff-id-battle-scarred": "836341"
+  },
+  {
+    "id": "skin-329948492",
+    "name": "★ Specialist Gloves | Tiger Strike",
+    "description": "Durable, breathable, and stylish; these gloves are designed to take (and give) a beating.",
+    "weapon": "Specialist Gloves",
+    "category": "gloves",
+    "pattern": "Tiger Strike",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10067",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4717",
+        "name": "Operation Broken Fang Case"
+      },
+      {
+        "id": "crate-4747",
+        "name": "Snakebite Case"
+      },
+      {
+        "id": "crate-4846",
+        "name": "Recoil Case"
+      }
+    ],
+    "image": {
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDK_YkW5D18pji-fG8LP5gVO8v109YDj0dtTHdgE7YA6C_lDrwbzuhMe-6p2dzntgvXEq7X7fmBfh0xtIcKUx0i9vOEt-",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDK_YkW5D18pji-fG8LP9jVWisl0-YTr7LNXEIQY-Y1_U_1W6k-m-gcC56JTIzXNg7iN27HeOl0Oy0hEdcKUx0vo0maRq",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDK_YkW5D18pji-fG8LP4jVC9vh5yN2ild4XAJwRraAyF8wLrx-buhMDt7pvLynI16SN25HuPzhewhxhFbfsv26KGW3ZMYA",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDK_YkW5D18pji-fG8LP4jVC9vh5yN2ild4XAJwRraAyF8wLrx-buhMDt7pvLynI16SN25HuPzhewhxhFbfsv26KGW3ZMYA"
+    },
+    "buff-id-factory-new": "838187",
+    "buff-id-minimal-wear": "836118",
+    "buff-id-field-tested": "835850",
+    "buff-id-well-worn": "836259",
+    "buff-id-battle-scarred": "836103"
+  },
+  {
+    "id": "skin-329948496",
+    "name": "★ Specialist Gloves | Field Agent",
+    "description": "Durable, breathable, and stylish; these gloves are designed to take (and give) a beating.",
+    "weapon": "Specialist Gloves",
+    "category": "gloves",
+    "pattern": "Field Agent",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10068",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4717",
+        "name": "Operation Broken Fang Case"
+      },
+      {
+        "id": "crate-4747",
+        "name": "Snakebite Case"
+      },
+      {
+        "id": "crate-4846",
+        "name": "Recoil Case"
+      }
+    ],
+    "image": {
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3Tn1Rc7cF4n-SP8d-iilDjrktpMmz7ctSUcFBoZF2G_1i-xLruh5a57c7NnHRk6yMk4mGdwUJn2RpAfg",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3Tn1Rd4cJ5nqeWptvzigy2_UtsNWHxdofBcAc5YFnR_Va8kuzmgsW5v5nOmnRmvXUj-z-DyIr_c1iF",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3Tn1RZ7cRnk6fHp9nx3FfmrhJsMT_wJYKTIQc8YVmF8lDsyeq6gZ617p7KnSZl6ylw-z-DyKgAQzcU",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3Tn1Rc7cF4n-SP8d-iilDjrktpMmz7ctSUcFBoZF2G_1i-xLruh5a57c7NnHRk6yMk4mGdwUJn2RpAfg"
+    },
+    "buff-id-factory-new": "839130",
+    "buff-id-minimal-wear": "836016",
+    "buff-id-field-tested": "836015",
+    "buff-id-well-worn": "836185",
+    "buff-id-battle-scarred": "836111"
+  },
+  {
+    "id": "skin-330013988",
+    "name": "★ Hydra Gloves | Emerald",
+    "description": "These fingerless gloves have been decorated with metal studs and the Operation Hydra logo.",
+    "weapon": "Hydra Gloves",
+    "category": "gloves",
+    "pattern": "Emerald",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10057",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4471",
+        "name": "Clutch Case"
+      },
+      {
+        "id": "crate-4880",
+        "name": "Revolution Case"
+      }
+    ],
+    "image": {
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibK8LxVh7PTEfitH_-O0mI-Ek__7JrXVqWNI7NdwtevN9I_-t1OmrhYyDDGmdcDcbFNsM1mE-Va8k7q81J-775TBnXBhv3Uq4XeJmxC11BxJaLFqg_XKT16AR_se9mKAGN0",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibK8LxVh7PTEfitH_-O0mI-Ek__7JrXVqWNI7NdwtevN9I_-t1OmrhYyDDSmcN_QLxg9NAzZ-1Hoxufm05a5u8vMmCY2uXUnsXzUlh23gUtEa7BpgffMTA2cGeUXS9ld7tEt",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibK8LxVh7PTEfitH_-O0mI-Ek__7JrXVqWNI7NdwtevN9I_-t1OmrhYyDDWqc97RbFBtYlrZq1frx-zvgpa7v5vAzCAys3F353mOnRCw0hBOaOZt1veZSg-AR_se930H4bk",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibK8LxVh7PTEfitH_-O0mI-Ek__7JrXVqWNI7NdwtevN9I_-t1OmrhYyDDWqc97RbFBtYlrZq1frx-zvgpa7v5vAzCAys3F353mOnRCw0hBOaOZt1veZSg-AR_se930H4bk",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibK8LxVh7PTEfitH_-O0mI-Ek__7JrXVqWNI7NdwtevN9I_-t1OmrhYyDDSmcN_QLxg9NAzZ-1Hoxufm05a5u8vMmCY2uXUnsXzUlh23gUtEa7BpgffMTA2cGeUXS9ld7tEt"
+    },
+    "buff-id-factory-new": "757169",
+    "buff-id-minimal-wear": "45579",
+    "buff-id-field-tested": "45558",
+    "buff-id-well-worn": "45559",
+    "buff-id-battle-scarred": "45557"
+  },
+  {
+    "id": "skin-330013992",
+    "name": "★ Hydra Gloves | Mangrove",
+    "description": "These fingerless gloves have been decorated with metal studs and the Operation Hydra logo.",
+    "weapon": "Hydra Gloves",
+    "category": "gloves",
+    "pattern": "Mangrove",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10058",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4471",
+        "name": "Clutch Case"
+      },
+      {
+        "id": "crate-4880",
+        "name": "Revolution Case"
+      }
+    ],
+    "image": {
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibK8LxVh7PTEfitH_-O0mI-Ek__7JrXVqWNI7Ndwte7T8In7t1ixqgc0NiucedPWKmlsIwmTuT7imLm3wYjotZrPy3BrvCJw4nfankS1g01IbONnjfbMQFTMDq1JGKiGUnWBt5p1Vmz0Trdeq4LA",
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibK8LxVh7PTEfitH_-O0mI-Ek__7JrXVqWNI7Ndwte7T8In7t1ixqgc0NiucedPWKmlsIwmTuT7imLm3wYjotZrPy3BrvCJw4nfankS1g01IbONnjfbMQFTMDq1JGKiGUnWBt5p1Vmz0Trdeq4LA",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibK8LxVh7PTEfitH_-O0mI-Ek__7JrXVqWNI7Ndwte7T8In7t1ixqgc0NiucedPWKmlsIwmTuT7mlL-pzIi16pnKz3Ex7CB3tCvVlxCyhBxFaeY6hPSbS1TKAqRKG6WLBHLTsM93Vmz0Tj9xPeO5",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibK8LxVh7PTEfitH_-O0mI-Ek__7JrXVqWNI7Ndwte7T8In7t1ixqgc0NiucedPWKmlsIwmTuT7jlLq2wMui78vPwXVj6ygh4Xbay0e2iRtMbeJmh_PITFXLAvQfSvaKAHfR4513SDLqR010BKpFUQ",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibK8LxVh7PTEfitH_-O0mI-Ek__7JrXVqWNI7Ndwte7T8In7t1ixqgc0NiucedPWKmlsIwmTuT7jlLq2wMui78vPwXVj6ygh4Xbay0e2iRtMbeJmh_PITFXLAvQfSvaKAHfR4513SDLqR010BKpFUQ"
+    },
+    "buff-id-factory-new": "755860",
+    "buff-id-minimal-wear": "45512",
+    "buff-id-field-tested": "45409",
+    "buff-id-well-worn": "45560",
+    "buff-id-battle-scarred": "45507"
+  },
+  {
+    "id": "skin-330013996",
+    "name": "★ Hydra Gloves | Rattler",
+    "description": "These fingerless gloves have been decorated with metal studs and the Operation Hydra logo.",
+    "weapon": "Hydra Gloves",
+    "category": "gloves",
+    "pattern": "Rattler",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10059",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4471",
+        "name": "Clutch Case"
+      },
+      {
+        "id": "crate-4880",
+        "name": "Revolution Case"
+      }
+    ],
+    "image": {
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibK8LxVh7PTEfitH_-O0mI-Ek__7JrXVqWNI7NdwtfrP9Ifwm1-9pSw-ITiwZ-nJK1FmJUbZqwLskLvugJC07ZmbziNnunN3sHjUlkGy1R0aPLBvh6PMTl7KUadOAuDcUeracdWP",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibK8LxVh7PTEfitH_-O0mI-Ek__7JrXVqWNI7NdwtfrP9Ifwm1-9pSw-ITiwZ-nJK1FmJUbZqwLskLvugJC07ZmbziNnunN3sHjUlkGy1R0aPLBvh6PMTl7KUadOAuDcUeracdWP",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibK8LxVh7PTEfitH_-O0mI-Ek__7JrXVqWNI7NdwtfrP9Ifwm1-9pSw-ITiwZ-nIJ1JnJAXOrwS7w-jtg5G5v8jMnXs2vicr5yvVyR3lhBgab7FmhvzISQ6ZB_dJSb7CWCShWa_mmw",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibK8LxVh7PTEfitH_-O0mI-Ek__7JrXVqWNI7NdwtfrP9Ifwm1-9pSw-ITiwZ-nNJ1d4KEaB_Ae9l7jr1JW8u8ydzHBiviBx7X_Vzkbl1RoYaLY9g_zKGwmfAvBKAuDcUeTZDS_z",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibK8LxVh7PTEfitH_-O0mI-Ek__7JrXVqWNI7NdwtfrP9Ifwm1-9pSw-ITiwZ-nIJ1JnJAXOrwS7w-jtg5G5v8jMnXs2vicr5yvVyR3lhBgab7FmhvzISQ6ZB_dJSb7CWCShWa_mmw"
+    },
+    "buff-id-factory-new": "757210",
+    "buff-id-minimal-wear": "45472",
+    "buff-id-field-tested": "45410",
+    "buff-id-well-worn": "755611",
+    "buff-id-battle-scarred": "45561"
+  },
+  {
+    "id": "skin-330014000",
+    "name": "★ Hydra Gloves | Case Hardened",
+    "description": "These fingerless gloves have been decorated with metal studs and the Operation Hydra logo.",
+    "weapon": "Hydra Gloves",
+    "category": "gloves",
+    "pattern": "Case Hardened",
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": "Extraordinary",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10060",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "crate-4471",
+        "name": "Clutch Case"
+      },
+      {
+        "id": "crate-4880",
+        "name": "Revolution Case"
+      }
+    ],
+    "image": {
+      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibK8LxVh7PTEfitH_-O0mI-Ek__7JrXVqWNI7NdwterA5onKgFWmrxYyNj2ceN_CKkIgaFzUrlC6l7u51Me4v5mawHFru3Yl4XuLlxO-gUwebeM81_PNS1WbD7sJQvdicFX9Dw",
+      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibK8LxVh7PTEfitH_-O0mI-Ek__7JrXVqWNI7NdwterA5onKgFWmrxYyNj2cedPBK0Njf1uD8lK6xb2-15ftuZydmCA2vHQn7H7VzEbjiEtIZudohPTMSgiXVqRXXP7VvscHBmg",
+      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibK8LxVh7PTEfitH_-O0mI-Ek__7JrXVqWNI7NdwterA5onKgFWmrxYyNj2cfNPENE8gM1CEr1i9wu3rhMPv7cifnyNgvCRztHrYmEO30BxKaOdsgaSbSQrLArsJQve4TYGxbg",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibK8LxVh7PTEfitH_-O0mI-Ek__7JrXVqWNI7NdwterA5onKgFWmrxYyNj2ceN_CKkIgaFzUrlC6l7u51Me4v5mawHFru3Yl4XuLlxO-gUwebeM81_PNS1WbD7sJQvdicFX9Dw",
+      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibK8LxVh7PTEfitH_-O0mI-Ek__7JrXVqWNI7NdwterA5onKgFWmrxYyNj2cedPBK0Njf1uD8lK6xb2-15ftuZydmCA2vHQn7H7VzEbjiEtIZudohPTMSgiXVqRXXP7VvscHBmg"
+    },
+    "buff-id-factory-new": "757228",
+    "buff-id-minimal-wear": "45556",
+    "buff-id-field-tested": "45431",
+    "buff-id-well-worn": "45595",
+    "buff-id-battle-scarred": "45439"
+  }
+]
