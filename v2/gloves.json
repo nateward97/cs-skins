@@ -2514,7 +2514,7 @@
     ],
     "image": {
       "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL_VhmpF18Jjj-zPyo_0hVuLoxY9JSDtJoTAd1I8aF7R_FG_xry-gcK4tZzBzicwviBw5i3bnkO00EpPOuVs0OveFwv9MTjWlQ",
-      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL_VhmpF18Jjj-zPyo_0hVuLpxo7Oy3tcI_BcVJvZl_Q-lC_xrzth5Tq6JrIyiRk7CNwtivYmBXighlIPeNs0eveFwsiIuvQ6g",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL_VhmpF18Jjj-zPyo_0hVuLpxo7Oy3tLYeVdlQ7ZFqFrwLvyOrv05-8vZnJmCc3uXN3tHncnBC-00weZuZvhuveFwuN-T8pyg",
       "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL_VhmpF18Jjj-zPyo_0hVuLphY4OiyuOtCXIVA8NwnU-FK-lerohJ_uv5jKzHI2vCYh4XjYnEO0hxFJPeVu0aGACQLJM8r5dnw",
       "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL_VhmpF18Jjj-zPyo_0hVuLpxo7Oy3tLYeVdlQ7ZFqFrwLvyOrv05-8vZnJmCc3uXN3tHncnBC-00weZuZvhuveFwuN-T8pyg",
       "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL_VhmpF18Jjj-zPyo_0hVuLphY4OiyuOtCXIVA8NwnU-FK-lerohJ_uv5jKzHI2vCYh4XjYnEO0hxFJPeVu0aGACQLJM8r5dnw"
@@ -2556,10 +2556,11 @@
       }
     ],
     "image": {
+      "Factory New": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLDYm2Rf5_p1g-jM-oLxm2umrhcDPjynfcPIbAM9ZVvZ_1i_x7vtgMW8vZXKzXVh6SQr5CvfyxCwhRgZbuZm0PHLTw6AR_sebbIuqqc",
       "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLDYm2Rf5_p1g-jM-oLxm2umrhcDOzyiYs-LcwU2ZwnVrADsxu7ujMLtuJvBz3Q37CUj4CnUnxWw0BkebuBqh_SXQELeWfISGorr5Q",
-      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLDYm2Rf5_p1g-jM-oLxm2umrhcDPzCkfMKLewY8NVDZ_le8x7ztjJbqusvJmCdgsiYlsH3cmR2zhB1NZ-JogvGXQULeWfLIJRig1Q",
-      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLDYm2Rf5_p1g-jM-oLxm2umrhcDPjynfcPIbFI7MlnWr1m9wLu-08LouZjJyyFq7iUksCrUyhLl1BAfb-JvhvecGliAR_sesfEBVy4",
-      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLDYm2Rf5_p1g-jM-oLxm2umrhcDPjynfcPIbFI7MlnWr1m9wLu-08LouZjJyyFq7iUksCrUyhLl1BAfb-JvhvecGliAR_sesfEBVy4"
+      "Minimal Wear": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLDYm2Rf5_p1g-jM-oLxm2umrhcDPjynfcPIbAM9ZVvZ_1i_x7vtgMW8vZXKzXVh6SQr5CvfyxCwhRgZbuZm0PHLTw6AR_sebbIuqqc",
+      "Well-Worn": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLDYm2Rf5_p1g-jM-oLxm2umrhcDPjynfcPIbAM9ZVvZ_1i_x7vtgMW8vZXKzXVh6SQr5CvfyxCwhRgZbuZm0PHLTw6AR_sebbIuqqc",
+      "Field-Tested": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLDYm2Rf5_p1g-jM-oLxm2umrhcDPjynfcPIbAM9ZVvZ_1i_x7vtgMW8vZXKzXVh6SQr5CvfyxCwhRgZbuZm0PHLTw6AR_sebbIuqqc"
     },
     "buff-id-factory-new": "761204",
     "buff-id-minimal-wear": "43234",
@@ -2599,8 +2600,8 @@
     ],
     "image": {
       "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL7ck3lQ5MFOnezDyoHwjF2hpl1tNj2mLI6TdlQ9MlDW81TvlebtgsO1u5ybmHtr6SJw5S3elxDkhxkacKUx0o6rC_kX",
-      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL7ck3lQ5MFOnezDyoD8j1yg5UM9MGyldoDAd1BvN1jR8le-k7_rh8K8757KznpgvCl253_byxPjgR5SLrs4VQDGB6c",
-      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL7ck3lQ5MFOnezDyoD8j1yg5UM9MGyldoDAd1BvN1jR8le-k7_rh8K8757KznpgvCl253_byxPjgR5SLrs4VQDGB6c",
+      "Minimal Wear": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL7ck3lQ5MFOnezDyoD8j1yg5RFrZmilcoORcFQ9Ml6Br1W9wLq7hpW6vZ6YynoyvyInti6IyRzmiUtSLrs4n1yTH6M",
+      "Factory New": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL7ck3lQ5MFOnezDyoD8j1yg5RFrZmilcoORcFQ9Ml6Br1W9wLq7hpW6vZ6YynoyvyInti6IyRzmiUtSLrs4n1yTH6M",
       "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL7ck3lQ5MFOnezDyoTwiUKt5Uc9a2-mIo6dcAA6YgyErFXswOe6hsfovZrBnXJr63Eq7CzVlhHkhU1SLrs4qlOuaG4",
       "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL7ck3lQ5MFOnezDyoHwjF2hpl1tNj2mLI6TdlQ9MlDW81TvlebtgsO1u5ybmHtr6SJw5S3elxDkhxkacKUx0o6rC_kX"
     },
@@ -2644,7 +2645,7 @@
       "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLTDl2VW7fpmguDV8LP5gVO8v105Z2_6IoCcJlI3aVvW-gPqyOrrgJO9tMvIwXZl7yN043iMmRWxhhBJcKUx0vXdckXS",
       "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLTDl2VW7fpmguDV8LP4jVC9vh5yMmD7JdSUelM3aFrQ_gPoyLjo18C86snPwHpjunYh4i7cnBe1gBhIbfsv26L3pHCcqw",
       "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLTDl2VW7fpmguDV8LP9jVWisl1tN27yd9KVdAE8aF3T-FHol-zngZO97pXImCcxvHMr7X3Ymh3jh0pEcKUx0laoxWvN",
-      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLTDl2VW7fpmguDV8LP5gVO8v11rNjyhJITBegJsYliF-VC8l-3t0ZO67cmdySYwvCIk5irYyRW1hktOcKUx0vHv-479",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLTDl2VW7fpmguDV8LP5gVO8v105Z2_6IoCcJlI3aVvW-gPqyOrrgJO9tMvIwXZl7yN043iMmRWxhhBJcKUx0vXdckXS",
       "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLTDl2VW7fpmguDV8LP4jVC9vh5yMmD7JdSUelM3aFrQ_gPoyLjo18C86snPwHpjunYh4i7cnBe1gBhIbfsv26L3pHCcqw"
     },
     "buff-id-factory-new": "44945",
@@ -2773,6 +2774,7 @@
       "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3Qkm5u4MBwnPCPpd7ziwXlrUtla2qmJtOSdwQ-Y13V_li8lb25gJW67smaySExvCAq42GdwULjRibN9Q",
       "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3Qkm5u5cB1g_zMu9qh2wzn_0M4NmHwIISVdQQ9YlqD_1Ttlezv0Z_tu5ScziNm7CQk4yzD30vgvj_ETD0",
       "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3Qkm5u5cB1g_zMu9qh2wzn_0M4NmHwIISVdQQ9YlqD_1Ttlezv0Z_tu5ScziNm7CQk4yzD30vgvj_ETD0",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3Qkm5u5Mx2gv2PpdWi3QGy-BY-YW6gcI6Vc1c5Z17RqADtxe7p0Z7qtJnLnHsxuCIk52GdwUIAanvipQ",
       "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3Qkm5u5Mx2gv2PpdWi3QGy-BY-YW6gcI6Vc1c5Z17RqADtxe7p0Z7qtJnLnHsxuCIk52GdwUIAanvipQ"
     },
     "buff-id-factory-new": "758271",
@@ -2861,6 +2863,7 @@
     "image": {
       "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLbQhGld7fp3i-3EyoHwjF2hpl1tZzjzdo7HIFI9Nw7Z-QXqk73qgZDp6p7NyyBns3Em5izZnhO0gx5IcKUx0nmsCXwg",
       "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLbQhGld7fp3i-3EyoD8j1yg5UdtYG6nd9eTelM4ZF-C-1HtkOq-0Za7tJ3NyHQ17Cgm5njbnRbh0k1SLrs4Ao8F8Po",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLbQhGld7fp3i-3EyoD8j1yg5UdtYG6nd9eTelM4ZF-C-1HtkOq-0Za7tJ3NyHQ17Cgm5njbnRbh0k1SLrs4Ao8F8Po",
       "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLbQhGld7fp3i-3EyoHwjF2hpl1tZzjzdo7HIFI9Nw7Z-QXqk73qgZDp6p7NyyBns3Em5izZnhO0gx5IcKUx0nmsCXwg",
       "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLbQhGld7fp3i-3EyoTwiUKt5RE9MWn7LNLHJgZtYAmE_1DqwOe6hcK6uZ3OzSNh7yIh4nvVzhS2iBBSLrs4kRARkzk"
     },
@@ -2905,7 +2908,7 @@
       }
     ],
     "image": {
-      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDKnYlWBC6dJOiejM-rP5gVO8vywwMiukcZidcVU2NQnUrAK5yLroh5XqupTKmiNm6Slz4HrclxGwghpNOuNu06eaVxzAULicmv7r",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDKnYlWBC6dJOiejM-rP5gVO8v104Nz_wcteVIw49NAzW-lC5lOjqjZW1u56bmHFmuSFz5CzVnhO-gx9EcKUx0hHPeUMq",
       "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDKnYlWBC6dJOiejM-rP4jVC9vh5yNmz7d9WVcgA-aVzW_lC4ybi7g8W5uczNnXFj6XMjsH_ZnUSw1U4YbPsv26KwPeDdkA",
       "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDKnYlWBC6dJOiejM-rP4jVC9vh5yNmz7d9WVcgA-aVzW_lC4ybi7g8W5uczNnXFj6XMjsH_ZnUSw1U4YbPsv26KwPeDdkA",
       "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDKnYlWBC6dJOiejM-rP5gVO8v104Nz_wcteVIw49NAzW-lC5lOjqjZW1u56bmHFmuSFz5CzVnhO-gx9EcKUx0hHPeUMq",
@@ -2953,6 +2956,7 @@
     ],
     "image": {
       "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDK_YkW5D18pji-fG8LP5gVO8v109YDj0dtTHdgE7YA6C_lDrwbzuhMe-6p2dzntgvXEq7X7fmBfh0xtIcKUx0i9vOEt-",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDK_YkW5D18pji-fG8LP5gVO8v109YDj0dtTHdgE7YA6C_lDrwbzuhMe-6p2dzntgvXEq7X7fmBfh0xtIcKUx0i9vOEt-",
       "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDK_YkW5D18pji-fG8LP9jVWisl0-YTr7LNXEIQY-Y1_U_1W6k-m-gcC56JTIzXNg7iN27HeOl0Oy0hEdcKUx0vo0maRq",
       "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDK_YkW5D18pji-fG8LP4jVC9vh5yN2ild4XAJwRraAyF8wLrx-buhMDt7pvLynI16SN25HuPzhewhxhFbfsv26KGW3ZMYA",
       "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDK_YkW5D18pji-fG8LP4jVC9vh5yN2ild4XAJwRraAyF8wLrx-buhMDt7pvLynI16SN25HuPzhewhxhFbfsv26KGW3ZMYA"
@@ -2999,6 +3003,7 @@
     ],
     "image": {
       "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3Tn1Rc7cF4n-SP8d-iilDjrktpMmz7ctSUcFBoZF2G_1i-xLruh5a57c7NnHRk6yMk4mGdwUJn2RpAfg",
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3Tn1Rd4cJ5nqeWptvzigy2_UtsNWHxdofBcAc5YFnR_Va8kuzmgsW5v5nOmnRmvXUj-z-DyIr_c1iF",
       "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3Tn1Rd4cJ5nqeWptvzigy2_UtsNWHxdofBcAc5YFnR_Va8kuzmgsW5v5nOmnRmvXUj-z-DyIr_c1iF",
       "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3Tn1RZ7cRnk6fHp9nx3FfmrhJsMT_wJYKTIQc8YVmF8lDsyeq6gZ617p7KnSZl6ylw-z-DyKgAQzcU",
       "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3Tn1Rc7cF4n-SP8d-iilDjrktpMmz7ctSUcFBoZF2G_1i-xLruh5a57c7NnHRk6yMk4mGdwUJn2RpAfg"
