@@ -433,11 +433,11 @@
       }
     ],
     "image": {
-      "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO7nYyCg_bmKoTck29Y_cg_0r2V9on3jg2xr0NvNWv6d4_HcgU4MwzYrlO2lL3o1JC6upvAnXZkuD5iuyixmiSWUA",
-      "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO7nYyCg_bmKoTck29Y_cg_0r2V9on3jg2xr0NvNWv6d4_HcgU4MwzYrlO2lL3o1JC6upvAnXZkuD5iuyixmiSWUA",
-      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO7nYyCg_bmKoTdn2xZ_Isl27_AoNukjFG2-kpkY2r2cYCccVVvZlyEr1C5w7-7h5Tt6JzBwXJqpGB8su67HUiO",
-      "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO7nYyCg_bmKoTdn2xZ_Isl27_AoNukjFG2-kpkY2r2cYCccVVvZlyEr1C5w7-7h5Tt6JzBwXJqpGB8su67HUiO",
-      "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO7nYyCg_bmKoTZk2pH8Ysm2byUpoqg2QCw_RA5a2v6cY6SIQI9Mg2Dr1Ltxum7gsW_vsnInXtkpGB8ssgjmN9E"
+      "Field-Tested": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO7nYyCg_bmKoTck29Y_cg_0r2V9on3jg2xr0NvNWv6d4_HcgU4MwzYrlO2lL3o1JC6upvAnXZkuD5iuyixmiSWUA",
+      "Well-Worn": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO7nYyCg_bmKoTck29Y_cg_0r2V9on3jg2xr0NvNWv6d4_HcgU4MwzYrlO2lL3o1JC6upvAnXZkuD5iuyixmiSWUA",
+      "Factory New": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO7nYyCg_bmKoTdn2xZ_It3jL3Co4qm3QXk-ENsa2ygJ9CXdFU2YAqFqVa9kL-5hp_u6ZvAzyFrpGB8smefshPw",
+      "Minimal Wear": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO7nYyCg_bmKoTdn2xZ_It3jL3Co4qm3QXk-ENsa2ygJ9CXdFU2YAqFqVa9kL-5hp_u6ZvAzyFrpGB8smefshPw",
+      "Battle-Scarred": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO7nYyCg_bmKoTZk2pH8Ysm2byUpoqg2QCw_RA5a2v6cY6SIQI9Mg2Dr1Ltxum7gsW_vsnInXtkpGB8ssgjmN9E"
     },
     "buff-id-factory-new": "43250",
     "buff-id-minimal-wear": "43252",
