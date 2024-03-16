@@ -2018,6 +2018,14 @@
     "type": "Pass",
     "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fV-Oh6N_aUFZxKDsF5uj0FBdhwOD3cjVD_tuz2oTdkvasYe-JxjoFscF1iOzAp9iiiwDi-kQ5Zmj0IdSTegI_Zl-FrwWggbC46FMipE8/96fx96f?allow_animated=1"
   },
+  "collectible-4917": {
+    "id": "collectible-4917",
+    "name": "Copenhagen 2024 Coin",
+    "description": "This is a commemorative PGL Copenhagen 2024 CS2 Major Championship Coin which tracks your progress throughout the event, provides full access to the Copenhagen 2024 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Copenhagen 2024 Coin by completing coin challenges. Earn a Souvenir Token every time you upgrade your coin.",
+    "rarity": null,
+    "type": "Pick'Em Coin",
+    "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fV-Oh6N_aUFZxKDsF5ujxFAVy3P3SdHMT6oS0l9LZxqGsZOyExj8BuJMmju2Vpd_0jVCxqRE5YDz7JoHGIwA_fxiOrZKhEH42/256fx256f?allow_animated=1"
+  },
   "collectible-4819": {
     "id": "collectible-4819",
     "name": "2022 Service Medal",
@@ -3124,3 +3132,8 @@
     "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_spray_std2.png"
   }
 }
+
+
+
+
+
