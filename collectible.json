@@ -3130,6 +3130,11 @@
     "id": "collection-4621",
     "name": "CS:GO Graffiti #2 Collection",
     "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_spray_std2.png"
+  },
+  "collection-Bonus-Rank": {
+    "id": "collection-bonus-rank",
+    "name": "Bonus Rank",
+    "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fX_Sqxc7dRxMidAEB57-hKVVjhaGZJm9G6YyzwNnaxvGjMr2CkztX65xw0rHHpY6gxkS6rFhz2l4P/256fx256f?allow_animated=1"
   }
 }
 
