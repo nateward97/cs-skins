@@ -2026,6 +2026,15 @@
     "type": "Pick'Em Coin",
     "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fV-Oh6N_aUFZxKDsF5ujxFAVy3P3SdHMT6oS0l9LZxqGsZOyExj8BuJMmju2Vpd_0jVCxqRE5YDz7JoHGIwA_fxiOrZKhEH42/256fx256f?allow_animated=1"
   },
+  "collectible-4916": {
+    "id": "collectible-4916",
+    "name": "Katowice 2019 Viewer Pass",
+    "description": "This is a sealed PGL Copenhagen 2024 CS2 Major Championship viewer pass. Once this pass is unsealed, it will provide you with the Copenhagen 2024 Coin tracking your progress throughout the event, full access to the Copenhagen 2024 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and with unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Copenhagen 2024 Coin by completing coin challenges. Earn a Souvenir Token every time you upgrade your coin.\\n\\n50% of the proceeds from the sale of this pass support the participating organizations.",
+    "rarity": null,
+    "type": "Pass",
+    "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fV-Oh6N_aUFZxKDsF5ujxFBdhwOCGdW4TvIvnxNPbxfbyNriDkmgC7JAh2bCUpdWl2VXl_ktqYWrwINSQchh-Pw89izsOCQ",
+    "buff-id": "null"
+  },
   "collectible-4819": {
     "id": "collectible-4819",
     "name": "2022 Service Medal",
