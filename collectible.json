@@ -2020,11 +2020,19 @@
   },
   "collectible-4917": {
     "id": "collectible-4917",
-    "name": "Copenhagen 2024 Coin",
+    "name": "Copenhagen 2024 Bronze Coin",
     "description": "This is a commemorative PGL Copenhagen 2024 CS2 Major Championship Coin which tracks your progress throughout the event, provides full access to the Copenhagen 2024 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Copenhagen 2024 Coin by completing coin challenges. Earn a Souvenir Token every time you upgrade your coin.",
     "rarity": null,
     "type": "Pick'Em Coin",
     "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fV-Oh6N_aUFZxKDsF5ujxFAVy3P3SdHMT6oS0l9LZxqGsZOyExj8BuJMmju2Vpd_0jVCxqRE5YDz7JoHGIwA_fxiOrZKhEH42/256fx256f?allow_animated=1"
+  },
+  "collectible-4918": {
+    "id": "collectible-4918",
+    "name": "Copenhagen 2024 Silver Coin",
+    "description": "This is a commemorative PGL Copenhagen 2024 CS2 Major Championship Coin which tracks your progress throughout the event, provides full access to the Copenhagen 2024 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Copenhagen 2024 Coin by completing coin challenges. Earn a Souvenir Token every time you upgrade your coin.",
+    "rarity": null,
+    "type": "Pick'Em Coin",
+    "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fV-Oh6N_aUFZxKDsF5ujxFBRp3-XNY3MRtdmyxdeKzq_2Z72Ixm4E65IgibCYrY6hjQ3lrUdqMmCmJ9SXI1A4fxiOrYimouqj/256fx256f?allow_animated=1"
   },
   "collectible-4916": {
     "id": "collectible-4916",
