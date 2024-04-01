@@ -2042,6 +2042,14 @@
     "type": "Pick'Em Coin",
     "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fV-Oh6N_aUFZxKDsF5ujxFABv3_eGdz4Tv4nuxYbclKSkZ7qJxD5Tv5Un0-jHpNSkiw3h_BZra2_0co7Acxh-Pw9t-5DFTQ/256fx256f?allow_animated=1"
   },
+  "collectible-4920": {
+    "id": "collectible-4920",
+    "name": "Copenhagen 2024 Diamond Coin",
+    "description": "This is a commemorative PGL Copenhagen 2024 CS2 Major Championship Coin which tracks your progress throughout the event, provides full access to the Copenhagen 2024 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Copenhagen 2024 Coin by completing coin challenges. Earn a Souvenir Token every time you upgrade your coin.",
+    "rarity": null,
+    "type": "Pick'Em Coin",
+    "image": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fV-Oh6N_aUFZxKDsF5ujxFARyyuDccDEMuY7gxYOIk6Hya-OCl20H65Ulj76Spt2j2FXj-hE5ZG6iIoaQclI8Y0aQpAZPclxKTA/256fx256f?allow_animated=1"
+  },
   "collectible-4916": {
     "id": "collectible-4916",
     "name": "Katowice 2019 Viewer Pass",
