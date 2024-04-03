@@ -26,7 +26,7 @@ function writeToFile(data) {
 }
 
 // Schedule the fetch operation every 30 minutes
-cron.schedule('*/30 * * * *', async () => {
+cron.schedule('*/1 * * * *', async () => {
     console.log('Fetching data...');
     const data = await fetchData();
     if (data) {
