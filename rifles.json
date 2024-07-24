@@ -15528,7 +15528,7 @@
     "name": "G3SG1 | Vanilla",
     "description": "The pricy G3SG1 lowers movement speed considerably but compensates with a higher rate of fire than other sniper rifles.",
     "weapon": null,
-    "category": "sniper",
+    "category": "rifle",
     "pattern": "Vanilla",
     "min_float": null,
     "max_float": null,
