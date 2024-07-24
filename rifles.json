@@ -15357,5 +15357,23 @@
     "stattrak-id-well-worn": "",
     "stattrak-id-battle-scarred": "",
     "collection": "Kilowatt Case"
+  },
+  {
+    "id": "skin-463436",
+    "name": "AK-47 | Vanilla",
+    "description": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. This custom paint job takes inspiration from traditional Chinese porcelain and Delft Blauw art. A family heirloom, passed through generations",
+    "weapon": "AK-47",
+    "category": "rifle",
+    "pattern": "Inheritance",
+    "min_float": 0.00,
+    "max_float": 0.80,
+    "rarity": "null",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1171",
+    "wears": [
+      "Factory New"
+    ],
+    "image": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhh2MzYfi9B6dC3nY60m_7zO6-fzjwHvJEn2OqWotmi3gXt_BVtYD-ncIWcIA85YV-ErwK-ley-18e06oOJlyU3nvbOMA/360fx360f"
   }
 ]
