@@ -2688,7 +2688,7 @@
     "rarity": "Remarkable",
     "genuine": true,
     "type": "Pin",
-    "image": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fROuh28rQR1R2KQFoprOrFBdo3PbGeCUMv4rmkIbbx66lZu_Xl2gFsZUm076Yotj30QXg-0VpN2DzJdCTc1Q6NEaQpAaybAU_Zg/256fx256f?allow_animated=1",
+    "image": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fROuh28rQR1R2KQFoprOrFAJhwOr3YThD_8X4xYOPxPPwYe6HxzkH6Zwm2bmSo9TwiQbk_EZoY2uhINTBIwU4YFuE-E_-n7n_OKYk_w/256x256?allow_animated=1",
     "buff-id": "755693"
   },
   "collectible-6030": {
@@ -3168,6 +3168,16 @@
     "id": "collection-bonus-rank",
     "name": "Bonus Rank",
     "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fX_Sqxc7dRxMidAEB57-hKVVjhaGZJm9G6YyzwNnaxvGjMr2CkztX65xw0rHHpY6gxkS6rFhz2l4P/256fx256f?allow_animated=1"
+  },
+  "collection-Name-Tag": {
+    "id": "collection-name-tag",
+    "name": "Name Tag",
+    "image": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXX7gNTPcUmqBwTFB7TErb9j87WV1tyfFIC7unyfF5mgfedIDtGuo_nlYXbwfb1MeiAkCVB5sLf-uZXbw/256fx256f?allow_animated=1"
+  },
+  "collection-C4-Explosive": {
+    "id": "collection-c4-explosive",
+    "name": "C4 Explosive",
+    "image": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaKFMug6HJdz8avd6yxdmKw6P3NeOJwWlS7cMg27zE8dqljADl-URlNjjxcJjVLFHucPoZCA/256fx256f?allow_animated=1"
   }
 }
 
