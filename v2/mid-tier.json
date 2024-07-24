@@ -20467,5 +20467,269 @@
     "stattrak-id-well-worn": "",
     "stattrak-id-battle-scarred": "",
     "collection": ""
+  },
+  {
+    "id": "skin-vanilla-negev",
+    "name": "Negev | Vanilla",
+    "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it.",
+    "weapon": "Negev",
+    "category": "mid-tier",
+    "pattern": "Olympus",
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": "",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1170",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "",
+        "name": ""
+      }
+    ],
+    "image": {
+      "Factory New": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJQJn1uWGKGpEtI3iwYHYwqWiZO2IxWoFsMBwi7nEotT3jlew80toYGCmJNPDIRh-Pw-_Bc7DZg/360x360?allow_animated=1",
+      "Battle-Scarred": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJQJn1uWGKGpEtI3iwYHYwqWiZO2IxWoFsMBwi7nEotT3jlew80toYGCmJNPDIRh-Pw-_Bc7DZg/360x360?allow_animated=1",
+      "Field-Tested": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJQJn1uWGKGpEtI3iwYHYwqWiZO2IxWoFsMBwi7nEotT3jlew80toYGCmJNPDIRh-Pw-_Bc7DZg/360x360?allow_animated=1",
+      "Well-Worn": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJQJn1uWGKGpEtI3iwYHYwqWiZO2IxWoFsMBwi7nEotT3jlew80toYGCmJNPDIRh-Pw-_Bc7DZg/360x360?allow_animated=1",
+      "Minimal Wear": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJQJn1uWGKGpEtI3iwYHYwqWiZO2IxWoFsMBwi7nEotT3jlew80toYGCmJNPDIRh-Pw-_Bc7DZg/360x360?allow_animated=1"
+    },
+    "buff-id-minimal-wear": "",
+    "buff-id-field-tested": "",
+    "buff-id-well-worn": "",
+    "buff-id-battle-scarred": "",
+    "stattrak-id-factory-new": "",
+    "stattrak-id-minimal-wear": "",
+    "stattrak-id-field-tested": "",
+    "stattrak-id-well-worn": "",
+    "stattrak-id-battle-scarred": "",
+    "collection": ""
+  },
+  {
+    "id": "skin-vanilla-m249",
+    "name": "M249 | Vanilla",
+    "description": "A strong open-area LMG, the M249 is the perfect choice for players willing to trade a slow fire rate for increased accuracy and a high ammo capacity.",
+    "weapon": "M249",
+    "category": "mid-tier",
+    "pattern": "Olympus",
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": "",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1170",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "",
+        "name": ""
+      }
+    ],
+    "image": {
+      "Factory New": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJlU0ir2cdDgRvt63xNeOxaOlZe_QxDME7scg3bDH8dut2VDh80o4azqmdoCXbEZgNs4-DXC0/360x360?allow_animated=1",
+      "Battle-Scarred": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJlU0ir2cdDgRvt63xNeOxaOlZe_QxDME7scg3bDH8dut2VDh80o4azqmdoCXbEZgNs4-DXC0/360x360?allow_animated=1",
+      "Field-Tested": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJlU0ir2cdDgRvt63xNeOxaOlZe_QxDME7scg3bDH8dut2VDh80o4azqmdoCXbEZgNs4-DXC0/360x360?allow_animated=1",
+      "Well-Worn": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJlU0ir2cdDgRvt63xNeOxaOlZe_QxDME7scg3bDH8dut2VDh80o4azqmdoCXbEZgNs4-DXC0/360x360?allow_animated=1",
+      "Minimal Wear": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJlU0ir2cdDgRvt63xNeOxaOlZe_QxDME7scg3bDH8dut2VDh80o4azqmdoCXbEZgNs4-DXC0/360x360?allow_animated=1"
+    },
+    "buff-id-minimal-wear": "",
+    "buff-id-field-tested": "",
+    "buff-id-well-worn": "",
+    "buff-id-battle-scarred": "",
+    "stattrak-id-factory-new": "",
+    "stattrak-id-minimal-wear": "",
+    "stattrak-id-field-tested": "",
+    "stattrak-id-well-worn": "",
+    "stattrak-id-battle-scarred": "",
+    "collection": ""
+  },
+  {
+    "id": "skin-vanilla-nova",
+    "name": "Nova | Vanilla",
+    "description": "The Nova's rock-bottom price tag makes it a great ambush weapon for a cash-strapped team.",
+    "weapon": "Nova",
+    "category": "mid-tier",
+    "pattern": "Olympus",
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": "",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1170",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "",
+        "name": ""
+      }
+    ],
+    "image": {
+      "Factory New": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJQh20r2RJmwVuYuwwtTfla6tZL-Azm0DvsEh3LGXrNSs2QXj8xZqZDv7JYSUbEZgNl8AQVhi/360x360?allow_animated=1",
+      "Battle-Scarred": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJQh20r2RJmwVuYuwwtTfla6tZL-Azm0DvsEh3LGXrNSs2QXj8xZqZDv7JYSUbEZgNl8AQVhi/360x360?allow_animated=1",
+      "Field-Tested": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJQh20r2RJmwVuYuwwtTfla6tZL-Azm0DvsEh3LGXrNSs2QXj8xZqZDv7JYSUbEZgNl8AQVhi/360x360?allow_animated=1",
+      "Well-Worn": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJQh20r2RJmwVuYuwwtTfla6tZL-Azm0DvsEh3LGXrNSs2QXj8xZqZDv7JYSUbEZgNl8AQVhi/360x360?allow_animated=1",
+      "Minimal Wear": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJQh20r2RJmwVuYuwwtTfla6tZL-Azm0DvsEh3LGXrNSs2QXj8xZqZDv7JYSUbEZgNl8AQVhi/360x360?allow_animated=1"
+    },
+    "buff-id-minimal-wear": "",
+    "buff-id-field-tested": "",
+    "buff-id-well-worn": "",
+    "buff-id-battle-scarred": "",
+    "stattrak-id-factory-new": "",
+    "stattrak-id-minimal-wear": "",
+    "stattrak-id-field-tested": "",
+    "stattrak-id-well-worn": "",
+    "stattrak-id-battle-scarred": "",
+    "collection": ""
+  },
+  {
+    "id": "skin-vanilla-sawed-off",
+    "name": "Sawed-Off | Vanilla",
+    "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit.",
+    "weapon": "Sawed-Off",
+    "category": "mid-tier",
+    "pattern": "Olympus",
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": "",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1170",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "",
+        "name": ""
+      }
+    ],
+    "image": {
+      "Factory New": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaOAZ31vfHdzsMvtrnx4XalaX3Nb2Dz2pVvMEl37CT8d_wiVKy8xI9Y2CmJdfGJw9sM0aQpAYwAwnkUA/360x360?allow_animated=1",
+      "Battle-Scarred": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaOAZ31vfHdzsMvtrnx4XalaX3Nb2Dz2pVvMEl37CT8d_wiVKy8xI9Y2CmJdfGJw9sM0aQpAYwAwnkUA/360x360?allow_animated=1",
+      "Field-Tested": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaOAZ31vfHdzsMvtrnx4XalaX3Nb2Dz2pVvMEl37CT8d_wiVKy8xI9Y2CmJdfGJw9sM0aQpAYwAwnkUA/360x360?allow_animated=1",
+      "Well-Worn": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaOAZ31vfHdzsMvtrnx4XalaX3Nb2Dz2pVvMEl37CT8d_wiVKy8xI9Y2CmJdfGJw9sM0aQpAYwAwnkUA/360x360?allow_animated=1",
+      "Minimal Wear": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaOAZ31vfHdzsMvtrnx4XalaX3Nb2Dz2pVvMEl37CT8d_wiVKy8xI9Y2CmJdfGJw9sM0aQpAYwAwnkUA/360x360?allow_animated=1"
+    },
+    "buff-id-minimal-wear": "",
+    "buff-id-field-tested": "",
+    "buff-id-well-worn": "",
+    "buff-id-battle-scarred": "",
+    "stattrak-id-factory-new": "",
+    "stattrak-id-minimal-wear": "",
+    "stattrak-id-field-tested": "",
+    "stattrak-id-well-worn": "",
+    "stattrak-id-battle-scarred": "",
+    "collection": ""
+  },
+  {
+    "id": "skin-vanilla-xm1014",
+    "name": "XM1014 | Vanilla",
+    "description": "The XM1014 is a powerful fully automatic shotgun that justifies its heftier price tag with the ability to paint a room with lead fast.",
+    "weapon": "XM1014",
+    "category": "mid-tier",
+    "pattern": "Olympus",
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": "",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1170",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "",
+        "name": ""
+      }
+    ],
+    "image": {
+      "Factory New": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaMwoxg6KcPzwb6YWyldaNk6aga7iDlTwFv5Rz0r3Aoo-n2wy1_kc_MG_3d4OSJAUgIQaHxwrCZqg/360x360?allow_animated=1",
+      "Battle-Scarred": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaMwoxg6KcPzwb6YWyldaNk6aga7iDlTwFv5Rz0r3Aoo-n2wy1_kc_MG_3d4OSJAUgIQaHxwrCZqg/360x360?allow_animated=1",
+      "Field-Tested": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaMwoxg6KcPzwb6YWyldaNk6aga7iDlTwFv5Rz0r3Aoo-n2wy1_kc_MG_3d4OSJAUgIQaHxwrCZqg/360x360?allow_animated=1",
+      "Well-Worn": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaMwoxg6KcPzwb6YWyldaNk6aga7iDlTwFv5Rz0r3Aoo-n2wy1_kc_MG_3d4OSJAUgIQaHxwrCZqg/360x360?allow_animated=1",
+      "Minimal Wear": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaMwoxg6KcPzwb6YWyldaNk6aga7iDlTwFv5Rz0r3Aoo-n2wy1_kc_MG_3d4OSJAUgIQaHxwrCZqg/360x360?allow_animated=1"
+    },
+    "buff-id-minimal-wear": "",
+    "buff-id-field-tested": "",
+    "buff-id-well-worn": "",
+    "buff-id-battle-scarred": "",
+    "stattrak-id-factory-new": "",
+    "stattrak-id-minimal-wear": "",
+    "stattrak-id-field-tested": "",
+    "stattrak-id-well-worn": "",
+    "stattrak-id-battle-scarred": "",
+    "collection": ""
+  },
+  {
+    "id": "skin-vanilla-mag-7",
+    "name": "MAG-7 | Vanilla",
+    "description": "The CT-exclusive Mag-7 delivers a devastating amount of damage at close range. Its rapid magazine-style reloads make it a great tactical choice.",
+    "weapon": "MAG-7",
+    "category": "mid-tier",
+    "pattern": "Olympus",
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": "",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1170",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "",
+        "name": ""
+      }
+    ],
+    "image": {
+      "Factory New": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJgZnhL2RKGUb6YXvxtOOx6_wZ76JwTgCuMck3u-Sp93zigO1r0dkYj_xLNKXbEZgNqomRB_U/360x360?allow_animated=1",
+      "Battle-Scarred": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJgZnhL2RKGUb6YXvxtOOx6_wZ76JwTgCuMck3u-Sp93zigO1r0dkYj_xLNKXbEZgNqomRB_U/360x360?allow_animated=1",
+      "Field-Tested": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJgZnhL2RKGUb6YXvxtOOx6_wZ76JwTgCuMck3u-Sp93zigO1r0dkYj_xLNKXbEZgNqomRB_U/360x360?allow_animated=1",
+      "Well-Worn": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJgZnhL2RKGUb6YXvxtOOx6_wZ76JwTgCuMck3u-Sp93zigO1r0dkYj_xLNKXbEZgNqomRB_U/360x360?allow_animated=1",
+      "Minimal Wear": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJgZnhL2RKGUb6YXvxtOOx6_wZ76JwTgCuMck3u-Sp93zigO1r0dkYj_xLNKXbEZgNqomRB_U/360x360?allow_animated=1"
+    },
+    "buff-id-minimal-wear": "",
+    "buff-id-field-tested": "",
+    "buff-id-well-worn": "",
+    "buff-id-battle-scarred": "",
+    "stattrak-id-factory-new": "",
+    "stattrak-id-minimal-wear": "",
+    "stattrak-id-field-tested": "",
+    "stattrak-id-well-worn": "",
+    "stattrak-id-battle-scarred": "",
+    "collection": ""
   }
 ]
