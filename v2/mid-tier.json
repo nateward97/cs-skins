@@ -20159,5 +20159,313 @@
     "stattrak-id-well-worn": "",
     "stattrak-id-battle-scarred": "",
     "collection": "Kilowatt Case"
+  },
+  {
+    "id": "skin-vanilla-mp5-sd",
+    "name": "MP5-SD | Vanilla",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet.",
+    "weapon": "MP5-SD",
+    "category": "mid-tier",
+    "pattern": "Olympus",
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": "",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1170",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "",
+        "name": ""
+      }
+    ],
+    "image": {
+      "Factory New": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJhc1wPeGJjgRuIngltHbwvOtMePUxjsH7pYliLvE9N7w2wLg_ktlZGuhIoCQcBh-Pw--mP_BjA/360x3602?allow_animated=1",
+      "Battle-Scarred": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJhc1wPeGJjgRuIngltHbwvOtMePUxjsH7pYliLvE9N7w2wLg_ktlZGuhIoCQcBh-Pw--mP_BjA/360x3602?allow_animated=1",
+      "Field-Tested": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJhc1wPeGJjgRuIngltHbwvOtMePUxjsH7pYliLvE9N7w2wLg_ktlZGuhIoCQcBh-Pw--mP_BjA/360x3602?allow_animated=1",
+      "Well-Worn": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJhc1wPeGJjgRuIngltHbwvOtMePUxjsH7pYliLvE9N7w2wLg_ktlZGuhIoCQcBh-Pw--mP_BjA/360x3602?allow_animated=1",
+      "Minimal Wear": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJhc1wPeGJjgRuIngltHbwvOtMePUxjsH7pYliLvE9N7w2wLg_ktlZGuhIoCQcBh-Pw--mP_BjA/360x3602?allow_animated=1"
+    },
+    "buff-id-minimal-wear": "",
+    "buff-id-field-tested": "",
+    "buff-id-well-worn": "",
+    "buff-id-battle-scarred": "",
+    "stattrak-id-factory-new": "",
+    "stattrak-id-minimal-wear": "",
+    "stattrak-id-field-tested": "",
+    "stattrak-id-well-worn": "",
+    "stattrak-id-battle-scarred": "",
+    "collection": ""
+  },
+  {
+    "id": "skin-vanilla-ump-45",
+    "name": "UMP-45 | Vanilla",
+    "description": "The misunderstood middle child of the SMG family, the UMP45's small magazine is the only drawback to an otherwise versatile close-quarters automatic.",
+    "weapon": "UMP-45",
+    "category": "mid-tier",
+    "pattern": "Olympus",
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": "",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1170",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "",
+        "name": ""
+      }
+    ],
+    "image": {
+      "Factory New": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaPgpwh6aGJWUR747mwYbfz_WjMe-AxG0E6cYk273D842s0VHt_kttYW76I9TAJhh-Pw90P0QpPg/360x360?allow_animated=1",
+      "Battle-Scarred": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaPgpwh6aGJWUR747mwYbfz_WjMe-AxG0E6cYk273D842s0VHt_kttYW76I9TAJhh-Pw90P0QpPg/360x360?allow_animated=1",
+      "Field-Tested": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaPgpwh6aGJWUR747mwYbfz_WjMe-AxG0E6cYk273D842s0VHt_kttYW76I9TAJhh-Pw90P0QpPg/360x360?allow_animated=1",
+      "Well-Worn": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaPgpwh6aGJWUR747mwYbfz_WjMe-AxG0E6cYk273D842s0VHt_kttYW76I9TAJhh-Pw90P0QpPg/360x360?allow_animated=1",
+      "Minimal Wear": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaPgpwh6aGJWUR747mwYbfz_WjMe-AxG0E6cYk273D842s0VHt_kttYW76I9TAJhh-Pw90P0QpPg/360x360?allow_animated=1"
+    },
+    "buff-id-minimal-wear": "",
+    "buff-id-field-tested": "",
+    "buff-id-well-worn": "",
+    "buff-id-battle-scarred": "",
+    "stattrak-id-factory-new": "",
+    "stattrak-id-minimal-wear": "",
+    "stattrak-id-field-tested": "",
+    "stattrak-id-well-worn": "",
+    "stattrak-id-battle-scarred": "",
+    "collection": ""
+  },
+  {
+    "id": "skin-vanilla-mac-10",
+    "name": "MAC-10 | Vanilla",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs.",
+    "weapon": "MAC-10",
+    "category": "mid-tier",
+    "pattern": "Olympus",
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": "",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1170",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "",
+        "name": ""
+      }
+    ],
+    "image": {
+      "Factory New": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJgZjgqOGdGoUuYqzzNbexqWsZ7iGlWgJsJIn3e3Cotnz3AHj-BFuam30LdSVcxh-Pw_kqXJydA/360x360?allow_animated=1",
+      "Battle-Scarred": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJgZjgqOGdGoUuYqzzNbexqWsZ7iGlWgJsJIn3e3Cotnz3AHj-BFuam30LdSVcxh-Pw_kqXJydA/360x360?allow_animated=1",
+      "Field-Tested": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJgZjgqOGdGoUuYqzzNbexqWsZ7iGlWgJsJIn3e3Cotnz3AHj-BFuam30LdSVcxh-Pw_kqXJydA/360x360?allow_animated=1",
+      "Well-Worn": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJgZjgqOGdGoUuYqzzNbexqWsZ7iGlWgJsJIn3e3Cotnz3AHj-BFuam30LdSVcxh-Pw_kqXJydA/360x360?allow_animated=1",
+      "Minimal Wear": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJgZjgqOGdGoUuYqzzNbexqWsZ7iGlWgJsJIn3e3Cotnz3AHj-BFuam30LdSVcxh-Pw_kqXJydA/360x360?allow_animated=1"
+    },
+    "buff-id-minimal-wear": "",
+    "buff-id-field-tested": "",
+    "buff-id-well-worn": "",
+    "buff-id-battle-scarred": "",
+    "stattrak-id-factory-new": "",
+    "stattrak-id-minimal-wear": "",
+    "stattrak-id-field-tested": "",
+    "stattrak-id-well-worn": "",
+    "stattrak-id-battle-scarred": "",
+    "collection": ""
+  },
+  {
+    "id": "skin-vanilla-pp-bizon",
+    "name": "PP-Bizon | Vanilla",
+    "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly.",
+    "weapon": "PP-Bizon",
+    "category": "mid-tier",
+    "pattern": "Olympus",
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": "",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1170",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "",
+        "name": ""
+      }
+    ],
+    "image": {
+      "Factory New": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaKQ563P2GIWlA6YyyxtWNkaOsNeqDxG1V6pAo2OiY9IrxiwCwqkE6Mm_2IIfDIxh-Pw8WAUi11w/360x360?allow_animated=1",
+      "Battle-Scarred": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaKQ563P2GIWlA6YyyxtWNkaOsNeqDxG1V6pAo2OiY9IrxiwCwqkE6Mm_2IIfDIxh-Pw8WAUi11w/360x360?allow_animated=1",
+      "Field-Tested": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaKQ563P2GIWlA6YyyxtWNkaOsNeqDxG1V6pAo2OiY9IrxiwCwqkE6Mm_2IIfDIxh-Pw8WAUi11w/360x360?allow_animated=1",
+      "Well-Worn": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaKQ563P2GIWlA6YyyxtWNkaOsNeqDxG1V6pAo2OiY9IrxiwCwqkE6Mm_2IIfDIxh-Pw8WAUi11w/360x360?allow_animated=1",
+      "Minimal Wear": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaKQ563P2GIWlA6YyyxtWNkaOsNeqDxG1V6pAo2OiY9IrxiwCwqkE6Mm_2IIfDIxh-Pw8WAUi11w/360x360?allow_animated=1"
+    },
+    "buff-id-minimal-wear": "",
+    "buff-id-field-tested": "",
+    "buff-id-well-worn": "",
+    "buff-id-battle-scarred": "",
+    "stattrak-id-factory-new": "",
+    "stattrak-id-minimal-wear": "",
+    "stattrak-id-field-tested": "",
+    "stattrak-id-well-worn": "",
+    "stattrak-id-battle-scarred": "",
+    "collection": ""
+  },
+  {
+    "id": "skin-vanilla-mp7",
+    "name": "MP7 | Vanilla",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat.",
+    "weapon": "MP7",
+    "category": "mid-tier",
+    "pattern": "Olympus",
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": "",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1170",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "",
+        "name": ""
+      }
+    ],
+    "image": {
+      "Factory New": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJhc3naHJd2tGtITnw9jZwqCnZ73TwG4C65Fz3biZpd7ziwPt_UM_NmzxdY-LMlhpEOF1U48/360x360?allow_animated=1",
+      "Battle-Scarred": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJhc3naHJd2tGtITnw9jZwqCnZ73TwG4C65Fz3biZpd7ziwPt_UM_NmzxdY-LMlhpEOF1U48/360x360?allow_animated=1",
+      "Field-Tested": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJhc3naHJd2tGtITnw9jZwqCnZ73TwG4C65Fz3biZpd7ziwPt_UM_NmzxdY-LMlhpEOF1U48/360x360?allow_animated=1",
+      "Well-Worn": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJhc3naHJd2tGtITnw9jZwqCnZ73TwG4C65Fz3biZpd7ziwPt_UM_NmzxdY-LMlhpEOF1U48/360x360?allow_animated=1",
+      "Minimal Wear": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJhc3naHJd2tGtITnw9jZwqCnZ73TwG4C65Fz3biZpd7ziwPt_UM_NmzxdY-LMlhpEOF1U48/360x360?allow_animated=1"
+    },
+    "buff-id-minimal-wear": "",
+    "buff-id-field-tested": "",
+    "buff-id-well-worn": "",
+    "buff-id-battle-scarred": "",
+    "stattrak-id-factory-new": "",
+    "stattrak-id-minimal-wear": "",
+    "stattrak-id-field-tested": "",
+    "stattrak-id-well-worn": "",
+    "stattrak-id-battle-scarred": "",
+    "collection": ""
+  },
+  {
+    "id": "skin-vanilla-mp9",
+    "name": "MP9 | Vanilla",
+    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms.",
+    "weapon": "MP9",
+    "category": "mid-tier",
+    "pattern": "Olympus",
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": "",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1170",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "",
+        "name": ""
+      }
+    ],
+    "image": {
+      "Factory New": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJhc5naOeIm8XvIjkzYbTw_GkZO6GxWoCu8ck3u2Wp43w3Qzj-kVpYzvzItKLMlhpEv9v2HA/360x360?allow_animated=1",
+      "Battle-Scarred": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJhc5naOeIm8XvIjkzYbTw_GkZO6GxWoCu8ck3u2Wp43w3Qzj-kVpYzvzItKLMlhpEv9v2HA/360x360?allow_animated=1",
+      "Field-Tested": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJhc5naOeIm8XvIjkzYbTw_GkZO6GxWoCu8ck3u2Wp43w3Qzj-kVpYzvzItKLMlhpEv9v2HA/360x360?allow_animated=1",
+      "Well-Worn": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJhc5naOeIm8XvIjkzYbTw_GkZO6GxWoCu8ck3u2Wp43w3Qzj-kVpYzvzItKLMlhpEv9v2HA/360x360?allow_animated=1",
+      "Minimal Wear": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJhc5naOeIm8XvIjkzYbTw_GkZO6GxWoCu8ck3u2Wp43w3Qzj-kVpYzvzItKLMlhpEv9v2HA/360x360?allow_animated=1"
+    },
+    "buff-id-minimal-wear": "",
+    "buff-id-field-tested": "",
+    "buff-id-well-worn": "",
+    "buff-id-battle-scarred": "",
+    "stattrak-id-factory-new": "",
+    "stattrak-id-minimal-wear": "",
+    "stattrak-id-field-tested": "",
+    "stattrak-id-well-worn": "",
+    "stattrak-id-battle-scarred": "",
+    "collection": ""
+  },
+  {
+    "id": "skin-vanilla-p90",
+    "name": "P90 | Vanilla",
+    "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil.",
+    "weapon": "P90",
+    "category": "mid-tier",
+    "pattern": "Olympus",
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": "",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1170",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "",
+        "name": ""
+      }
+    ],
+    "image": {
+      "Factory New": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaO14wnaHJc2gUvIrmxdbcwaekZu_VwDNXv5cl2OzC84jw3Q2y_xI9amGgIoOLMlhppa6VFUI/360x360?allow_animated=1",
+      "Battle-Scarred": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaO14wnaHJc2gUvIrmxdbcwaekZu_VwDNXv5cl2OzC84jw3Q2y_xI9amGgIoOLMlhppa6VFUI/360x360?allow_animated=1",
+      "Field-Tested": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaO14wnaHJc2gUvIrmxdbcwaekZu_VwDNXv5cl2OzC84jw3Q2y_xI9amGgIoOLMlhppa6VFUI/360x360?allow_animated=1",
+      "Well-Worn": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaO14wnaHJc2gUvIrmxdbcwaekZu_VwDNXv5cl2OzC84jw3Q2y_xI9amGgIoOLMlhppa6VFUI/360x360?allow_animated=1",
+      "Minimal Wear": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaO14wnaHJc2gUvIrmxdbcwaekZu_VwDNXv5cl2OzC84jw3Q2y_xI9amGgIoOLMlhppa6VFUI/360x360?allow_animated=1"
+    },
+    "buff-id-minimal-wear": "",
+    "buff-id-field-tested": "",
+    "buff-id-well-worn": "",
+    "buff-id-battle-scarred": "",
+    "stattrak-id-factory-new": "",
+    "stattrak-id-minimal-wear": "",
+    "stattrak-id-field-tested": "",
+    "stattrak-id-well-worn": "",
+    "stattrak-id-battle-scarred": "",
+    "collection": ""
   }
 ]
