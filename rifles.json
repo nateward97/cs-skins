@@ -15522,5 +15522,27 @@
     "souvenir": false,
     "paint_index": "null",
     "image": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaLFRz1KKGJ2oTu4Wwx9fSxq7wa-yAzjgAuJckibnEoNig3FGxqUQ_azj7cI_GdRh-Pw-5-E_bPQ/360x360?allow_animated=1"
+  },
+  {
+    "id": "skin-vanilla-weapon_knife_g3sg1",
+    "name": "G3SG1 | Vanilla",
+    "description": "The pricy G3SG1 lowers movement speed considerably but compensates with a higher rate of fire than other sniper rifles.",
+    "weapon": null,
+    "category": "sniper",
+    "pattern": "Vanilla",
+    "min_float": null,
+    "max_float": null,
+    "rarity": "Covert",
+    "stattrak": null,
+    "paint_index": null,
+    "crates": [
+      {
+        "id": null,
+        "name": null
+      }
+    ],
+    "image": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaLFRz1KKGJ2oTu4Wwx9fSxq7wa-yAzjgAuJckibnEoNig3FGxqUQ_azj7cI_GdRh-Pw-5-E_bPQ/360x360?allow_animated=1",
+    "buff-id": null,
+    "stattrak-id": null
   }
 ]
