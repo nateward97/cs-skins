@@ -16468,5 +16468,404 @@
     "stattrak-id-well-worn": "",
     "stattrak-id-battle-scarred": "",
     "collection": "Kilowatt Case"
+  },
+  {
+    "id": "skin-vanilla-usp-s",
+    "name": "USP-S | Vanilla",
+    "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise.",
+    "weapon": "USP-S",
+    "category": "pistol",
+    "pattern": "Olympus",
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": "",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1170",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "",
+        "name": ""
+      }
+    ],
+    "image": {
+      "Factory New": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaPhRw7ODBfThM79mk2taOwvalZ-rVkzJS6pUn2rjF94j23VLl-RVsY2v3JIHGI1BtN12B-ASggbC4f8PBvZw/360x360?allow_animated=1",
+      "Battle-Scarred": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaPhRw7ODBfThM79mk2taOwvalZ-rVkzJS6pUn2rjF94j23VLl-RVsY2v3JIHGI1BtN12B-ASggbC4f8PBvZw/360x360?allow_animated=1",
+      "Field-Tested": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaPhRw7ODBfThM79mk2taOwvalZ-rVkzJS6pUn2rjF94j23VLl-RVsY2v3JIHGI1BtN12B-ASggbC4f8PBvZw/360x360?allow_animated=1",
+      "Well-Worn": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaPhRw7ODBfThM79mk2taOwvalZ-rVkzJS6pUn2rjF94j23VLl-RVsY2v3JIHGI1BtN12B-ASggbC4f8PBvZw/360x360?allow_animated=1",
+      "Minimal Wear": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaPhRw7ODBfThM79mk2taOwvalZ-rVkzJS6pUn2rjF94j23VLl-RVsY2v3JIHGI1BtN12B-ASggbC4f8PBvZw/360x360?allow_animated=1"
+    },
+    "buff-id-factory-new": "",
+    "buff-id-minimal-wear": "",
+    "buff-id-field-tested": "",
+    "buff-id-well-worn": "",
+    "buff-id-battle-scarred": "",
+    "stattrak-id-factory-new": "",
+    "stattrak-id-minimal-wear": "",
+    "stattrak-id-field-tested": "",
+    "stattrak-id-well-worn": "",
+    "stattrak-id-battle-scarred": "",
+    "collection": ""
+  },
+  {
+    "id": "skin-vanilla-glock-18",
+    "name": "Glock-18 | Vanilla",
+    "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts.",
+    "weapon": "Glock-18",
+    "category": "pistol",
+    "pattern": "Olympus",
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": "",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1170",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "",
+        "name": ""
+      }
+    ],
+    "image": {
+      "Factory New": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaLAtv0PiGIm4VuIu0wIHSka7wMejVw2gB650hiLHE89-ljlWyrxY4Yz_zJNDBJxh-Pw_pAOzrlw/360x360?allow_animated=1",
+      "Battle-Scarred": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaLAtv0PiGIm4VuIu0wIHSka7wMejVw2gB650hiLHE89-ljlWyrxY4Yz_zJNDBJxh-Pw_pAOzrlw/360x360?allow_animated=1",
+      "Field-Tested": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaLAtv0PiGIm4VuIu0wIHSka7wMejVw2gB650hiLHE89-ljlWyrxY4Yz_zJNDBJxh-Pw_pAOzrlw/360x360?allow_animated=1",
+      "Well-Worn": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaLAtv0PiGIm4VuIu0wIHSka7wMejVw2gB650hiLHE89-ljlWyrxY4Yz_zJNDBJxh-Pw_pAOzrlw/360x360?allow_animated=1",
+      "Minimal Wear": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaLAtv0PiGIm4VuIu0wIHSka7wMejVw2gB650hiLHE89-ljlWyrxY4Yz_zJNDBJxh-Pw_pAOzrlw/360x360?allow_animated=1"
+    },
+    "buff-id-factory-new": "",
+    "buff-id-minimal-wear": "",
+    "buff-id-field-tested": "",
+    "buff-id-well-worn": "",
+    "buff-id-battle-scarred": "",
+    "stattrak-id-factory-new": "",
+    "stattrak-id-minimal-wear": "",
+    "stattrak-id-field-tested": "",
+    "stattrak-id-well-worn": "",
+    "stattrak-id-battle-scarred": "",
+    "collection": ""
+  },
+  {
+    "id": "skin-vanilla-dual-berettas",
+    "name": "Dual Berettas | Vanilla",
+    "description": "Firing two large-mag Berettas at once will lower accuracy and increase load times. On the bright side, you'll get to fire two large-mag Berettas at once.",
+    "weapon": "Dual Berettas",
+    "category": "pistol",
+    "pattern": "Olympus",
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": "",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1170",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "",
+        "name": ""
+      }
+    ],
+    "image": {
+      "Factory New": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaLgtpx_aGcG9E6Nrux4TaxqelMrmIwTIGucR03-uZot6s2lC1-Es4amumcY7Behh-Pw-NupR26Q/360x360?allow_animated=1",
+      "Battle-Scarred": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaLgtpx_aGcG9E6Nrux4TaxqelMrmIwTIGucR03-uZot6s2lC1-Es4amumcY7Behh-Pw-NupR26Q/360x360?allow_animated=1",
+      "Field-Tested": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaLgtpx_aGcG9E6Nrux4TaxqelMrmIwTIGucR03-uZot6s2lC1-Es4amumcY7Behh-Pw-NupR26Q/360x360?allow_animated=1",
+      "Well-Worn": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaLgtpx_aGcG9E6Nrux4TaxqelMrmIwTIGucR03-uZot6s2lC1-Es4amumcY7Behh-Pw-NupR26Q/360x360?allow_animated=1",
+      "Minimal Wear": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaLgtpx_aGcG9E6Nrux4TaxqelMrmIwTIGucR03-uZot6s2lC1-Es4amumcY7Behh-Pw-NupR26Q/360x360?allow_animated=1"
+    },
+    "buff-id-factory-new": "",
+    "buff-id-minimal-wear": "",
+    "buff-id-field-tested": "",
+    "buff-id-well-worn": "",
+    "buff-id-battle-scarred": "",
+    "stattrak-id-factory-new": "",
+    "stattrak-id-minimal-wear": "",
+    "stattrak-id-field-tested": "",
+    "stattrak-id-well-worn": "",
+    "stattrak-id-battle-scarred": "",
+    "collection": ""
+  },
+  {
+    "id": "skin-vanilla-tec-9",
+    "name": "Tec-9 | Vanilla",
+    "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity.",
+    "weapon": "Tec-9",
+    "category": "pistol",
+    "pattern": "Olympus",
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": "",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1170",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "",
+        "name": ""
+      }
+    ],
+    "image": {
+      "Factory New": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaPwJjir3MKWVAvN61wdTfx6SmZ--Jx2oFvJ0giOqVpdr02AK2_EA6YDimINSQbEZgNsbwBTFZ/360x360?allow_animated=1",
+      "Battle-Scarred": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaPwJjir3MKWVAvN61wdTfx6SmZ--Jx2oFvJ0giOqVpdr02AK2_EA6YDimINSQbEZgNsbwBTFZ/360x360?allow_animated=1",
+      "Field-Tested": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaPwJjir3MKWVAvN61wdTfx6SmZ--Jx2oFvJ0giOqVpdr02AK2_EA6YDimINSQbEZgNsbwBTFZ/360x360?allow_animated=1",
+      "Well-Worn": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaPwJjir3MKWVAvN61wdTfx6SmZ--Jx2oFvJ0giOqVpdr02AK2_EA6YDimINSQbEZgNsbwBTFZ/360x360?allow_animated=1",
+      "Minimal Wear": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaPwJjir3MKWVAvN61wdTfx6SmZ--Jx2oFvJ0giOqVpdr02AK2_EA6YDimINSQbEZgNsbwBTFZ/360x360?allow_animated=1"
+    },
+    "buff-id-minimal-wear": "",
+    "buff-id-field-tested": "",
+    "buff-id-well-worn": "",
+    "buff-id-battle-scarred": "",
+    "stattrak-id-factory-new": "",
+    "stattrak-id-minimal-wear": "",
+    "stattrak-id-field-tested": "",
+    "stattrak-id-well-worn": "",
+    "stattrak-id-battle-scarred": "",
+    "collection": ""
+  },
+  {
+    "id": "skin-vanilla-desert-eagle",
+    "name": "Desert Eagle | Vanilla",
+    "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range.",
+    "weapon": "Desert Eagle",
+    "category": "pistol",
+    "pattern": "Olympus",
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": "",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1170",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "",
+        "name": ""
+      }
+    ],
+    "image": {
+      "Factory New": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaLwJh1P_NP2wWvY23loPbwaT3MrrSxzNS7ZEoi77Eptj3jVXirRY5NTjyco6cJgMgIQaHU0WltVE/360x360?allow_animated=1",
+      "Battle-Scarred": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaLwJh1P_NP2wWvY23loPbwaT3MrrSxzNS7ZEoi77Eptj3jVXirRY5NTjyco6cJgMgIQaHU0WltVE/360x360?allow_animated=1",
+      "Field-Tested": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaLwJh1P_NP2wWvY23loPbwaT3MrrSxzNS7ZEoi77Eptj3jVXirRY5NTjyco6cJgMgIQaHU0WltVE/360x360?allow_animated=1",
+      "Well-Worn": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaLwJh1P_NP2wWvY23loPbwaT3MrrSxzNS7ZEoi77Eptj3jVXirRY5NTjyco6cJgMgIQaHU0WltVE/360x360?allow_animated=1",
+      "Minimal Wear": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaLwJh1P_NP2wWvY23loPbwaT3MrrSxzNS7ZEoi77Eptj3jVXirRY5NTjyco6cJgMgIQaHU0WltVE/360x360?allow_animated=1"
+    },
+    "buff-id-minimal-wear": "",
+    "buff-id-field-tested": "",
+    "buff-id-well-worn": "",
+    "buff-id-battle-scarred": "",
+    "stattrak-id-factory-new": "",
+    "stattrak-id-minimal-wear": "",
+    "stattrak-id-field-tested": "",
+    "stattrak-id-well-worn": "",
+    "stattrak-id-battle-scarred": "",
+    "collection": ""
+  },
+  {
+    "id": "skin-vanilla-p250",
+    "name": "P250 | Vanilla",
+    "description": "A low-recoil firearm with a high rate of fire, the P250 is a relatively inexpensive choice against armored opponents.",
+    "weapon": "P250",
+    "category": "pistol",
+    "pattern": "Olympus",
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": "",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1170",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "",
+        "name": ""
+      }
+    ],
+    "image": {
+      "Factory New": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaO1U1g72dJz8V7trkkNCOk6CgMbjVwjhTu5Mp2b-Y89Wk2FWx-RZlNTylcIeSbEZgNrPgHXjE/360x360?allow_animated=1",
+      "Battle-Scarred": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaO1U1g72dJz8V7trkkNCOk6CgMbjVwjhTu5Mp2b-Y89Wk2FWx-RZlNTylcIeSbEZgNrPgHXjE/360x360?allow_animated=1",
+      "Field-Tested": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaO1U1g72dJz8V7trkkNCOk6CgMbjVwjhTu5Mp2b-Y89Wk2FWx-RZlNTylcIeSbEZgNrPgHXjE/360x360?allow_animated=1",
+      "Well-Worn": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaO1U1g72dJz8V7trkkNCOk6CgMbjVwjhTu5Mp2b-Y89Wk2FWx-RZlNTylcIeSbEZgNrPgHXjE/360x360?allow_animated=1",
+      "Minimal Wear": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaO1U1g72dJz8V7trkkNCOk6CgMbjVwjhTu5Mp2b-Y89Wk2FWx-RZlNTylcIeSbEZgNrPgHXjE/360x360?allow_animated=1"
+    },
+    "buff-id-minimal-wear": "",
+    "buff-id-field-tested": "",
+    "buff-id-well-worn": "",
+    "buff-id-battle-scarred": "",
+    "stattrak-id-factory-new": "",
+    "stattrak-id-minimal-wear": "",
+    "stattrak-id-field-tested": "",
+    "stattrak-id-well-worn": "",
+    "stattrak-id-battle-scarred": "",
+    "collection": ""
+  },
+  {
+    "id": "skin-vanilla-five-seven",
+    "name": "Five-SeveN | Vanilla",
+    "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil.",
+    "weapon": "Five-SeveN",
+    "category": "pistol",
+    "pattern": "Olympus",
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": "",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1170",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "",
+        "name": ""
+      }
+    ],
+    "image": {
+      "Factory New": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaLQ521uDNZzhMooS3wNXSwfakZrqFkGgBucQh3b-Wpdj3jFHh_BU_ZGilJYeRdVRqaV7Oug_pLhkBh9g/360x360?allow_animated=1",
+      "Battle-Scarred": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaLQ521uDNZzhMooS3wNXSwfakZrqFkGgBucQh3b-Wpdj3jFHh_BU_ZGilJYeRdVRqaV7Oug_pLhkBh9g/360x360?allow_animated=1",
+      "Field-Tested": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaLQ521uDNZzhMooS3wNXSwfakZrqFkGgBucQh3b-Wpdj3jFHh_BU_ZGilJYeRdVRqaV7Oug_pLhkBh9g/360x360?allow_animated=1",
+      "Well-Worn": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaLQ521uDNZzhMooS3wNXSwfakZrqFkGgBucQh3b-Wpdj3jFHh_BU_ZGilJYeRdVRqaV7Oug_pLhkBh9g/360x360?allow_animated=1",
+      "Minimal Wear": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaLQ521uDNZzhMooS3wNXSwfakZrqFkGgBucQh3b-Wpdj3jFHh_BU_ZGilJYeRdVRqaV7Oug_pLhkBh9g/360x360?allow_animated=1"
+    },
+    "buff-id-minimal-wear": "",
+    "buff-id-field-tested": "",
+    "buff-id-well-worn": "",
+    "buff-id-battle-scarred": "",
+    "stattrak-id-factory-new": "",
+    "stattrak-id-minimal-wear": "",
+    "stattrak-id-field-tested": "",
+    "stattrak-id-well-worn": "",
+    "stattrak-id-battle-scarred": "",
+    "collection": ""
+  },
+  {
+    "id": "skin-vanilla-p2000",
+    "name": "P2000 | Vanilla",
+    "description": "Accurate and controllable, the German-made P2000 is a serviceable first-round pistol that works best against unarmored opponents.",
+    "weapon": "P2000",
+    "category": "pistol",
+    "pattern": "Olympus",
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": "",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1170",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "",
+        "name": ""
+      }
+    ],
+    "image": {
+      "Factory New": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaIwxwgaOYIXNBvozuw9bcxKKmMr2FlDsC6cAn3rvEoIj03ALk-UA-MTr1ItLDcgE-fxiOrQOEIS06/360x360?allow_animated=1",
+      "Battle-Scarred": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaIwxwgaOYIXNBvozuw9bcxKKmMr2FlDsC6cAn3rvEoIj03ALk-UA-MTr1ItLDcgE-fxiOrQOEIS06/360x360?allow_animated=1",
+      "Field-Tested": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaIwxwgaOYIXNBvozuw9bcxKKmMr2FlDsC6cAn3rvEoIj03ALk-UA-MTr1ItLDcgE-fxiOrQOEIS06/360x360?allow_animated=1",
+      "Well-Worn": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaIwxwgaOYIXNBvozuw9bcxKKmMr2FlDsC6cAn3rvEoIj03ALk-UA-MTr1ItLDcgE-fxiOrQOEIS06/360x360?allow_animated=1",
+      "Minimal Wear": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaIwxwgaOYIXNBvozuw9bcxKKmMr2FlDsC6cAn3rvEoIj03ALk-UA-MTr1ItLDcgE-fxiOrQOEIS06/360x360?allow_animated=1"
+    },
+    "buff-id-minimal-wear": "",
+    "buff-id-field-tested": "",
+    "buff-id-well-worn": "",
+    "buff-id-battle-scarred": "",
+    "stattrak-id-factory-new": "",
+    "stattrak-id-minimal-wear": "",
+    "stattrak-id-field-tested": "",
+    "stattrak-id-well-worn": "",
+    "stattrak-id-battle-scarred": "",
+    "collection": ""
+  },
+  {
+    "id": "skin-vanilla-cz75-auto",
+    "name": "CZ75-Auto | Vanilla",
+    "description": "A fully automatic variant of the CZ75, the CZ75-Auto is the ideal short-term choice for turning the tables and gaining your opponents weapon. But with very little ammo in the magazine, strong trigger discipline is required.",
+    "weapon": "CZ75-Auto",
+    "category": "pistol",
+    "pattern": "Olympus",
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": "",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1170",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "",
+        "name": ""
+      }
+    ],
+    "image": {
+      "Factory New": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaKB03hvKGcDxBtYjuktWJxqCmY7nQxTwFusAj2bGW9Nms2Q22-UZtYjimJNKcdBh-Pw_UL_bYXw/360x360?allow_animated=1",
+      "Battle-Scarred": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaKB03hvKGcDxBtYjuktWJxqCmY7nQxTwFusAj2bGW9Nms2Q22-UZtYjimJNKcdBh-Pw_UL_bYXw/360x360?allow_animated=1",
+      "Field-Tested": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaKB03hvKGcDxBtYjuktWJxqCmY7nQxTwFusAj2bGW9Nms2Q22-UZtYjimJNKcdBh-Pw_UL_bYXw/360x360?allow_animated=1",
+      "Well-Worn": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaKB03hvKGcDxBtYjuktWJxqCmY7nQxTwFusAj2bGW9Nms2Q22-UZtYjimJNKcdBh-Pw_UL_bYXw/360x360?allow_animated=1",
+      "Minimal Wear": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaKB03hvKGcDxBtYjuktWJxqCmY7nQxTwFusAj2bGW9Nms2Q22-UZtYjimJNKcdBh-Pw_UL_bYXw/360x360?allow_animated=1"
+    },
+    "buff-id-minimal-wear": "",
+    "buff-id-field-tested": "",
+    "buff-id-well-worn": "",
+    "buff-id-battle-scarred": "",
+    "stattrak-id-factory-new": "",
+    "stattrak-id-minimal-wear": "",
+    "stattrak-id-field-tested": "",
+    "stattrak-id-well-worn": "",
+    "stattrak-id-battle-scarred": "",
+    "collection": ""
   }
 ]
