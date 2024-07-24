@@ -17529,5 +17529,24 @@
     "stattrak-id-well-worn": "",
     "stattrak-id-battle-scarred": "",
     "collection": "Kilowatt Case"
+  },
+  {
+    "id": "skin-vanilla-weapon-ak-47",
+    "name": "AK-47 | Vanilla",
+    "description": "Relatively unchanged in its design since World War II, the bayonet still retains a place in modern military strategy. Bayonet charges have continued to be effective as recently as the second Gulf War and the war in Afghanistan.",
+    "weapon": null,
+    "category": "rifle",
+    "pattern": "★ (Vanilla)",
+    "min_float": null,
+    "max_float": null,
+    "rarity": "Covert",
+    "stattrak": true,
+    "paint_index": null,
+    "crates": null,
+    "image": {
+      "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaKQZ53P3NZXMbut2yxIPTzqakZL-CxDhTvZAj3rmTpdjxiQey-kY4YzuiI4TAdA8-fxiOrfjRENYp"
+    },
+    "buff-id": "42349",
+    "stattrak-id": "43265"
   }
 ]
