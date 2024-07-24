@@ -17540,7 +17540,7 @@
     "min_float": 0,
     "max_float": 1,
     "rarity": "Covert",
-    "stattrak": true,
+    "stattrak": false,
     "souvenir": false,
     "paint_index": "1170",
     "wears": [
