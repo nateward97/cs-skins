@@ -16867,5 +16867,49 @@
     "stattrak-id-well-worn": "",
     "stattrak-id-battle-scarred": "",
     "collection": ""
+  },
+  {
+    "id": "skin-vanilla-r8-revolver",
+    "name": "R8 Revolver | Vanilla",
+    "description": "The R8 Revolver delivers a highly accurate and powerful round at the expense of a lengthy trigger-pull. Firing rapidly by fanning the hammer may be the best option when point-blank stopping power is required.",
+    "weapon": "R8 Revolver",
+    "category": "pistol",
+    "pattern": "Olympus",
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": "",
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1170",
+    "wears": [
+      "Factory New",
+      "Minimal Wear",
+      "Field-Tested",
+      "Well-Worn",
+      "Battle-Scarred"
+    ],
+    "crates": [
+      {
+        "id": "",
+        "name": ""
+      }
+    ],
+    "image": {
+      "Factory New": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaOQJ23P_edC8MvY6yzIXelq-jYevTkj5QucYjibnFpt2hjVG3-ERoYTr7JoCScQBoYkaQpAYpc61X5A/360x360?allow_animated=1",
+      "Battle-Scarred": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaOQJ23P_edC8MvY6yzIXelq-jYevTkj5QucYjibnFpt2hjVG3-ERoYTr7JoCScQBoYkaQpAYpc61X5A/360x360?allow_animated=1",
+      "Field-Tested": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaOQJ23P_edC8MvY6yzIXelq-jYevTkj5QucYjibnFpt2hjVG3-ERoYTr7JoCScQBoYkaQpAYpc61X5A/360x360?allow_animated=1",
+      "Well-Worn": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaOQJ23P_edC8MvY6yzIXelq-jYevTkj5QucYjibnFpt2hjVG3-ERoYTr7JoCScQBoYkaQpAYpc61X5A/360x360?allow_animated=1",
+      "Minimal Wear": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaOQJ23P_edC8MvY6yzIXelq-jYevTkj5QucYjibnFpt2hjVG3-ERoYTr7JoCScQBoYkaQpAYpc61X5A/360x360?allow_animated=1"
+    },
+    "buff-id-minimal-wear": "",
+    "buff-id-field-tested": "",
+    "buff-id-well-worn": "",
+    "buff-id-battle-scarred": "",
+    "stattrak-id-factory-new": "",
+    "stattrak-id-minimal-wear": "",
+    "stattrak-id-field-tested": "",
+    "stattrak-id-well-worn": "",
+    "stattrak-id-battle-scarred": "",
+    "collection": ""
   }
 ]
