@@ -5,7 +5,7 @@ function jsonToCsv(json) {
     const items = json.data;
     let csv = 'Item,Platform,OrderType,ConvertedPrice,ConvertedCurrency,Count\n';
 
-    const excludedPlatforms = new Set(['BUFF163', 'MARKETCSGO', 'SKINBARON', 'DMARKET', 'CSMONEY']);
+    const excludedPlatforms = new Set(['BUFF163', 'MARKETCSGO', 'SKINBARON', 'DMARKET', 'CSMONEY', 'HALOSKINS', 'WHITEMARKET', 'WAXPEER', 'TRADEIT', 'CSGOEMPIRE']);
 
     for (const [itemName, platforms] of Object.entries(items)) {
         for (const [platform, details] of Object.entries(platforms)) {
