@@ -1,58 +1,63 @@
 <?php
+
 // Function to escape CSV fields
 function escapeCsv($field) {
-    return '"' . str_replace('"', '""', $field) . '"';
+    if ($field === null || $field === "") {
+        return '""';
+    }
+    $escapedField = str_replace('"', '""', strval($field)); // Escape double quotes by doubling them
+    // Wrap the field in double quotes if it contains a comma, newline, or double quotes
+    return "\"$escapedField\"";
 }
 
 // Function to clean unwanted characters from strings and trim spaces
 function cleanString($str) {
-    // Remove or replace unwanted characters and trim spaces
-    return trim(preg_replace('/[^\x20-\x7E]/', '', $str)); // Removes non-ASCII characters and trims spaces
+    return trim(preg_replace('/[^\x20-\x7E]/', '', $str));
 }
 
-// Function to convert JSON to CSV
+// Function to convert JSON to CSV, ignoring specified columns
 function jsonToCsv($json) {
-    $items = $json; // In this case, the JSON is an array of items directly.
-    $csv = "Item Name,App ID,Latest Price,Median Price,Average Price,Max Price,Min Price,Lowest Sell Order,Highest Buy Order,Buy Order Count,Sell Order Count,Last Updated\n";
+    // Access the 'data' array within the JSON
+    $items = $json['data'];
+
+    // Define CSV headers with only the necessary columns
+    $csv = "Item Name,Lowest Sell Order\n";
 
     foreach ($items as $item) {
-        $itemName = cleanString($item['marketHashName']);
-        $appId = escapeCsv($item['appId']);
-        $latestPrice = escapeCsv((string)$item['prices']['latest']);
-        $medianPrice = escapeCsv((string)$item['prices']['median']);
-        $avgPrice = escapeCsv((string)$item['prices']['avg']);
-        $maxPrice = escapeCsv((string)$item['prices']['max']);
-        $minPrice = escapeCsv((string)$item['prices']['min']);
-        $lowestSellOrder = escapeCsv((string)$item['histogram']['lowestSellOrder']);
-        $highestBuyOrder = escapeCsv((string)$item['histogram']['highestBuyOrder']);
-        $buyOrderCount = escapeCsv((string)$item['histogram']['buyOrderCount']);
-        $sellOrderCount = escapeCsv((string)$item['histogram']['sellOrderCount']);
-        $updatedAt = escapeCsv($item['updatedAt']);
+        $itemName = escapeCsv(cleanString($item['marketHashName']));
+        $lowestSellOrder = escapeCsv($item['histogram']['lowestSellOrder']);
 
-        // Build the CSV row
-        $csv .= "$itemName,$appId,$latestPrice,$medianPrice,$avgPrice,$maxPrice,$minPrice,$lowestSellOrder,$highestBuyOrder,$buyOrderCount,$sellOrderCount,$updatedAt\n";
+        // Build the CSV row, only including the necessary columns
+        $csv .= "$itemName,$lowestSellOrder\n";
     }
 
     return $csv;
 }
 
 // Read JSON data from file
-$data = file_get_contents('data-steam.json');
-if ($data === false) {
-    die('Error reading JSON file');
+$jsonFile = 'data-steam.json';
+if (!file_exists($jsonFile)) {
+    die('Error: JSON file not found.');
 }
 
-$jsonData = json_decode($data, true);
-if ($jsonData === null) {
-    die('Error decoding JSON file');
+$jsonData = file_get_contents($jsonFile);
+if ($jsonData === false) {
+    die('Error reading JSON file.');
 }
 
-$csvData = jsonToCsv($jsonData);
+$jsonArray = json_decode($jsonData, true);
+if ($jsonArray === null) {
+    die('Error parsing JSON file.');
+}
+
+$csvData = jsonToCsv($jsonArray);
 
 // Write CSV to file
-if (file_put_contents('output_steam.csv', $csvData) === false) {
-    die('Error writing CSV file');
+$outputFile = 'output_steam.csv';
+if (file_put_contents($outputFile, $csvData) !== false) {
+    echo 'CSV file has been created successfully.';
+} else {
+    echo 'Error writing CSV file.';
 }
 
-echo 'CSV file has been created successfully.';
 ?>

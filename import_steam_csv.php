@@ -17,10 +17,10 @@ try {
 }
 
 // Path to the CSV file
-$csvFile = 'output.csv'; // Ensure this is the correct path to your CSV file
+$csvFile = 'output_steam.csv'; // Ensure this is the correct path to your CSV file
 
 // Table name in the database where data will be inserted
-$tableName = 'markets_output'; // Updated table name
+$tableName = 'steam_output'; // Your table name
 
 // Open the CSV file for reading
 if (($handle = fopen($csvFile, 'r')) !== false) {
@@ -29,18 +29,15 @@ if (($handle = fopen($csvFile, 'r')) !== false) {
 
     // Prepare the SQL statement for inserting data
     $stmt = $pdo->prepare("
-        INSERT INTO $tableName (platform, order_type, converted_price, converted_currency, count)
-        VALUES (:platform, :order_type, :converted_price, :converted_currency, :count)
+        INSERT INTO $tableName (item_name, lowest_sell_order)
+        VALUES (:item_name, :lowest_sell_order)
     ");
 
     // Loop through the CSV rows
     while (($data = fgetcsv($handle, 1000, ',')) !== false) {
         // Bind the CSV data to the SQL statement
-        $stmt->bindParam(':platform', $data[0]);
-        $stmt->bindParam(':order_type', $data[1]);
-        $stmt->bindParam(':converted_price', $data[2]);
-        $stmt->bindParam(':converted_currency', $data[3]);
-        $stmt->bindParam(':count', $data[4], PDO::PARAM_INT);
+        $stmt->bindParam(':item_name', $data[0]);
+        $stmt->bindParam(':lowest_sell_order', $data[1]);
 
         // Execute the statement
         $stmt->execute();
