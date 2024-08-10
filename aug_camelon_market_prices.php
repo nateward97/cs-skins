@@ -14,15 +14,28 @@ if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 }
 
-// Simplified query to get all variants of AUG | Chameleon without specific columns
+// Query to combine data from both tables
 $sql = "
     SELECT item_name, 
-           platform, 
+           'STEAM' AS platform,  -- Platform name in uppercase for steam_output
+           COALESCE(MIN(lowest_sell_order), 'N/A') AS price, 
+           'steam_output' AS source,
+           NULL AS total_count
+    FROM steam_output 
+    WHERE LOWER(item_name) LIKE '%aug | chameleon%' 
+    GROUP BY item_name
+    
+    UNION ALL
+
+    SELECT item_name, 
+           platform,  -- Actual platform names from markets_output
+           MIN(converted_price) AS price,
+           'markets_output' AS source,
            SUM(count) AS total_count
     FROM markets_output
     WHERE LOWER(item_name) LIKE '%aug | chameleon%'
-    GROUP BY item_name, platform
-    ORDER BY item_name, platform
+    GROUP BY item_name, platform, converted_price
+    ORDER BY item_name ASC
 ";
 
 // Execute query
@@ -39,14 +52,16 @@ if ($conn->error) {
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>AUG | Chameleon Market Data</title>
+    <title>AUG | Chameleon Data</title>
 </head>
 <body>
-    <h1>AUG | Chameleon Market Data</h1>
+    <h1>AUG | Chameleon Data</h1>
     <table border="1">
         <tr>
             <th>Item Name</th>
             <th>Platform</th>
+            <th>Price</th>
+            <th>Source</th>
             <th>Total Count</th>
         </tr>
 
@@ -58,11 +73,13 @@ if ($conn->error) {
                 echo "<tr>";
                 echo "<td>" . htmlspecialchars($row["item_name"]) . "</td>";
                 echo "<td>" . htmlspecialchars($row["platform"]) . "</td>";
+                echo "<td>" . htmlspecialchars($row["price"]) . "</td>";
+                echo "<td>" . htmlspecialchars($row["source"]) . "</td>";
                 echo "<td>" . htmlspecialchars($row["total_count"]) . "</td>";
                 echo "</tr>";
             }
         } else {
-            echo "<tr><td colspan='3'>No results found</td></tr>";
+            echo "<tr><td colspan='5'>No results found</td></tr>";
         }
         ?>
 
