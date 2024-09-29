@@ -886,7 +886,7 @@
     "buff-id-factory-new": "837514",
     "buff-id-minimal-wear": "836080",
     "buff-id-field-tested": "835873",
-    "buff-id-well-worn": "836091",
+    "buff-id-well-worn": "836091",  
     "buff-id-battle-scarred": "835948"
   },
   {
@@ -921,7 +921,7 @@
     ],
     "image": {
       "Factory New": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ97tC3l4u0m_7zO6-fzztUu8Amj7_D8IiliQy1-kBvYT36ItDBcVU2YgnW-1a_xu2815C-tYOJlyXaNaq4Nw",
-      "Minimal Wear": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ97tC3l4u0m_7zO6-fzztUu8Amj7_D8IiliQy1-kBvYT36ItDBcVU2YgnW-1a_xu2815C-tYOJlyXaNaq4Nw/360fx360f",
+      "Minimal Wear": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ97tC3l4u0m_7zO6-fzztUu8Amj7_D8IiliQy1-kBvYT36ItDBcVU2YgnW-1a_xu2815C-tYOJlyXaNaq4Nw/",
       "Well-Worn": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ97tC3l4u0mvLwOq7c2DsAscZy2-iQoNWl31Xk8xc4Zjz2IoXDew9tNFuE8lPvl-65hJW1vszXiSw0pKnYO40",
       "Battle-Scarred": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ97tC3l4u0n_L1JaKfkzlXvp130-yW9tTziQO1_xc9N2GhIIGUdQ83MlvUq1a-wrrvjZfp6IOJlyW3N8t9nQ",
       "Field-Tested": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ97tC3l4u0mvLwOq7c2DsAscZy2-iQoNWl31Xk8xc4Zjz2IoXDew9tNFuE8lPvl-65hJW1vszXiSw0pKnYO40"
