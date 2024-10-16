@@ -15840,6 +15840,98 @@
         }
     },
     {
+        "id": "skin-2036304",
+        "name": "Zeus x27 | Olympus",
+        "description": "Perfect for close-range ambushes and enclosed area encounters, the single-shot x27 Zeus is capable of incapacitating an enemy in a single hit. This custom paint job features Zeus, the God of Thunder. The air crackles…",
+        "weapon": "Zeus x27",
+        "category": "pistol",
+        "pattern": "Olympus",
+        "min_float": 0,
+        "max_float": 0.67,
+        "rarity": "Classified",
+        "stattrak": true,
+        "souvenir": false,
+        "paint_index": "1172",
+        "wears": [
+          "Factory New",
+          "Minimal Wear",
+          "Field-Tested",
+          "Well-Worn",
+          "Battle-Scarred"
+        ],
+        "crates": [
+          {
+            "id": "crate-4904",
+            "name": "Kilowatt Case"
+          }
+        ],
+        "image": {
+          "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpooru2LhVfyfbdYgJW5Mm4kIWZqPD7N4Tck29Y_cg_ib2Y8dWg0FHh_Bc6Yjqgd4CdcFA9aQ7U-FG2xL3m157qup7Amnsyuz5iuyhTEpjqoQ",
+          "Well-Worn": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpooru2LhVfyfbdYgJW5Mm4kIWZqPD7N4Tck29Y_cg_ib2Y8dWg0FHh_Bc6Yjqgd4CdcFA9aQ7U-FG2xL3m157qup7Amnsyuz5iuyhTEpjqoQ",
+          "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpooru2LhVfyfbdYgJW5Mm4kIWZqPD7N4Tdn2xZ_It12-iSp4r00AGw-xFtZT2gIofAd1c4NVzYq1Lvybrt1JC-vZnMwCFmpGB8spRMR_rC",
+          "Battle-Scarred": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpooru2LhVfyfbdYgJW5Mm4kIWZqPD7N4TZk2pH8Ytw072Z99T00ALt_UQ_ZW72INKScAE9aFrW-ALrkLu7gpDq6MuazCBrpGB8si3Ie_8r",
+          "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpooru2LhVfyfbdYgJW5Mm4kIWZqPD7N4Tdn2xZ_It12-iSp4r00AGw-xFtZT2gIofAd1c4NVzYq1Lvybrt1JC-vZnMwCFmpGB8spRMR_rC"
+        },
+        "buff-id-factory-new": "",
+        "buff-id-minimal-wear": "",
+        "buff-id-field-tested": "",
+        "buff-id-well-worn": "",
+        "buff-id-battle-scarred": "",
+        "stattrak-id-factory-new": "",
+        "stattrak-id-minimal-wear": "",
+        "stattrak-id-field-tested": "",
+        "stattrak-id-well-worn": "",
+        "stattrak-id-battle-scarred": "",
+        "collection": "Kilowatt Case"
+      },
+      {
+        "id": "skin-2036304",
+        "name": "Zeus x27 | Dragon Snore",
+        "description": "Perfect for close-range ambushes and enclosed area encounters, the single-shot x27 Zeus is capable of incapacitating an enemy in a single hit. A dragon wraps around this lighthearted, custom painted x27.",
+        "weapon": "Zeus x27",
+        "category": "pistol",
+        "pattern": "Dragon Snore",
+        "min_float": 0,
+        "max_float": 0.80,
+        "rarity": "Classified",
+        "stattrak": false,
+        "souvenir": false,
+        "paint_index": "1172",
+        "wears": [
+          "Factory New",
+          "Minimal Wear",
+          "Field-Tested",
+          "Well-Worn",
+          "Battle-Scarred"
+        ],
+        "crates": [],
+        "collections": [
+            {
+                "id": "collection-set-overpass-2024",
+                "name": "The Overpass 2024 Collection",
+                "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024_png.png"
+            }
+        ],
+        "image": {
+          "Field-Tested": "https://community.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpooru2LhVf0Ob3fitH_sy3h5O0k-X1NLTfqXFU_dZOh-zF_Jn4xgK2_hVtYWH1I9OTIwRvN13Z_Ae3k-_s0ZS075vOnSBquHIjsXvUyR2pwUYbbxoMLRE",
+          "Well-Worn": "https://community.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpooru2LhVf0Ob3fitH_sy3h5O0k-X1NLTfqXFU_dZOh-zF_Jn4xgK2_hVtYWH1I9OTIwRvN13Z_Ae3k-_s0ZS075vOnSBquHIjsXvUyR2pwUYbbxoMLRE",
+          "Minimal Wear": "https://community.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpooru2LhVf0Ob3fitH_sy3h5O0k-X1NLTfqXFU_dZOhuDG_Zi7iwHhqRVlaj_3IICRdwY5Z1zTqVi6kOe8jJe5v8nOyyNquiF0t36Lywv3309clFtxlA",
+          "Battle-Scarred": "https://community.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpooru2LhVf0Ob3fitH_sy3h5O0k-X1NLTfqXFU_dZOguzA45W70FHmqkE-YWv7cIeddgU3MgrS81Xrkrq805K6vM7LynVmvSAj5XvUngv330_bZjIDaw",
+          "Factory New": "https://community.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpooru2LhVf0Ob3fitH_sy3h5O0k-X1NLTfqXFU_dZOhuDG_Zi7iwHhqRVlaj_3IICRdwY5Z1zTqVi6kOe8jJe5v8nOyyNquiF0t36Lywv3309clFtxlA"
+        },
+        "buff-id-factory-new": "",
+        "buff-id-minimal-wear": "",
+        "buff-id-field-tested": "",
+        "buff-id-well-worn": "",
+        "buff-id-battle-scarred": "",
+        "stattrak-id-factory-new": "",
+        "stattrak-id-minimal-wear": "",
+        "stattrak-id-field-tested": "",
+        "stattrak-id-well-worn": "",
+        "stattrak-id-battle-scarred": "",
+        "collection": "The Overpass 2024 Collection"
+      },
+    {
       "id": "skin-vanilla-usp-s",
       "name": "USP-S | Vanilla",
       "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise.",
