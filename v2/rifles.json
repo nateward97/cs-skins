@@ -16932,5 +16932,510 @@
             "Well-Worn": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_silencer_gs_m4a1s_milspec_medium_png.png",
             "Battle-Scarred": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_silencer_gs_m4a1s_milspec_heavy_png.png"
         }
+    },
+
+
+
+
+
+
+
+
+
+
+    {
+      "id": "skin-vanilla-ak47",
+      "name": "AK-47 | Vanilla",
+      "description": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire.",
+      "weapon": "AK-47",
+      "category": "rifle",
+      "pattern": "Chrome Cannon",
+      "min_float": 0,
+      "max_float": 1,
+      "rarity": "",
+      "stattrak": false,
+      "souvenir": false,
+      "paint_index": "1170",
+      "wears": [
+        "Factory New",
+        "Minimal Wear",
+        "Field-Tested",
+        "Well-Worn",
+        "Battle-Scarred"
+      ],
+      "crates": [
+        {
+          "id": "",
+          "name": ""
+        }
+      ],
+      "image": {
+        "Factory New": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaKgw0hL2acGQa74jnkoWKz_aja-6BkzoF6p0h3buTo42l3wfi8kRsMjqncoSQbEZgNgipCqhb/",
+        "Battle-Scarred": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaKgw0hL2acGQa74jnkoWKz_aja-6BkzoF6p0h3buTo42l3wfi8kRsMjqncoSQbEZgNgipCqhb/",
+        "Field-Tested": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaKgw0hL2acGQa74jnkoWKz_aja-6BkzoF6p0h3buTo42l3wfi8kRsMjqncoSQbEZgNgipCqhb/",
+        "Well-Worn": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaKgw0hL2acGQa74jnkoWKz_aja-6BkzoF6p0h3buTo42l3wfi8kRsMjqncoSQbEZgNgipCqhb/",
+        "Minimal Wear": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaKgw0hL2acGQa74jnkoWKz_aja-6BkzoF6p0h3buTo42l3wfi8kRsMjqncoSQbEZgNgipCqhb/"
+      },
+      "buff-id-factory-new": "",
+      "buff-id-minimal-wear": "",
+      "buff-id-field-tested": "",
+      "buff-id-well-worn": "",
+      "buff-id-battle-scarred": "",
+      "stattrak-id-factory-new": "",
+      "stattrak-id-minimal-wear": "",
+      "stattrak-id-field-tested": "",
+      "stattrak-id-well-worn": "",
+      "stattrak-id-battle-scarred": "",
+      "collection": ""
+    },
+    {
+      "id": "skin-vanilla-m4a4",
+      "name": "M4A4 | Vanilla",
+      "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs.",
+      "weapon": "M4A4",
+      "category": "rifle",
+      "pattern": "Chrome Cannon",
+      "min_float": 0,
+      "max_float": 1,
+      "rarity": "",
+      "stattrak": false,
+      "souvenir": false,
+      "paint_index": "1170",
+      "wears": [
+        "Factory New",
+        "Minimal Wear",
+        "Field-Tested",
+        "Well-Worn",
+        "Battle-Scarred"
+      ],
+      "crates": [
+        {
+          "id": "",
+          "name": ""
+        }
+      ],
+      "image": {
+        "Factory New": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJlNhgr3LIG4Qv9myktmJxqagYLqGkGhS6pcnibrEpIqi2AC3_EdtYz_1cYfDbEZgNvE3cqCa/360x360?allow_animated=1",
+        "Battle-Scarred": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJlNhgr3LIG4Qv9myktmJxqagYLqGkGhS6pcnibrEpIqi2AC3_EdtYz_1cYfDbEZgNvE3cqCa/360x360?allow_animated=1",
+        "Field-Tested": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJlNhgr3LIG4Qv9myktmJxqagYLqGkGhS6pcnibrEpIqi2AC3_EdtYz_1cYfDbEZgNvE3cqCa/360x360?allow_animated=1",
+        "Well-Worn": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJlNhgr3LIG4Qv9myktmJxqagYLqGkGhS6pcnibrEpIqi2AC3_EdtYz_1cYfDbEZgNvE3cqCa/360x360?allow_animated=1",
+        "Minimal Wear": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJlNhgr3LIG4Qv9myktmJxqagYLqGkGhS6pcnibrEpIqi2AC3_EdtYz_1cYfDbEZgNvE3cqCa/360x360?allow_animated=1"
+      },
+      "buff-id-factory-new": "",
+      "buff-id-minimal-wear": "",
+      "buff-id-field-tested": "",
+      "buff-id-well-worn": "",
+      "buff-id-battle-scarred": "",
+      "stattrak-id-factory-new": "",
+      "stattrak-id-minimal-wear": "",
+      "stattrak-id-field-tested": "",
+      "stattrak-id-well-worn": "",
+      "stattrak-id-battle-scarred": "",
+      "collection": ""
+    },
+    {
+      "id": "skin-vanilla-m4a1-s",
+      "name": "M4A1-S | Vanilla",
+      "description": "With a smaller magazine than its unmuffled counterpart, the silenced M4A1 provides quieter shots with less recoil and better accuracy.",
+      "weapon": "M4A1-S",
+      "category": "rifle",
+      "pattern": "Chrome Cannon",
+      "min_float": 0,
+      "max_float": 1,
+      "rarity": "",
+      "stattrak": false,
+      "souvenir": false,
+      "paint_index": "1170",
+      "wears": [
+        "Factory New",
+        "Minimal Wear",
+        "Field-Tested",
+        "Well-Worn",
+        "Battle-Scarred"
+      ],
+      "crates": [
+        {
+          "id": "",
+          "name": ""
+        }
+      ],
+      "image": {
+        "Factory New": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJlNhgszbeDFH4t-zhs7TxaPyMb7QwDMGscAo372Wpo2m0AK2qkM5Y2zxcIHEJg47NFjZ_1a_366x0uk6Fw8z/360x360?allow_animated=1",
+        "Battle-Scarred": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJlNhgszbeDFH4t-zhs7TxaPyMb7QwDMGscAo372Wpo2m0AK2qkM5Y2zxcIHEJg47NFjZ_1a_366x0uk6Fw8z/360x360?allow_animated=1",
+        "Field-Tested": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJlNhgszbeDFH4t-zhs7TxaPyMb7QwDMGscAo372Wpo2m0AK2qkM5Y2zxcIHEJg47NFjZ_1a_366x0uk6Fw8z/360x360?allow_animated=1",
+        "Well-Worn": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJlNhgszbeDFH4t-zhs7TxaPyMb7QwDMGscAo372Wpo2m0AK2qkM5Y2zxcIHEJg47NFjZ_1a_366x0uk6Fw8z/360x360?allow_animated=1",
+        "Minimal Wear": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJlNhgszbeDFH4t-zhs7TxaPyMb7QwDMGscAo372Wpo2m0AK2qkM5Y2zxcIHEJg47NFjZ_1a_366x0uk6Fw8z/360x360?allow_animated=1"
+      },
+      "buff-id-factory-new": "",
+      "buff-id-minimal-wear": "",
+      "buff-id-field-tested": "",
+      "buff-id-well-worn": "",
+      "buff-id-battle-scarred": "",
+      "stattrak-id-factory-new": "",
+      "stattrak-id-minimal-wear": "",
+      "stattrak-id-field-tested": "",
+      "stattrak-id-well-worn": "",
+      "stattrak-id-battle-scarred": "",
+      "collection": ""
+    },
+    {
+      "id": "skin-vanilla-famas",
+      "name": "FAMAS | Vanilla",
+      "description": "A cheap option for cash-strapped players, the FAMAS effectively fills the niche between more expensive rifles and the less-effective SMGs.",
+      "weapon": "FAMAS",
+      "category": "rifle",
+      "pattern": "Chrome Cannon",
+      "min_float": 0,
+      "max_float": 1,
+      "rarity": "",
+      "stattrak": false,
+      "souvenir": false,
+      "paint_index": "1170",
+      "wears": [
+        "Factory New",
+        "Minimal Wear",
+        "Field-Tested",
+        "Well-Worn",
+        "Battle-Scarred"
+      ],
+      "crates": [
+        {
+          "id": "",
+          "name": ""
+        }
+      ],
+      "image": {
+        "Factory New": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaLQZt0uCGJ28QvYjkwdLelq7xNe_UlGoA7MZ12bCW8In22FHkrUc-ZmihddCQehh-Pw9qFX9ezQ/360x360?allow_animated=1",
+        "Battle-Scarred": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaLQZt0uCGJ28QvYjkwdLelq7xNe_UlGoA7MZ12bCW8In22FHkrUc-ZmihddCQehh-Pw9qFX9ezQ/360x360?allow_animated=1",
+        "Field-Tested": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaLQZt0uCGJ28QvYjkwdLelq7xNe_UlGoA7MZ12bCW8In22FHkrUc-ZmihddCQehh-Pw9qFX9ezQ/360x360?allow_animated=1",
+        "Well-Worn": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaLQZt0uCGJ28QvYjkwdLelq7xNe_UlGoA7MZ12bCW8In22FHkrUc-ZmihddCQehh-Pw9qFX9ezQ/360x360?allow_animated=1",
+        "Minimal Wear": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaLQZt0uCGJ28QvYjkwdLelq7xNe_UlGoA7MZ12bCW8In22FHkrUc-ZmihddCQehh-Pw9qFX9ezQ/360x360?allow_animated=1"
+      },
+      "buff-id-factory-new": "",
+      "buff-id-minimal-wear": "",
+      "buff-id-field-tested": "",
+      "buff-id-well-worn": "",
+      "buff-id-battle-scarred": "",
+      "stattrak-id-factory-new": "",
+      "stattrak-id-minimal-wear": "",
+      "stattrak-id-field-tested": "",
+      "stattrak-id-well-worn": "",
+      "stattrak-id-battle-scarred": "",
+      "collection": ""
+    },
+    {
+      "id": "skin-vanilla-galil-ar",
+      "name": "Galil AR | Vanilla",
+      "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat.",
+      "weapon": "Galil AR",
+      "category": "rifle",
+      "pattern": "Chrome Cannon",
+      "min_float": 0,
+      "max_float": 1,
+      "rarity": "",
+      "stattrak": false,
+      "souvenir": false,
+      "paint_index": "1170",
+      "wears": [
+        "Factory New",
+        "Minimal Wear",
+        "Field-Tested",
+        "Well-Worn",
+        "Battle-Scarred"
+      ],
+      "crates": [
+        {
+          "id": "",
+          "name": ""
+        }
+      ],
+      "image": {
+        "Factory New": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaLAZs2v_JY3MQ6t3lzdmPlvGtMr2IxD4Avcd12buYo9z22wzt-BE_MGmiIdWRcQ84fxiOrakPuyry/360x360?allow_animated=1",
+        "Battle-Scarred": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaLAZs2v_JY3MQ6t3lzdmPlvGtMr2IxD4Avcd12buYo9z22wzt-BE_MGmiIdWRcQ84fxiOrakPuyry/360x360?allow_animated=1",
+        "Field-Tested": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaLAZs2v_JY3MQ6t3lzdmPlvGtMr2IxD4Avcd12buYo9z22wzt-BE_MGmiIdWRcQ84fxiOrakPuyry/360x360?allow_animated=1",
+        "Well-Worn": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaLAZs2v_JY3MQ6t3lzdmPlvGtMr2IxD4Avcd12buYo9z22wzt-BE_MGmiIdWRcQ84fxiOrakPuyry/360x360?allow_animated=1",
+        "Minimal Wear": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaLAZs2v_JY3MQ6t3lzdmPlvGtMr2IxD4Avcd12buYo9z22wzt-BE_MGmiIdWRcQ84fxiOrakPuyry/360x360?allow_animated=1"
+      },
+      "buff-id-factory-new": "",
+      "buff-id-minimal-wear": "",
+      "buff-id-field-tested": "",
+      "buff-id-well-worn": "",
+      "buff-id-battle-scarred": "",
+      "stattrak-id-factory-new": "",
+      "stattrak-id-minimal-wear": "",
+      "stattrak-id-field-tested": "",
+      "stattrak-id-well-worn": "",
+      "stattrak-id-battle-scarred": "",
+      "collection": ""
+    },
+    {
+      "id": "skin-vanilla-aug",
+      "name": "AUG | Vanilla",
+      "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire.",
+      "weapon": "AUG",
+      "category": "rifle",
+      "pattern": "Chrome Cannon",
+      "min_float": 0,
+      "max_float": 1,
+      "rarity": "",
+      "stattrak": false,
+      "souvenir": false,
+      "paint_index": "1170",
+      "wears": [
+        "Factory New",
+        "Minimal Wear",
+        "Field-Tested",
+        "Well-Worn",
+        "Battle-Scarred"
+      ],
+      "crates": [
+        {
+          "id": "",
+          "name": ""
+        }
+      ],
+      "image": {
+        "Factory New": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaKhJnnfHNI2kbvYXvw4GOwKKiMeLXwWoAvcEpi-qZoYnzjQe2_xA6Nz2lIYeLMlhpJvwytiM/360x360?allow_animated=1",
+        "Battle-Scarred": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaKhJnnfHNI2kbvYXvw4GOwKKiMeLXwWoAvcEpi-qZoYnzjQe2_xA6Nz2lIYeLMlhpJvwytiM/360x360?allow_animated=1",
+        "Field-Tested": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaKhJnnfHNI2kbvYXvw4GOwKKiMeLXwWoAvcEpi-qZoYnzjQe2_xA6Nz2lIYeLMlhpJvwytiM/360x360?allow_animated=1",
+        "Well-Worn": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaKhJnnfHNI2kbvYXvw4GOwKKiMeLXwWoAvcEpi-qZoYnzjQe2_xA6Nz2lIYeLMlhpJvwytiM/360x360?allow_animated=1",
+        "Minimal Wear": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaKhJnnfHNI2kbvYXvw4GOwKKiMeLXwWoAvcEpi-qZoYnzjQe2_xA6Nz2lIYeLMlhpJvwytiM/360x360?allow_animated=1"
+      },
+      "buff-id-factory-new": "",
+      "buff-id-minimal-wear": "",
+      "buff-id-field-tested": "",
+      "buff-id-well-worn": "",
+      "buff-id-battle-scarred": "",
+      "stattrak-id-factory-new": "",
+      "stattrak-id-minimal-wear": "",
+      "stattrak-id-field-tested": "",
+      "stattrak-id-well-worn": "",
+      "stattrak-id-battle-scarred": "",
+      "collection": ""
+    },
+    {
+      "id": "skin-vanilla-sg553",
+      "name": "SG 553 | Vanilla",
+      "description": "The terrorist-exclusive SG553 is a premium scoped alternative to the AK47 for effective long-range engagement.",
+      "weapon": "SG 553",
+      "category": "rifle",
+      "pattern": "Chrome Cannon",
+      "min_float": 0,
+      "max_float": 1,
+      "rarity": "",
+      "stattrak": false,
+      "souvenir": false,
+      "paint_index": "1170",
+      "wears": [
+        "Factory New",
+        "Minimal Wear",
+        "Field-Tested",
+        "Well-Worn",
+        "Battle-Scarred"
+      ],
+      "crates": [
+        {
+          "id": "",
+          "name": ""
+        }
+      ],
+      "image": {
+        "Factory New": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaOAA1hqWGKGoWv4ruzIOOz_amMOrTkDkAsZNyiLCSptn3jVfirhE_a2-mJIDAcRh-Pw9NgjI4Lg/360x360?allow_animated=1",
+        "Battle-Scarred": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaOAA1hqWGKGoWv4ruzIOOz_amMOrTkDkAsZNyiLCSptn3jVfirhE_a2-mJIDAcRh-Pw9NgjI4Lg/360x360?allow_animated=1",
+        "Field-Tested": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaOAA1hqWGKGoWv4ruzIOOz_amMOrTkDkAsZNyiLCSptn3jVfirhE_a2-mJIDAcRh-Pw9NgjI4Lg/360x360?allow_animated=1",
+        "Well-Worn": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaOAA1hqWGKGoWv4ruzIOOz_amMOrTkDkAsZNyiLCSptn3jVfirhE_a2-mJIDAcRh-Pw9NgjI4Lg/360x360?allow_animated=1",
+        "Minimal Wear": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaOAA1hqWGKGoWv4ruzIOOz_amMOrTkDkAsZNyiLCSptn3jVfirhE_a2-mJIDAcRh-Pw9NgjI4Lg/360x360?allow_animated=1"
+      },
+      "buff-id-factory-new": "",
+      "buff-id-minimal-wear": "",
+      "buff-id-field-tested": "",
+      "buff-id-well-worn": "",
+      "buff-id-battle-scarred": "",
+      "stattrak-id-factory-new": "",
+      "stattrak-id-minimal-wear": "",
+      "stattrak-id-field-tested": "",
+      "stattrak-id-well-worn": "",
+      "stattrak-id-battle-scarred": "",
+      "collection": ""
+    },
+    {
+      "id": "skin-vanilla-awp",
+      "name": "AWP | Vanilla",
+      "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy.",
+      "weapon": "AWP",
+      "category": "rifle",
+      "pattern": "Chrome Cannon",
+      "min_float": 0,
+      "max_float": 1,
+      "rarity": "",
+      "stattrak": false,
+      "souvenir": false,
+      "paint_index": "1170",
+      "wears": [
+        "Factory New",
+        "Minimal Wear",
+        "Field-Tested",
+        "Well-Worn",
+        "Battle-Scarred"
+      ],
+      "crates": [
+        {
+          "id": "",
+          "name": ""
+        }
+      ],
+      "image": {
+        "Factory New": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaKhBwnaqQJ2tG6d-1ltjZwqfya7rTzz0J65Ep0rqV99-n2wHg-kE6ZWH6doOLMlhp1UQMGxs/360x360?allow_animated=1",
+        "Battle-Scarred": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaKhBwnaqQJ2tG6d-1ltjZwqfya7rTzz0J65Ep0rqV99-n2wHg-kE6ZWH6doOLMlhp1UQMGxs/360x360?allow_animated=1",
+        "Field-Tested": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaKhBwnaqQJ2tG6d-1ltjZwqfya7rTzz0J65Ep0rqV99-n2wHg-kE6ZWH6doOLMlhp1UQMGxs/360x360?allow_animated=1",
+        "Well-Worn": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaKhBwnaqQJ2tG6d-1ltjZwqfya7rTzz0J65Ep0rqV99-n2wHg-kE6ZWH6doOLMlhp1UQMGxs/360x360?allow_animated=1",
+        "Minimal Wear": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaKhBwnaqQJ2tG6d-1ltjZwqfya7rTzz0J65Ep0rqV99-n2wHg-kE6ZWH6doOLMlhp1UQMGxs/360x360?allow_animated=1"
+      },
+      "buff-id-factory-new": "",
+      "buff-id-minimal-wear": "",
+      "buff-id-field-tested": "",
+      "buff-id-well-worn": "",
+      "buff-id-battle-scarred": "",
+      "stattrak-id-factory-new": "",
+      "stattrak-id-minimal-wear": "",
+      "stattrak-id-field-tested": "",
+      "stattrak-id-well-worn": "",
+      "stattrak-id-battle-scarred": "",
+      "collection": ""
+    },
+    {
+      "id": "skin-vanilla-ssg-08",
+      "name": "SSG 08 | Vanilla",
+      "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship.",
+      "weapon": "SSG 08",
+      "category": "rifle",
+      "pattern": "Chrome Cannon",
+      "min_float": 0,
+      "max_float": 1,
+      "rarity": "",
+      "stattrak": false,
+      "souvenir": false,
+      "paint_index": "1170",
+      "wears": [
+        "Factory New",
+        "Minimal Wear",
+        "Field-Tested",
+        "Well-Worn",
+        "Battle-Scarred"
+      ],
+      "crates": [
+        {
+          "id": "",
+          "name": ""
+        }
+      ],
+      "image": {
+        "Factory New": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaOBRng6uGKWUQtIXjkobdwaCiYbnUwDlVvpZ1jLiT9o2si1W3rhBkYm-gI9OQJhh-Pw-5vp7Ozg/360x360?allow_animated=1",
+        "Battle-Scarred": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaOBRng6uGKWUQtIXjkobdwaCiYbnUwDlVvpZ1jLiT9o2si1W3rhBkYm-gI9OQJhh-Pw-5vp7Ozg/360x360?allow_animated=1",
+        "Field-Tested": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaOBRng6uGKWUQtIXjkobdwaCiYbnUwDlVvpZ1jLiT9o2si1W3rhBkYm-gI9OQJhh-Pw-5vp7Ozg/360x360?allow_animated=1",
+        "Well-Worn": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaOBRng6uGKWUQtIXjkobdwaCiYbnUwDlVvpZ1jLiT9o2si1W3rhBkYm-gI9OQJhh-Pw-5vp7Ozg/360x360?allow_animated=1",
+        "Minimal Wear": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaOBRng6uGKWUQtIXjkobdwaCiYbnUwDlVvpZ1jLiT9o2si1W3rhBkYm-gI9OQJhh-Pw-5vp7Ozg/360x360?allow_animated=1"
+      },
+      "buff-id-factory-new": "",
+      "buff-id-minimal-wear": "",
+      "buff-id-field-tested": "",
+      "buff-id-well-worn": "",
+      "buff-id-battle-scarred": "",
+      "stattrak-id-factory-new": "",
+      "stattrak-id-minimal-wear": "",
+      "stattrak-id-field-tested": "",
+      "stattrak-id-well-worn": "",
+      "stattrak-id-battle-scarred": "",
+      "collection": ""
+    },
+    {
+      "id": "skin-vanilla-scar-20",
+      "name": "SCAR-20 | Vanilla",
+      "description": "The SCAR-20 is a semi-automatic sniper rifle that trades a high rate of fire and powerful long-distance damage for sluggish movement speed and big price tag.",
+      "weapon": "SCAR-20",
+      "category": "rifle",
+      "pattern": "Chrome Cannon",
+      "min_float": 0,
+      "max_float": 1,
+      "rarity": "",
+      "stattrak": false,
+      "souvenir": false,
+      "paint_index": "1170",
+      "wears": [
+        "Factory New",
+        "Minimal Wear",
+        "Field-Tested",
+        "Well-Worn",
+        "Battle-Scarred"
+      ],
+      "crates": [
+        {
+          "id": "",
+          "name": ""
+        }
+      ],
+      "image": {
+        "Factory New": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaOARhwaGYPztAvtrgzdmIw_KnMLiClz4Av8ci07vHpNWk3gHn_BZsNmGidoGRdgEgIQaHrajNY6o/360x360?allow_animated=1",
+        "Battle-Scarred": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaOARhwaGYPztAvtrgzdmIw_KnMLiClz4Av8ci07vHpNWk3gHn_BZsNmGidoGRdgEgIQaHrajNY6o/360x360?allow_animated=1",
+        "Field-Tested": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaOARhwaGYPztAvtrgzdmIw_KnMLiClz4Av8ci07vHpNWk3gHn_BZsNmGidoGRdgEgIQaHrajNY6o/360x360?allow_animated=1",
+        "Well-Worn": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaOARhwaGYPztAvtrgzdmIw_KnMLiClz4Av8ci07vHpNWk3gHn_BZsNmGidoGRdgEgIQaHrajNY6o/360x360?allow_animated=1",
+        "Minimal Wear": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaOARhwaGYPztAvtrgzdmIw_KnMLiClz4Av8ci07vHpNWk3gHn_BZsNmGidoGRdgEgIQaHrajNY6o/360x360?allow_animated=1"
+      },
+      "buff-id-factory-new": "",
+      "buff-id-minimal-wear": "",
+      "buff-id-field-tested": "",
+      "buff-id-well-worn": "",
+      "buff-id-battle-scarred": "",
+      "stattrak-id-factory-new": "",
+      "stattrak-id-minimal-wear": "",
+      "stattrak-id-field-tested": "",
+      "stattrak-id-well-worn": "",
+      "stattrak-id-battle-scarred": "",
+      "collection": ""
+    },
+    {
+      "id": "skin-vanilla-g3sg1",
+      "name": "G3SG1 | Vanilla",
+      "description": "The pricy G3SG1 lowers movement speed considerably but compensates with a higher rate of fire than other sniper rifles.",
+      "weapon": "G3SG1",
+      "category": "rifle",
+      "pattern": "Chrome Cannon",
+      "min_float": 0,
+      "max_float": 1,
+      "rarity": "",
+      "stattrak": false,
+      "souvenir": false,
+      "paint_index": "1170",
+      "wears": [
+        "Factory New",
+        "Minimal Wear",
+        "Field-Tested",
+        "Well-Worn",
+        "Battle-Scarred"
+      ],
+      "crates": [
+        {
+          "id": "",
+          "name": ""
+        }
+      ],
+      "image": {
+        "Factory New": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaLFRz1KKGJ2oTu4Wwx9fSxq7wa-yAzjgAuJckibnEoNig3FGxqUQ_azj7cI_GdRh-Pw-5-E_bPQ/360x360?allow_animated=1",
+        "Battle-Scarred": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaLFRz1KKGJ2oTu4Wwx9fSxq7wa-yAzjgAuJckibnEoNig3FGxqUQ_azj7cI_GdRh-Pw-5-E_bPQ/360x360?allow_animated=1",
+        "Field-Tested": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaLFRz1KKGJ2oTu4Wwx9fSxq7wa-yAzjgAuJckibnEoNig3FGxqUQ_azj7cI_GdRh-Pw-5-E_bPQ/360x360?allow_animated=1",
+        "Well-Worn": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaLFRz1KKGJ2oTu4Wwx9fSxq7wa-yAzjgAuJckibnEoNig3FGxqUQ_azj7cI_GdRh-Pw-5-E_bPQ/360x360?allow_animated=1",
+        "Minimal Wear": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaLFRz1KKGJ2oTu4Wwx9fSxq7wa-yAzjgAuJckibnEoNig3FGxqUQ_azj7cI_GdRh-Pw-5-E_bPQ/360x360?allow_animated=1"
+      },
+      "buff-id-factory-new": "",
+      "buff-id-minimal-wear": "",
+      "buff-id-field-tested": "",
+      "buff-id-well-worn": "",
+      "buff-id-battle-scarred": "",
+      "stattrak-id-factory-new": "",
+      "stattrak-id-minimal-wear": "",
+      "stattrak-id-field-tested": "",
+      "stattrak-id-well-worn": "",
+      "stattrak-id-battle-scarred": "",
+      "collection": ""
     }
 ]
