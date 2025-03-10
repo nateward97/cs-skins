@@ -1,4 +1,6 @@
 <?php
+header('Content-Type: application/json');
+
 // Database credentials
 $host = 'localhost';
 $port = '3306';
@@ -11,10 +13,19 @@ $conn = new mysqli($host, $username, $password, $dbname, $port);
 
 // Check connection
 if ($conn->connect_error) {
-    die("Connection failed: " . $conn->connect_error);
+    die(json_encode(['error' => 'Connection failed: ' . $conn->connect_error]));
 }
 
-// Query to combine data from both tables
+// Get the skin name from the URL parameter (sanitize the input)
+$skinName = isset($_GET['skinName']) ? strtolower($conn->real_escape_string($_GET['skinName'])) : '';
+
+// Check if skin name is provided
+if (empty($skinName)) {
+    echo json_encode(['error' => 'No skin name provided']);
+    exit;
+}
+
+// SQL query to fetch prices for the given skin
 $sql = "
     SELECT item_name, 
            'STEAM' AS platform,  -- Platform name in uppercase for steam_output
@@ -22,7 +33,7 @@ $sql = "
            'steam_output' AS source,
            NULL AS total_count
     FROM steam_output 
-    WHERE LOWER(item_name) LIKE '%aug | chameleon%' 
+    WHERE LOWER(item_name) LIKE '%$skinName%' 
     GROUP BY item_name
     
     UNION ALL
@@ -33,7 +44,7 @@ $sql = "
            'markets_output' AS source,
            SUM(count) AS total_count
     FROM markets_output
-    WHERE LOWER(item_name) LIKE '%aug | chameleon%'
+    WHERE LOWER(item_name) LIKE '%$skinName%'
     GROUP BY item_name, platform, converted_price
     ORDER BY item_name ASC
 ";
@@ -41,53 +52,21 @@ $sql = "
 // Execute query
 $result = $conn->query($sql);
 
-// Check for SQL errors
-if ($conn->error) {
-    echo "SQL Error: " . $conn->error;
-    exit;
+// Initialize an empty array to hold the result
+$data = [];
+
+if ($result->num_rows > 0) {
+    // Fetch each row and store it in the $data array
+    while ($row = $result->fetch_assoc()) {
+        $data[] = $row;
+    }
+} else {
+    $data = ['message' => 'No data found for the provided skin'];
 }
-?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>AUG | Chameleon Data</title>
-</head>
-<body>
-    <h1>AUG | Chameleon Data</h1>
-    <table border="1">
-        <tr>
-            <th>Item Name</th>
-            <th>Platform</th>
-            <th>Price</th>
-            <th>Source</th>
-            <th>Total Count</th>
-        </tr>
+// Return the data in JSON format
+echo json_encode($data);
 
-        <?php
-        // Check if the query returned any results
-        if ($result->num_rows > 0) {
-            // Output data of each row
-            while ($row = $result->fetch_assoc()) {
-                echo "<tr>";
-                echo "<td>" . htmlspecialchars($row["item_name"]) . "</td>";
-                echo "<td>" . htmlspecialchars($row["platform"]) . "</td>";
-                echo "<td>" . htmlspecialchars($row["price"]) . "</td>";
-                echo "<td>" . htmlspecialchars($row["source"]) . "</td>";
-                echo "<td>" . htmlspecialchars($row["total_count"]) . "</td>";
-                echo "</tr>";
-            }
-        } else {
-            echo "<tr><td colspan='5'>No results found</td></tr>";
-        }
-        ?>
-
-    </table>
-</body>
-</html>
-
-<?php
 // Close the database connection
 $conn->close();
 ?>
