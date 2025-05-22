@@ -8193,7 +8193,13 @@
         ],
         "description": "Accurate and controllable, the German-made P2000 is a serviceable first-round pistol that works best against unarmored opponents. It has been custom painted in gunmetal grey using fractal designs and finished with orange accents.\\n\\n<i>>>WEAPON FINISH TEXTURE EXPERIMENTS, ENTRY ONE<<</i>",
         "id": "skin-8bda61ff439a",
-        "image": {},
+        "image": {
+            "Battle-Scarred": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_hkp2000_p2k_fractal_light_png.png",
+            "Factory New": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_hkp2000_p2k_fractal_light_png.png",
+            "Field-Tested": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_hkp2000_p2k_fractal_light_png.png",
+            "Minimal Wear": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_hkp2000_p2k_fractal_light_png.png",
+            "Well-Worn": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_hkp2000_p2k_fractal_light_png.pngg"
+        },
         "max_float": 0.9,
         "min_float": 0.0,
         "name": "P2000 | Sure Grip",
