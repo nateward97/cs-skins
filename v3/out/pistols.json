@@ -1,6 +1,6 @@
 [
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-chopshop",
@@ -28,7 +28,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-train-2025",
@@ -58,7 +58,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-norse",
@@ -88,7 +88,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-15",
@@ -124,7 +124,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-weapons-iii",
@@ -158,7 +158,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-weapons-iii",
@@ -193,7 +193,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-3",
@@ -229,7 +229,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-3",
@@ -259,7 +259,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-cobblestone",
@@ -337,7 +337,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-chopshop",
@@ -364,7 +364,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-op10-ancient",
@@ -422,7 +422,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-weapons-iii",
@@ -458,7 +458,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-graphic-design",
@@ -488,7 +488,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-4",
@@ -524,7 +524,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-25",
@@ -560,7 +560,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-20",
@@ -596,7 +596,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-7",
@@ -632,7 +632,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-28",
@@ -668,7 +668,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-8",
@@ -704,7 +704,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-18",
@@ -740,7 +740,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-gamma-2",
@@ -776,7 +776,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-27",
@@ -812,7 +812,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-12",
@@ -848,7 +848,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-16",
@@ -884,7 +884,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-train-2021",
@@ -914,7 +914,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-esports-iii",
@@ -949,7 +949,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-baggage",
@@ -979,7 +979,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-vertigo-2021",
@@ -1040,7 +1040,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-weapons-iii",
@@ -1076,7 +1076,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-canals",
@@ -1106,7 +1106,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-overpass",
@@ -1227,7 +1227,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-bank",
@@ -1257,7 +1257,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-timed-drops-warm",
@@ -1287,7 +1287,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-mirage-2021",
@@ -1348,7 +1348,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-op10-ct",
@@ -1378,7 +1378,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-dust",
@@ -1405,7 +1405,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-weapons-i",
@@ -1438,7 +1438,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-7",
@@ -1474,7 +1474,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-bank",
@@ -1502,7 +1502,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-esports-ii",
@@ -1536,7 +1536,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-op10-t",
@@ -1566,7 +1566,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-norse",
@@ -1596,7 +1596,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-op10-ct",
@@ -1624,7 +1624,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-bravo-i",
@@ -1657,7 +1657,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-kimono",
@@ -1687,7 +1687,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-kimono",
@@ -1717,7 +1717,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-kimono",
@@ -1747,7 +1747,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-xpshop-wpn-01",
@@ -1777,7 +1777,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-10",
@@ -1812,7 +1812,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-6",
@@ -1848,7 +1848,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-gamma-2",
@@ -1884,7 +1884,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-11",
@@ -1920,7 +1920,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-weapons-iii",
@@ -1956,7 +1956,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-cobblestone",
@@ -2037,7 +2037,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-baggage",
@@ -2067,7 +2067,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-26",
@@ -2103,7 +2103,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-28",
@@ -2139,7 +2139,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-4",
@@ -2173,7 +2173,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-29",
@@ -2209,7 +2209,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-25",
@@ -2245,7 +2245,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-16",
@@ -2281,7 +2281,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-graphic-design",
@@ -2311,7 +2311,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-overpass-2024",
@@ -2341,7 +2341,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-34",
@@ -2377,7 +2377,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-35",
@@ -2413,7 +2413,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-20",
@@ -2449,7 +2449,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-22",
@@ -2485,7 +2485,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-mirage-2021",
@@ -2546,7 +2546,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-21",
@@ -2582,7 +2582,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-timed-drops-cool",
@@ -2612,7 +2612,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-overpass",
@@ -2733,7 +2733,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-lake",
@@ -2774,7 +2774,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-train",
@@ -2865,7 +2865,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-esports-iii",
@@ -2901,7 +2901,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-chopshop",
@@ -2931,7 +2931,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-timed-drops-warm",
@@ -2961,7 +2961,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-train-2021",
@@ -2991,7 +2991,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-lake",
@@ -3031,7 +3031,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-op10-t",
@@ -3061,7 +3061,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-weapons-ii",
@@ -3095,7 +3095,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-canals",
@@ -3122,7 +3122,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-inferno",
@@ -3190,7 +3190,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-11",
@@ -3226,7 +3226,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-italy",
@@ -3267,7 +3267,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-31",
@@ -3303,7 +3303,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-inferno-2",
@@ -3379,7 +3379,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-9",
@@ -3415,7 +3415,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-30",
@@ -3451,7 +3451,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-6",
@@ -3487,7 +3487,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-overpass-2024",
@@ -3517,7 +3517,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-3",
@@ -3546,7 +3546,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-bravo-i",
@@ -3582,7 +3582,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-33",
@@ -3618,7 +3618,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-34",
@@ -3654,7 +3654,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-15",
@@ -3669,7 +3669,7 @@
                 "name": "Glove Case"
             }
         ],
-        "description": "Firing two large-mag Berettas at once will lower accuracy and increase load times. On the bright side, you'll get to fire two large-mag Berettas at once. Between the green dyed pearl handled grips, gryphon side plates, and laser etched slide; these pistols redefine elegance.\\n\\n<i>Face off and release the doves</i>",
+        "description": "Firing two large-mag Berettas at once will lower accuracy and increase load times. On the bright side, you'll get to fire two large-mag Berettas at once. Between the green dyed pearl handled grips, gryphon side plates, and laser etched slide; these pistol redefine elegance.\\n\\n<i>Face off and release the doves</i>",
         "id": "skin-54963e630d31",
         "image": {
             "Battle-Scarred": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_elite_gs_dual_berettas_golden_venice_heavy_png.png",
@@ -3690,7 +3690,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-29",
@@ -3726,7 +3726,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-24",
@@ -3762,7 +3762,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-27",
@@ -3798,7 +3798,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-23",
@@ -3834,7 +3834,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-17",
@@ -3870,7 +3870,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-12",
@@ -3885,7 +3885,7 @@
                 "name": "Chroma 3 Case"
             }
         ],
-        "description": "Firing two large-mag Berettas at once will lower accuracy and increase load times. On the bright side, you'll get to fire two large-mag Berettas at once. These pistols have been elegantly painted in chrome.\\n\\n<i>A weapon for artists, by artists</i>",
+        "description": "Firing two large-mag Berettas at once will lower accuracy and increase load times. On the bright side, you'll get to fire two large-mag Berettas at once. These pistol have been elegantly painted in chrome.\\n\\n<i>A weapon for artists, by artists</i>",
         "id": "skin-3de8a2cd3d43",
         "image": {
             "Factory New": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_elite_gs_dualberettas_ventilators_light_png.png",
@@ -3905,7 +3905,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-chopshop",
@@ -3935,7 +3935,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-norse",
@@ -3965,7 +3965,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-1",
@@ -4001,7 +4001,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-op10-ct",
@@ -4031,7 +4031,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-cobblestone",
@@ -4110,7 +4110,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-gods-and-monsters",
@@ -4140,7 +4140,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-weapons-iii",
@@ -4176,7 +4176,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-safehouse",
@@ -4217,7 +4217,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-train",
@@ -4308,7 +4308,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-vertigo",
@@ -4342,7 +4342,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-timed-drops-warm",
@@ -4372,7 +4372,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-timed-drops-neutral",
@@ -4402,7 +4402,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-timed-drops-cool",
@@ -4432,7 +4432,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-mirage-2021",
@@ -4493,7 +4493,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-20",
@@ -4529,7 +4529,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-vertigo-2021",
@@ -4590,7 +4590,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-op10-ct",
@@ -4617,7 +4617,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-weapons-iii",
@@ -4651,7 +4651,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-safehouse",
@@ -4691,7 +4691,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-bravo-ii",
@@ -4718,7 +4718,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-4",
@@ -4754,7 +4754,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-realism-camo",
@@ -4784,7 +4784,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-gamma-2",
@@ -4820,7 +4820,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-weapons-ii",
@@ -4856,7 +4856,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-22",
@@ -4892,7 +4892,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-13",
@@ -4928,7 +4928,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-27",
@@ -4964,7 +4964,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-30",
@@ -5000,7 +5000,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-11",
@@ -5036,7 +5036,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-7",
@@ -5071,7 +5071,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-24",
@@ -5107,7 +5107,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-17",
@@ -5143,7 +5143,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-10",
@@ -5179,7 +5179,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-5",
@@ -5213,7 +5213,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-16",
@@ -5249,7 +5249,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-vertigo-2021",
@@ -5310,7 +5310,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-33",
@@ -5346,7 +5346,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-29",
@@ -5381,7 +5381,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-19",
@@ -5417,7 +5417,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-stmarc",
@@ -5447,7 +5447,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-nuke-2",
@@ -5523,7 +5523,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-esports-ii",
@@ -5559,7 +5559,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-train",
@@ -5650,7 +5650,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-1",
@@ -5684,7 +5684,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-kimono",
@@ -5714,7 +5714,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-overpass-2024",
@@ -5744,7 +5744,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-cache",
@@ -5835,7 +5835,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-aztec",
@@ -5865,7 +5865,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-chopshop",
@@ -5895,7 +5895,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-mirage",
@@ -6001,7 +6001,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-assault",
@@ -6029,7 +6029,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-timed-drops-cool",
@@ -6059,7 +6059,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-timed-drops-warm",
@@ -6089,7 +6089,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-dust-2-2021",
@@ -6140,7 +6140,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-dust-2",
@@ -6236,7 +6236,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-assault",
@@ -6263,7 +6263,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-19",
@@ -6299,7 +6299,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-inferno-2",
@@ -6372,7 +6372,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-chopshop",
@@ -6400,7 +6400,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-esports-iii",
@@ -6434,7 +6434,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-weapons-i",
@@ -6467,7 +6467,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-train-2021",
@@ -6497,7 +6497,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-train-2021",
@@ -6527,7 +6527,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-train-2021",
@@ -6557,7 +6557,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-train-2021",
@@ -6587,7 +6587,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-train-2021",
@@ -6617,7 +6617,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-cache",
@@ -6708,7 +6708,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-nuke-2",
@@ -6784,7 +6784,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-dust",
@@ -6814,7 +6814,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-8",
@@ -6850,7 +6850,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-5",
@@ -6884,7 +6884,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-15",
@@ -6920,7 +6920,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-4",
@@ -6956,7 +6956,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-21",
@@ -6992,7 +6992,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-25",
@@ -7028,7 +7028,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-gamma-2",
@@ -7064,7 +7064,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-6",
@@ -7100,7 +7100,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-26",
@@ -7136,7 +7136,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-24",
@@ -7172,7 +7172,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-18",
@@ -7208,7 +7208,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-32",
@@ -7244,7 +7244,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-27",
@@ -7280,7 +7280,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-anubis",
@@ -7331,7 +7331,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-29",
@@ -7367,7 +7367,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-13",
@@ -7403,7 +7403,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-op10-t",
@@ -7432,7 +7432,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-33",
@@ -7468,7 +7468,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-34",
@@ -7504,7 +7504,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-35",
@@ -7540,7 +7540,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-train-2025",
@@ -7570,7 +7570,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-11",
@@ -7606,7 +7606,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-9",
@@ -7642,7 +7642,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-31",
@@ -7678,7 +7678,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-28",
@@ -7714,7 +7714,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-20",
@@ -7750,7 +7750,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-realism-camo",
@@ -7780,7 +7780,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-weapons-iii",
@@ -7816,7 +7816,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-mirage-2021",
@@ -7877,7 +7877,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-stmarc",
@@ -7907,7 +7907,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-bank",
@@ -7936,7 +7936,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-overpass-2024",
@@ -7966,7 +7966,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-timed-drops-cool",
@@ -7996,7 +7996,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-overpass",
@@ -8117,7 +8117,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-mirage",
@@ -8223,7 +8223,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-italy",
@@ -8262,7 +8262,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-bravo-ii",
@@ -8292,7 +8292,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-timed-drops-warm",
@@ -8322,7 +8322,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-vertigo-2021",
@@ -8383,7 +8383,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-timed-drops-neutral",
@@ -8413,7 +8413,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-dust-2",
@@ -8508,7 +8508,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-train-2021",
@@ -8538,7 +8538,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-op10-ancient",
@@ -8599,7 +8599,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-cobblestone",
@@ -8678,7 +8678,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-op10-ct",
@@ -8708,7 +8708,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-bravo-i",
@@ -8741,7 +8741,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-10",
@@ -8775,7 +8775,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-dust",
@@ -8802,7 +8802,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-office",
@@ -8829,7 +8829,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-25",
@@ -8865,7 +8865,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-8",
@@ -8901,7 +8901,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-26",
@@ -8937,7 +8937,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-esports-iii",
@@ -8971,7 +8971,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-baggage",
@@ -9001,7 +9001,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-32",
@@ -9037,7 +9037,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-5",
@@ -9073,7 +9073,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-17",
@@ -9109,7 +9109,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-4",
@@ -9145,7 +9145,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-23",
@@ -9181,7 +9181,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-3",
@@ -9217,7 +9217,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-19",
@@ -9253,7 +9253,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-30",
@@ -9289,7 +9289,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-15",
@@ -9325,7 +9325,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-13",
@@ -9361,7 +9361,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-graphic-design",
@@ -9391,7 +9391,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-italy",
@@ -9432,7 +9432,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-12",
@@ -9468,7 +9468,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-weapons-iii",
@@ -9504,7 +9504,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-35",
@@ -9540,7 +9540,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-overpass",
@@ -9661,7 +9661,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-timed-drops-neutral",
@@ -9691,7 +9691,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-gods-and-monsters",
@@ -9719,7 +9719,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-militia",
@@ -9749,7 +9749,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-timed-drops-cool",
@@ -9779,7 +9779,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-21",
@@ -9814,7 +9814,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-vertigo-2021",
@@ -9875,7 +9875,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-esports-ii",
@@ -9909,7 +9909,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-weapons-iii",
@@ -9943,7 +9943,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-16",
@@ -9979,7 +9979,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-canals",
@@ -10009,7 +10009,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-train",
@@ -10097,7 +10097,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-5",
@@ -10133,7 +10133,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-7",
@@ -10169,7 +10169,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-22",
@@ -10205,7 +10205,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-train-2025",
@@ -10233,7 +10233,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-4",
@@ -10268,7 +10268,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-bank",
@@ -10297,7 +10297,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-12",
@@ -10332,7 +10332,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-17",
@@ -10368,7 +10368,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-26",
@@ -10404,7 +10404,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-18",
@@ -10440,7 +10440,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-27",
@@ -10476,7 +10476,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-6",
@@ -10512,7 +10512,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-32",
@@ -10548,7 +10548,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-1",
@@ -10584,7 +10584,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-xraymachine",
@@ -10618,7 +10618,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-anubis",
@@ -10669,7 +10669,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-inferno-2",
@@ -10745,7 +10745,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-28",
@@ -10781,7 +10781,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-24",
@@ -10817,7 +10817,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-13",
@@ -10853,7 +10853,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-31",
@@ -10889,7 +10889,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-nuke-2",
@@ -10965,7 +10965,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-bravo-ii",
@@ -10995,7 +10995,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-dust-2-2021",
@@ -11046,7 +11046,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-nuke-2",
@@ -11122,7 +11122,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-lake",
@@ -11163,7 +11163,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-op10-ct",
@@ -11193,7 +11193,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-inferno",
@@ -11264,7 +11264,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-militia",
@@ -11294,7 +11294,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-kimono",
@@ -11324,7 +11324,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-cache",
@@ -11415,7 +11415,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-9",
@@ -11451,7 +11451,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-op10-t",
@@ -11481,7 +11481,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-weapons-ii",
@@ -11515,7 +11515,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-timed-drops-warm",
@@ -11545,7 +11545,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-34",
@@ -11581,7 +11581,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-timed-drops-neutral",
@@ -11611,7 +11611,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-dust-2",
@@ -11707,7 +11707,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-chopshop",
@@ -11737,7 +11737,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-realism-camo",
@@ -11767,7 +11767,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-timed-drops-warm",
@@ -11797,7 +11797,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-mirage-2021",
@@ -11857,7 +11857,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-kimono",
@@ -11887,7 +11887,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-timed-drops-cool",
@@ -11917,7 +11917,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-nuke",
@@ -11988,7 +11988,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-esports",
@@ -12022,7 +12022,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-mirage",
@@ -12128,7 +12128,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-dust-2",
@@ -12223,7 +12223,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-10",
@@ -12258,7 +12258,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-train-2021",
@@ -12285,7 +12285,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-op10-t",
@@ -12315,7 +12315,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-timed-drops-neutral",
@@ -12345,7 +12345,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-13",
@@ -12381,7 +12381,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-20",
@@ -12417,7 +12417,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-22",
@@ -12451,7 +12451,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-32",
@@ -12487,7 +12487,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-25",
@@ -12523,7 +12523,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-18",
@@ -12559,7 +12559,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-23",
@@ -12595,7 +12595,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-28",
@@ -12631,7 +12631,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-anubis",
@@ -12682,7 +12682,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-31",
@@ -12718,7 +12718,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-19",
@@ -12754,7 +12754,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-dust-2-2021",
@@ -12805,7 +12805,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-10",
@@ -12841,7 +12841,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-34",
@@ -12877,7 +12877,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-op10-ancient",
@@ -12938,7 +12938,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-inferno-2",
@@ -13014,7 +13014,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-timed-drops-cool",
@@ -13044,7 +13044,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-canals",
@@ -13074,7 +13074,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-bank",
@@ -13110,7 +13110,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-train",
@@ -13200,7 +13200,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-weapons-iii",
@@ -13234,7 +13234,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-aztec",
@@ -13261,7 +13261,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-12",
@@ -13296,7 +13296,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-13",
@@ -13332,7 +13332,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-weapons-ii",
@@ -13364,7 +13364,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-inferno",
@@ -13435,7 +13435,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-17",
@@ -13471,7 +13471,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-3",
@@ -13507,7 +13507,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-10",
@@ -13543,7 +13543,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-22",
@@ -13579,7 +13579,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-18",
@@ -13615,7 +13615,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-24",
@@ -13651,7 +13651,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-32",
@@ -13687,7 +13687,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-anubis",
@@ -13738,7 +13738,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-2",
@@ -13773,7 +13773,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-20",
@@ -13809,7 +13809,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-23",
@@ -13845,7 +13845,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-nuke-2",
@@ -13921,7 +13921,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-21",
@@ -13956,7 +13956,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-26",
@@ -13992,7 +13992,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-11",
@@ -14028,7 +14028,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-gamma-2",
@@ -14064,7 +14064,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-op10-ancient",
@@ -14125,7 +14125,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-kimono",
@@ -14155,7 +14155,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-bank",
@@ -14185,7 +14185,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-kimono",
@@ -14215,7 +14215,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-gods-and-monsters",
@@ -14245,7 +14245,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-train-2021",
@@ -14275,7 +14275,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-canals",
@@ -14305,7 +14305,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-cache",
@@ -14396,7 +14396,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-op10-t",
@@ -14426,7 +14426,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-dust-2",
@@ -14522,7 +14522,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-timed-drops-neutral",
@@ -14552,7 +14552,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-italy",
@@ -14593,7 +14593,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-timed-drops-cool",
@@ -14623,7 +14623,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-bravo-ii",
@@ -14653,7 +14653,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-train-2025",
@@ -14683,7 +14683,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-realism-camo",
@@ -14713,7 +14713,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-timed-drops-neutral",
@@ -14743,7 +14743,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-timed-drops-warm",
@@ -14773,7 +14773,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-stmarc",
@@ -14803,7 +14803,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-safehouse",
@@ -14844,7 +14844,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-nuke",
@@ -14915,7 +14915,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-33",
@@ -14951,7 +14951,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-mirage-2021",
@@ -15012,7 +15012,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-weapons-ii",
@@ -15046,7 +15046,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-op10-ct",
@@ -15076,7 +15076,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-dust-2-2021",
@@ -15125,7 +15125,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-weapons-i",
@@ -15158,7 +15158,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-weapons-iii",
@@ -15194,7 +15194,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-3",
@@ -15229,7 +15229,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-baggage",
@@ -15259,7 +15259,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-29",
@@ -15295,7 +15295,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-19",
@@ -15331,7 +15331,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-15",
@@ -15367,7 +15367,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-2",
@@ -15401,7 +15401,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-21",
@@ -15437,7 +15437,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-9",
@@ -15473,7 +15473,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-27",
@@ -15509,7 +15509,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-31",
@@ -15545,7 +15545,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-8",
@@ -15581,7 +15581,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-overpass",
@@ -15702,7 +15702,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-3",
@@ -15732,7 +15732,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-30",
@@ -15768,7 +15768,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-17",
@@ -15804,7 +15804,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-16",
@@ -15840,7 +15840,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-11",
@@ -15876,7 +15876,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-28",
@@ -15912,7 +15912,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-anubis",
@@ -15963,7 +15963,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-realism-camo",
@@ -15993,7 +15993,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-timed-drops-warm",
@@ -16023,7 +16023,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-cobblestone",
@@ -16104,7 +16104,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-esports-iii",
@@ -16138,7 +16138,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-bravo-i",
@@ -16174,7 +16174,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-lake",
@@ -16215,7 +16215,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-chopshop",
@@ -16245,7 +16245,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-train-2021",
@@ -16275,7 +16275,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-timed-drops-cool",
@@ -16305,7 +16305,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-timed-drops-neutral",
@@ -16335,7 +16335,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-op10-ancient",
@@ -16395,7 +16395,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-norse",
@@ -16423,7 +16423,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-safehouse",
@@ -16464,7 +16464,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-inferno-2",
@@ -16540,7 +16540,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-34",
@@ -16576,7 +16576,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-35",
@@ -16612,7 +16612,7 @@
         "wears": []
     },
     {
-        "category": "pistols",
+        "category": "pistol",
         "collections": [
             {
                 "id": "collection-set-community-33",
