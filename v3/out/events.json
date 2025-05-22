@@ -1,0 +1,686 @@
+[
+    {
+        "id": "sticker-1",
+        "name": "Sticker | Shooter",
+        "description": "<span style='color:#ffd700;'>This item commemorates the The 2013 DreamHack SteelSeries CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_default",
+            "name": "Default",
+            "color": "#ded6cc"
+        },
+        "crates": [],
+        "tournament_event": "DreamHack 2013",
+        "type": "Event",
+        "market_hash_name": null,
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/dreamhack/dh_gologo1_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-2",
+        "name": "Sticker | Shooter (Foil)",
+        "description": "<span style='color:#ffd700;'>This item commemorates the The 2013 DreamHack SteelSeries CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_default",
+            "name": "Default",
+            "color": "#ded6cc"
+        },
+        "crates": [],
+        "tournament_event": "DreamHack 2013",
+        "type": "Event",
+        "market_hash_name": null,
+        "effect": "Foil",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/dreamhack/dh_gologo1_holo_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-3",
+        "name": "Sticker | Shooter Close",
+        "description": "<span style='color:#ffd700;'>This item commemorates the The 2013 DreamHack SteelSeries CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_default",
+            "name": "Default",
+            "color": "#ded6cc"
+        },
+        "crates": [],
+        "tournament_event": "DreamHack 2013",
+        "type": "Event",
+        "market_hash_name": null,
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/dreamhack/dh_gologo2_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-4",
+        "name": "Sticker | Shooter Close (Foil)",
+        "description": "<span style='color:#ffd700;'>This item commemorates the The 2013 DreamHack SteelSeries CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_default",
+            "name": "Default",
+            "color": "#ded6cc"
+        },
+        "crates": [],
+        "tournament_event": "DreamHack 2013",
+        "type": "Event",
+        "market_hash_name": null,
+        "effect": "Foil",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/dreamhack/dh_gologo2_holo_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-5",
+        "name": "Sticker | Blue Snowflake",
+        "description": "<span style='color:#ffd700;'>This item commemorates the The 2013 DreamHack SteelSeries CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_default",
+            "name": "Default",
+            "color": "#ded6cc"
+        },
+        "crates": [],
+        "tournament_event": "DreamHack 2013",
+        "type": "Event",
+        "market_hash_name": null,
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/dreamhack/dh_snowflake2_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-6",
+        "name": "Sticker | Blue Snowflake (Foil)",
+        "description": "<span style='color:#ffd700;'>This item commemorates the The 2013 DreamHack SteelSeries CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_default",
+            "name": "Default",
+            "color": "#ded6cc"
+        },
+        "crates": [],
+        "tournament_event": "DreamHack 2013",
+        "type": "Event",
+        "market_hash_name": null,
+        "effect": "Foil",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/dreamhack/dh_snowflake3_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-7",
+        "name": "Sticker | Polar Bears",
+        "description": "<span style='color:#ffd700;'>This item commemorates the The 2013 DreamHack SteelSeries CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_default",
+            "name": "Default",
+            "color": "#ded6cc"
+        },
+        "crates": [],
+        "tournament_event": "DreamHack 2013",
+        "type": "Event",
+        "market_hash_name": null,
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/dreamhack/dh_bears_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-8",
+        "name": "Sticker | Polar Bears (Foil)",
+        "description": "<span style='color:#ffd700;'>This item commemorates the The 2013 DreamHack SteelSeries CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_default",
+            "name": "Default",
+            "color": "#ded6cc"
+        },
+        "crates": [],
+        "tournament_event": "DreamHack 2013",
+        "type": "Event",
+        "market_hash_name": null,
+        "effect": "Foil",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/dreamhack/dh_bears_holo_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-9",
+        "name": "Sticker | Mountain",
+        "description": "<span style='color:#ffd700;'>This item commemorates the The 2013 DreamHack SteelSeries CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_default",
+            "name": "Default",
+            "color": "#ded6cc"
+        },
+        "crates": [],
+        "tournament_event": "DreamHack 2013",
+        "type": "Event",
+        "market_hash_name": null,
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/dreamhack/dh_mountain_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-10",
+        "name": "Sticker | Mountain (Foil)",
+        "description": "<span style='color:#ffd700;'>This item commemorates the The 2013 DreamHack SteelSeries CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_default",
+            "name": "Default",
+            "color": "#ded6cc"
+        },
+        "crates": [],
+        "tournament_event": "DreamHack 2013",
+        "type": "Event",
+        "market_hash_name": null,
+        "effect": "Foil",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/dreamhack/dh_mountain_holo_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-11",
+        "name": "Sticker | Frosty the Hitman",
+        "description": "<span style='color:#ffd700;'>This item commemorates the The 2013 DreamHack SteelSeries CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_default",
+            "name": "Default",
+            "color": "#ded6cc"
+        },
+        "crates": [],
+        "tournament_event": "DreamHack 2013",
+        "type": "Event",
+        "market_hash_name": null,
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/dreamhack/dh_snowman_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-12",
+        "name": "Sticker | Frosty the Hitman (Foil)",
+        "description": "<span style='color:#ffd700;'>This item commemorates the The 2013 DreamHack SteelSeries CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_default",
+            "name": "Default",
+            "color": "#ded6cc"
+        },
+        "crates": [],
+        "tournament_event": "DreamHack 2013",
+        "type": "Event",
+        "market_hash_name": null,
+        "effect": "Foil",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/dreamhack/dh_snowman_holo_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-99",
+        "name": "Sticker | Gold ESL Wolf (Foil) | Katowice 2014",
+        "description": "<span style='color:#ffd700;'>This item commemorates the The 2014 EMS One Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_legendary",
+            "name": "Exotic",
+            "color": "#d32ce6"
+        },
+        "crates": [],
+        "tournament_event": "Katowice 2014",
+        "type": "Event",
+        "market_hash_name": null,
+        "effect": "Foil",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/emskatowice2014/wolf_esl_gold_foil_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-100",
+        "name": "Sticker | Gold ESL Skull (Foil) | Katowice 2014",
+        "description": "<span style='color:#ffd700;'>This item commemorates the The 2014 EMS One Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_legendary",
+            "name": "Exotic",
+            "color": "#d32ce6"
+        },
+        "crates": [],
+        "tournament_event": "Katowice 2014",
+        "type": "Event",
+        "market_hash_name": null,
+        "effect": "Foil",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/emskatowice2014/wolf_skull_esl_gold_foil_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-172",
+        "name": "Sticker | ESL One Cologne 2014 (Gold)",
+        "description": "<span style='color:#ffd700;'>This item commemorates the ESL One Cologne 2014 CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_legendary",
+            "name": "Exotic",
+            "color": "#d32ce6"
+        },
+        "crates": [],
+        "tournament_event": "Cologne 2014",
+        "type": "Event",
+        "market_hash_name": null,
+        "effect": "Gold",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2014/esl_c_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-230",
+        "name": "Sticker | DreamHack Winter 2014",
+        "description": "<span style='color:#ffd700;'>This item commemorates the The 2014 DreamHack CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "tournament_event": "DreamHack 2014",
+        "type": "Event",
+        "market_hash_name": "Sticker | DreamHack Winter 2014",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/dhw2014/dreamhackwinter2014_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-301",
+        "name": "Sticker | ESL One (Gold) | Katowice 2015",
+        "description": "<span style='color:#ffd700;'>This item commemorates the 2015 ESL One Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_legendary",
+            "name": "Exotic",
+            "color": "#d32ce6"
+        },
+        "crates": [],
+        "tournament_event": "Katowice 2015",
+        "type": "Event",
+        "market_hash_name": null,
+        "effect": "Gold",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/eslkatowice2015/esl_a_gold_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-354",
+        "name": "Sticker | ESL One | Katowice 2015",
+        "description": "<span style='color:#ffd700;'>This item commemorates the 2015 ESL One Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "tournament_event": "Katowice 2015",
+        "type": "Event",
+        "market_hash_name": "Sticker | ESL One | Katowice 2015",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/eslkatowice2015/esl_a_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-668",
+        "name": "Sticker | ESL | Cologne 2015",
+        "description": "<span style='color:#ffd700;'>This item commemorates the 2015 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>50% of the proceeds from the sale of this sticker support the included organizations.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "tournament_event": "Cologne 2015",
+        "type": "Event",
+        "market_hash_name": "Sticker | ESL | Cologne 2015",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2015/esl_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-670",
+        "name": "Sticker | ESL (Gold) | Cologne 2015",
+        "description": "<span style='color:#ffd700;'>This item commemorates the 2015 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>50% of the proceeds from the sale of this sticker support the included organizations.",
+        "rarity": {
+            "id": "rarity_legendary",
+            "name": "Exotic",
+            "color": "#d32ce6"
+        },
+        "crates": [],
+        "tournament_event": "Cologne 2015",
+        "type": "Event",
+        "market_hash_name": null,
+        "effect": "Gold",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2015/esl_gold_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-959",
+        "name": "Sticker | DreamHack | Cluj-Napoca 2015",
+        "description": "<span style='color:#ffd700;'>This item commemorates the 2015 DreamHack Cluj-Napoca CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>50% of the proceeds from the sale of this sticker support the included organizations.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "tournament_event": "Cluj-Napoca 2015",
+        "type": "Event",
+        "market_hash_name": "Sticker | DreamHack | Cluj-Napoca 2015",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cluj2015/dhc_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-961",
+        "name": "Sticker | DreamHack (Gold) | Cluj-Napoca 2015",
+        "description": "<span style='color:#ffd700;'>This item commemorates the 2015 DreamHack Cluj-Napoca CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>50% of the proceeds from the sale of this sticker support the included organizations.",
+        "rarity": {
+            "id": "rarity_legendary",
+            "name": "Exotic",
+            "color": "#d32ce6"
+        },
+        "crates": [],
+        "tournament_event": "Cluj-Napoca 2015",
+        "type": "Event",
+        "market_hash_name": null,
+        "effect": "Gold",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cluj2015/dhc_gold_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-1071",
+        "name": "Sticker | MLG | MLG Columbus 2016",
+        "description": "<span style='color:#ffd700;'>This item commemorates the 2016 MLG Columbus CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>50% of the proceeds from the sale of this sticker support the included organizations.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "tournament_event": "Columbus 2016",
+        "type": "Event",
+        "market_hash_name": "Sticker | MLG | MLG Columbus 2016",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/columbus2016/mlg_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-1074",
+        "name": "Sticker | MLG (Gold) | MLG Columbus 2016",
+        "description": "<span style='color:#ffd700;'>This item commemorates the 2016 MLG Columbus CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>50% of the proceeds from the sale of this sticker support the included organizations.",
+        "rarity": {
+            "id": "rarity_legendary",
+            "name": "Exotic",
+            "color": "#d32ce6"
+        },
+        "crates": [],
+        "tournament_event": "Columbus 2016",
+        "type": "Event",
+        "market_hash_name": null,
+        "effect": "Gold",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/columbus2016/mlg_gold_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-1381",
+        "name": "Sticker | ESL | Cologne 2016",
+        "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>50% of the proceeds from the sale of this sticker support the included organizations.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "tournament_event": "Cologne 2016",
+        "type": "Event",
+        "market_hash_name": "Sticker | ESL | Cologne 2016",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2016/esl_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-1384",
+        "name": "Sticker | ESL (Gold) | Cologne 2016",
+        "description": "<span style='color:#ffd700;'>This item commemorates the 2016 ESL One Cologne CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>50% of the proceeds from the sale of this sticker support the included organizations.",
+        "rarity": {
+            "id": "rarity_legendary",
+            "name": "Exotic",
+            "color": "#d32ce6"
+        },
+        "crates": [],
+        "tournament_event": "Cologne 2016",
+        "type": "Event",
+        "market_hash_name": null,
+        "effect": "Gold",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2016/esl_gold_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-1802",
+        "name": "Sticker | ELEAGUE | Atlanta 2017",
+        "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>50% of the proceeds from the sale of this sticker support the included organizations.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "tournament_event": "Atlanta 2017",
+        "type": "Event",
+        "market_hash_name": "Sticker | ELEAGUE | Atlanta 2017",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/atlanta2017/eleague_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-1805",
+        "name": "Sticker | ELEAGUE (Gold) | Atlanta 2017",
+        "description": "<span style='color:#ffd700;'>This item commemorates the 2017 ELEAGUE Atlanta CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>50% of the proceeds from the sale of this sticker support the included organizations.",
+        "rarity": {
+            "id": "rarity_legendary",
+            "name": "Exotic",
+            "color": "#d32ce6"
+        },
+        "crates": [],
+        "tournament_event": "Atlanta 2017",
+        "type": "Event",
+        "market_hash_name": null,
+        "effect": "Gold",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/atlanta2017/eleague_gold_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-2127",
+        "name": "Sticker | PGL | Krakow 2017",
+        "description": "<span style='color:#ffd700;'>This item commemorates the 2017 PGL Krakow CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>50% of the proceeds from the sale of this sticker support the included organizations.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "tournament_event": "Krakow 2017",
+        "type": "Event",
+        "market_hash_name": "Sticker | PGL | Krakow 2017",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/krakow2017/pgl_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-2130",
+        "name": "Sticker | PGL (Gold) | Krakow 2017",
+        "description": "<span style='color:#ffd700;'>This item commemorates the 2017 PGL Krakow CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>50% of the proceeds from the sale of this sticker support the included organizations.",
+        "rarity": {
+            "id": "rarity_legendary",
+            "name": "Exotic",
+            "color": "#d32ce6"
+        },
+        "crates": [],
+        "tournament_event": "Krakow 2017",
+        "type": "Event",
+        "market_hash_name": null,
+        "effect": "Gold",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/krakow2017/pgl_gold_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-2532",
+        "name": "Sticker | ELEAGUE | Boston 2018",
+        "description": "<span style='color:#ffd700;'>This item commemorates the 2018 ELEAGUE Boston CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>50% of the proceeds from the sale of this sticker support the included organizations.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "tournament_event": "Boston 2018",
+        "type": "Event",
+        "market_hash_name": "Sticker | ELEAGUE | Boston 2018",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/boston2018/eleague_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-2535",
+        "name": "Sticker | ELEAGUE (Gold) | Boston 2018",
+        "description": "<span style='color:#ffd700;'>This item commemorates the 2018 ELEAGUE Boston CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>50% of the proceeds from the sale of this sticker support the included organizations.",
+        "rarity": {
+            "id": "rarity_legendary",
+            "name": "Exotic",
+            "color": "#d32ce6"
+        },
+        "crates": [],
+        "tournament_event": "Boston 2018",
+        "type": "Event",
+        "market_hash_name": null,
+        "effect": "Gold",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/boston2018/eleague_gold_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-3051",
+        "name": "Sticker | FACEIT | London 2018",
+        "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>50% of the proceeds from the sale of this sticker support the included organizations.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "tournament_event": "London 2018",
+        "type": "Event",
+        "market_hash_name": "Sticker | FACEIT | London 2018",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/london2018/faceit_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-3054",
+        "name": "Sticker | FACEIT (Gold) | London 2018",
+        "description": "<span style='color:#ffd700;'>This item commemorates the 2018 FACEIT London CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>50% of the proceeds from the sale of this sticker support the included organizations.",
+        "rarity": {
+            "id": "rarity_legendary",
+            "name": "Exotic",
+            "color": "#d32ce6"
+        },
+        "crates": [],
+        "tournament_event": "London 2018",
+        "type": "Event",
+        "market_hash_name": null,
+        "effect": "Gold",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/london2018/faceit_gold_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-3556",
+        "name": "Sticker | IEM | Katowice 2019",
+        "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>50% of the proceeds from the sale of this sticker support the included organizations.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "tournament_event": "Katowice 2019",
+        "type": "Event",
+        "market_hash_name": "Sticker | IEM | Katowice 2019",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/katowice2019/iem_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-3559",
+        "name": "Sticker | IEM (Gold) | Katowice 2019",
+        "description": "<span style='color:#ffd700;'>This item commemorates the 2019 IEM Katowice CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>50% of the proceeds from the sale of this sticker support the included organizations.",
+        "rarity": {
+            "id": "rarity_legendary",
+            "name": "Exotic",
+            "color": "#d32ce6"
+        },
+        "crates": [],
+        "tournament_event": "Katowice 2019",
+        "type": "Event",
+        "market_hash_name": null,
+        "effect": "Gold",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/katowice2019/iem_gold_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-4115",
+        "name": "Sticker | StarLadder | Berlin 2019",
+        "description": "<span style='color:#ffd700;'>This item commemorates the 2019 StarLadder Berlin CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "tournament_event": "Berlin 2019",
+        "type": "Event",
+        "market_hash_name": "Sticker | StarLadder | Berlin 2019",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/berlin2019/star_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-4118",
+        "name": "Sticker | StarLadder (Gold) | Berlin 2019",
+        "description": "<span style='color:#ffd700;'>This item commemorates the 2019 StarLadder Berlin CS:GO Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_legendary",
+            "name": "Exotic",
+            "color": "#d32ce6"
+        },
+        "crates": [],
+        "tournament_event": "Berlin 2019",
+        "type": "Event",
+        "market_hash_name": null,
+        "effect": "Gold",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/berlin2019/star_gold_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    }
+]

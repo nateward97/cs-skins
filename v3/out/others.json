@@ -1,0 +1,1464 @@
+[
+    {
+        "id": "sticker-28",
+        "name": "Sticker | Blacksite (Foil)",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_legendary",
+            "name": "Exotic",
+            "color": "#d32ce6"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": null,
+        "effect": "Foil",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/danger_zone/blacksite_foil_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-102",
+        "name": "Sticker | King on the Field",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | King on the Field",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community01/black_king_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-103",
+        "name": "Sticker | Howling Dawn",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_contraband",
+            "name": "Contraband",
+            "color": "#e4ae39"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Howling Dawn",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community01/howling_dawn_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-106",
+        "name": "Sticker | Harp of War (Holo)",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_mythical",
+            "name": "Remarkable",
+            "color": "#8847ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Harp of War (Holo)",
+        "effect": "Holo",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community01/harp_of_war_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-118",
+        "name": "Sticker | Winged Defuser",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Winged Defuser",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community01/winged_defuser_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-173",
+        "name": "Sticker | Bossy Burger",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Bossy Burger",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/bossyburger_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-174",
+        "name": "Sticker | Cat Call",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Cat Call",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/catcall_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-175",
+        "name": "Sticker | Chicken Strike",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Chicken Strike",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/chickenstrike_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-176",
+        "name": "Sticker | CT in Banana",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | CT in Banana",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/ctbanana_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-177",
+        "name": "Sticker | Don't Worry, I'm Pro",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Don't Worry, I'm Pro",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/dontworryimpro_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-178",
+        "name": "Sticker | Fight like a Girl",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Fight like a Girl",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/fightlikeagirl_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-179",
+        "name": "Sticker | Flashbang",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Flashbang",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/handmadeflash_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-180",
+        "name": "Sticker | Kawaii Killer CT",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Kawaii Killer CT",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/kawaiikiller_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-181",
+        "name": "Sticker | Nelu the Bear",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Nelu the Bear",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/neluthebear_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-182",
+        "name": "Sticker | One Shot One Kill",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | One Shot One Kill",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/oneshotonekill_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-183",
+        "name": "Sticker | Shooting Star Return",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Shooting Star Return",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/shootingstar_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-184",
+        "name": "Sticker | T On Cat",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | T On Cat",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/toncat_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-185",
+        "name": "Sticker | War Penguin",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | War Penguin",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/warpenguin_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-186",
+        "name": "Sticker | Windy Walking Club",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Windy Walking Club",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/windywalking_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-187",
+        "name": "Sticker | Blitzkrieg",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Blitzkrieg",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/blitzkrieg_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-188",
+        "name": "Sticker | Pigeon Master",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Pigeon Master",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/pigeonmaster_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-189",
+        "name": "Sticker | Terrorized",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Terrorized",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/terrorized_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-190",
+        "name": "Sticker | Till Death Do Us Part",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Till Death Do Us Part",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/tilldeathdouspart_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-191",
+        "name": "Sticker | Stay Frosty",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Stay Frosty",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/stayfrosty_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-192",
+        "name": "Sticker | Doomed",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Doomed",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/doomed_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-193",
+        "name": "Sticker | Queen Of Pain",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Queen Of Pain",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/queenofpain_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-194",
+        "name": "Sticker | Trick Or Threat",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Trick Or Threat",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/trickorthreat_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-195",
+        "name": "Sticker | Trick Or Treat",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Trick Or Treat",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/trickortreat_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-196",
+        "name": "Sticker | Witch",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Witch",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/witch_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-197",
+        "name": "Sticker | Zombie Lover",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Zombie Lover",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/zombielover_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-258",
+        "name": "Sticker | Blood Boiler",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Blood Boiler",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/blood_broiler_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-259",
+        "name": "Sticker | Dinked",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Dinked",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/dinked_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-260",
+        "name": "Sticker | Drug War Veteran",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Drug War Veteran",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/drugwarveteran_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-261",
+        "name": "Sticker | Ho Ho Ho",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Ho Ho Ho",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/hohoho_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-262",
+        "name": "Sticker | Massive Pear",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Massive Pear",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/massivepear_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-263",
+        "name": "Sticker | My Little Friend",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | My Little Friend",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/mylittlefriend_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-264",
+        "name": "Sticker | Pandamonium",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Pandamonium",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/pandamonium_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-265",
+        "name": "Sticker | Piece Of Cake",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Piece Of Cake",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/pieceofcake_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-266",
+        "name": "Sticker | SAS Chicken",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | SAS Chicken",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/saschicken_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-267",
+        "name": "Sticker | Thug Life",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Thug Life",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/thuglife_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-268",
+        "name": "Sticker | T-Rekt",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | T-Rekt",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/trekt_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-269",
+        "name": "Sticker | Warowl",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Warowl",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/warowl_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-270",
+        "name": "Sticker | Work For Ammo",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Work For Ammo",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/workforfood_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-271",
+        "name": "Sticker | Phoenix (Foil)",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Phoenix (Foil)",
+        "effect": "Foil",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/phoenix_foil_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-272",
+        "name": "Sticker | Bomb Squad (Foil)",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Bomb Squad (Foil)",
+        "effect": "Foil",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/bombsquad_foil_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-273",
+        "name": "Sticker | Flickshot",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Flickshot",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/flickshot_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-274",
+        "name": "Sticker | Headshot Guarantee",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Headshot Guarantee",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/headshot_guarantee_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-275",
+        "name": "Sticker | Eco Rush",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Eco Rush",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/eco_rush_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-276",
+        "name": "Sticker | Just Trolling",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Just Trolling",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/just_trolling_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-278",
+        "name": "Sticker | Firestarter (Holo)",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Firestarter (Holo)",
+        "effect": "Holo",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/firestarter_holo_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-279",
+        "name": "Sticker | Lucky Cat (Foil)",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Lucky Cat (Foil)",
+        "effect": "Foil",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/lucky_cat_foil_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-280",
+        "name": "Sticker | Robo",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Robo",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/robot_head_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-281",
+        "name": "Sticker | Witchcraft",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Witchcraft",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/witchcraft_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-282",
+        "name": "Sticker | Wanna Fight",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Wanna Fight",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/wanna_fight_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-283",
+        "name": "Sticker | Hostage Rescue",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Hostage Rescue",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/hostage_rescue_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-284",
+        "name": "Sticker | Hamster Hawk",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Hamster Hawk",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/hamster_hawk_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-285",
+        "name": "Sticker | Headless Chicken",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Headless Chicken",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/headless_chicken_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-370",
+        "name": "Sticker | Awp Country",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Awp Country",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/awp_country_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-371",
+        "name": "Sticker | Chi Bomb",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Chi Bomb",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/chi_bomb_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-372",
+        "name": "Sticker | Doru The Fox",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Doru The Fox",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/fox_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-373",
+        "name": "Sticker | Knife Club",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Knife Club",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/knifeclub_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-374",
+        "name": "Sticker | CS On The Mind",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | CS On The Mind",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/cs_on_the_mind_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-375",
+        "name": "Sticker | Ninja Defuse",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Ninja Defuse",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/ninja_defuse_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-376",
+        "name": "Sticker | Pros Don't Fake",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Pros Don't Fake",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/pros_dont_fake_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-377",
+        "name": "Sticker | Kawaii Killer Terrorist",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Kawaii Killer Terrorist",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/kawaiikiller_t_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-378",
+        "name": "Sticker | Baaa-ckstabber!",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Baaa-ckstabber!",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/baackstabber_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-379",
+        "name": "Sticker | Delicious Tears",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "High Grade",
+            "color": "#4b69ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Delicious Tears",
+        "effect": "Other",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community02/delicious_tears_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-999",
+        "name": "Sticker | The Awper (Foil)",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_legendary",
+            "name": "Exotic",
+            "color": "#d32ce6"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | The Awper (Foil)",
+        "effect": "Foil",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/team_roles_capsule/awper_foil_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-1000",
+        "name": "Sticker | The Bomber (Foil)",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_legendary",
+            "name": "Exotic",
+            "color": "#d32ce6"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | The Bomber (Foil)",
+        "effect": "Foil",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/team_roles_capsule/bomber_foil_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-1001",
+        "name": "Sticker | The Fragger (Foil)",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_legendary",
+            "name": "Exotic",
+            "color": "#d32ce6"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | The Fragger (Foil)",
+        "effect": "Foil",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/team_roles_capsule/fragger_foil_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-1002",
+        "name": "Sticker | The Leader (Foil)",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_legendary",
+            "name": "Exotic",
+            "color": "#d32ce6"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | The Leader (Foil)",
+        "effect": "Foil",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/team_roles_capsule/leader_foil_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-1003",
+        "name": "Sticker | The Nader (Foil)",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_legendary",
+            "name": "Exotic",
+            "color": "#d32ce6"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | The Nader (Foil)",
+        "effect": "Foil",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/team_roles_capsule/nader_foil_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-1004",
+        "name": "Sticker | Ninja (Foil)",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_legendary",
+            "name": "Exotic",
+            "color": "#d32ce6"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Ninja (Foil)",
+        "effect": "Foil",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/team_roles_capsule/ninja_foil_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-1006",
+        "name": "Sticker | Support (Foil)",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_legendary",
+            "name": "Exotic",
+            "color": "#d32ce6"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": "Sticker | Support (Foil)",
+        "effect": "Foil",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/team_roles_capsule/support_foil_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-1315",
+        "name": "Sticker | All-Stars Orange (Holo)",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_mythical",
+            "name": "Remarkable",
+            "color": "#8847ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": null,
+        "effect": "Holo",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/tournament_assets/allstars_a_holo_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-1316",
+        "name": "Sticker | All-Stars Blue (Holo)",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_mythical",
+            "name": "Remarkable",
+            "color": "#8847ff"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": null,
+        "effect": "Holo",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/tournament_assets/allstars_b_holo_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-1689",
+        "name": "Sticker | Ancient (Gold)",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_legendary",
+            "name": "Exotic",
+            "color": "#d32ce6"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": null,
+        "effect": "Gold",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/tournament_assets/de_ancient_gold_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-1690",
+        "name": "Sticker | Dust II (Gold)",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_legendary",
+            "name": "Exotic",
+            "color": "#d32ce6"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": null,
+        "effect": "Gold",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/tournament_assets/de_dust2_gold_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-1691",
+        "name": "Sticker | Inferno (Gold)",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_legendary",
+            "name": "Exotic",
+            "color": "#d32ce6"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": null,
+        "effect": "Gold",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/tournament_assets/de_inferno_gold_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-1692",
+        "name": "Sticker | Mirage (Gold)",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_legendary",
+            "name": "Exotic",
+            "color": "#d32ce6"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": null,
+        "effect": "Gold",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/tournament_assets/de_mirage_gold_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-1693",
+        "name": "Sticker | Nuke (Gold)",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_legendary",
+            "name": "Exotic",
+            "color": "#d32ce6"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": null,
+        "effect": "Gold",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/tournament_assets/de_nuke_gold_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-1694",
+        "name": "Sticker | Overpass (Gold)",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_legendary",
+            "name": "Exotic",
+            "color": "#d32ce6"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": null,
+        "effect": "Gold",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/tournament_assets/de_overpass_gold_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-1695",
+        "name": "Sticker | Vertigo (Gold)",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_legendary",
+            "name": "Exotic",
+            "color": "#d32ce6"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": null,
+        "effect": "Gold",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/tournament_assets/de_vertigo_gold_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-6607",
+        "name": "Sticker | Anubis (Gold)",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_legendary",
+            "name": "Exotic",
+            "color": "#d32ce6"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": null,
+        "effect": "Gold",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/tournament_assets/de_anubis_gold_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-7889",
+        "name": "Sticker | Mirage (Gold)",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_legendary",
+            "name": "Exotic",
+            "color": "#d32ce6"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": null,
+        "effect": "Gold",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/tournament_assets/de_mirage_cs2_gold_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    },
+    {
+        "id": "sticker-7890",
+        "name": "Sticker | Overpass (Gold)",
+        "description": "This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "rarity": {
+            "id": "rarity_legendary",
+            "name": "Exotic",
+            "color": "#d32ce6"
+        },
+        "crates": [],
+        "type": "Other",
+        "market_hash_name": null,
+        "effect": "Gold",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/tournament_assets/de_overpass_cs2_gold_png.png",
+        "min_float": 0.0,
+        "max_float": 0.0
+    }
+]
