@@ -9798,6 +9798,42 @@
         }
     },
     {
+        "id": "skin-8bda61ff439a",
+        "name": "P2000 | Sure Grip",
+        "description": "Accurate and controllable, the German-made P2000 is a serviceable first-round pistol that works best against unarmored opponents. This custom paint job features neon-colored designs meant to grab (and keep) your attention.\\n\\n<i>Can I have your attention please?</i>",
+        "weapon": "P2000",
+        "category": "pistol",
+        "pattern": "Sure Grip",
+        "min_float": 0,
+        "max_float": 0.90,
+        "rarity": "Mil-Spec Grade",
+        "stattrak": true,
+        "souvenir": false,
+        "paint_index": "1224",
+        "wears": [
+            "Factory New",
+            "Minimal Wear",
+            "Field-Tested",
+            "Well-Worn",
+            "Battle-Scarred"
+        ],
+        "crates": [
+            {
+                "id": "crate-7007",
+                "name": "Fever Case",
+                "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_35_png.png"
+            }
+        ],
+        "collections": [],
+        "image": {
+            "Factory New": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_hkp2000_p2k_fractal_light_png.png",
+            "Minimal Wear": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_hkp2000_p2k_fractal_light_png.png",
+            "Field-Tested": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_hkp2000_p2k_fractal_light_png.png",
+            "Well-Worn": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_hkp2000_p2k_fractal_light_png.pngg",
+            "Battle-Scarred": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_hkp2000_p2k_fractal_light_png.png"
+        }
+    },
+    {
         "id": "skin-2359356",
         "name": "P250 | Gunsmoke",
         "description": "A low-recoil firearm with a high rate of fire, the P250 is a relatively inexpensive choice against armored opponents. It has been painted using a hydrographic of a gel pen doodle.",
