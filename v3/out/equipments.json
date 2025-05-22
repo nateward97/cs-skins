@@ -1,398 +1,158 @@
 [
     {
-        "id": "skin-91147006443a",
-        "name": "Zeus x27 | Dragon Snore",
-        "description": "Perfect for close-range ambushes and enclosed area encounters, the single-shot x27 Zeus is capable of incapacitating an enemy in a single hit. A dragon wraps around this lighthearted, custom painted x27.\\n\\n<i>From the highest room of the tallest tower</i>",
-        "weapon": {
-            "id": "weapon_taser",
-            "weapon_id": 31,
-            "name": "Zeus x27"
-        },
-        "category": {
-            "id": "loadoutslot_equipment",
-            "name": "Equipment"
-        },
-        "pattern": {
-            "id": "cu_overpass_dragon_zeus",
-            "name": "Dragon Snore"
-        },
-        "min_float": 0.0,
-        "max_float": 0.8,
-        "rarity": {
-            "id": "rarity_legendary_weapon",
-            "name": "Classified",
-            "color": "#d32ce6"
-        },
-        "stattrak": false,
-        "souvenir": false,
-        "paint_index": "292",
-        "wears": [
-            {
-                "id": "SFUI_InvTooltip_Wear_Amount_0",
-                "name": "Factory New"
-            },
-            {
-                "id": "SFUI_InvTooltip_Wear_Amount_1",
-                "name": "Minimal Wear"
-            },
-            {
-                "id": "SFUI_InvTooltip_Wear_Amount_2",
-                "name": "Field-Tested"
-            },
-            {
-                "id": "SFUI_InvTooltip_Wear_Amount_3",
-                "name": "Well-Worn"
-            },
-            {
-                "id": "SFUI_InvTooltip_Wear_Amount_4",
-                "name": "Battle-Scarred"
-            }
-        ],
+        "category": "equipment",
         "collections": [
             {
                 "id": "collection-set-overpass-2024",
-                "name": "The Overpass 2024 Collection",
-                "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024_png.png"
+                "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_overpass_2024_png.png",
+                "name": "The Overpass 2024 Collection"
             }
         ],
         "crates": [],
-        "team": {
-            "id": "both",
-            "name": "Both Teams"
-        },
-        "legacy_model": false,
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_taser_cu_overpass_dragon_zeus_light_png.png"
+        "description": "Perfect for close-range ambushes and enclosed area encounters, the single-shot x27 Zeus is capable of incapacitating an enemy in a single hit. A dragon wraps around this lighthearted, custom painted x27.\\n\\n<i>From the highest room of the tallest tower</i>",
+        "id": "skin-91147006443a",
+        "image": {},
+        "max_float": 0.8,
+        "min_float": 0.0,
+        "name": "Zeus x27 | Dragon Snore",
+        "paint_index": "292",
+        "pattern": "Dragon Snore",
+        "rarity": "Classified",
+        "souvenir": false,
+        "stattrak": false,
+        "weapon": "Zeus x27",
+        "wears": []
     },
     {
-        "id": "skin-f7171c75986f",
-        "name": "Zeus x27 | Swamp DDPAT",
-        "description": "Perfect for close-range ambushes and enclosed area encounters, the single-shot x27 Zeus is capable of incapacitating an enemy in a single hit. A green and sand-colored hydrographic digital camo pattern has been applied.\\n\\n<i>Look twice, then look again</i>",
-        "weapon": {
-            "id": "weapon_taser",
-            "weapon_id": 31,
-            "name": "Zeus x27"
-        },
-        "category": {
-            "id": "loadoutslot_equipment",
-            "name": "Equipment"
-        },
-        "pattern": {
-            "id": "hy_digicam_forest",
-            "name": "Swamp DDPAT"
-        },
-        "min_float": 0.0,
-        "max_float": 0.6,
-        "rarity": {
-            "id": "rarity_common_weapon",
-            "name": "Consumer Grade",
-            "color": "#b0c3d9"
-        },
-        "stattrak": false,
-        "souvenir": false,
-        "paint_index": "1297",
-        "wears": [
-            {
-                "id": "SFUI_InvTooltip_Wear_Amount_0",
-                "name": "Factory New"
-            },
-            {
-                "id": "SFUI_InvTooltip_Wear_Amount_1",
-                "name": "Minimal Wear"
-            },
-            {
-                "id": "SFUI_InvTooltip_Wear_Amount_2",
-                "name": "Field-Tested"
-            },
-            {
-                "id": "SFUI_InvTooltip_Wear_Amount_3",
-                "name": "Well-Worn"
-            },
-            {
-                "id": "SFUI_InvTooltip_Wear_Amount_4",
-                "name": "Battle-Scarred"
-            }
-        ],
+        "category": "equipment",
         "collections": [
             {
                 "id": "collection-set-timed-drops-neutral",
-                "name": "The Boreal Collection",
-                "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png"
+                "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_neutral_png.png",
+                "name": "The Boreal Collection"
             }
         ],
         "crates": [],
-        "team": {
-            "id": "both",
-            "name": "Both Teams"
-        },
-        "legacy_model": false,
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_taser_hy_digicam_forest_light_png.png"
+        "description": "Perfect for close-range ambushes and enclosed area encounters, the single-shot x27 Zeus is capable of incapacitating an enemy in a single hit. A green and sand-colored hydrographic digital camo pattern has been applied.\\n\\n<i>Look twice, then look again</i>",
+        "id": "skin-f7171c75986f",
+        "image": {},
+        "max_float": 0.6,
+        "min_float": 0.0,
+        "name": "Zeus x27 | Swamp DDPAT",
+        "paint_index": "1297",
+        "pattern": "Swamp DDPAT",
+        "rarity": "Consumer Grade",
+        "souvenir": false,
+        "stattrak": false,
+        "weapon": "Zeus x27",
+        "wears": []
     },
     {
-        "id": "skin-55264b2a150c",
-        "name": "Zeus x27 | Electric Blue",
-        "description": "Perfect for close-range ambushes and enclosed area encounters, the single-shot x27 Zeus is capable of incapacitating an enemy in a single hit. It has been painted solid blue.\\n\\n<i>Lacking subtlety</i>",
-        "weapon": {
-            "id": "weapon_taser",
-            "weapon_id": 31,
-            "name": "Zeus x27"
-        },
-        "category": {
-            "id": "loadoutslot_equipment",
-            "name": "Equipment"
-        },
-        "pattern": {
-            "id": "soe_electric_blue",
-            "name": "Electric Blue"
-        },
-        "min_float": 0.0,
-        "max_float": 0.75,
-        "rarity": {
-            "id": "rarity_uncommon_weapon",
-            "name": "Industrial Grade",
-            "color": "#5e98d9"
-        },
-        "stattrak": false,
-        "souvenir": false,
-        "paint_index": "1268",
-        "wears": [
-            {
-                "id": "SFUI_InvTooltip_Wear_Amount_0",
-                "name": "Factory New"
-            },
-            {
-                "id": "SFUI_InvTooltip_Wear_Amount_1",
-                "name": "Minimal Wear"
-            },
-            {
-                "id": "SFUI_InvTooltip_Wear_Amount_2",
-                "name": "Field-Tested"
-            },
-            {
-                "id": "SFUI_InvTooltip_Wear_Amount_3",
-                "name": "Well-Worn"
-            },
-            {
-                "id": "SFUI_InvTooltip_Wear_Amount_4",
-                "name": "Battle-Scarred"
-            }
-        ],
+        "category": "equipment",
         "collections": [
             {
                 "id": "collection-set-timed-drops-cool",
-                "name": "The Ascent Collection",
-                "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png"
+                "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_timed_drops_cool_png.png",
+                "name": "The Ascent Collection"
             }
         ],
         "crates": [],
-        "team": {
-            "id": "both",
-            "name": "Both Teams"
-        },
-        "legacy_model": false,
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_taser_soe_electric_blue_light_png.png"
+        "description": "Perfect for close-range ambushes and enclosed area encounters, the single-shot x27 Zeus is capable of incapacitating an enemy in a single hit. It has been painted solid blue.\\n\\n<i>Lacking subtlety</i>",
+        "id": "skin-55264b2a150c",
+        "image": {},
+        "max_float": 0.75,
+        "min_float": 0.0,
+        "name": "Zeus x27 | Electric Blue",
+        "paint_index": "1268",
+        "pattern": "Electric Blue",
+        "rarity": "Industrial Grade",
+        "souvenir": false,
+        "stattrak": false,
+        "weapon": "Zeus x27",
+        "wears": []
     },
     {
-        "id": "skin-9446ef74272b",
-        "name": "Zeus x27 | Charged Up",
-        "description": "Perfect for close-range ambushes and enclosed area encounters, the single-shot x27 Zeus is capable of incapacitating an enemy in a single hit. It has been custom painted with a yellow base and finished with black and red accents.\\n\\n<i>WARNING: BRIGHT LIGHT, AVOID EXPOSURE</i>",
-        "weapon": {
-            "id": "weapon_taser",
-            "weapon_id": 31,
-            "name": "Zeus x27"
-        },
-        "category": {
-            "id": "loadoutslot_equipment",
-            "name": "Equipment"
-        },
-        "pattern": {
-            "id": "zeus_standard_issue",
-            "name": "Charged Up"
-        },
-        "min_float": 0.0,
-        "max_float": 1.0,
-        "rarity": {
-            "id": "rarity_mythical_weapon",
-            "name": "Restricted",
-            "color": "#8847ff"
-        },
-        "stattrak": false,
-        "souvenir": false,
-        "paint_index": "1205",
-        "wears": [
-            {
-                "id": "SFUI_InvTooltip_Wear_Amount_0",
-                "name": "Factory New"
-            },
-            {
-                "id": "SFUI_InvTooltip_Wear_Amount_1",
-                "name": "Minimal Wear"
-            },
-            {
-                "id": "SFUI_InvTooltip_Wear_Amount_2",
-                "name": "Field-Tested"
-            },
-            {
-                "id": "SFUI_InvTooltip_Wear_Amount_3",
-                "name": "Well-Worn"
-            },
-            {
-                "id": "SFUI_InvTooltip_Wear_Amount_4",
-                "name": "Battle-Scarred"
-            }
-        ],
+        "category": "equipment",
         "collections": [
             {
                 "id": "collection-set-train-2025",
-                "name": "The Train 2025 Collection",
-                "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025_png.png"
+                "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_train_2025_png.png",
+                "name": "The Train 2025 Collection"
             }
         ],
         "crates": [],
-        "team": {
-            "id": "both",
-            "name": "Both Teams"
-        },
-        "legacy_model": false,
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_taser_zeus_standard_issue_light_png.png"
+        "description": "Perfect for close-range ambushes and enclosed area encounters, the single-shot x27 Zeus is capable of incapacitating an enemy in a single hit. It has been custom painted with a yellow base and finished with black and red accents.\\n\\n<i>WARNING: BRIGHT LIGHT, AVOID EXPOSURE</i>",
+        "id": "skin-9446ef74272b",
+        "image": {},
+        "max_float": 1.0,
+        "min_float": 0.0,
+        "name": "Zeus x27 | Charged Up",
+        "paint_index": "1205",
+        "pattern": "Charged Up",
+        "rarity": "Restricted",
+        "souvenir": false,
+        "stattrak": false,
+        "weapon": "Zeus x27",
+        "wears": []
     },
     {
-        "id": "skin-9eb2feb216c5",
-        "name": "Zeus x27 | Olympus",
-        "description": "Perfect for close-range ambushes and enclosed area encounters, the single-shot x27 Zeus is capable of incapacitating an enemy in a single hit. This custom paint job features Zeus, the God of Thunder.\\n\\n<i>The air crackles…</i>",
-        "weapon": {
-            "id": "weapon_taser",
-            "weapon_id": 31,
-            "name": "Zeus x27"
-        },
-        "category": {
-            "id": "loadoutslot_equipment",
-            "name": "Equipment"
-        },
-        "pattern": {
-            "id": "zeus_thunder_god",
-            "name": "Olympus"
-        },
-        "min_float": 0.0,
-        "max_float": 0.67,
-        "rarity": {
-            "id": "rarity_legendary_weapon",
-            "name": "Classified",
-            "color": "#d32ce6"
-        },
-        "stattrak": true,
-        "souvenir": false,
-        "paint_index": "1172",
-        "wears": [
-            {
-                "id": "SFUI_InvTooltip_Wear_Amount_0",
-                "name": "Factory New"
-            },
-            {
-                "id": "SFUI_InvTooltip_Wear_Amount_1",
-                "name": "Minimal Wear"
-            },
-            {
-                "id": "SFUI_InvTooltip_Wear_Amount_2",
-                "name": "Field-Tested"
-            },
-            {
-                "id": "SFUI_InvTooltip_Wear_Amount_3",
-                "name": "Well-Worn"
-            },
-            {
-                "id": "SFUI_InvTooltip_Wear_Amount_4",
-                "name": "Battle-Scarred"
-            }
-        ],
+        "category": "equipment",
         "collections": [
             {
                 "id": "collection-set-community-33",
-                "name": "The Kilowatt Collection",
-                "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_33_png.png"
+                "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_33_png.png",
+                "name": "The Kilowatt Collection"
             }
         ],
         "crates": [
             {
                 "id": "crate-4904",
-                "name": "Kilowatt Case",
-                "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_33_png.png"
+                "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_33_png.png",
+                "name": "Kilowatt Case"
             }
         ],
-        "team": {
-            "id": "both",
-            "name": "Both Teams"
-        },
-        "legacy_model": false,
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_taser_zeus_thunder_god_light_png.png"
+        "description": "Perfect for close-range ambushes and enclosed area encounters, the single-shot x27 Zeus is capable of incapacitating an enemy in a single hit. This custom paint job features Zeus, the God of Thunder.\\n\\n<i>The air crackles…</i>",
+        "id": "skin-9eb2feb216c5",
+        "image": {},
+        "max_float": 0.67,
+        "min_float": 0.0,
+        "name": "Zeus x27 | Olympus",
+        "paint_index": "1172",
+        "pattern": "Olympus",
+        "rarity": "Classified",
+        "souvenir": false,
+        "stattrak": true,
+        "weapon": "Zeus x27",
+        "wears": []
     },
     {
-        "id": "skin-27a11235665e",
-        "name": "Zeus x27 | Tosai",
-        "description": "Perfect for close-range ambushes and enclosed area encounters, the single-shot x27 Zeus is capable of incapacitating an enemy in a single hit. It has been custom painted with a young koi fish, also called a tosai.\\n\\n<i>Wishing you good fortune</i>",
-        "weapon": {
-            "id": "weapon_taser",
-            "weapon_id": 31,
-            "name": "Zeus x27"
-        },
-        "category": {
-            "id": "loadoutslot_equipment",
-            "name": "Equipment"
-        },
-        "pattern": {
-            "id": "zeus_tosai",
-            "name": "Tosai"
-        },
-        "min_float": 0.0,
-        "max_float": 0.7,
-        "rarity": {
-            "id": "rarity_mythical_weapon",
-            "name": "Restricted",
-            "color": "#8847ff"
-        },
-        "stattrak": true,
-        "souvenir": false,
-        "paint_index": "1183",
-        "wears": [
-            {
-                "id": "SFUI_InvTooltip_Wear_Amount_0",
-                "name": "Factory New"
-            },
-            {
-                "id": "SFUI_InvTooltip_Wear_Amount_1",
-                "name": "Minimal Wear"
-            },
-            {
-                "id": "SFUI_InvTooltip_Wear_Amount_2",
-                "name": "Field-Tested"
-            },
-            {
-                "id": "SFUI_InvTooltip_Wear_Amount_3",
-                "name": "Well-Worn"
-            },
-            {
-                "id": "SFUI_InvTooltip_Wear_Amount_4",
-                "name": "Battle-Scarred"
-            }
-        ],
+        "category": "equipment",
         "collections": [
             {
                 "id": "collection-set-community-35",
-                "name": "The Fever Collection",
-                "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35_png.png"
+                "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_community_35_png.png",
+                "name": "The Fever Collection"
             }
         ],
         "crates": [
             {
                 "id": "crate-7007",
-                "name": "Fever Case",
-                "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_35_png.png"
+                "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_35_png.png",
+                "name": "Fever Case"
             }
         ],
-        "team": {
-            "id": "both",
-            "name": "Both Teams"
-        },
-        "legacy_model": false,
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_taser_zeus_tosai_light_png.png"
+        "description": "Perfect for close-range ambushes and enclosed area encounters, the single-shot x27 Zeus is capable of incapacitating an enemy in a single hit. It has been custom painted with a young koi fish, also called a tosai.\\n\\n<i>Wishing you good fortune</i>",
+        "id": "skin-27a11235665e",
+        "image": {},
+        "max_float": 0.7,
+        "min_float": 0.0,
+        "name": "Zeus x27 | Tosai",
+        "paint_index": "1183",
+        "pattern": "Tosai",
+        "rarity": "Restricted",
+        "souvenir": false,
+        "stattrak": true,
+        "weapon": "Zeus x27",
+        "wears": []
     }
 ]
